@@ -1,0 +1,2000 @@
+season,date,team1,team2,points1,points2,ot,loc,locn,text,division
+1964,1964x12x12,Montana St.,Sacramento St.,29,7,,3,Sacramento,Camelia Bowl (West RF),
+1964,1964x12x12,East Carolina,Massachusetts,14,13,,3,Orlando,Tangerine Bowl (East RF),
+1964,1964x12x12,Northern Iowa,Lamar,19,17,,3,Abilene TX,Pecan Bowl (Midwest RF),
+1964,1964x12x12,Middle Tenn.,Muskingum,20,0,,3,Murfeesboro,Grantland Rice Bowl (Mideast RF),
+1965,1965x12x11,CS Los Angeles,UCSB,18,10,,3,Sacramento,Camelia Bowl (West RF),
+1965,1965x12x11,East Carolina,Maine,31,0,,3,Orlando,Tangerine Bowl (East RF),
+1965,1965x12x11,North Dakota St.,Grambling,20,7,,3,Abilene TX,Pecan Bowl (Midwest RF),
+1965,1965x12x11,Tennessee St.,Ball State,14,14,,3,Murfeesboro,Grantland Rice Bowl (Mideast RF),
+1966,1966x12x10,San Diego St.,Montana St.,28,7,,3,Sacramento,Camelia Bowl (West RF),
+1966,1966x12x10,Morgan St.,West Chester,14,6,,3,Orlando,Tangerine Bowl (East RF),
+1966,1966x12x10,North Dakota,Parsons,42,24,,3,Abilene TX,Pecan Bowl (Midwest RF),
+1966,1966x12x10,Tennessee St.,Muskingum,34,7,,3,Murfeesboro,Grantland Rice Bowl (Mideast RF),
+1967,1967x12x09,San Diego St.,San Francisco St.,34,6,,3,Sacramento,Camelia Bowl (West RF),
+1967,1967x12x16,UT Martin,West Chester,25,8,,3,Orlando,Tangerine Bowl (East RF),
+1967,1967x12x16,UT Arlington,North Dakota St.,13,0,,3,Abilene TX,Pecan Bowl (Midwest RF),
+1967,1967x12x16,Eastern Ky.,Ball State,27,13,,3,Murfeesboro,Grantland Rice Bowl (Mideast RF),
+1968,1968x12x14,Humboldt St.,Fresno St.,29,14,,3,Sacramento,Camelia Bowl (West RF),
+1968,1968x12x14,Delaware,Indiana (PA),31,24,,3,Atlantic City,Boardwalk Bowl (East RF),
+1968,1968x12x14,North Dakota St.,Arkansas St.,23,14,,3,Arlington,Pecan Bowl (Midwest RF),
+1968,1968x12x14,Louisiana Tech,Akron,33,13,,3,Murfeesboro,Grantland Rice Bowl (Mideast RF),
+1969,1969x11x29,Wittenberg,William Jewell,27,21,,3,Springfield OH,Stagg Bowl (West RF),
+1969,1969x11x29,Randolph-Macon,Bridgeport,47,28,,3,Bridgeport CT,Knute Rockne Bowl (East RF),
+1969,1969x12x13,North Dakota St.,Montana,30,3,,3,Sacramento,Camelia Bowl (West RF),
+1969,1969x12x13,Delaware,NC Central,31,13,,3,Atlantic City,Boardwalk Bowl (East RF),
+1969,1969x12x13,Arkansas St.,Drake,29,21,,3,Arlington,Pecan Bowl (Midwest RF),
+1969,1969x12x13,ETSU,Louisiana Tech,34,14,,3,Baton Rouge,Grantland Rice Bowl (Mideast RF),
+1970,1970x11x28,Capital,Luther,34,21,,3,Columbus OH,Stagg Bowl (West RF),
+1970,1970x11x28,Montclair St.,Hampden-Sydney,7,6,,3,Atlantic City,Knute Rockne Bowl (East RF),
+1970,1970x12x12,North Dakota St.,Montana,31,16,,3,Sacramento,Camelia Bowl (West RF),
+1970,1970x12x12,Delaware,Morgan St.,38,23,,3,Atlantic City,Boardwalk Bowl (East RF),
+1970,1970x12x12,Arkansas St.,Central Mo.,38,21,,3,Arlington,Pecan Bowl (Midwest RF),
+1970,1970x12x12,Tennessee St.,Louisiana,26,25,,3,Baton Rouge,Grantland Rice Bowl (Mideast RF),
+1971,1971x11x26,Samford,Ohio Wesleyan,20,10,,3,Phenix City AL,Stagg Bowl (West RF),
+1971,1971x11x26,Bridgeport,Hampden-Sydney,17,12,,3,Atlantic City,Knute Rockne Bowl (East RF),
+1971,1971x12x11,Boise St.,Chico St.,32,28,,3,Sacramento,Camelia Bowl (West RF),
+1971,1971x12x11,Delaware,CW Post,72,22,,3,Atlantic City,Boardwalk Bowl (East RF),
+1971,1971x12x11,Louisiana Tech,Eastern Mich.,14,3,,3,Wichita Falls,Pioneer Bowl (Midwest RF),
+1971,1971x12x11,Tennessee St.,McNeese,26,23,,3,Baton Rouge,Grantland Rice Bowl (Mideast RF),
+1972,1972x11x24,Heidelberg,Fort Valley St.,28,16,,3,Phenix City AL,Stagg Bowl (West RF),
+1972,1972x11x24,Bridgeport,Slippery Rock,27,22,,3,Atlantic City,Knute Rockne Bowl (East RF),
+1972,1972x12x09,North Dakota,Cal Poly,38,21,,3,Sacramento,Camelia Bowl (West RF),
+1972,1972x12x09,Massachusetts,UC Davis,35,14,,3,Atlantic City,Boardwalk Bowl (East RF),
+1972,1972x12x09,Tennessee St.,Drake,29,7,,3,Wichita Falls,Pioneer Bowl (Midwest RF),
+1972,1972x12x09,Louisiana Tech,Tennessee Tech,35,0,,3,Baton Rouge,Grantland Rice Bowl (Mideast RF),
+1973,1973x12x01,Grambling,Delaware,17,8,,3,Atlantic City Boardwalk Bowl,D2 QF,D2
+1973,1973x12x01,Western Ky.,Lehigh,25,16,,1,,D2 QF,D2
+1973,1973x12x01,Louisiana Tech,Western Ill.,18,13,,1,,D2 QF,D2
+1973,1973x12x01,Boise St.,South Dakota,53,10,,1,,D2 QF,D2
+1973,1973x12x08,Western Ky.,Grambling,28,20,,3,Baton Rouge Grantland Rice Bowl,D2 Semi,D2
+1973,1973x12x08,Louisiana Tech,Boise St.,38,34,,3,Wichita Falls Pioneer Bowl,D2 Semi,D2
+1973,1973x12x15,Louisiana Tech,Western Ky.,34,0,,3,Sacramento Camellia Bowl,D2 Champ,D2
+1973,1973x12x01,Juniata,Bridgeport,35,14,,99,,D3 Semi,D3
+1973,1973x12x01,Wittenberg,San Diego,21,14,,99,,D3 Semi,D3
+1973,1973x12x08,Wittenberg,Juniata,41,0,,3,Phenix City AL,D3 Champ,D3
+1974,1974x11x30,Central Mich.,Boise St.,20,6,,1,,D2 QF,D2
+1974,1974x11x30,Louisiana Tech,Western Caro.,10,7,,1,,D2 QF,D2
+1974,1974x11x30,UNLV,Alcorn St.,35,22,,1,,D2 QF,D2
+1974,1974x11x30,Delaware,Youngstown St.,35,14,,1,,D2 QF,D2
+1974,1974x12x07,Central Mich.,Louisiana Tech,35,14,,3,Wichita Falls Pioneer Bowl,D2 Semi,D2
+1974,1974x12x07,Delaware,UNLV,49,11,,3,Baton Rouge Grantland Rice Bowl,D2 Semi,D2
+1974,1974x12x14,Central Mich.,Delaware,54,14,,3,Sacramento Camellia Bowl,D2 Champ,D2
+1974,1974x11x30,Central (IA),Evansville,17,16,,99,,D3 Semi,D3
+1974,1974x11x30,Ithaca,Slippery Rock,27,14,,99,,D3 Semi,D3
+1974,1974x12x07,Central (IA),Ithaca,10,8,,3,Phenix City AL,D3 Champ,D3
+1975,1975x11x29,Northern Mich.,Boise St.,24,21,,2,,D2 QF,D2
+1975,1975x11x29,West Alabama,North Dakota,34,14,,2,,D2 QF,D2
+1975,1975x11x29,Western Ky.,Northern Iowa,14,12,,2,,D2 QF,D2
+1975,1975x11x29,New Hampshire,Lehigh,35,21,,2,,D2 QF,D2
+1975,1975x12x06,Northern Mich.,West Alabama,28,26,,3,Wichita Falls Pioneer Bowl,D2 Semi,D2
+1975,1975x12x06,Western Ky.,New Hampshire,14,3,,3,Baton Rouge Grantland Rice Bowl,D2 Semi,D2
+1975,1975x12x13,Northern Mich.,Western Ky.,16,14,,3,Sacramento Camellia Bowl,D2 Champ,D2
+1975,1975x11x22,Widener,Albright,14,6,,99,,D3 QF,D3
+1975,1975x11x22,Ithaca,Fort Valley St.,41,12,,99,,D3 QF,D3
+1975,1975x11x22,Wittenberg,Indianapolis,17,13,,99,,D3 QF,D3
+1975,1975x11x22,Millsaps,Colorado Col.,28,21,,99,,D3 QF,D3
+1975,1975x11x29,Ithaca,Widener,23,14,,99,,D3 Semi,D3
+1975,1975x11x29,Wittenberg,Millsaps,55,22,,99,,D3 Semi,D3
+1975,1975x12x06,Wittenberg,Ithaca,28,0,,3,Phenix City AL,D3 Champ,D3
+1976,1976x11x27,Akron,UNLV,26,6,,1,,D2 QF,D2
+1976,1976x11x27,Northern Mich.,Delaware,28,17,,2,,D2 QF,D2
+1976,1976x11x27,North Dakota St.,Eastern Ky.,10,7,,2,,D2 QF,D2
+1976,1976x11x27,Montana St.,New Hampshire,17,16,,1,,D2 QF,D2
+1976,1976x12x04,Akron,Northern Mich.,29,26,,1,,D2 Semi,D2
+1976,1976x12x04,Montana St.,North Dakota St.,10,3,,2,,D2 Semi,D2
+1976,1976x12x11,Montana St.,Akron,24,13,,3,Wichita Falls Pioneer Bowl,D2 Champ,D2
+1976,1976x11x20,St. John's (MN),Augustana (IL),46,7,,99,,D3 QF,D3
+1976,1976x11x20,Buena Vista,Carroll (WI),20,14,OT,99,,D3 QF,D3
+1976,1976x11x20,St. Lawrence,Albright,26,7,,99,,D3 QF,D3
+1976,1976x11x20,Towson,CW Post,14,10,,99,,D3 QF,D3
+1976,1976x11x27,St. John's (MN),Buena Vista,61,0,,99,,D3 Semi,D3
+1976,1976x11x27,Towson,St. Lawrence,38,36,,99,,D3 Semi,D3
+1976,1976x12x04,St. John's (MN),Towson,31,28,,3,Phenix City AL,D3 Champ,D3
+1977,1977x11x26,UC Davis,Bethune Cookman,34,16,,1,,D2 QF,D2
+1977,1977x11x26,Lehigh,Massachusetts,30,23,,1,,D2 QF,D2
+1977,1977x11x26,North Dakota St.,Northern Mich.,20,6,,1,,D2 QF,D2
+1977,1977x11x26,Jacksonville St.,Northern Ariz.,35,0,,2,,D2 QF,D2
+1977,1977x12x03,Lehigh,UC Davis,39,30,,2,,D2 Semi,D2
+1977,1977x12x03,Jacksonville St.,North Dakota St.,31,7,,1,,D2 Semi,D2
+1977,1977x12x10,Lehigh,Jacksonville St.,33,0,,3,Wichita Falls Pioneer Bowl,D2 Champ,D2
+1977,1977x11x19,Minn. Morris,Albion,13,10,,99,,D3 QF,D3
+1977,1977x11x19,Wabash,St. John's (MN),20,9,,99,,D3 QF,D3
+1977,1977x11x19,Widener,Central (IA),19,0,,99,,D3 QF,D3
+1977,1977x11x19,Albany,Hampden-Sydney,51,45,,99,,D3 QF,D3
+1977,1977x11x26,Wabash,Minn. Morris,37,21,,99,,D3 Semi,D3
+1977,1977x11x26,Widener,Albany,33,15,,99,,D3 Semi,D3
+1977,1977x12x03,Widener,Wabash,39,36,,3,Phenix City AL,D3 Champ,D3
+1978,1978x11x25,Winston Salem,Cal Poly,17,0,,1,,D2 QF,D2
+1978,1978x11x25,Delaware,Jacksonville St.,42,27,,1,,D2 QF,D2
+1978,1978x11x25,Youngstown St.,Omaha,21,14,,1,,D2 QF,D2
+1978,1978x11x25,Eastern Ill.,UC Davis,35,31,,2,,D2 QF,D2
+1978,1978x12x02,Delaware,Winston Salem,41,0,,1,,D2 Semi,D2
+1978,1978x12x02,Eastern Ill.,Youngstown St.,26,22,,1,,D2 Semi,D2
+1978,1978x12x09,Eastern Ill.,Delaware,10,9,,3,Longview TX,D2 Champ,D2
+1978,1978x11x18,Minn. Morris,St. Olaf,23,10,,99,,D3 QF,D3
+1978,1978x11x18,Wittenberg,Ithaca,6,3,,99,,D3 QF,D3
+1978,1978x11x18,Carnegie Mellon,Dayton,24,21,,99,,D3 QF,D3
+1978,1978x11x18,Baldwin-Wallace,St. Lawrence,71,7,,99,,D3 QF,D3
+1978,1978x11x25,Wittenberg,Minn. Morris,35,14,,99,,D3 Semi,D3
+1978,1978x11x25,Baldwin-Wallace,Carnegie Mellon,31,6,,99,,D3 Semi,D3
+1978,1978x12x02,Baldwin-Wallace,Wittenberg,24,10,,3,Phenix City AL,D3 Champ,D3
+1978,1978x12x09,Florida A&M,Jackson St.,15,10,,2,,FCS Semi,FCS
+1978,1978x12x09,Massachusetts,Nevada,44,21,,2,,FCS Semi,FCS
+1978,1978x12x17,Florida A&M,Massachusetts,35,28,,3,Wichita Falls,FCS Champ,FCS
+1979,1979x11x24,Delaware,Virginia Union,58,28,,1,,D2 QF,D2
+1979,1979x11x24,Mississippi Col.,North Dakota,35,15,,1,,D2 QF,D2
+1979,1979x11x24,Youngstown St.,South Dakota St.,50,7,,1,,D2 QF,D2
+1979,1979x11x24,Alabama A&M,Morgan St.,27,7,,1,,D2 QF,D2
+1979,1979x12x01,Delaware,Mississippi Col.,60,10,,1,,D2 Semi,D2
+1979,1979x12x01,Youngstown St.,Alabama A&M,52,0,,1,,D2 Semi,D2
+1979,1979x12x08,Delaware,Youngstown St.,38,21,,3,Albuquerque,D2 Champ,D2
+1979,1979x11x17,Wittenberg,Millersville,21,14,,99,,D3 QF,D3
+1979,1979x11x17,Widener,Baldwin-Wallace,29,8,,99,,D3 QF,D3
+1979,1979x11x17,Carnegie Mellon,Minn. Morris,31,25,,99,,D3 QF,D3
+1979,1979x11x17,Ithaca,Dubuque,27,7,,99,,D3 QF,D3
+1979,1979x11x24,Wittenberg,Widener,17,14,,99,,D3 Semi,D3
+1979,1979x11x24,Ithaca,Carnegie Mellon,15,6,,99,,D3 Semi,D3
+1979,1979x12x01,Ithaca,Wittenberg,14,10,,3,Phenix City AL,D3 Champ,D3
+1979,1979x12x08,Lehigh,Murray St.,28,9,,2,,FCS Semi,FCS
+1979,1979x12x08,Eastern Ky.,Nevada,33,30,2OT,1,,FCS Semi,FCS
+1979,1979x12x15,Eastern Ky.,Lehigh,30,7,,3,Orlando,FCS Champ,FCS
+1980,1980x11x29,Eastern Ill.,Northern Colo.,21,14,,1,,D2 QF,D2
+1980,1980x11x29,North Alabama,Virginia Union,17,8,,1,,D2 QF,D2
+1980,1980x11x29,Santa Clara,Northern Mich.,27,26,,1,,D2 QF,D2
+1980,1980x11x29,Cal Poly,Jacksonville St.,15,0,,1,,D2 QF,D2
+1980,1980x12x06,Eastern Ill.,North Alabama,56,31,,2,,D2 Semi,D2
+1980,1980x12x06,Cal Poly,Santa Clara,38,14,,1,,D2 Semi,D2
+1980,1980x12x13,Cal Poly,Eastern Ill.,21,13,,3,Albuquerque,D2 Champ,D2
+1980,1980x11x22,Ithaca,Wagner,41,13,,99,,D3 QF,D3
+1980,1980x11x22,Minn. Morris,Dubuque,41,35,,99,,D3 QF,D3
+1980,1980x11x22,Dayton,Baldwin-Wallace,34,0,,99,,D3 QF,D3
+1980,1980x11x22,Widener,Bethany (WV),43,12,,99,,D3 QF,D3
+1980,1980x11x29,Ithaca,Minn. Morris,36,0,,99,,D3 Semi,D3
+1980,1980x11x29,Dayton,Widener,28,24,,99,,D3 Semi,D3
+1980,1980x12x06,Dayton,Ithaca,63,0,,3,Phenix City AL,D3 Champ,D3
+1980,1980x12x13,Eastern Ky.,Lehigh,23,20,,2,,FCS Semi,FCS
+1980,1980x12x13,Boise St.,Grambling,14,9,,1,,FCS Semi,FCS
+1980,1980x12x20,Boise St.,Eastern Ky.,31,29,,3,Sacramento,FCS Champ,FCS
+1981,1981x11x28,Northern Mich.,Elizabeth City St.,55,6,,1,,D2 QF,D2
+1981,1981x11x28,Texas St.,Jacksonville St.,38,22,,1,,D2 QF,D2
+1981,1981x11x28,North Dakota St.,Puget Sound,24,10,,2,,D2 QF,D2
+1981,1981x11x28,Shippensburg,Virginia Union,40,27,,2,,D2 QF,D2
+1981,1981x12x05,Texas St.,Northern Mich.,62,0,,1,,D2 Semi,D2
+1981,1981x12x05,North Dakota St.,Shippensburg,18,6,,2,,D2 Semi,D2
+1981,1981x12x12,Texas St.,North Dakota St.,42,13,,3,McAllen TX,D2 Champ,D2
+1981,1981x11x21,Dayton,Augustana (IL),19,7,,99,,D3 QF,D3
+1981,1981x11x21,Lawrence,Minn. Morris,21,14,OT,99,,D3 QF,D3
+1981,1981x11x21,Montclair St.,Alfred,13,12,,99,,D3 QF,D3
+1981,1981x11x21,Widener,West Georgia,10,3,,99,,D3 QF,D3
+1981,1981x11x28,Dayton,Lawrence,38,0,,99,,D3 Semi,D3
+1981,1981x11x28,Widener,Montclair St.,23,12,,99,,D3 Semi,D3
+1981,1981x12x05,Widener,Dayton,17,10,,3,Phenix City AL,D3 Champ,D3
+1981,1981x12x05,Eastern Ky.,Delaware,35,28,,1,,FCS QF,FCS
+1981,1981x12x05,Boise St.,Jackson St.,19,7,,2,,FCS QF,FCS
+1981,1981x12x05,Idaho St.,Rhode Island,51,0,,1,,FCS QF,FCS
+1981,1981x12x05,SC State,Tennessee St.,26,25,OT,1,,FCS QF,FCS
+1981,1981x12x12,Eastern Ky.,Boise St.,23,17,,2,,FCS Semi,FCS
+1981,1981x12x12,Idaho St.,SC State,41,12,,1,,FCS Semi,FCS
+1981,1981x12x19,Idaho St.,Eastern Ky.,34,23,,3,Wichita Falls,FCS Champ,FCS
+1982,1982x11x27,Texas St.,Fort Valley St.,27,6,,1,,D2 QF,D2
+1982,1982x11x27,Jacksonville St.,Truman,34,21,,1,,D2 QF,D2
+1982,1982x11x27,North Dakota St.,Virginia Union,21,20,,1,,D2 QF,D2
+1982,1982x11x27,UC Davis,Northern Mich.,42,21,,1,,D2 QF,D2
+1982,1982x12x04,Texas St.,Jacksonville St.,19,14,,1,,D2 Semi,D2
+1982,1982x12x04,UC Davis,North Dakota St.,19,14,,1,,D2 Semi,D2
+1982,1982x12x11,Texas St.,UC Davis,34,9,,3,McAllen TX,D2 Champ,D2
+1982,1982x11x20,Augustana (IL),Baldwin-Wallace,28,22,,99,,D3 QF,D3
+1982,1982x11x20,St. Lawrence,Wagner,43,34,,99,,D3 QF,D3
+1982,1982x11x20,Bishop,Wartburg,32,7,,99,,D3 QF,D3
+1982,1982x11x20,West Georgia,Widener,31,24,3OT,99,,D3 QF,D3
+1982,1982x11x27,Augustana (IL),St. Lawrence,14,0,,99,,D3 Semi,D3
+1982,1982x11x27,West Georgia,Bishop,27,6,,99,,D3 Semi,D3
+1982,1982x12x04,West Georgia,Augustana (IL),14,0,,3,Phenix City AL,D3 Champ,D3
+1982,1982x11x27,Idaho,Montana,21,7,,1,,FCS R12,FCS
+1982,1982x11x27,Eastern Ill.,Jackson St.,16,13,OT,1,,FCS R12,FCS
+1982,1982x11x27,SC State,Furman,17,0,,2,,FCS R12,FCS
+1982,1982x11x27,Colgate,Boston U.,21,7,,1,,FCS R12,FCS
+1982,1982x12x04,Eastern Ky.,Idaho,38,30,,1,,FCS QF,FCS
+1982,1982x12x04,Tennessee St.,Eastern Ill.,20,19,,1,,FCS QF,FCS
+1982,1982x12x04,Louisiana Tech,SC State,38,3,,1,,FCS QF,FCS
+1982,1982x12x04,Delaware,Colgate,20,13,,1,,FCS QF,FCS
+1982,1982x12x11,Eastern Ky.,Tennessee St.,13,7,,1,,FCS Semi,FCS
+1982,1982x12x11,Delaware,Louisiana Tech,17,0,,2,,FCS Semi,FCS
+1982,1982x12x18,Eastern Ky.,Delaware,17,14,,3,Wichita Falls,FCS Champ,FCS
+1983,1983x11x26,UC Davis,Butler,25,6,,1,,D2 QF,D2
+1983,1983x11x26,North Dakota St.,Towson,24,17,,1,,D2 QF,D2
+1983,1983x11x26,North Alabama,Virginia Union,16,14,,1,,D2 QF,D2
+1983,1983x11x26,Central St.,Texas St.,24,16,,2,,D2 QF,D2
+1983,1983x12x03,North Dakota St.,UC Davis,26,17,,2,,D2 Semi,D2
+1983,1983x12x03,Central St.,North Alabama,27,24,,2,,D2 Semi,D2
+1983,1983x12x10,North Dakota St.,Central St.,41,21,,3,McAllen TX,D2 Champ,D2
+1983,1983x11x19,Union (NY),Hofstra,51,19,,99,,D3 QF,D3
+1983,1983x11x19,Salisbury St.,Carnegie Mellon,16,14,,99,,D3 QF,D3
+1983,1983x11x19,Augustana (IL),Adrian,22,21,,99,,D3 QF,D3
+1983,1983x11x19,UW LaCrosse,Occidental,43,42,,99,,D3 QF,D3
+1983,1983x11x26,Union (NY),Salisbury St.,23,21,,99,,D3 Semi,D3
+1983,1983x11x26,Augustana (IL),UW LaCrosse,21,15,,99,,D3 Semi,D3
+1983,1983x12x01,Augustana (IL),Union (NY),21,17,,3,Kings Mills OH,D3 Champ,D3
+1983,1983x11x26,Indiana St.,Eastern Ill.,16,13,2OT,1,,FCS R12,FCS
+1983,1983x11x26,Nevada,Idaho St.,27,20,,2,,FCS R12,FCS
+1983,1983x11x26,Western Caro.,Colgate,24,23,,1,,FCS R12,FCS
+1983,1983x11x26,Boston U.,Eastern Ky.,24,20,,2,,FCS R12,FCS
+1983,1983x12x03,Southern Ill.,Indiana St.,23,7,,1,,FCS QF,FCS
+1983,1983x12x03,Nevada,North Texas,20,17,OT,1,,FCS QF,FCS
+1983,1983x12x03,Western Caro.,Holy Cross,28,21,,2,,FCS QF,FCS
+1983,1983x12x03,Furman,Boston U.,35,16,,1,,FCS QF,FCS
+1983,1983x12x10,Southern Ill.,Nevada,23,7,,1,,FCS Semi,FCS
+1983,1983x12x10,Western Caro.,Furman,14,7,,2,,FCS Semi,FCS
+1983,1983x12x17,Southern Ill.,Western Caro.,43,7,,3,Charleston SC,FCS Champ,FCS
+1984,1984x11x24,North Dakota St.,UC Davis,31,23,,1,,D2 QF,D2
+1984,1984x11x24,Omaha,NW Missouri St.,28,15,,1,,D2 QF,D2
+1984,1984x11x24,Troy,Central St.,31,21,,1,,D2 QF,D2
+1984,1984x11x24,Towson,Norfolk St.,31,21,,2,,D2 QF,D2
+1984,1984x12x01,North Dakota St.,Omaha,25,14,,1,,D2 Semi,D2
+1984,1984x12x01,Troy,Towson,45,3,,1,,D2 Semi,D2
+1984,1984x12x08,Troy,North Dakota St.,18,17,,3,McAllen TX,D2 Champ,D2
+1984,1984x11x24,Union (NY),Plymouth St.,26,14,,99,,D3 QF,D3
+1984,1984x11x24,Augustana (IL),Dayton,14,13,,99,,D3 QF,D3
+1984,1984x11x24,Wash. & Jeff.,Randolph-Macon,22,21,,99,,D3 QF,D3
+1984,1984x11x24,Central (IA),Occidental,23,22,,99,,D3 QF,D3
+1984,1984x12x01,Augustana (IL),Union (NY),23,6,,99,,D3 Semi,D3
+1984,1984x12x01,Central (IA),Wash. & Jeff.,20,0,,99,,D3 Semi,D3
+1984,1984x12x08,Augustana (IL),Central (IA),21,12,,3,Kings Mills OH,D3 Champ,D3
+1984,1984x11x24,Louisiana Tech,Miss. Valley,66,19,,1,,FCS R12,FCS
+1984,1984x11x24,Middle Tenn.,Eastern Ky.,27,10,,2,,FCS R12,FCS
+1984,1984x11x24,Richmond,Boston U.,35,33,,1,,FCS R12,FCS
+1984,1984x11x24,Arkansas St.,Chattanooga,37,10,,1,,FCS R12,FCS
+1984,1984x12x01,Louisiana Tech,Alcorn St.,44,21,,3,Jackson,FCS QF,FCS
+1984,1984x12x01,Middle Tenn.,Indiana St.,42,41,3OT,2,,FCS QF,FCS
+1984,1984x12x01,Rhode Island,Richmond,23,17,,1,,FCS QF,FCS
+1984,1984x12x01,Montana St.,Arkansas St.,31,14,,1,,FCS QF,FCS
+1984,1984x12x08,Louisiana Tech,Middle Tenn.,21,13,,2,,FCS Semi,FCS
+1984,1984x12x08,Montana St.,Rhode Island,32,20,,1,,FCS Semi,FCS
+1984,1984x12x15,Montana St.,Louisiana Tech,19,6,,3,Charleston SC,FCS Champ,FCS
+1985,1985x11x30,North Dakota St.,UC Davis,31,12,,2,,D2 QF,D2
+1985,1985x11x30,South Dakota,Central St.,13,10,2OT,1,,D2 QF,D2
+1985,1985x11x30,Bloomsburg,Hampton,38,28,,1,,D2 QF,D2
+1985,1985x11x30,North Alabama,Fort Valley St.,14,7,,1,,D2 QF,D2
+1985,1985x12x07,North Dakota St.,South Dakota,16,7,,2,,D2 Semi,D2
+1985,1985x12x07,North Alabama,Bloomsburg,34,0,,1,,D2 Semi,D2
+1985,1985x12x14,North Dakota St.,North Alabama,35,7,,3,McAllen TX,D2 Champ,D2
+1985,1985x11x23,Ithaca,Union (NY),13,12,,99,,D3 R16,D3
+1985,1985x11x23,Montclair St.,Western Conn.,28,0,,99,,D3 R16,D3
+1985,1985x11x23,Salisbury St.,Carnegie Mellon,35,22,,99,,D3 R16,D3
+1985,1985x11x23,Gettysburg,Lycoming,14,10,,99,,D3 R16,D3
+1985,1985x11x23,Augustana (IL),Albion,26,10,,99,,D3 R16,D3
+1985,1985x11x23,Mount Union,Denison,35,3,,99,,D3 R16,D3
+1985,1985x11x23,Central (IA),Coe,27,7,,99,,D3 R16,D3
+1985,1985x11x23,Occidental,St. John's (MN),28,10,,99,,D3 R16,D3
+1985,1985x11x30,Ithaca,Montclair St.,50,28,,99,,D3 QF,D3
+1985,1985x11x30,Gettysburg,Salisbury St.,22,6,,99,,D3 QF,D3
+1985,1985x11x30,Augustana (IL),Mount Union,21,14,,99,,D3 QF,D3
+1985,1985x11x30,Central (IA),Occidental,71,0,,99,,D3 QF,D3
+1985,1985x12x07,Ithaca,Gettysburg,34,0,,99,,D3 Semi,D3
+1985,1985x12x07,Augustana (IL),Central (IA),14,7,,99,,D3 Semi,D3
+1985,1985x12x14,Augustana (IL),Ithaca,20,7,,3,Phenix City AL,D3 Champ,D3
+1985,1985x11x30,Ga. Southern,Jackson St.,27,0,,1,,FCS R12,FCS
+1985,1985x11x30,Eastern Wash.,Idaho,42,38,,2,,FCS R12,FCS
+1985,1985x11x30,Rhode Island,Akron,35,27,,1,,FCS R12,FCS
+1985,1985x11x30,Arkansas St.,Grambling,10,7,,1,,FCS R12,FCS
+1985,1985x12x07,Ga. Southern,Middle Tenn.,28,21,,2,,FCS QF,FCS
+1985,1985x12x07,Northern Iowa,Eastern Wash.,17,14,,1,,FCS QF,FCS
+1985,1985x12x07,Furman,Rhode Island,59,15,,1,,FCS QF,FCS
+1985,1985x12x07,Nevada,Arkansas St.,24,23,,1,,FCS QF,FCS
+1985,1985x12x14,Ga. Southern,Northern Iowa,40,33,,2,,FCS Semi,FCS
+1985,1985x12x14,Furman,Nevada,35,12,,1,,FCS Semi,FCS
+1985,1985x12x21,Ga. Southern,Furman,44,42,,3,Tacoma,FCS Champ,FCS
+1986,1986x11x29,North Dakota St.,Ashland,50,0,,1,,D2 QF,D2
+1986,1986x11x29,Central St.,Towson,31,0,,1,,D2 QF,D2
+1986,1986x11x29,Troy,Virginia Union,31,7,,1,,D2 QF,D2
+1986,1986x11x29,South Dakota,UC Davis,26,23,,2,,D2 QF,D2
+1986,1986x12x06,North Dakota St.,Central St.,35,12,,1,,D2 Semi,D2
+1986,1986x12x06,South Dakota,Troy,42,28,,2,,D2 Semi,D2
+1986,1986x12x13,North Dakota St.,South Dakota,27,7,,3,Florence AL,D2 Champ,D2
+1986,1986x11x22,Ithaca,Union (NY),24,17,OT,99,,D3 R16,D3
+1986,1986x11x22,Montclair St.,Hofstra,24,21,,99,,D3 R16,D3
+1986,1986x11x22,Susquehanna,Wash. & Jeff.,28,20,,99,,D3 R16,D3
+1986,1986x11x22,Salisbury St.,Emory & Henry,34,20,,99,,D3 R16,D3
+1986,1986x11x22,Mount Union,Dayton,42,36,,99,,D3 R16,D3
+1986,1986x11x22,Augustana (IL),Hope,34,10,,99,,D3 R16,D3
+1986,1986x11x22,Central (IA),Buena Vista,37,0,,99,,D3 R16,D3
+1986,1986x11x22,Concordia Moorhead,UW Stevens Point,24,15,,99,,D3 R16,D3
+1986,1986x11x29,Ithaca,Montclair St.,29,15,,99,,D3 QF,D3
+1986,1986x11x29,Salisbury St.,Susquehanna,31,17,,99,,D3 QF,D3
+1986,1986x11x29,Augustana (IL),Mount Union,16,7,,99,,D3 QF,D3
+1986,1986x11x29,Concordia Moorhead,Central (IA),17,14,,99,,D3 QF,D3
+1986,1986x12x06,Salisbury St.,Ithaca,44,40,,99,,D3 Semi,D3
+1986,1986x12x06,Augustana (IL),Concordia Moorhead,41,7,,99,,D3 Semi,D3
+1986,1986x12x13,Augustana (IL),Salisbury St.,31,3,,3,Phenix City AL,D3 Champ,D3
+1986,1986x11x29,Nevada,Idaho,27,7,,1,,FCS R16,FCS
+1986,1986x11x29,Tennessee St.,Jackson St.,32,23,,2,,FCS R16,FCS
+1986,1986x11x29,Ga. Southern,NC A&T,52,21,,1,,FCS R16,FCS
+1986,1986x11x29,Nicholls,Appalachian St.,28,26,,2,,FCS R16,FCS
+1986,1986x11x29,Arkansas St.,Sam Houston,48,7,,1,,FCS R16,FCS
+1986,1986x11x29,Delaware,William & Mary,51,17,,2,,FCS R16,FCS
+1986,1986x11x29,Eastern Ill.,Murray St.,28,21,,1,,FCS R16,FCS
+1986,1986x11x29,Eastern Ky.,Furman,23,10,,2,,FCS R16,FCS
+1986,1986x12x06,Nevada,Tennessee St.,33,6,,1,,FCS QF,FCS
+1986,1986x12x06,Ga. Southern,Nicholls,55,31,,1,,FCS QF,FCS
+1986,1986x12x06,Arkansas St.,Delaware,55,14,,2,,FCS QF,FCS
+1986,1986x12x06,Eastern Ky.,Eastern Ill.,24,22,,2,,FCS QF,FCS
+1986,1986x12x13,Ga. Southern,Nevada,48,38,,2,,FCS Semi,FCS
+1986,1986x12x13,Arkansas St.,Eastern Ky.,24,10,,1,,FCS Semi,FCS
+1986,1986x12x19,Ga. Southern,Arkansas St.,48,21,,3,Tacoma,FCS Champ,FCS
+1987,1987x11x28,Portland St.,Minnesota St.,27,21,,1,,D2 QF,D2
+1987,1987x11x28,Northern Mich.,Angelo St.,23,20,OT,2,,D2 QF,D2
+1987,1987x11x28,UCF,Indiana (PA),12,10,,1,,D2 QF,D2
+1987,1987x11x28,Troy,Winston Salem,45,14,,1,,D2 QF,D2
+1987,1987x12x05,Portland St.,Northern Mich.,13,7,,1,,D2 Semi,D2
+1987,1987x12x05,Troy,UCF,31,10,,2,,D2 Semi,D2
+1987,1987x12x12,Troy,Portland St.,31,17,,3,Florence AL,D2 Champ,D2
+1987,1987x11x21,Wagner,Rochester,38,14,,99,,D3 R16,D3
+1987,1987x11x21,Fordham,Hofstra,41,6,,99,,D3 R16,D3
+1987,1987x11x21,Wash. & Jeff.,Allegheny,23,17,OT,99,,D3 R16,D3
+1987,1987x11x21,Emory & Henry,Ferrum,49,7,,99,,D3 R16,D3
+1987,1987x11x21,Dayton,Capital,52,28,,99,,D3 R16,D3
+1987,1987x11x21,Augustana (IL),Hiram,53,0,,99,,D3 R16,D3
+1987,1987x11x21,St. John's (MN),Gustavus Adolphus,7,3,,99,,D3 R16,D3
+1987,1987x11x21,Central (IA),Menlo,17,0,,99,,D3 R16,D3
+1987,1987x11x28,Wagner,Fordham,21,0,,99,,D3 QF,D3
+1987,1987x11x28,Emory & Henry,Wash. & Jeff.,23,16,,99,,D3 QF,D3
+1987,1987x11x28,Dayton,Augustana (IL),38,36,,99,,D3 QF,D3
+1987,1987x11x28,Central (IA),St. John's (MN),13,3,,99,,D3 QF,D3
+1987,1987x12x05,Wagner,Emory & Henry,20,15,,99,,D3 Semi,D3
+1987,1987x12x05,Dayton,Central (IA),34,0,,99,,D3 Semi,D3
+1987,1987x12x12,Wagner,Dayton,19,3,,3,Phenix City AL,D3 Champ,D3
+1987,1987x11x28,Appalachian St.,Richmond,20,3,,1,,FCS R16,FCS
+1987,1987x11x28,Ga. Southern,Maine,31,28,OT,1,,FCS R16,FCS
+1987,1987x11x28,Weber St.,Idaho,59,30,,2,,FCS R16,FCS
+1987,1987x11x28,Marshall,James Madison,41,12,,1,,FCS R16,FCS
+1987,1987x11x28,UL Monroe,North Texas,30,9,,1,,FCS R16,FCS
+1987,1987x11x28,Eastern Ky.,Western Ky.,40,17,,1,,FCS R16,FCS
+1987,1987x11x28,Northern Iowa,Youngstown St.,31,28,,1,,FCS R16,FCS
+1987,1987x11x28,Arkansas St.,Jackson St.,35,32,,2,,FCS R16,FCS
+1987,1987x12x05,Appalachian St.,Ga. Southern,19,0,,1,,FCS QF,FCS
+1987,1987x12x05,Marshall,Weber St.,51,23,,1,,FCS QF,FCS
+1987,1987x12x05,UL Monroe,Eastern Ky.,33,32,,1,,FCS QF,FCS
+1987,1987x12x05,Northern Iowa,Arkansas St.,49,28,,1,,FCS QF,FCS
+1987,1987x12x12,Marshall,Appalachian St.,24,10,,2,,FCS Semi,FCS
+1987,1987x12x12,UL Monroe,Northern Iowa,44,41,2OT,1,,FCS Semi,FCS
+1987,1987x12x19,UL Monroe,Marshall,43,42,,3,Pocatello,FCS Champ,FCS
+1988,1988x11x19,North Dakota St.,Augustana (SD),49,7,,1,,D2 R16,D2
+1988,1988x11x19,Millersville,Indiana (PA),27,24,,1,,D2 R16,D2
+1988,1988x11x19,Sacramento St.,UC Davis,35,14,,2,,D2 R16,D2
+1988,1988x11x19,NC Central,Winston Salem,31,16,,1,,D2 R16,D2
+1988,1988x11x19,TAMU Kingsville,Mississippi Col.,39,15,,1,,D2 R16,D2
+1988,1988x11x19,UT Martin,Butler,23,6,,1,,D2 R16,D2
+1988,1988x11x19,Portland St.,Bowie St.,34,17,,1,,D2 R16,D2
+1988,1988x11x19,Jacksonville St.,West Chester,63,24,,1,,D2 R16,D2
+1988,1988x11x26,North Dakota St.,Millersville,36,26,,1,,D2 QF,D2
+1988,1988x11x26,Sacramento St.,NC Central,56,7,,1,,D2 QF,D2
+1988,1988x11x26,TAMU Kingsville,UT Martin,34,0,,1,,D2 QF,D2
+1988,1988x11x26,Portland St.,Jacksonville St.,20,13,,1,,D2 QF,D2
+1988,1988x12x03,North Dakota St.,Sacramento St.,42,20,,1,,D2 Semi,D2
+1988,1988x12x03,Portland St.,TAMU Kingsville,35,27,,1,,D2 Semi,D2
+1988,1988x12x10,North Dakota St.,Portland St.,35,21,,3,Florence AL,D2 Champ,D2
+1988,1988x11x19,Cortland St.,Hofstra,32,27,,99,,D3 R16,D3
+1988,1988x11x19,Ithaca,Wagner,34,31,OT,99,,D3 R16,D3
+1988,1988x11x19,Ferrum,Rhodes,34,10,,99,,D3 R16,D3
+1988,1988x11x19,Moravian,Widener,17,7,,99,,D3 R16,D3
+1988,1988x11x19,Wittenberg,Dayton,35,28,OT,99,,D3 R16,D3
+1988,1988x11x19,Augustana (IL),Adrian,25,7,,99,,D3 R16,D3
+1988,1988x11x19,Central (IA),Concordia Moorhead,7,0,,99,,D3 R16,D3
+1988,1988x11x19,UW Whitewater,Simpson,29,27,,99,,D3 R16,D3
+1988,1988x11x26,Ithaca,Cortland St.,24,17,,99,,D3 QF,D3
+1988,1988x11x26,Ferrum,Moravian,49,28,,99,,D3 QF,D3
+1988,1988x11x26,Augustana (IL),Wittenberg,28,14,,99,,D3 QF,D3
+1988,1988x11x26,Central (IA),UW Whitewater,16,13,,99,,D3 QF,D3
+1988,1988x12x03,Ithaca,Ferrum,62,28,,99,,D3 Semi,D3
+1988,1988x12x03,Central (IA),Augustana (IL),23,17,2OT,99,,D3 Semi,D3
+1988,1988x12x10,Ithaca,Central (IA),39,24,,3,Phenix City AL,D3 Champ,D3
+1988,1988x11x26,Idaho,Montana,38,19,,1,,FCS R16,FCS
+1988,1988x11x26,Northwestern St.,Boise St.,22,13,,2,,FCS R16,FCS
+1988,1988x11x26,Furman,Delaware,21,7,,1,,FCS R16,FCS
+1988,1988x11x26,Marshall,North Texas,7,0,,1,,FCS R16,FCS
+1988,1988x11x26,Ga. Southern,Citadel,38,20,,1,,FCS R16,FCS
+1988,1988x11x26,S.F. Austin,Jackson St.,24,0,,1,,FCS R16,FCS
+1988,1988x11x26,Western Ky.,Western Ill.,35,32,,2,,FCS R16,FCS
+1988,1988x11x26,Eastern Ky.,Massachusetts,28,17,,1,,FCS R16,FCS
+1988,1988x12x03,Idaho,Northwestern St.,38,30,,1,,FCS QF,FCS
+1988,1988x12x03,Furman,Marshall,13,9,,2,,FCS QF,FCS
+1988,1988x12x03,Ga. Southern,S.F. Austin,27,6,,1,,FCS QF,FCS
+1988,1988x12x03,Eastern Ky.,Western Ky.,41,24,,1,,FCS QF,FCS
+1988,1988x12x10,Furman,Idaho,38,7,,1,,FCS Semi,FCS
+1988,1988x12x10,Ga. Southern,Eastern Ky.,21,17,,1,,FCS Semi,FCS
+1988,1988x12x17,Furman,Ga. Southern,17,12,,3,Pocatello,FCS Champ,FCS
+1989,1989x11x18,Mississippi Col.,TAMU Kingsville,34,19,,2,,D2 R16,D2
+1989,1989x11x18,St. Cloud St.,Augustana (SD),27,20,,1,,D2 R16,D2
+1989,1989x11x18,Portland St.,West Chester,56,50,3OT,1,,D2 R16,D2
+1989,1989x11x18,Indiana (PA),Grand Valley St.,34,24,,2,,D2 R16,D2
+1989,1989x11x18,Pittsburg St.,NW Missouri St.,28,7,,1,,D2 R16,D2
+1989,1989x11x18,Angelo St.,UC Davis,28,23,,2,,D2 R16,D2
+1989,1989x11x18,North Dakota St.,Edinboro,45,32,,1,,D2 R16,D2
+1989,1989x11x18,Jacksonville St.,Alabama A&M,33,9,,1,,D2 R16,D2
+1989,1989x11x25,Mississippi Col.,St. Cloud St.,55,24,,2,,D2 QF,D2
+1989,1989x11x25,Indiana (PA),Portland St.,17,0,,2,,D2 QF,D2
+1989,1989x11x25,Angelo St.,Pittsburg St.,24,21,,2,,D2 QF,D2
+1989,1989x11x25,Jacksonville St.,North Dakota St.,21,17,,1,,D2 QF,D2
+1989,1989x12x02,Mississippi Col.,Indiana (PA),26,14,,1,,D2 Semi,D2
+1989,1989x12x02,Jacksonville St.,Angelo St.,34,16,,1,,D2 Semi,D2
+1989,1989x12x09,Mississippi Col.,Jacksonville St.,3,0,,3,Florence AL,D2 Champ,D2
+1989,1989x11x18,Union (NY),Cortland St.,42,14,,99,,D3 R16,D3
+1989,1989x11x18,Montclair St.,Hofstra,23,6,,99,,D3 R16,D3
+1989,1989x11x18,Lycoming,Dickinson,21,0,,99,,D3 R16,D3
+1989,1989x11x18,Ferrum,Wash. & Jeff.,41,7,,99,,D3 R16,D3
+1989,1989x11x18,Dayton,John Carroll,35,10,,99,,D3 R16,D3
+1989,1989x11x18,Millikin,Augustana (IL),21,12,,99,,D3 R16,D3
+1989,1989x11x18,Central (IA),St. Norbert,55,7,,99,,D3 R16,D3
+1989,1989x11x18,St. John's (MN),Simpson,42,35,,99,,D3 R16,D3
+1989,1989x11x25,Union (NY),Montclair St.,45,6,,99,,D3 QF,D3
+1989,1989x11x25,Ferrum,Lycoming,49,24,,99,,D3 QF,D3
+1989,1989x11x25,Dayton,Millikin,28,16,,99,,D3 QF,D3
+1989,1989x11x25,St. John's (MN),Central (IA),27,24,,99,,D3 QF,D3
+1989,1989x12x02,Union (NY),Ferrum,37,21,,99,,D3 Semi,D3
+1989,1989x12x02,Dayton,St. John's (MN),28,0,,99,,D3 Semi,D3
+1989,1989x12x09,Dayton,Union (NY),17,7,,3,Phenix City AL,D3 Champ,D3
+1989,1989x11x25,Ga. Southern,Villanova,52,36,,1,,FCS R16,FCS
+1989,1989x11x25,Middle Tenn.,Appalachian St.,24,21,,1,,FCS R16,FCS
+1989,1989x11x25,Eastern Ill.,Idaho,38,21,,2,,FCS R16,FCS
+1989,1989x11x25,Montana,Jackson St.,48,7,,1,,FCS R16,FCS
+1989,1989x11x25,Furman,William & Mary,24,10,,1,,FCS R16,FCS
+1989,1989x11x25,Youngstown St.,Eastern Ky.,28,24,,2,,FCS R16,FCS
+1989,1989x11x25,S.F. Austin,Grambling,59,56,,1,,FCS R16,FCS
+1989,1989x11x25,Missouri St.,Maine,38,35,,1,,FCS R16,FCS
+1989,1989x12x02,Ga. Southern,Middle Tenn.,45,3,,1,,FCS QF,FCS
+1989,1989x12x02,Montana,Eastern Ill.,25,19,,1,,FCS QF,FCS
+1989,1989x12x02,Furman,Youngstown St.,42,23,,1,,FCS QF,FCS
+1989,1989x12x02,S.F. Austin,Missouri St.,55,25,,1,,FCS QF,FCS
+1989,1989x12x09,Ga. Southern,Montana,45,15,,1,,FCS Semi,FCS
+1989,1989x12x09,S.F. Austin,Furman,21,19,,2,,FCS Semi,FCS
+1989,1989x12x16,Ga. Southern,S.F. Austin,37,34,,3,Statesboro,FCS Champ,FCS
+1990,1990x11x17,Mississippi Col.,Wofford,70,19,,1,,D2 R16,D2
+1990,1990x11x17,Jacksonville St.,North Alabama,38,14,,1,,D2 R16,D2
+1990,1990x11x17,Indiana (PA),Winston Salem,48,0,,1,,D2 R16,D2
+1990,1990x11x17,Edinboro,Virginia Union,38,14,,2,,D2 R16,D2
+1990,1990x11x17,North Dakota St.,Northern Colo.,17,7,,1,,D2 R16,D2
+1990,1990x11x17,Cal Poly,CS Northridge,14,7,,1,,D2 R16,D2
+1990,1990x11x17,Pittsburg St.,Truman,59,3,,1,,D2 R16,D2
+1990,1990x11x17,TAMU Commerce,Grand Valley St.,20,14,,2,,D2 R16,D2
+1990,1990x11x24,Mississippi Col.,Jacksonville St.,14,7,,1,,D2 QF,D2
+1990,1990x11x24,Indiana (PA),Edinboro,14,7,,1,,D2 QF,D2
+1990,1990x11x24,North Dakota St.,Cal Poly,47,0,,1,,D2 QF,D2
+1990,1990x11x24,Pittsburg St.,TAMU Commerce,60,28,,1,,D2 QF,D2
+1990,1990x12x01,Indiana (PA),Mississippi Col.,27,8,,2,,D2 Semi,D2
+1990,1990x12x01,North Dakota St.,Pittsburg St.,39,29,,1,,D2 Semi,D2
+1990,1990x12x08,North Dakota St.,Indiana (PA),51,11,,3,Florence AL,D2 Champ,D2
+1990,1990x11x17,Hofstra,Cortland St.,35,9,,99,,D3 R16,D3
+1990,1990x11x17,TCNJ,Ithaca,24,14,,99,,D3 R16,D3
+1990,1990x11x17,Wash. & Jeff.,Ferrum,10,7,,99,,D3 R16,D3
+1990,1990x11x17,Lycoming,Carnegie Mellon,17,7,,99,,D3 R16,D3
+1990,1990x11x17,Dayton,Augustana (IL),24,14,,99,,D3 R16,D3
+1990,1990x11x17,Allegheny,Mount Union,26,15,,99,,D3 R16,D3
+1990,1990x11x17,St. Thomas,UW Whitewater,24,23,,99,,D3 R16,D3
+1990,1990x11x17,Central (IA),Redlands,24,14,,99,,D3 R16,D3
+1990,1990x11x24,Hofstra,TCNJ,38,3,,99,,D3 QF,D3
+1990,1990x11x24,Lycoming,Wash. & Jeff.,24,0,,99,,D3 QF,D3
+1990,1990x11x24,Allegheny,Dayton,31,23,,99,,D3 QF,D3
+1990,1990x11x24,Central (IA),St. Thomas,33,32,,99,,D3 QF,D3
+1990,1990x12x01,Lycoming,Hofstra,20,10,,99,,D3 Semi,D3
+1990,1990x12x01,Allegheny,Central (IA),24,7,,99,,D3 Semi,D3
+1990,1990x12x08,Allegheny,Lycoming,21,14,OT,3,Bradenton,D3 Champ,D3
+1990,1990x11x24,Middle Tenn.,Jackson St.,28,7,,1,,FCS R16,FCS
+1990,1990x11x24,Boise St.,Northern Iowa,20,3,,1,,FCS R16,FCS
+1990,1990x11x24,Nevada,UL Monroe,27,14,,1,,FCS R16,FCS
+1990,1990x11x24,Furman,Eastern Ky.,45,17,,2,,FCS R16,FCS
+1990,1990x11x24,UCF,Youngstown St.,20,17,,2,,FCS R16,FCS
+1990,1990x11x24,William & Mary,Massachusetts,38,0,,1,,FCS R16,FCS
+1990,1990x11x24,Ga. Southern,Citadel,31,0,,1,,FCS R16,FCS
+1990,1990x11x24,Idaho,Missouri St.,41,35,,2,,FCS R16,FCS
+1990,1990x12x01,Boise St.,Middle Tenn.,20,13,,1,,FCS QF,FCS
+1990,1990x12x01,Nevada,Furman,42,35,3OT,1,,FCS QF,FCS
+1990,1990x12x01,UCF,William & Mary,52,38,,1,,FCS QF,FCS
+1990,1990x12x01,Ga. Southern,Idaho,28,27,,1,,FCS QF,FCS
+1990,1990x12x08,Nevada,Boise St.,59,52,3OT,1,,FCS Semi,FCS
+1990,1990x12x08,Ga. Southern,UCF,44,7,,1,,FCS Semi,FCS
+1990,1990x12x15,Ga. Southern,Nevada,36,13,,3,Statesboro,FCS Champ,FCS
+1991,1991x11x23,Pittsburg St.,Butler,26,16,,1,,D2 R16,D2
+1991,1991x11x23,TAMU Commerce,Grand Valley St.,36,15,,1,,D2 R16,D2
+1991,1991x11x23,Portland St.,Northern Colo.,28,24,,1,,D2 R16,D2
+1991,1991x11x23,Minnesota St.,North Dakota St.,27,7,,2,,D2 R16,D2
+1991,1991x11x23,Jacksonville St.,Winston Salem,49,24,,2,,D2 R16,D2
+1991,1991x11x23,Mississippi Col.,Wofford,28,15,,2,,D2 R16,D2
+1991,1991x11x23,Indiana (PA),Virginia Union,56,7,,1,,D2 R16,D2
+1991,1991x11x23,Shippensburg,East Stroudsburg,34,33,OT,2,,D2 R16,D2
+1991,1991x11x30,Pittsburg St.,TAMU Commerce,38,28,,1,,D2 QF,D2
+1991,1991x11x30,Portland St.,Minnesota St.,37,27,,1,,D2 QF,D2
+1991,1991x11x30,Jacksonville St.,Mississippi Col.,35,7,,1,,D2 QF,D2
+1991,1991x11x30,Indiana (PA),Shippensburg,52,7,,1,,D2 QF,D2
+1991,1991x12x07,Pittsburg St.,Portland St.,53,21,,2,,D2 Semi,D2
+1991,1991x12x07,Jacksonville St.,Indiana (PA),27,20,,1,,D2 Semi,D2
+1991,1991x12x14,Pittsburg St.,Jacksonville St.,23,6,,3,Florence AL,D2 Champ,D2
+1991,1991x11x23,St. John's (MN),Coe,75,2,,99,,D3 R16,D3
+1991,1991x11x23,UW LaCrosse,Simpson,28,13,,99,,D3 R16,D3
+1991,1991x11x23,Allegheny,Albion,24,21,OT,99,,D3 R16,D3
+1991,1991x11x23,Dayton,Baldwin-Wallace,27,10,,99,,D3 R16,D3
+1991,1991x11x23,Ithaca,Rowan,31,10,,99,,D3 R16,D3
+1991,1991x11x23,Union (NY),Mass. Lowell,55,16,,99,,D3 R16,D3
+1991,1991x11x23,Lycoming,Wash. & Jeff.,18,16,,99,,D3 R16,D3
+1991,1991x11x23,Susquehanna,Dickinson,21,20,,99,,D3 R16,D3
+1991,1991x11x30,St. John's (MN),UW LaCrosse,29,10,,99,,D3 QF,D3
+1991,1991x11x30,Dayton,Allegheny,28,25,OT,99,,D3 QF,D3
+1991,1991x11x30,Ithaca,Union (NY),35,23,,99,,D3 QF,D3
+1991,1991x11x30,Susquehanna,Lycoming,31,24,,99,,D3 QF,D3
+1991,1991x12x07,Dayton,St. John's (MN),19,7,,99,,D3 Semi,D3
+1991,1991x12x07,Ithaca,Susquehanna,49,13,,99,,D3 Semi,D3
+1991,1991x12x14,Ithaca,Dayton,34,20,,3,Bradenton,D3 Champ,D3
+1991,1991x11x30,Nevada,McNeese,22,16,,1,,FCS R16,FCS
+1991,1991x11x30,Youngstown St.,Villanova,17,16,,1,,FCS R16,FCS
+1991,1991x11x30,James Madison,Delaware,42,35,2OT,2,,FCS R16,FCS
+1991,1991x11x30,Samford,New Hampshire,29,13,,2,,FCS R16,FCS
+1991,1991x11x30,Eastern Ky.,Appalachian St.,14,3,,1,,FCS R16,FCS
+1991,1991x11x30,Middle Tenn.,Sam Houston,20,19,OT,1,,FCS R16,FCS
+1991,1991x11x30,Northern Iowa,Weber St.,38,21,,1,,FCS R16,FCS
+1991,1991x11x30,Marshall,Western Ill.,20,17,OT,1,,FCS R16,FCS
+1991,1991x12x07,Youngstown St.,Nevada,30,28,,2,,FCS QF,FCS
+1991,1991x12x07,Samford,James Madison,24,21,,2,,FCS QF,FCS
+1991,1991x12x07,Eastern Ky.,Middle Tenn.,23,13,,1,,FCS QF,FCS
+1991,1991x12x07,Marshall,Northern Iowa,41,13,,1,,FCS QF,FCS
+1991,1991x12x14,Youngstown St.,Samford,10,0,,1,,FCS Semi,FCS
+1991,1991x12x14,Marshall,Eastern Ky.,14,7,,1,,FCS Semi,FCS
+1991,1991x12x21,Youngstown St.,Marshall,25,17,,3,Statesboro,FCS Champ,FCS
+1992,1992x11x21,Ferris St.,Edinboro,19,15,,1,,D2 R16,D2
+1992,1992x11x21,New Haven,West Chester,38,26,,2,,D2 R16,D2
+1992,1992x11x21,Jacksonville St.,Savannah St.,41,16,,1,,D2 R16,D2
+1992,1992x11x21,North Alabama,Hampton,33,21,,2,,D2 R16,D2
+1992,1992x11x21,TAMU Kingsville,Western Colo.,22,13,,1,,D2 R16,D2
+1992,1992x11x21,Portland St.,UC Davis,42,28,,1,,D2 R16,D2
+1992,1992x11x21,Pittsburg St.,North Dakota,26,21,,1,,D2 R16,D2
+1992,1992x11x21,North Dakota St.,Truman,42,7,,1,,D2 R16,D2
+1992,1992x11x28,New Haven,Ferris St.,35,13,,1,,D2 QF,D2
+1992,1992x11x28,Jacksonville St.,North Alabama,14,12,,2,,D2 QF,D2
+1992,1992x11x28,Portland St.,TAMU Kingsville,35,30,,1,,D2 QF,D2
+1992,1992x11x28,Pittsburg St.,North Dakota St.,38,37,OT,1,,D2 QF,D2
+1992,1992x12x05,Jacksonville St.,New Haven,46,35,,1,,D2 Semi,D2
+1992,1992x12x05,Pittsburg St.,Portland St.,41,38,,2,,D2 Semi,D2
+1992,1992x12x12,Jacksonville St.,Pittsburg St.,17,13,,3,Florence AL,D2 Champ,D2
+1992,1992x11x21,Mount Union,Dayton,27,10,,99,,D3 R16,D3
+1992,1992x11x21,Ill. Wesleyan,Aurora,21,12,,99,,D3 R16,D3
+1992,1992x11x21,Central (IA),Carleton,20,8,,99,,D3 R16,D3
+1992,1992x11x21,UW LaCrosse,Redlands,47,26,,99,,D3 R16,D3
+1992,1992x11x21,Emory & Henry,Thomas More,17,0,,99,,D3 R16,D3
+1992,1992x11x21,Wash. & Jeff.,Lycoming,33,0,,99,,D3 R16,D3
+1992,1992x11x21,Rowan,WPI,41,14,,99,,D3 R16,D3
+1992,1992x11x21,Buffalo St.,Ithaca,28,26,,99,,D3 R16,D3
+1992,1992x11x28,Mount Union,Ill. Wesleyan,49,27,,99,,D3 QF,D3
+1992,1992x11x28,UW LaCrosse,Central (IA),34,9,,99,,D3 QF,D3
+1992,1992x11x28,Wash. & Jeff.,Emory & Henry,51,15,,99,,D3 QF,D3
+1992,1992x11x28,Rowan,Buffalo St.,28,19,,99,,D3 QF,D3
+1992,1992x12x05,UW LaCrosse,Mount Union,29,24,,99,,D3 Semi,D3
+1992,1992x12x05,Wash. & Jeff.,Rowan,18,13,,99,,D3 Semi,D3
+1992,1992x12x12,UW LaCrosse,Wash. & Jeff.,16,12,,3,Bradenton,D3 Champ,D3
+1992,1992x11x28,UL Monroe,Alcorn St.,78,27,,1,,FCS R16,FCS
+1992,1992x11x28,Delaware,Samford,56,21,,1,,FCS R16,FCS
+1992,1992x11x28,Middle Tenn.,Appalachian St.,35,10,,1,,FCS R16,FCS
+1992,1992x11x28,Marshall,Eastern Ky.,44,0,,1,,FCS R16,FCS
+1992,1992x11x28,Citadel,NC A&T,44,0,,1,,FCS R16,FCS
+1992,1992x11x28,Youngstown St.,Villanova,23,20,,1,,FCS R16,FCS
+1992,1992x11x28,Northern Iowa,Eastern Wash.,17,14,,1,,FCS R16,FCS
+1992,1992x11x28,McNeese,Idaho,23,20,,2,,FCS R16,FCS
+1992,1992x12x05,Delaware,UL Monroe,41,18,,2,,FCS QF,FCS
+1992,1992x12x05,Marshall,Middle Tenn.,35,21,,1,,FCS QF,FCS
+1992,1992x12x05,Youngstown St.,Citadel,42,17,,2,,FCS QF,FCS
+1992,1992x12x05,Northern Iowa,McNeese,29,7,,1,,FCS QF,FCS
+1992,1992x12x12,Marshall,Delaware,28,7,,1,,FCS Semi,FCS
+1992,1992x12x12,Youngstown St.,Northern Iowa,19,7,,2,,FCS Semi,FCS
+1992,1992x12x19,Marshall,Youngstown St.,31,28,,3,Huntington WV,FCS Champ,FCS
+1993,1993x11x20,North Alabama,Carson-Newman,38,28,,1,,D2 R16,D2
+1993,1993x11x20,Hampton,Albany St.,33,7,,1,,D2 R16,D2
+1993,1993x11x20,TAMU Kingsville,Portland St.,50,15,,2,,D2 R16,D2
+1993,1993x11x20,UC Davis,Fort Hays St.,37,34,,1,,D2 R16,D2
+1993,1993x11x20,Minnesota St.,Mo. Southern,34,13,,2,,D2 R16,D2
+1993,1993x11x20,North Dakota,Pittsburg St.,17,14,,1,,D2 R16,D2
+1993,1993x11x20,New Haven,Edinboro,48,28,,1,,D2 R16,D2
+1993,1993x11x20,Indiana (PA),Ferris St.,28,21,,1,,D2 R16,D2
+1993,1993x11x27,North Alabama,Hampton,45,20,,1,,D2 QF,D2
+1993,1993x11x27,TAMU Kingsville,UC Davis,51,28,,2,,D2 QF,D2
+1993,1993x11x27,North Dakota,Minnesota St.,54,21,,1,,D2 QF,D2
+1993,1993x11x27,Indiana (PA),New Haven,38,35,,2,,D2 QF,D2
+1993,1993x12x04,North Alabama,TAMU Kingsville,27,25,,1,,D2 Semi,D2
+1993,1993x12x04,Indiana (PA),North Dakota,21,6,,1,,D2 Semi,D2
+1993,1993x12x11,North Alabama,Indiana (PA),41,34,,3,Florence AL,D2 Champ,D2
+1993,1993x11x20,Mount Union,Allegheny,40,7,,99,,D3 R16,D3
+1993,1993x11x20,Albion,Anderson,41,21,,99,,D3 R16,D3
+1993,1993x11x20,UW LaCrosse,Wartburg,55,26,,99,,D3 R16,D3
+1993,1993x11x20,St. John's (MN),Coe,32,14,,99,,D3 R16,D3
+1993,1993x11x20,Wash. & Jeff.,Moravian,27,7,,99,,D3 R16,D3
+1993,1993x11x20,Frostburg St.,Wilkes,26,25,,99,,D3 R16,D3
+1993,1993x11x20,Rowan,Buffalo St.,29,6,,99,,D3 R16,D3
+1993,1993x11x20,Wm. Paterson,Union (NY),17,7,,99,,D3 R16,D3
+1993,1993x11x27,Mount Union,Albion,30,16,,99,,D3 QF,D3
+1993,1993x11x27,St. John's (MN),UW LaCrosse,47,25,,99,,D3 QF,D3
+1993,1993x11x27,Wash. & Jeff.,Frostburg St.,28,7,,99,,D3 QF,D3
+1993,1993x11x27,Rowan,Wm. Paterson,37,0,,99,,D3 QF,D3
+1993,1993x12x04,Mount Union,St. John's (MN),56,8,,99,,D3 Semi,D3
+1993,1993x12x04,Rowan,Wash. & Jeff.,23,16,,99,,D3 Semi,D3
+1993,1993x12x11,Mount Union,Rowan,34,24,,3,Salem VA,D3 Champ,D3
+1993,1993x11x27,Ga. Southern,Eastern Ky.,14,12,,1,,FCS R16,FCS
+1993,1993x11x27,Youngstown St.,UCF,56,30,,1,,FCS R16,FCS
+1993,1993x11x27,Boston U.,Northern Iowa,27,21,2OT,1,,FCS R16,FCS
+1993,1993x11x27,Idaho,UL Monroe,34,31,,2,,FCS R16,FCS
+1993,1993x11x27,Delaware,Montana,49,48,,2,,FCS R16,FCS
+1993,1993x11x27,Marshall,Howard,28,14,,1,,FCS R16,FCS
+1993,1993x11x27,McNeese,William & Mary,34,28,,1,,FCS R16,FCS
+1993,1993x11x27,Troy,S.F. Austin,42,20,,1,,FCS R16,FCS
+1993,1993x12x04,Youngstown St.,Ga. Southern,34,14,,2,,FCS QF,FCS
+1993,1993x12x04,Idaho,Boston U.,21,14,,2,,FCS QF,FCS
+1993,1993x12x04,Marshall,Delaware,34,31,,1,,FCS QF,FCS
+1993,1993x12x04,Troy,McNeese,35,28,,2,,FCS QF,FCS
+1993,1993x12x11,Youngstown St.,Idaho,35,16,,1,,FCS Semi,FCS
+1993,1993x12x11,Marshall,Troy,24,21,,1,,FCS Semi,FCS
+1993,1993x12x18,Youngstown St.,Marshall,17,5,,3,Huntington WV,FCS Champ,FCS
+1994,1994x11x19,Ferris St.,West Chester,43,40,,1,,D2 R16,D2
+1994,1994x11x19,Indiana (PA),Grand Valley St.,35,27,,1,,D2 R16,D2
+1994,1994x11x19,TAMU Kingsville,Western Colo.,43,7,,1,,D2 R16,D2
+1994,1994x11x19,Portland St.,Angelo St.,29,0,,1,,D2 R16,D2
+1994,1994x11x19,North Dakota St.,Pittsburg St.,18,12,3OT,2,,D2 R16,D2
+1994,1994x11x19,North Dakota,Truman,18,6,,1,,D2 R16,D2
+1994,1994x11x19,North Alabama,Carson-Newman,17,13,,1,,D2 R16,D2
+1994,1994x11x19,Valdosta St.,Albany St.,14,7,,1,,D2 R16,D2
+1994,1994x11x26,Indiana (PA),Ferris St.,21,17,,2,,D2 QF,D2
+1994,1994x11x26,TAMU Kingsville,Portland St.,21,16,,1,,D2 QF,D2
+1994,1994x11x26,North Dakota,North Dakota St.,14,7,,1,,D2 QF,D2
+1994,1994x11x26,North Alabama,Valdosta St.,27,24,2OT,1,,D2 QF,D2
+1994,1994x12x03,TAMU Kingsville,Indiana (PA),46,20,,1,,D2 Semi,D2
+1994,1994x12x03,North Alabama,North Dakota,35,7,,1,,D2 Semi,D2
+1994,1994x12x10,North Alabama,TAMU Kingsville,16,10,,3,Florence AL,D2 Champ,D2
+1994,1994x11x19,Mount Union,Allegheny,28,19,,99,,D3 R16,D3
+1994,1994x11x19,Albion,Augustana (IL),28,21,,99,,D3 R16,D3
+1994,1994x11x19,Wartburg,Central (IA),22,21,,99,,D3 R16,D3
+1994,1994x11x19,St. John's (MN),La Verne,51,12,,99,,D3 R16,D3
+1994,1994x11x19,Widener,Dickinson,14,0,,99,,D3 R16,D3
+1994,1994x11x19,Wash. & Jeff.,Trinity (TX),28,0,,99,,D3 R16,D3
+1994,1994x11x19,Plymouth St.,Merchant Marine,19,18,,99,,D3 R16,D3
+1994,1994x11x19,Ithaca,Buffalo St.,10,7,2OT,99,,D3 R16,D3
+1994,1994x11x26,Albion,Mount Union,34,33,,99,,D3 QF,D3
+1994,1994x11x26,St. John's (MN),Wartburg,42,14,,99,,D3 QF,D3
+1994,1994x11x26,Wash. & Jeff.,Widener,37,21,,99,,D3 QF,D3
+1994,1994x11x26,Ithaca,Plymouth St.,22,7,,99,,D3 QF,D3
+1994,1994x12x03,Albion,St. John's (MN),19,16,,99,,D3 Semi,D3
+1994,1994x12x03,Wash. & Jeff.,Ithaca,23,19,,99,,D3 Semi,D3
+1994,1994x12x10,Albion,Wash. & Jeff.,38,15,,3,Salem VA,D3 Champ,D3
+1994,1994x11x26,Youngstown St.,Alcorn St.,63,20,,1,,FCS R16,FCS
+1994,1994x11x26,Eastern Ky.,Boston U.,30,23,,1,,FCS R16,FCS
+1994,1994x11x26,McNeese,Idaho,38,21,,1,,FCS R16,FCS
+1994,1994x11x26,Montana,Northern Iowa,23,20,,1,,FCS R16,FCS
+1994,1994x11x26,Marshall,Middle Tenn.,49,14,,1,,FCS R16,FCS
+1994,1994x11x26,James Madison,Troy,45,26,,1,,FCS R16,FCS
+1994,1994x11x26,Boise St.,North Texas,24,20,,1,,FCS R16,FCS
+1994,1994x11x26,Appalachian St.,New Hampshire,17,10,OT,2,,FCS R16,FCS
+1994,1994x12x03,Youngstown St.,Eastern Ky.,18,15,,1,,FCS QF,FCS
+1994,1994x12x03,Montana,McNeese,30,28,,1,,FCS QF,FCS
+1994,1994x12x03,Marshall,James Madison,28,21,OT,1,,FCS QF,FCS
+1994,1994x12x03,Boise St.,Appalachian St.,17,14,,1,,FCS QF,FCS
+1994,1994x12x10,Youngstown St.,Montana,28,9,,1,,FCS Semi,FCS
+1994,1994x12x10,Boise St.,Marshall,28,24,,2,,FCS Semi,FCS
+1994,1994x12x17,Youngstown St.,Boise St.,28,14,,3,Huntington WV,FCS Champ,FCS
+1995,1995x11x18,Ferris St.,Millersville,36,26,,1,,D2 R16,D2
+1995,1995x11x18,New Haven,Edinboro,27,12,,1,,D2 R16,D2
+1995,1995x11x18,North Alabama,Albany St.,38,28,,1,,D2 R16,D2
+1995,1995x11x18,Carson-Newman,West Georgia,37,26,,1,,D2 R16,D2
+1995,1995x11x18,Pittsburg St.,Northern Colo.,36,17,,1,,D2 R16,D2
+1995,1995x11x18,North Dakota St.,North Dakota,41,10,,2,,D2 R16,D2
+1995,1995x11x18,TAMU Kingsville,Fort Hays St.,59,28,,1,,D2 R16,D2
+1995,1995x11x18,Portland St.,TAMU Commerce,56,35,,1,,D2 R16,D2
+1995,1995x11x25,Ferris St.,New Haven,17,9,,1,,D2 QF,D2
+1995,1995x11x25,North Alabama,Carson-Newman,28,7,,1,,D2 QF,D2
+1995,1995x11x25,Pittsburg St.,North Dakota St.,9,7,,1,,D2 QF,D2
+1995,1995x11x25,TAMU Kingsville,Portland St.,30,3,,1,,D2 QF,D2
+1995,1995x12x02,North Alabama,Ferris St.,45,7,,1,,D2 Semi,D2
+1995,1995x12x02,Pittsburg St.,TAMU Kingsville,28,25,OT,2,,D2 Semi,D2
+1995,1995x12x09,North Alabama,Pittsburg St.,27,7,,3,Florence AL,D2 Champ,D2
+1995,1995x11x18,Mount Union,Hanover,52,18,,99,,D3 R16,D3
+1995,1995x11x18,Wheaton,Wittenberg,63,41,,99,,D3 R16,D3
+1995,1995x11x18,UW LaCrosse,Concordia Moorhead,45,7,,99,,D3 R16,D3
+1995,1995x11x18,UW River Falls,Central (IA),10,7,,99,,D3 R16,D3
+1995,1995x11x18,Wash. & Jeff.,Emory & Henry,35,16,,99,,D3 R16,D3
+1995,1995x11x18,Lycoming,Widener,31,27,,99,,D3 R16,D3
+1995,1995x11x18,Rowan,Buffalo St.,46,7,,99,,D3 R16,D3
+1995,1995x11x18,Union (NY),Plymouth St.,24,7,,99,,D3 R16,D3
+1995,1995x11x25,Mount Union,Wheaton,40,14,,99,,D3 QF,D3
+1995,1995x11x25,UW LaCrosse,UW River Falls,28,14,,99,,D3 QF,D3
+1995,1995x11x25,Wash. & Jeff.,Lycoming,48,0,,99,,D3 QF,D3
+1995,1995x11x25,Rowan,Union (NY),38,7,,99,,D3 QF,D3
+1995,1995x12x02,UW LaCrosse,Mount Union,20,17,,99,,D3 Semi,D3
+1995,1995x12x02,Rowan,Wash. & Jeff.,28,15,,99,,D3 Semi,D3
+1995,1995x12x09,UW LaCrosse,Rowan,36,7,,3,Salem VA,D3 Champ,D3
+1995,1995x11x25,McNeese,Idaho,33,3,,1,,FCS R16,FCS
+1995,1995x11x25,Delaware,Hofstra,38,17,,1,,FCS R16,FCS
+1995,1995x11x25,Northern Iowa,Murray St.,35,34,,2,,FCS R16,FCS
+1995,1995x11x25,Marshall,Jackson St.,38,8,,1,,FCS R16,FCS
+1995,1995x11x25,Appalachian St.,James Madison,31,24,,1,,FCS R16,FCS
+1995,1995x11x25,S.F. Austin,Eastern Ill.,34,29,,1,,FCS R16,FCS
+1995,1995x11x25,Ga. Southern,Troy,24,21,,2,,FCS R16,FCS
+1995,1995x11x25,Montana,Eastern Ky.,48,0,,1,,FCS R16,FCS
+1995,1995x12x02,McNeese,Delaware,52,18,,1,,FCS QF,FCS
+1995,1995x12x02,Marshall,Northern Iowa,41,24,,1,,FCS QF,FCS
+1995,1995x12x02,S.F. Austin,Appalachian St.,27,17,,2,,FCS QF,FCS
+1995,1995x12x02,Montana,Ga. Southern,45,0,,1,,FCS QF,FCS
+1995,1995x12x09,Marshall,McNeese,25,13,,2,,FCS Semi,FCS
+1995,1995x12x09,Montana,S.F. Austin,70,14,,1,,FCS Semi,FCS
+1995,1995x12x16,Montana,Marshall,22,20,,3,Huntington WV,FCS Champ,FCS
+1996,1996x11x23,Clarion,Bloomsburg,42,29,,1,,D2 R16,D2
+1996,1996x11x23,Ferris St.,Indiana (PA),24,23,,1,,D2 R16,D2
+1996,1996x11x23,Northern Colo.,Pittsburg St.,24,21,,2,,D2 R16,D2
+1996,1996x11x23,NW Missouri St.,Omaha,22,21,,2,,D2 R16,D2
+1996,1996x11x23,Valdosta St.,Albany St.,38,28,,1,,D2 R16,D2
+1996,1996x11x23,Carson-Newman,West Georgia,41,7,,1,,D2 R16,D2
+1996,1996x11x23,Central Okla.,Chadron St.,23,21,,1,,D2 R16,D2
+1996,1996x11x23,UC Davis,TAMU Kingsville,17,14,,2,,D2 R16,D2
+1996,1996x11x30,Clarion,Ferris St.,23,21,,2,,D2 QF,D2
+1996,1996x11x30,Northern Colo.,NW Missouri St.,27,26,,1,,D2 QF,D2
+1996,1996x11x30,Carson-Newman,Valdosta St.,24,19,,1,,D2 QF,D2
+1996,1996x11x30,UC Davis,Central Okla.,26,7,,1,,D2 QF,D2
+1996,1996x12x07,Northern Colo.,Clarion,19,18,,2,,D2 Semi,D2
+1996,1996x12x07,Carson-Newman,UC Davis,29,26,,1,,D2 Semi,D2
+1996,1996x12x14,Northern Colo.,Carson-Newman,23,14,,3,Florence AL,D2 Champ,D2
+1996,1996x11x23,Mount Union,Allegheny,31,26,,99,,D3 R16,D3
+1996,1996x11x23,Ill. Wesleyan,Albion,23,20,,99,,D3 R16,D3
+1996,1996x11x23,UW LaCrosse,UW River Falls,44,0,,99,,D3 R16,D3
+1996,1996x11x23,St. John's (MN),Simpson,21,18,,99,,D3 R16,D3
+1996,1996x11x23,Lycoming,Ursinus,31,24,,99,,D3 R16,D3
+1996,1996x11x23,Albright,Wash. & Jeff.,31,17,,99,,D3 R16,D3
+1996,1996x11x23,Rowan,Buffalo St.,21,20,,99,,D3 R16,D3
+1996,1996x11x23,TCNJ,Coast Guard,17,16,,99,,D3 R16,D3
+1996,1996x11x30,Mount Union,Ill. Wesleyan,49,14,,99,,D3 QF,D3
+1996,1996x11x30,UW LaCrosse,St. John's (MN),37,30,,99,,D3 QF,D3
+1996,1996x11x30,Lycoming,Albright,31,13,,99,,D3 QF,D3
+1996,1996x11x30,Rowan,TCNJ,7,3,,99,,D3 QF,D3
+1996,1996x12x07,Mount Union,UW LaCrosse,39,21,,99,,D3 Semi,D3
+1996,1996x12x07,Rowan,Lycoming,33,14,,99,,D3 Semi,D3
+1996,1996x12x14,Mount Union,Rowan,56,24,,3,Salem VA,D3 Champ,D3
+1996,1996x11x30,Montana,Nicholls,48,3,,1,,FCS R16,FCS
+1996,1996x11x30,ETSU,Villanova,35,29,,1,,FCS R16,FCS
+1996,1996x11x30,Troy,Florida A&M,29,25,,1,,FCS R16,FCS
+1996,1996x11x30,Murray St.,Western Ill.,34,6,,1,,FCS R16,FCS
+1996,1996x11x30,Marshall,Delaware,59,14,,1,,FCS R16,FCS
+1996,1996x11x30,Furman,Northern Ariz.,42,31,,2,,FCS R16,FCS
+1996,1996x11x30,Northern Iowa,Eastern Ill.,21,14,,1,,FCS R16,FCS
+1996,1996x11x30,William & Mary,Jackson St.,45,6,,1,,FCS R16,FCS
+1996,1996x12x07,Montana,ETSU,44,14,,1,,FCS QF,FCS
+1996,1996x12x07,Troy,Murray St.,31,3,,1,,FCS QF,FCS
+1996,1996x12x07,Marshall,Furman,54,0,,1,,FCS QF,FCS
+1996,1996x12x07,Northern Iowa,William & Mary,38,35,,1,,FCS QF,FCS
+1996,1996x12x14,Montana,Troy,70,7,,1,,FCS Semi,FCS
+1996,1996x12x14,Marshall,Northern Iowa,31,14,,1,,FCS Semi,FCS
+1996,1996x12x21,Marshall,Montana,49,29,,3,Huntington WV,FCS Champ,FCS
+1997,1997x11x22,UC Davis,TAMU Kingsville,37,34,,2,,D2 R16,D2
+1997,1997x11x22,Angelo St.,Western Colo.,46,12,,1,,D2 R16,D2
+1997,1997x11x22,New Haven,Glenville St.,47,7,,1,,D2 R16,D2
+1997,1997x11x22,Slippery Rock,Ashland,30,20,,1,,D2 R16,D2
+1997,1997x11x22,NW Missouri St.,North Dakota St.,39,28,,1,,D2 R16,D2
+1997,1997x11x22,Northern Colo.,Pittsburg St.,24,16,,2,,D2 R16,D2
+1997,1997x11x22,Carson-Newman,North Alabama,21,7,,1,,D2 R16,D2
+1997,1997x11x22,Albany St.,Southern Ark.,10,6,,1,,D2 R16,D2
+1997,1997x11x29,UC Davis,Angelo St.,50,33,,2,,D2 QF,D2
+1997,1997x11x29,New Haven,Slippery Rock,49,21,,1,,D2 QF,D2
+1997,1997x11x29,Northern Colo.,NW Missouri St.,35,19,,2,,D2 QF,D2
+1997,1997x11x29,Carson-Newman,Albany St.,23,22,,1,,D2 QF,D2
+1997,1997x12x06,New Haven,UC Davis,27,25,,1,,D2 Semi,D2
+1997,1997x12x06,Northern Colo.,Carson-Newman,30,29,,2,,D2 Semi,D2
+1997,1997x12x13,Northern Colo.,New Haven,51,0,,3,Florence AL,D2 Champ,D2
+1997,1997x11x22,Mount Union,Allegheny,34,30,,99,,D3 R16,D3
+1997,1997x11x22,John Carroll,Hanover,30,20,,99,,D3 R16,D3
+1997,1997x11x22,Simpson,UW Whitewater,34,31,,99,,D3 R16,D3
+1997,1997x11x22,Augsburg,Concordia Moorhead,34,22,,99,,D3 R16,D3
+1997,1997x11x22,Lycoming,McDaniel,27,13,,99,,D3 R16,D3
+1997,1997x11x22,Trinity (TX),Catholic,44,33,,99,,D3 R16,D3
+1997,1997x11x22,Rowan,Coast Guard,43,0,,99,,D3 R16,D3
+1997,1997x11x22,TCNJ,Cortland St.,34,30,,99,,D3 R16,D3
+1997,1997x11x29,Mount Union,John Carroll,59,7,,99,,D3 QF,D3
+1997,1997x11x29,Simpson,Augsburg,61,21,,99,,D3 QF,D3
+1997,1997x11x29,Lycoming,Trinity (TX),46,26,,99,,D3 QF,D3
+1997,1997x11x29,Rowan,TCNJ,13,7,,99,,D3 QF,D3
+1997,1997x12x06,Mount Union,Simpson,54,7,,99,,D3 Semi,D3
+1997,1997x12x06,Lycoming,Rowan,28,20,,99,,D3 Semi,D3
+1997,1997x12x13,Mount Union,Lycoming,61,12,,3,Salem VA,D3 Champ,D3
+1997,1997x11x29,Villanova,Colgate,49,28,,1,,FCS R16,FCS
+1997,1997x11x29,Youngstown St.,Hampton,28,13,,1,,FCS R16,FCS
+1997,1997x11x29,Western Ky.,Eastern Ky.,42,14,,1,,FCS R16,FCS
+1997,1997x11x29,Eastern Wash.,Northwestern St.,40,10,,1,,FCS R16,FCS
+1997,1997x11x29,Delaware,Hofstra,24,14,,1,,FCS R16,FCS
+1997,1997x11x29,Ga. Southern,Florida A&M,52,37,,1,,FCS R16,FCS
+1997,1997x11x29,McNeese,Montana,19,14,,1,,FCS R16,FCS
+1997,1997x11x29,Western Ill.,Jackson St.,31,24,,1,,FCS R16,FCS
+1997,1997x12x06,Youngstown St.,Villanova,37,34,,2,,FCS QF,FCS
+1997,1997x12x06,Eastern Wash.,Western Ky.,38,21,,1,,FCS QF,FCS
+1997,1997x12x06,Delaware,Ga. Southern,16,7,,1,,FCS QF,FCS
+1997,1997x12x06,McNeese,Western Ill.,14,12,,2,,FCS QF,FCS
+1997,1997x12x13,Youngstown St.,Eastern Wash.,25,14,,2,,FCS Semi,FCS
+1997,1997x12x13,McNeese,Delaware,23,21,,2,,FCS Semi,FCS
+1997,1997x12x20,Youngstown St.,McNeese,10,9,,3,Chattanooga,FCS Champ,FCS
+1998,1998x11x21,Carson-Newman,West Georgia,30,20,,1,,D2 R16,D2
+1998,1998x11x21,Fort Valley St.,Delta St.,21,14,,2,,D2 R16,D2
+1998,1998x11x21,Slippery Rock,Grand Valley St.,37,14,,1,,D2 R16,D2
+1998,1998x11x21,Shepherd,Indiana (PA),9,6,,2,,D2 R16,D2
+1998,1998x11x21,NW Missouri St.,Omaha,28,14,,1,,D2 R16,D2
+1998,1998x11x21,Northern Colo.,North Dakota,52,24,,1,,D2 R16,D2
+1998,1998x11x21,Central Okla.,Chadron St.,21,19,,1,,D2 R16,D2
+1998,1998x11x21,TAMU Kingsville,UC Davis,54,21,,2,,D2 R16,D2
+1998,1998x11x28,Carson-Newman,Fort Valley St.,38,31,OT,1,,D2 QF,D2
+1998,1998x11x28,Slippery Rock,Shepherd,31,20,,1,,D2 QF,D2
+1998,1998x11x28,NW Missouri St.,Northern Colo.,42,17,,1,,D2 QF,D2
+1998,1998x11x28,TAMU Kingsville,Central Okla.,24,21,OT,2,,D2 QF,D2
+1998,1998x12x05,Carson-Newman,Slippery Rock,47,21,,1,,D2 Semi,D2
+1998,1998x12x05,NW Missouri St.,TAMU Kingsville,49,34,,1,,D2 Semi,D2
+1998,1998x12x12,NW Missouri St.,Carson-Newman,24,6,,3,Florence AL,D2 Champ,D2
+1998,1998x11x21,Mount Union,Albion,21,19,,99,,D3 R16,D3
+1998,1998x11x21,Wittenberg,Millikin,13,10,,99,,D3 R16,D3
+1998,1998x11x21,Lycoming,Catholic,49,14,,99,,D3 R16,D3
+1998,1998x11x21,Trinity (TX),McDaniel,30,20,,99,,D3 R16,D3
+1998,1998x11x21,UW Eau Claire,Central (IA),28,21,,99,,D3 R16,D3
+1998,1998x11x21,St. John's (MN),Pacific Lutheran,33,20,,99,,D3 R16,D3
+1998,1998x11x21,Buffalo St.,Springfield,38,35,,99,,D3 R16,D3
+1998,1998x11x21,Rowan,TCNJ,26,2,,99,,D3 R16,D3
+1998,1998x11x28,Mount Union,Wittenberg,21,19,,99,,D3 QF,D3
+1998,1998x11x28,Trinity (TX),Lycoming,37,21,,99,,D3 QF,D3
+1998,1998x11x28,UW Eau Claire,St. John's (MN),10,7,,99,,D3 QF,D3
+1998,1998x11x28,Rowan,Buffalo St.,19,17,,99,,D3 QF,D3
+1998,1998x12x05,Mount Union,Trinity (TX),34,29,,99,,D3 Semi,D3
+1998,1998x12x05,Rowan,UW Eau Claire,22,19,,99,,D3 Semi,D3
+1998,1998x12x12,Mount Union,Rowan,44,24,,3,Salem VA,D3 Champ,D3
+1998,1998x11x28,Ga. Southern,Colgate,49,28,,1,,FCS R16,FCS
+1998,1998x11x28,Connecticut,Hampton,42,34,,1,,FCS R16,FCS
+1998,1998x11x28,Florida A&M,Troy,27,17,,1,,FCS R16,FCS
+1998,1998x11x28,Western Ill.,Montana,52,9,,1,,FCS R16,FCS
+1998,1998x11x28,Lehigh,Richmond,24,23,,2,,FCS R16,FCS
+1998,1998x11x28,Massachusetts,McNeese,21,19,,2,,FCS R16,FCS
+1998,1998x11x28,Appalachian St.,Tennessee St.,45,31,,1,,FCS R16,FCS
+1998,1998x11x28,Northwestern St.,Illinois St.,48,28,,1,,FCS R16,FCS
+1998,1998x12x05,Ga. Southern,Connecticut,52,30,,1,,FCS QF,FCS
+1998,1998x12x05,Western Ill.,Florida A&M,24,21,,1,,FCS QF,FCS
+1998,1998x12x05,Massachusetts,Lehigh,27,21,,1,,FCS QF,FCS
+1998,1998x12x05,Northwestern St.,Appalachian St.,31,20,,1,,FCS QF,FCS
+1998,1998x12x12,Ga. Southern,Western Ill.,42,14,,1,,FCS Semi,FCS
+1998,1998x12x12,Massachusetts,Northwestern St.,41,31,,2,,FCS Semi,FCS
+1998,1998x12x19,Massachusetts,Ga. Southern,55,43,,3,Chattanooga,FCS Champ,FCS
+1999,1999x11x20,Carson-Newman,Arkansas Tech,40,28,,1,,D2 R16,D2
+1999,1999x11x20,Catawba,Fort Valley St.,48,17,,1,,D2 R16,D2
+1999,1999x11x20,UC Davis,Central Okla.,33,17,,1,,D2 R16,D2
+1999,1999x11x20,Northeastern St.,Western Wash.,27,24,OT,1,,D2 R16,D2
+1999,1999x11x20,Indiana (PA),Slippery Rock,27,20,OT,2,,D2 R16,D2
+1999,1999x11x20,Millersville,Shepherd,21,14,,1,,D2 R16,D2
+1999,1999x11x20,Northern Colo.,Pittsburg St.,34,31,,1,,D2 R16,D2
+1999,1999x11x20,NW Missouri St.,North Dakota,20,13,OT,1,,D2 R16,D2
+1999,1999x11x27,Carson-Newman,Catawba,28,25,,1,,D2 QF,D2
+1999,1999x11x27,Northeastern St.,UC Davis,19,14,,2,,D2 QF,D2
+1999,1999x11x27,Indiana (PA),Millersville,26,21,,2,,D2 QF,D2
+1999,1999x11x27,NW Missouri St.,Northern Colo.,41,35,,2,,D2 QF,D2
+1999,1999x12x04,Carson-Newman,Northeastern St.,42,7,,1,,D2 Semi,D2
+1999,1999x12x04,NW Missouri St.,Indiana (PA),20,12,,1,,D2 Semi,D2
+1999,1999x12x11,NW Missouri St.,Carson-Newman,58,52,4OT,3,Florence AL,D2 Champ,D2
+1999,1999x11x20,Augustana (IL),St. Norbert,39,32,,99,,D3 R28,D3
+1999,1999x11x20,Ohio Northern,Hanover,56,14,,99,,D3 R28,D3
+1999,1999x11x20,Wittenberg,Alma,42,19,,99,,D3 R28,D3
+1999,1999x11x20,Montclair St.,Buffalo St.,37,34,,99,,D3 R28,D3
+1999,1999x11x20,Rowan,Rensselaer,29,10,,99,,D3 R28,D3
+1999,1999x11x20,Ursinus,Bridgewater St.,43,38,,99,,D3 R28,D3
+1999,1999x11x20,Pacific Lutheran,Willamette,28,24,,99,,D3 R28,D3
+1999,1999x11x20,Central (IA),UW LaCrosse,38,17,,99,,D3 R28,D3
+1999,1999x11x20,St. John's (MN),UW Stevens Point,23,10,,99,,D3 R28,D3
+1999,1999x11x20,McDaniel,Catholic,20,16,,99,,D3 R28,D3
+1999,1999x11x20,Hardin Simmons,Washington (MO),28,21,,99,,D3 R28,D3
+1999,1999x11x20,Wash. & Jeff.,Lycoming,14,7,,99,,D3 R28,D3
+1999,1999x11x27,Mount Union,Augustana (IL),42,33,,99,,D3 R16,D3
+1999,1999x11x27,Ohio Northern,Wittenberg,58,24,,99,,D3 R16,D3
+1999,1999x11x27,Montclair St.,Western Conn.,32,24,,99,,D3 R16,D3
+1999,1999x11x27,Rowan,Ursinus,55,0,,99,,D3 R16,D3
+1999,1999x11x27,Pacific Lutheran,Wartburg,49,14,,99,,D3 R16,D3
+1999,1999x11x27,St. John's (MN),Central (IA),10,9,,99,,D3 R16,D3
+1999,1999x11x27,Trinity (TX),McDaniel,20,16,,99,,D3 R16,D3
+1999,1999x11x27,Hardin Simmons,Wash. & Jeff.,51,3,,99,,D3 R16,D3
+1999,1999x12x04,Mount Union,Ohio Northern,56,31,,99,,D3 QF,D3
+1999,1999x12x04,Rowan,Montclair St.,42,13,,99,,D3 QF,D3
+1999,1999x12x04,Pacific Lutheran,St. John's (MN),19,9,,99,,D3 QF,D3
+1999,1999x12x04,Trinity (TX),Hardin Simmons,40,33,,99,,D3 QF,D3
+1999,1999x12x11,Rowan,Mount Union,24,17,OT,99,,D3 Semi,D3
+1999,1999x12x11,Pacific Lutheran,Trinity (TX),49,28,,99,,D3 Semi,D3
+1999,1999x12x18,Pacific Lutheran,Rowan,42,13,,3,Salem VA,D3 Champ,D3
+1999,1999x11x27,NC A&T,Tennessee St.,24,10,,2,,FCS R16,FCS
+1999,1999x11x27,Youngstown St.,Montana,30,27,,2,,FCS R16,FCS
+1999,1999x11x27,Troy,James Madison,27,7,,1,,FCS R16,FCS
+1999,1999x11x27,Florida A&M,Appalachian St.,44,29,,2,,FCS R16,FCS
+1999,1999x11x27,Hofstra,Lehigh,27,15,,1,,FCS R16,FCS
+1999,1999x11x27,Illinois St.,Colgate,56,13,,1,,FCS R16,FCS
+1999,1999x11x27,Massachusetts,Furman,30,23,OT,2,,FCS R16,FCS
+1999,1999x11x27,Ga. Southern,Northern Ariz.,72,29,,1,,FCS R16,FCS
+1999,1999x12x04,Youngstown St.,NC A&T,41,3,,1,,FCS QF,FCS
+1999,1999x12x04,Illinois St.,Hofstra,37,20,,2,,FCS QF,FCS
+1999,1999x12x04,Florida A&M,Troy,17,10,,2,,FCS QF,FCS
+1999,1999x12x04,Ga. Southern,Massachusetts,38,21,,1,,FCS QF,FCS
+1999,1999x12x11,Youngstown St.,Florida A&M,27,24,,1,,FCS Semi,FCS
+1999,1999x12x11,Ga. Southern,Illinois St.,28,17,,1,,FCS Semi,FCS
+1999,1999x12x18,Ga. Southern,Youngstown St.,59,24,,3,Chattanooga,FCS Champ,FCS
+2000,2000x11x18,North Dakota St.,NW Missouri St.,31,17,,2,,D2 R16,D2
+2000,2000x11x18,Omaha,Pittsburg St.,14,3,,1,,D2 R16,D2
+2000,2000x11x18,Catawba,West Georgia,28,24,,1,,D2 R16,D2
+2000,2000x11x18,Delta St.,Valdosta St.,49,12,,1,,D2 R16,D2
+2000,2000x11x18,Northwood,Indiana (PA),28,0,,1,,D2 R16,D2
+2000,2000x11x18,Bloomsburg,Saginaw Valley St.,46,32,,1,,D2 R16,D2
+2000,2000x11x18,UC Davis,Chadron St.,48,10,,1,,D2 R16,D2
+2000,2000x11x18,Colorado Mesa,Northeastern St.,40,21,,2,,D2 R16,D2
+2000,2000x11x25,North Dakota St.,Omaha,43,21,,2,,D2 QF,D2
+2000,2000x11x25,Delta St.,Catawba,20,14,,2,,D2 QF,D2
+2000,2000x11x25,Bloomsburg,Northwood,38,14,,1,,D2 QF,D2
+2000,2000x11x25,UC Davis,Colorado Mesa,62,18,,1,,D2 QF,D2
+2000,2000x12x02,Delta St.,North Dakota St.,34,16,,1,,D2 Semi,D2
+2000,2000x12x02,Bloomsburg,UC Davis,58,48,,2,,D2 Semi,D2
+2000,2000x12x09,Delta St.,Bloomsburg,63,34,,3,Florence AL,D2 Champ,D2
+2000,2000x11x18,Ohio Northern,Millikin,47,21,,99,,D3 R28,D3
+2000,2000x11x18,Hanover,Hope,20,3,,99,,D3 R28,D3
+2000,2000x11x18,Wittenberg,Aurora,31,20,,99,,D3 R28,D3
+2000,2000x11x18,Springfield,Montclair St.,31,29,,99,,D3 R28,D3
+2000,2000x11x18,Widener,Union (NY),33,26,,99,,D3 R28,D3
+2000,2000x11x18,Hobart,Bridgewater St.,25,0,,99,,D3 R28,D3
+2000,2000x11x18,Central (IA),St. Norbert,28,14,,99,,D3 R28,D3
+2000,2000x11x18,Pacific Lutheran,Bethel (MN),41,13,,99,,D3 R28,D3
+2000,2000x11x18,St. John's (MN),UW Stout,26,19,,99,,D3 R28,D3
+2000,2000x11x18,McDaniel,Emory & Henry,38,14,,99,,D3 R28,D3
+2000,2000x11x18,Trinity (TX),Wesley,21,3,,99,,D3 R28,D3
+2000,2000x11x18,Bridgewater,Wash. & Jeff.,59,42,,99,,D3 R28,D3
+2000,2000x11x25,Mount Union,Ohio Northern,59,28,,99,,D3 R16,D3
+2000,2000x11x25,Wittenberg,Hanover,32,21,,99,,D3 R16,D3
+2000,2000x11x25,Springfield,Brockport,13,6,,99,,D3 R16,D3
+2000,2000x11x25,Widener,Hobart,40,14,,99,,D3 R16,D3
+2000,2000x11x25,Central (IA),Linfield,20,17,OT,99,,D3 R16,D3
+2000,2000x11x25,St. John's (MN),Pacific Lutheran,28,21,OT,99,,D3 R16,D3
+2000,2000x11x25,Hardin Simmons,McDaniel,32,10,,99,,D3 R16,D3
+2000,2000x11x25,Trinity (TX),Bridgewater,47,41,OT,99,,D3 R16,D3
+2000,2000x12x02,Mount Union,Wittenberg,32,15,,99,,D3 QF,D3
+2000,2000x12x02,Widener,Springfield,61,27,,99,,D3 QF,D3
+2000,2000x12x02,St. John's (MN),Central (IA),21,18,,99,,D3 QF,D3
+2000,2000x12x02,Hardin Simmons,Trinity (TX),33,30,,99,,D3 QF,D3
+2000,2000x12x09,Mount Union,Widener,70,30,,99,,D3 Semi,D3
+2000,2000x12x09,St. John's (MN),Hardin Simmons,38,14,,99,,D3 Semi,D3
+2000,2000x12x16,Mount Union,St. John's (MN),10,7,,3,Salem VA,D3 Champ,D3
+2000,2000x11x25,Montana,Eastern Ill.,45,13,,1,,FCS R16,FCS
+2000,2000x11x25,Richmond,Youngstown St.,10,3,,1,,FCS R16,FCS
+2000,2000x11x25,Western Ky.,Florida A&M,27,0,,1,,FCS R16,FCS
+2000,2000x11x25,Appalachian St.,Troy,33,30,,2,,FCS R16,FCS
+2000,2000x11x25,Ga. Southern,McNeese,42,17,,1,,FCS R16,FCS
+2000,2000x11x25,Hofstra,Furman,31,24,,2,,FCS R16,FCS
+2000,2000x11x25,Lehigh,Western Ill.,37,7,,2,,FCS R16,FCS
+2000,2000x11x25,Delaware,Portland St.,49,14,,1,,FCS R16,FCS
+2000,2000x12x02,Montana,Richmond,34,20,,1,,FCS QF,FCS
+2000,2000x12x02,Appalachian St.,Western Ky.,17,14,,2,,FCS QF,FCS
+2000,2000x12x02,Ga. Southern,Hofstra,48,20,,1,,FCS QF,FCS
+2000,2000x12x02,Delaware,Lehigh,47,22,,1,,FCS QF,FCS
+2000,2000x12x09,Montana,Appalachian St.,19,16,OT,1,,FCS Semi,FCS
+2000,2000x12x09,Ga. Southern,Delaware,27,18,,2,,FCS Semi,FCS
+2000,2000x12x16,Ga. Southern,Montana,27,25,,3,Chattanooga,FCS Champ,FCS
+2001,2001x11x17,North Dakota,Winona St.,42,28,,1,,D2 R16,D2
+2001,2001x11x17,Pittsburg St.,Omaha,20,7,,1,,D2 R16,D2
+2001,2001x11x17,Tarleton,Chadron St.,28,24,,2,,D2 R16,D2
+2001,2001x11x17,UC Davis,TAMU Kingsville,37,32,,2,,D2 R16,D2
+2001,2001x11x17,Valdosta St.,Fort Valley St.,40,24,,1,,D2 R16,D2
+2001,2001x11x17,Catawba,Central Ark.,35,34,,1,,D2 R16,D2
+2001,2001x11x17,Grand Valley St.,Bloomsburg,42,14,,1,,D2 R16,D2
+2001,2001x11x17,Saginaw Valley St.,Indiana (PA),33,32,,1,,D2 R16,D2
+2001,2001x11x24,North Dakota,Pittsburg St.,38,0,,1,,D2 QF,D2
+2001,2001x11x24,UC Davis,Tarleton,42,25,,1,,D2 QF,D2
+2001,2001x11x24,Catawba,Valdosta St.,37,34,OT,2,,D2 QF,D2
+2001,2001x11x24,Grand Valley St.,Saginaw Valley St.,33,30,,1,,D2 QF,D2
+2001,2001x12x01,North Dakota,UC Davis,14,2,,1,,D2 Semi,D2
+2001,2001x12x01,Grand Valley St.,Catawba,34,16,,1,,D2 Semi,D2
+2001,2001x12x08,North Dakota,Grand Valley St.,17,14,,3,Florence AL,D2 Champ,D2
+2001,2001x11x17,Augustana (IL),Defiance,54,14,,99,,D3 R28,D3
+2001,2001x11x17,Wittenberg,Hardin Simmons,38,35,OT,99,,D3 R28,D3
+2001,2001x11x17,Thomas More,MacMurray,34,30,,99,,D3 R28,D3
+2001,2001x11x17,Pacific Lutheran,Whitworth,27,26,OT,99,,D3 R28,D3
+2001,2001x11x17,UW Stevens Point,Bethel (MN),37,27,,99,,D3 R28,D3
+2001,2001x11x17,St. John's (MN),St. Norbert,27,20,,99,,D3 R28,D3
+2001,2001x11x17,Ithaca,Montclair St.,35,23,,99,,D3 R28,D3
+2001,2001x11x17,Rowan,Brockport,40,17,,99,,D3 R28,D3
+2001,2001x11x17,Western Conn.,Westfield St.,8,7,,99,,D3 R28,D3
+2001,2001x11x17,Trinity (TX),Mary Hardin-Baylor,30,6,,99,,D3 R28,D3
+2001,2001x11x17,Wash. & Jeff.,McDaniel,24,21,,99,,D3 R28,D3
+2001,2001x11x17,Widener,Chris. Newport,56,7,,99,,D3 R28,D3
+2001,2001x11x24,Mount Union,Augustana (IL),32,7,,99,,D3 R16,D3
+2001,2001x11x24,Wittenberg,Thomas More,41,0,,99,,D3 R16,D3
+2001,2001x11x24,Pacific Lutheran,Central (IA),27,21,OT,99,,D3 R16,D3
+2001,2001x11x24,St. John's (MN),UW Stevens Point,9,7,,99,,D3 R16,D3
+2001,2001x11x24,Ithaca,Rensselaer,27,10,,99,,D3 R16,D3
+2001,2001x11x24,Rowan,Western Conn.,43,14,,99,,D3 R16,D3
+2001,2001x11x24,Bridgewater,Trinity (TX),41,37,,99,,D3 R16,D3
+2001,2001x11x24,Widener,Wash. & Jeff.,46,30,,99,,D3 R16,D3
+2001,2001x12x01,Mount Union,Wittenberg,49,21,,99,,D3 QF,D3
+2001,2001x12x01,St. John's (MN),Pacific Lutheran,31,6,,99,,D3 QF,D3
+2001,2001x12x01,Rowan,Ithaca,48,0,,99,,D3 QF,D3
+2001,2001x12x01,Bridgewater,Widener,57,32,,99,,D3 QF,D3
+2001,2001x12x08,Mount Union,St. John's (MN),35,14,,99,,D3 Semi,D3
+2001,2001x12x08,Bridgewater,Rowan,29,24,,99,,D3 Semi,D3
+2001,2001x12x15,Mount Union,Bridgewater,30,27,,3,Salem VA,D3 Champ,D3
+2001,2001x12x01,Montana,Northwestern St.,28,19,,1,,FCS R16,FCS
+2001,2001x12x01,Sam Houston,Northern Ariz.,34,31,,1,,FCS R16,FCS
+2001,2001x12x01,Maine,McNeese,14,10,,2,,FCS R16,FCS
+2001,2001x12x01,Northern Iowa,Eastern Ill.,49,43,,2,,FCS R16,FCS
+2001,2001x12x01,Ga. Southern,Florida A&M,60,35,,1,,FCS R16,FCS
+2001,2001x12x01,Appalachian St.,William & Mary,40,27,,1,,FCS R16,FCS
+2001,2001x12x01,Lehigh,Hofstra,27,24,OT,1,,FCS R16,FCS
+2001,2001x12x01,Furman,Western Ky.,24,20,,1,,FCS R16,FCS
+2001,2001x12x08,Montana,Sam Houston,49,24,,1,,FCS QF,FCS
+2001,2001x12x08,Northern Iowa,Maine,56,28,,1,,FCS QF,FCS
+2001,2001x12x08,Ga. Southern,Appalachian St.,38,24,,1,,FCS QF,FCS
+2001,2001x12x08,Furman,Lehigh,34,17,,1,,FCS QF,FCS
+2001,2001x12x15,Montana,Northern Iowa,38,0,,1,,FCS Semi,FCS
+2001,2001x12x15,Furman,Ga. Southern,24,17,,2,,FCS Semi,FCS
+2001,2001x12x21,Montana,Furman,13,6,,3,Chattanooga,FCS Champ,FCS
+2002,2002x11x23,Valdosta St.,Catawba,24,7,,1,,D2 R16,D2
+2002,2002x11x23,Carson-Newman,Fayetteville St.,40,27,,1,,D2 R16,D2
+2002,2002x11x23,UC Davis,Central Wash.,24,6,,2,,D2 R16,D2
+2002,2002x11x23,TAMU Kingsville,Neb. Kearney,58,40,,2,,D2 R16,D2
+2002,2002x11x23,Grand Valley St.,CW Post,62,13,,1,,D2 R16,D2
+2002,2002x11x23,Indiana (PA),Saginaw Valley St.,27,23,,1,,D2 R16,D2
+2002,2002x11x23,NW Missouri St.,Minn. Duluth,45,41,,1,,D2 R16,D2
+2002,2002x11x23,Northern Colo.,Central Mo.,49,28,,1,,D2 R16,D2
+2002,2002x11x30,Valdosta St.,Carson-Newman,31,28,,1,,D2 QF,D2
+2002,2002x11x30,TAMU Kingsville,UC Davis,27,20,OT,1,,D2 QF,D2
+2002,2002x11x30,Grand Valley St.,Indiana (PA),62,21,,1,,D2 QF,D2
+2002,2002x11x30,Northern Colo.,NW Missouri St.,23,12,,2,,D2 QF,D2
+2002,2002x12x07,Valdosta St.,TAMU Kingsville,21,12,,1,,D2 Semi,D2
+2002,2002x12x07,Grand Valley St.,Northern Colo.,44,7,,1,,D2 Semi,D2
+2002,2002x12x14,Grand Valley St.,Valdosta St.,31,24,,3,Florence AL,D2 Champ,D2
+2002,2002x11x23,Wheaton,Alma,42,14,,99,,D3 R28,D3
+2002,2002x11x23,Wittenberg,Hanover,34,33,,99,,D3 R28,D3
+2002,2002x11x23,Wabash,MacMurray,42,7,,99,,D3 R28,D3
+2002,2002x11x23,Brockport,Springfield,16,0,,99,,D3 R28,D3
+2002,2002x11x23,John Carroll,Hobart,27,7,,99,,D3 R28,D3
+2002,2002x11x23,Muhlenberg,Mass. Dartmouth,56,6,,99,,D3 R28,D3
+2002,2002x11x23,Wartburg,Lake Forest,45,0,,99,,D3 R28,D3
+2002,2002x11x23,Coe,UW LaCrosse,21,18,,99,,D3 R28,D3
+2002,2002x11x23,St. John's (MN),Redlands,31,24,,99,,D3 R28,D3
+2002,2002x11x23,King's (PA),Salisbury St.,28,0,,99,,D3 R28,D3
+2002,2002x11x23,Wash. & Jeff.,Chris. Newport,24,10,,99,,D3 R28,D3
+2002,2002x11x23,Trinity (TX),Mary Hardin-Baylor,48,38,,99,,D3 R28,D3
+2002,2002x11x30,Mount Union,Wheaton,42,21,,99,,D3 R16,D3
+2002,2002x11x30,Wabash,Wittenberg,25,14,,99,,D3 R16,D3
+2002,2002x11x30,Brockport,Rowan,15,12,,99,,D3 R16,D3
+2002,2002x11x30,John Carroll,Muhlenberg,21,10,,99,,D3 R16,D3
+2002,2002x11x30,Linfield,Wartburg,52,15,,99,,D3 R16,D3
+2002,2002x11x30,St. John's (MN),Coe,45,14,,99,,D3 R16,D3
+2002,2002x11x30,Bridgewater,King's (PA),19,17,,99,,D3 R16,D3
+2002,2002x11x30,Trinity (TX),Wash. & Jeff.,45,10,,99,,D3 R16,D3
+2002,2002x12x07,Mount Union,Wabash,45,16,,99,,D3 QF,D3
+2002,2002x12x07,John Carroll,Brockport,16,10,OT,99,,D3 QF,D3
+2002,2002x12x07,St. John's (MN),Linfield,21,14,,99,,D3 QF,D3
+2002,2002x12x07,Trinity (TX),Bridgewater,38,32,,99,,D3 QF,D3
+2002,2002x12x14,Mount Union,John Carroll,57,19,,99,,D3 Semi,D3
+2002,2002x12x14,Trinity (TX),St. John's (MN),41,34,,99,,D3 Semi,D3
+2002,2002x12x21,Mount Union,Trinity (TX),48,7,,3,Salem VA,D3 Champ,D3
+2002,2002x11x30,McNeese,Montana St.,21,14,,1,,FCS R16,FCS
+2002,2002x11x30,Montana,Northwestern St.,45,14,,1,,FCS R16,FCS
+2002,2002x11x30,Villanova,Furman,45,38,,1,,FCS R16,FCS
+2002,2002x11x30,Fordham,Northeastern,29,24,,2,,FCS R16,FCS
+2002,2002x11x30,Ga. Southern,Bethune Cookman,34,0,,1,,FCS R16,FCS
+2002,2002x11x30,Maine,Appalachian St.,14,13,,2,,FCS R16,FCS
+2002,2002x11x30,Western Ky.,Murray St.,59,20,,1,,FCS R16,FCS
+2002,2002x11x30,Western Ill.,Eastern Ill.,48,9,,1,,FCS R16,FCS
+2002,2002x12x07,McNeese,Montana,24,20,,1,,FCS QF,FCS
+2002,2002x12x07,Villanova,Fordham,24,10,,1,,FCS QF,FCS
+2002,2002x12x07,Ga. Southern,Maine,31,7,,1,,FCS QF,FCS
+2002,2002x12x07,Western Ky.,Western Ill.,31,28,,2,,FCS QF,FCS
+2002,2002x12x14,McNeese,Villanova,39,28,,1,,FCS Semi,FCS
+2002,2002x12x14,Western Ky.,Ga. Southern,31,28,,2,,FCS Semi,FCS
+2002,2002x12x20,Western Ky.,McNeese,34,14,,3,Chattanooga,FCS Champ,FCS
+2003,2003x11x22,North Dakota,Pittsburg St.,24,14,,1,,D2 R16,D2
+2003,2003x11x22,Winona St.,Emporia St.,10,3,,1,,D2 R16,D2
+2003,2003x11x22,North Alabama,Southern Ark.,48,24,,1,,D2 R16,D2
+2003,2003x11x22,Carson-Newman,Valdosta St.,35,29,,2,,D2 R16,D2
+2003,2003x11x22,Saginaw Valley St.,Edinboro,33,9,,1,,D2 R16,D2
+2003,2003x11x22,Grand Valley St.,Bentley,65,36,,2,,D2 R16,D2
+2003,2003x11x22,Central Okla.,Colorado Mesa,20,15,,2,,D2 R16,D2
+2003,2003x11x22,TAMU Kingsville,Tarleton,34,10,,1,,D2 R16,D2
+2003,2003x11x29,North Dakota,Winona St.,36,29,,1,,D2 QF,D2
+2003,2003x11x29,North Alabama,Carson-Newman,41,9,,1,,D2 QF,D2
+2003,2003x11x29,Grand Valley St.,Saginaw Valley St.,10,3,,2,,D2 QF,D2
+2003,2003x11x29,TAMU Kingsville,Central Okla.,49,6,,1,,D2 QF,D2
+2003,2003x12x06,North Dakota,North Alabama,29,22,,1,,D2 Semi,D2
+2003,2003x12x06,Grand Valley St.,TAMU Kingsville,31,3,,2,,D2 Semi,D2
+2003,2003x12x13,Grand Valley St.,North Dakota,10,3,,3,Florence AL,D2 Champ,D2
+2003,2003x11x22,UW LaCrosse,Concordia (WI),52,13,,99,,D3 R28,D3
+2003,2003x11x22,Baldwin-Wallace,Hanover,54,32,,99,,D3 R28,D3
+2003,2003x11x22,Wheaton,Hope,55,45,,99,,D3 R28,D3
+2003,2003x11x22,East Texas Baptist,Trinity (TX),42,41,OT,99,,D3 R28,D3
+2003,2003x11x22,Bridgewater,Waynesburg,28,24,,99,,D3 R28,D3
+2003,2003x11x22,Chris. Newport,Muhlenberg,24,20,,99,,D3 R28,D3
+2003,2003x11x22,Rensselaer,Curry,34,20,,99,,D3 R28,D3
+2003,2003x11x22,Ithaca,Brockport,14,9,,99,,D3 R28,D3
+2003,2003x11x22,Montclair St.,Allegheny,20,19,,99,,D3 R28,D3
+2003,2003x11x22,St. Norbert,Simpson,26,20,2OT,99,,D3 R28,D3
+2003,2003x11x22,Wartburg,Bethel (MN),21,7,,99,,D3 R28,D3
+2003,2003x11x22,Linfield,Redlands,31,23,,99,,D3 R28,D3
+2003,2003x11x29,Mount Union,UW LaCrosse,39,14,,99,,D3 R16,D3
+2003,2003x11x29,Wheaton,Baldwin-Wallace,16,12,,99,,D3 R16,D3
+2003,2003x11x29,Lycoming,East Texas Baptist,13,7,OT,99,,D3 R16,D3
+2003,2003x11x29,Rensselaer,Springfield,40,34,,99,,D3 R16,D3
+2003,2003x11x29,Bridgewater,Chris. Newport,26,3,,99,,D3 R16,D3
+2003,2003x11x29,Ithaca,Montclair St.,33,13,,99,,D3 R16,D3
+2003,2003x11x29,St. John's (MN),St. Norbert,38,13,,99,,D3 R16,D3
+2003,2003x11x29,Linfield,Wartburg,23,20,,99,,D3 R16,D3
+2003,2003x12x06,Mount Union,Wheaton,56,10,,99,,D3 QF,D3
+2003,2003x12x06,Bridgewater,Lycoming,13,9,,99,,D3 QF,D3
+2003,2003x12x06,Rensselaer,Ithaca,21,16,,99,,D3 QF,D3
+2003,2003x12x06,St. John's (MN),Linfield,31,25,,99,,D3 QF,D3
+2003,2003x12x13,Mount Union,Bridgewater,66,0,,99,,D3 Semi,D3
+2003,2003x12x13,St. John's (MN),Rensselaer,38,10,,99,,D3 Semi,D3
+2003,2003x12x20,St. John's (MN),Mount Union,24,6,,3,Salem VA,D3 Champ,D3
+2003,2003x11x29,Northern Ariz.,McNeese,35,3,,2,,FCS R16,FCS
+2003,2003x11x29,Fla. Atlantic,Bethune Cookman,32,24,,2,,FCS R16,FCS
+2003,2003x11x29,Colgate,Massachusetts,19,7,,1,,FCS R16,FCS
+2003,2003x11x29,Western Ill.,Montana,43,40,2OT,2,,FCS R16,FCS
+2003,2003x11x29,Wofford,NC A&T,31,10,,1,,FCS R16,FCS
+2003,2003x11x29,Western Ky.,Jacksonville St.,45,7,,1,,FCS R16,FCS
+2003,2003x11x29,Delaware,Southern Ill.,48,7,,1,,FCS R16,FCS
+2003,2003x11x29,Northern Iowa,Montana St.,35,14,,1,,FCS R16,FCS
+2003,2003x12x06,Fla. Atlantic,Northern Ariz.,48,25,,2,,FCS QF,FCS
+2003,2003x12x06,Colgate,Western Ill.,28,27,,1,,FCS QF,FCS
+2003,2003x12x06,Wofford,Western Ky.,34,17,,1,,FCS QF,FCS
+2003,2003x12x06,Delaware,Northern Iowa,37,7,,1,,FCS QF,FCS
+2003,2003x12x13,Colgate,Fla. Atlantic,36,24,,2,,FCS Semi,FCS
+2003,2003x12x13,Delaware,Wofford,24,9,,1,,FCS Semi,FCS
+2003,2003x12x19,Delaware,Colgate,40,0,,3,Chattanooga,FCS Champ,FCS
+2004,2004x11x13,North Dakota,St. Cloud St.,20,17,2OT,2,,D2 R24,D2
+2004,2004x11x13,Grand Valley St.,Winona St.,16,13,,2,,D2 R24,D2
+2004,2004x11x13,Colo. Mines,Midwestern St.,52,33,,1,,D2 R24,D2
+2004,2004x11x13,TAMU Kingsville,SE Oklahoma St.,40,30,,1,,D2 R24,D2
+2004,2004x11x13,West Chester,CW Post,35,3,,1,,D2 R24,D2
+2004,2004x11x13,Edinboro,Bentley,47,44,,2,,D2 R24,D2
+2004,2004x11x13,Arkansas Tech,Catawba,24,20,,1,,D2 R24,D2
+2004,2004x11x13,Carson-Newman,Fayetteville St.,35,14,,1,,D2 R24,D2
+2004,2004x11x20,North Dakota,Michigan Tech,20,3,,2,,D2 R16,D2
+2004,2004x11x20,Grand Valley St.,Northwood,10,7,,2,,D2 R16,D2
+2004,2004x11x20,Pittsburg St.,Colo. Mines,70,35,,1,,D2 R16,D2
+2004,2004x11x20,NW Missouri St.,TAMU Kingsville,34,14,,1,,D2 R16,D2
+2004,2004x11x20,West Chester,Shippensburg,33,28,,2,,D2 R16,D2
+2004,2004x11x20,East Stroudsburg,Edinboro,36,32,,1,,D2 R16,D2
+2004,2004x11x20,Albany St.,Arkansas Tech,42,24,,1,,D2 R16,D2
+2004,2004x11x20,Valdosta St.,Carson-Newman,38,12,,1,,D2 R16,D2
+2004,2004x11x27,North Dakota,Grand Valley St.,19,15,,1,,D2 QF,D2
+2004,2004x11x27,Pittsburg St.,NW Missouri St.,50,36,,1,,D2 QF,D2
+2004,2004x11x27,West Chester,East Stroudsburg,48,38,,2,,D2 QF,D2
+2004,2004x11x27,Valdosta St.,Albany St.,38,24,,2,,D2 QF,D2
+2004,2004x12x04,Pittsburg St.,North Dakota,31,19,,1,,D2 Semi,D2
+2004,2004x12x04,Valdosta St.,West Chester,45,21,,1,,D2 Semi,D2
+2004,2004x12x11,Valdosta St.,Pittsburg St.,36,31,,3,Florence AL,D2 Champ,D2
+2004,2004x11x20,UW LaCrosse,St. Norbert,37,23,,99,,D3 R28,D3
+2004,2004x11x20,Occidental,Willamette,28,14,,99,,D3 R28,D3
+2004,2004x11x20,Concordia Moorhead,Wartburg,28,14,,99,,D3 R28,D3
+2004,2004x11x20,Hobart,Curry,35,16,,99,,D3 R28,D3
+2004,2004x11x20,St. John Fisher,Muhlenberg,31,3,,99,,D3 R28,D3
+2004,2004x11x20,Delaware Valley,Shenandoah,21,17,,99,,D3 R28,D3
+2004,2004x11x20,Mary Hardin-Baylor,Trinity (TX),32,13,,99,,D3 R28,D3
+2004,2004x11x20,Chris. Newport,Salisbury St.,35,24,,99,,D3 R28,D3
+2004,2004x11x20,Wash. & Jeff.,Bridgewater,55,48,2OT,99,,D3 R28,D3
+2004,2004x11x20,Wheaton,Mount St. Joseph,31,7,,99,,D3 R28,D3
+2004,2004x11x20,Carthage,Alma,31,28,,99,,D3 R28,D3
+2004,2004x11x20,Wooster,Aurora,41,34,,99,,D3 R28,D3
+2004,2004x11x27,Linfield,UW LaCrosse,52,14,,99,,D3 R16,D3
+2004,2004x11x27,Occidental,Concordia Moorhead,42,40,,99,,D3 R16,D3
+2004,2004x11x27,Rowan,Hobart,45,14,,99,,D3 R16,D3
+2004,2004x11x27,Delaware Valley,St. John Fisher,26,20,,99,,D3 R16,D3
+2004,2004x11x27,Mary Hardin-Baylor,Hardin Simmons,42,28,,99,,D3 R16,D3
+2004,2004x11x27,Wash. & Jeff.,Chris. Newport,24,14,,99,,D3 R16,D3
+2004,2004x11x27,Mount Union,Wheaton,27,6,,99,,D3 R16,D3
+2004,2004x11x27,Carthage,Wooster,14,7,,99,,D3 R16,D3
+2004,2004x12x04,Linfield,Occidental,56,27,,99,,D3 QF,D3
+2004,2004x12x04,Rowan,Delaware Valley,56,7,,99,,D3 QF,D3
+2004,2004x12x04,Mary Hardin-Baylor,Wash. & Jeff.,52,16,,99,,D3 QF,D3
+2004,2004x12x04,Mount Union,Carthage,38,20,,99,,D3 QF,D3
+2004,2004x12x11,Linfield,Rowan,52,0,,99,,D3 Semi,D3
+2004,2004x12x11,Mary Hardin-Baylor,Mount Union,38,35,,99,,D3 Semi,D3
+2004,2004x12x18,Linfield,Mary Hardin-Baylor,28,21,,3,Salem VA,D3 Champ,D3
+2004,2004x11x27,Eastern Wash.,Southern Ill.,35,31,,2,,FCS R16,FCS
+2004,2004x11x27,Sam Houston,Western Ky.,54,24,,1,,FCS R16,FCS
+2004,2004x11x27,Montana,Northwestern St.,56,7,,1,,FCS R16,FCS
+2004,2004x11x27,New Hampshire,Ga. Southern,27,23,,2,,FCS R16,FCS
+2004,2004x11x27,William & Mary,Hampton,42,35,,1,,FCS R16,FCS
+2004,2004x11x27,Delaware,Lafayette,28,14,,1,,FCS R16,FCS
+2004,2004x11x27,James Madison,Lehigh,14,13,,2,,FCS R16,FCS
+2004,2004x11x27,Furman,Jacksonville St.,49,7,,1,,FCS R16,FCS
+2004,2004x12x04,Sam Houston,Eastern Wash.,35,34,,2,,FCS QF,FCS
+2004,2004x12x04,Montana,New Hampshire,47,17,,1,,FCS QF,FCS
+2004,2004x12x04,William & Mary,Delaware,44,38,2OT,1,,FCS QF,FCS
+2004,2004x12x04,James Madison,Furman,14,13,,2,,FCS QF,FCS
+2004,2004x12x11,Montana,Sam Houston,34,13,,1,,FCS Semi,FCS
+2004,2004x12x11,James Madison,William & Mary,48,34,,2,,FCS Semi,FCS
+2004,2004x12x17,James Madison,Montana,31,21,,3,Chattanooga,FCS Champ,FCS
+2005,2005x11x12,Central Ark.,Albany St.,28,20,,2,,D2 R24,D2
+2005,2005x11x12,North Alabama,Valdosta St.,40,13,,2,,D2 R24,D2
+2005,2005x11x12,Pittsburg St.,Neb. Kearney,49,20,,2,,D2 R24,D2
+2005,2005x11x12,NW Missouri St.,Angelo St.,45,14,,2,,D2 R24,D2
+2005,2005x11x12,CW Post,West Chester,24,20,,1,,D2 R24,D2
+2005,2005x11x12,East Stroudsburg,Southern Conn.,55,33,,1,,D2 R24,D2
+2005,2005x11x12,North Dakota,Minn. Duluth,23,12,,1,,D2 R24,D2
+2005,2005x11x12,Saginaw Valley St.,Northwood,31,16,,1,,D2 R24,D2
+2005,2005x11x19,Central Ark.,Presbyterian,52,28,,2,,D2 R16,D2
+2005,2005x11x19,North Alabama,NC Central,24,21,,2,,D2 R16,D2
+2005,2005x11x19,Pittsburg St.,West Texas A&M,41,3,,2,,D2 R16,D2
+2005,2005x11x19,NW Missouri St.,Washburn,42,32,,2,,D2 R16,D2
+2005,2005x11x19,CW Post,Shepherd,28,21,,2,,D2 R16,D2
+2005,2005x11x19,East Stroudsburg,Bloomsburg,52,39,,2,,D2 R16,D2
+2005,2005x11x19,Grand Valley St.,North Dakota,17,3,,1,,D2 R16,D2
+2005,2005x11x19,Saginaw Valley St.,Omaha,24,21,,2,,D2 R16,D2
+2005,2005x11x26,North Alabama,Central Ark.,41,38,OT,2,,D2 QF,D2
+2005,2005x11x26,NW Missouri St.,Pittsburg St.,21,10,,2,,D2 QF,D2
+2005,2005x11x26,East Stroudsburg,CW Post,55,28,,1,,D2 QF,D2
+2005,2005x11x26,Grand Valley St.,Saginaw Valley St.,24,17,,1,,D2 QF,D2
+2005,2005x12x03,NW Missouri St.,North Alabama,25,24,,2,,D2 Semi,D2
+2005,2005x12x03,Grand Valley St.,East Stroudsburg,55,20,,1,,D2 Semi,D2
+2005,2005x12x10,Grand Valley St.,NW Missouri St.,21,17,,3,Florence AL,D2 Champ,D2
+2005,2005x11x19,Linfield,Occidental,63,21,,99,,D3 R32,D3
+2005,2005x11x19,Concordia Moorhead,Coe,27,14,,99,,D3 R32,D3
+2005,2005x11x19,St. John's (MN),Monmouth (IL),62,3,,99,,D3 R32,D3
+2005,2005x11x19,UW Whitewater,Central (IA),34,14,,99,,D3 R32,D3
+2005,2005x11x19,Mary Hardin-Baylor,Trinity (TX),35,6,,99,,D3 R32,D3
+2005,2005x11x19,Wesley,Ferrum,59,14,,99,,D3 R32,D3
+2005,2005x11x19,Bridgewater,Wash. & Jeff.,30,21,,99,,D3 R32,D3
+2005,2005x11x19,Thiel,Johns Hopkins,28,3,,99,,D3 R32,D3
+2005,2005x11x19,Wabash,Albion,38,20,,99,,D3 R32,D3
+2005,2005x11x19,Capital,North Central,21,19,,99,,D3 R32,D3
+2005,2005x11x19,Augustana (IL),Lakeland,49,22,,99,,D3 R32,D3
+2005,2005x11x19,Mount Union,Mount St. Joseph,49,6,,99,,D3 R32,D3
+2005,2005x11x19,Delaware Valley,Curry,37,22,,99,,D3 R32,D3
+2005,2005x11x19,Hobart,Cortland St.,23,22,,99,,D3 R32,D3
+2005,2005x11x19,Rowan,Wilkes,42,3,,99,,D3 R32,D3
+2005,2005x11x19,Union (NY),Ithaca,55,41,,99,,D3 R32,D3
+2005,2005x11x26,Linfield,Concordia Moorhead,28,14,,99,,D3 R16,D3
+2005,2005x11x26,UW Whitewater,St. John's (MN),34,7,,99,,D3 R16,D3
+2005,2005x11x26,Wesley,Mary Hardin-Baylor,46,36,,99,,D3 R16,D3
+2005,2005x11x26,Bridgewater,Thiel,24,13,,99,,D3 R16,D3
+2005,2005x11x26,Capital,Wabash,14,11,,99,,D3 R16,D3
+2005,2005x11x26,Mount Union,Augustana (IL),44,7,,99,,D3 R16,D3
+2005,2005x11x26,Delaware Valley,Hobart,21,14,,99,,D3 R16,D3
+2005,2005x11x26,Rowan,Union (NY),28,24,,99,,D3 R16,D3
+2005,2005x12x03,UW Whitewater,Linfield,44,41,,99,,D3 QF,D3
+2005,2005x12x03,Wesley,Bridgewater,46,7,,99,,D3 QF,D3
+2005,2005x12x03,Mount Union,Capital,34,31,,99,,D3 QF,D3
+2005,2005x12x03,Rowan,Delaware Valley,27,21,,99,,D3 QF,D3
+2005,2005x12x10,UW Whitewater,Wesley,58,6,,99,,D3 Semi,D3
+2005,2005x12x10,Mount Union,Rowan,19,7,,99,,D3 Semi,D3
+2005,2005x12x17,Mount Union,UW Whitewater,35,28,,3,Salem VA,D3 Champ,D3
+2005,2005x11x26,New Hampshire,Colgate,55,21,,1,,FCS R16,FCS
+2005,2005x11x26,Northern Iowa,Eastern Wash.,41,38,,1,,FCS R16,FCS
+2005,2005x11x26,Cal Poly,Montana,35,21,,2,,FCS R16,FCS
+2005,2005x11x26,Texas St.,Ga. Southern,50,35,,1,,FCS R16,FCS
+2005,2005x11x26,Richmond,Hampton,38,10,,2,,FCS R16,FCS
+2005,2005x11x26,Furman,Nicholls,14,12,,1,,FCS R16,FCS
+2005,2005x11x26,Southern Ill.,Eastern Ill.,21,6,,2,,FCS R16,FCS
+2005,2005x11x26,Appalachian St.,Lafayette,34,23,,1,,FCS R16,FCS
+2005,2005x12x03,Northern Iowa,New Hampshire,24,21,,2,,FCS QF,FCS
+2005,2005x12x03,Texas St.,Cal Poly,14,7,,1,,FCS QF,FCS
+2005,2005x12x03,Furman,Richmond,24,20,,2,,FCS QF,FCS
+2005,2005x12x03,Appalachian St.,Southern Ill.,38,24,,1,,FCS QF,FCS
+2005,2005x12x10,Northern Iowa,Texas St.,40,37,OT,2,,FCS Semi,FCS
+2005,2005x12x10,Appalachian St.,Furman,29,23,,1,,FCS Semi,FCS
+2005,2005x12x16,Appalachian St.,Northern Iowa,21,16,,3,Chattanooga,FCS Champ,FCS
+2006,2006x11x18,South Dakota,Northwood,31,28,OT,2,,D2 R24,D2
+2006,2006x11x18,North Dakota,Winona St.,42,0,,1,,D2 R24,D2
+2006,2006x11x18,Delta St.,Elizabeth City St.,17,10,,2,,D2 R24,D2
+2006,2006x11x18,Newberry,Albany St.,34,28,,1,,D2 R24,D2
+2006,2006x11x18,Merrimack,Southern Conn.,28,26,,1,,D2 R24,D2
+2006,2006x11x18,West Chester,Bryant,31,29,,2,,D2 R24,D2
+2006,2006x11x18,Midwestern St.,Mo. Western,28,26,,1,,D2 R24,D2
+2006,2006x11x18,West Texas A&M,Abilene Christian,30,27,OT,1,,D2 R24,D2
+2006,2006x11x25,Grand Valley St.,South Dakota,35,17,,1,,D2 R16,D2
+2006,2006x11x25,North Dakota,Omaha,38,35,,2,,D2 R16,D2
+2006,2006x11x25,Delta St.,NC Central,24,17,,2,,D2 R16,D2
+2006,2006x11x25,North Alabama,Newberry,38,20,,1,,D2 R16,D2
+2006,2006x11x25,Shepherd,Merrimack,31,7,,1,,D2 R16,D2
+2006,2006x11x25,Bloomsburg,West Chester,21,20,,1,,D2 R16,D2
+2006,2006x11x25,NW Missouri St.,Midwestern St.,27,0,,1,,D2 R16,D2
+2006,2006x11x25,Chadron St.,West Texas A&M,43,17,,1,,D2 R16,D2
+2006,2006x12x02,Grand Valley St.,North Dakota,30,20,,1,,D2 QF,D2
+2006,2006x12x02,Delta St.,North Alabama,27,10,,2,,D2 QF,D2
+2006,2006x12x02,Bloomsburg,Shepherd,24,21,,2,,D2 QF,D2
+2006,2006x12x02,NW Missouri St.,Chadron St.,28,21,,1,,D2 QF,D2
+2006,2006x12x09,Grand Valley St.,Delta St.,49,30,,1,,D2 Semi,D2
+2006,2006x12x09,NW Missouri St.,Bloomsburg,33,3,,1,,D2 Semi,D2
+2006,2006x12x16,Grand Valley St.,NW Missouri St.,17,14,,3,Florence AL,D2 Champ,D2
+2006,2006x11x18,Mount Union,Hope,49,0,,99,,D3 R32,D3
+2006,2006x11x18,Wheaton,Mount St. Joseph,42,28,,99,,D3 R32,D3
+2006,2006x11x18,North Central,Concordia (WI),35,6,,99,,D3 R32,D3
+2006,2006x11x18,Capital,Wittenberg,32,14,,99,,D3 R32,D3
+2006,2006x11x18,Wilkes,Wash. & Lee,42,0,,99,,D3 R32,D3
+2006,2006x11x18,Rowan,Hobart,20,18,,99,,D3 R32,D3
+2006,2006x11x18,St. John Fisher,Union (NY),49,21,,99,,D3 R32,D3
+2006,2006x11x18,Springfield,Curry,42,14,,99,,D3 R32,D3
+2006,2006x11x18,Wesley,Dickinson,49,21,,99,,D3 R32,D3
+2006,2006x11x18,Carnegie Mellon,Millsaps,21,0,,99,,D3 R32,D3
+2006,2006x11x18,Wash. & Jeff.,Chris. Newport,27,23,,99,,D3 R32,D3
+2006,2006x11x18,Mary Hardin-Baylor,Hardin Simmons,33,21,,99,,D3 R32,D3
+2006,2006x11x18,UW Whitewater,St. Norbert,59,17,,99,,D3 R32,D3
+2006,2006x11x18,UW LaCrosse,Bethel (MN),28,21,,99,,D3 R32,D3
+2006,2006x11x18,Whitworth,Occidental,27,23,,99,,D3 R32,D3
+2006,2006x11x18,St. John's (MN),Central (IA),21,13,,99,,D3 R32,D3
+2006,2006x11x25,Mount Union,Wheaton,35,3,,99,,D3 R16,D3
+2006,2006x11x25,Capital,North Central,41,13,,99,,D3 R16,D3
+2006,2006x11x25,Rowan,Wilkes,21,14,,99,,D3 R16,D3
+2006,2006x11x25,St. John Fisher,Springfield,27,21,,99,,D3 R16,D3
+2006,2006x11x25,Wesley,Carnegie Mellon,37,0,,99,,D3 R16,D3
+2006,2006x11x25,Mary Hardin-Baylor,Wash. & Jeff.,30,27,,99,,D3 R16,D3
+2006,2006x11x25,UW Whitewater,UW LaCrosse,24,21,,99,,D3 R16,D3
+2006,2006x11x25,St. John's (MN),Whitworth,21,3,,99,,D3 R16,D3
+2006,2006x12x02,Mount Union,Capital,17,14,,99,,D3 QF,D3
+2006,2006x12x02,St. John Fisher,Rowan,31,0,,99,,D3 QF,D3
+2006,2006x12x02,Wesley,Mary Hardin-Baylor,34,20,,99,,D3 QF,D3
+2006,2006x12x02,UW Whitewater,St. John's (MN),17,14,,99,,D3 QF,D3
+2006,2006x12x09,Mount Union,St. John Fisher,26,14,,99,,D3 Semi,D3
+2006,2006x12x09,UW Whitewater,Wesley,44,7,,99,,D3 Semi,D3
+2006,2006x12x16,Mount Union,UW Whitewater,35,16,,3,Salem VA,D3 Champ,D3
+2006,2006x11x25,Appalachian St.,Coastal Carolina,45,28,,1,,FCS R16,FCS
+2006,2006x11x25,Montana St.,Furman,31,13,,1,,FCS R16,FCS
+2006,2006x11x25,Illinois St.,Eastern Ill.,24,13,,2,,FCS R16,FCS
+2006,2006x11x25,Youngstown St.,James Madison,35,31,,1,,FCS R16,FCS
+2006,2006x11x25,Massachusetts,Lafayette,35,14,,1,,FCS R16,FCS
+2006,2006x11x25,New Hampshire,Hampton,41,38,,2,,FCS R16,FCS
+2006,2006x11x25,Southern Ill.,UT Martin,36,30,,1,,FCS R16,FCS
+2006,2006x11x25,Montana,McNeese,31,6,,1,,FCS R16,FCS
+2006,2006x12x02,Appalachian St.,Montana St.,38,17,,1,,FCS QF,FCS
+2006,2006x12x02,Youngstown St.,Illinois St.,28,21,,1,,FCS QF,FCS
+2006,2006x12x02,Massachusetts,New Hampshire,24,17,,1,,FCS QF,FCS
+2006,2006x12x02,Montana,Southern Ill.,20,3,,1,,FCS QF,FCS
+2006,2006x12x09,Appalachian St.,Youngstown St.,49,24,,1,,FCS Semi,FCS
+2006,2006x12x09,Massachusetts,Montana,19,17,,2,,FCS Semi,FCS
+2006,2006x12x15,Appalachian St.,Massachusetts,28,17,,3,Chattanooga,FCS Champ,FCS
+2007,2007x11x17,Central Wash.,Ashland,40,24,,1,,D2 R24,D2
+2007,2007x11x17,North Dakota,Winona St.,44,2,,1,,D2 R24,D2
+2007,2007x11x17,Abilene Christian,Colorado Mesa,56,12,,1,,D2 R24,D2
+2007,2007x11x17,West Texas A&M,Washburn,40,39,,1,,D2 R24,D2
+2007,2007x11x17,Catawba,Albany St.,66,35,,1,,D2 R24,D2
+2007,2007x11x17,Delta St.,Shaw,45,7,,1,,D2 R24,D2
+2007,2007x11x17,Southern Conn.,Bryant,45,28,,1,,D2 R24,D2
+2007,2007x11x17,Indiana (PA),West Chester,45,35,,2,,D2 R24,D2
+2007,2007x11x24,Central Wash.,Omaha,20,17,,2,,D2 R16,D2
+2007,2007x11x24,Grand Valley St.,North Dakota,21,14,,1,,D2 R16,D2
+2007,2007x11x24,Chadron St.,Abilene Christian,76,73,3OT,1,,D2 R16,D2
+2007,2007x11x24,NW Missouri St.,West Texas A&M,56,28,,1,,D2 R16,D2
+2007,2007x11x24,Valdosta St.,Catawba,55,29,,1,,D2 R16,D2
+2007,2007x11x24,North Alabama,Delta St.,20,17,,1,,D2 R16,D2
+2007,2007x11x24,California (PA),Southern Conn.,43,7,,1,,D2 R16,D2
+2007,2007x11x24,Shepherd,Indiana (PA),41,34,,1,,D2 R16,D2
+2007,2007x12x01,Grand Valley St.,Central Wash.,41,21,,1,,D2 QF,D2
+2007,2007x12x01,NW Missouri St.,Chadron St.,26,13,,2,,D2 QF,D2
+2007,2007x12x01,Valdosta St.,North Alabama,37,23,,1,,D2 QF,D2
+2007,2007x12x01,California (PA),Shepherd,58,38,,1,,D2 QF,D2
+2007,2007x12x08,NW Missouri St.,Grand Valley St.,34,16,,1,,D2 Semi,D2
+2007,2007x12x08,Valdosta St.,California (PA),28,24,,2,,D2 Semi,D2
+2007,2007x12x15,Valdosta St.,NW Missouri St.,25,20,,3,Florence AL,D2 Champ,D2
+2007,2007x11x17,Mount Union,Ithaca,42,18,,99,,D3 R32,D3
+2007,2007x11x17,TCNJ,Rensselaer,17,14,,99,,D3 R32,D3
+2007,2007x11x17,Curry,Hartwick,42,21,,99,,D3 R32,D3
+2007,2007x11x17,St. John Fisher,Hobart,24,7,,99,,D3 R32,D3
+2007,2007x11x17,Central (IA),Olivet,38,17,,99,,D3 R32,D3
+2007,2007x11x17,St. John's (MN),Redlands,41,13,,99,,D3 R32,D3
+2007,2007x11x17,UW Eau Claire,St. Norbert,24,20,,99,,D3 R32,D3
+2007,2007x11x17,Bethel (MN),Concordia (WI),28,0,,99,,D3 R32,D3
+2007,2007x11x17,NC Wesleyan,Wash. & Jeff.,35,34,OT,99,,D3 R32,D3
+2007,2007x11x17,Mary Hardin-Baylor,Trinity (TX),52,23,,99,,D3 R32,D3
+2007,2007x11x17,Muhlenberg,Salisbury St.,31,21,,99,,D3 R32,D3
+2007,2007x11x17,Wesley,Hampden-Sydney,45,17,,99,,D3 R32,D3
+2007,2007x11x17,UW Whitewater,Capital,34,14,,99,,D3 R32,D3
+2007,2007x11x17,North Central,Franklin,44,42,,99,,D3 R32,D3
+2007,2007x11x17,Wabash,Mount St. Joseph,31,21,,99,,D3 R32,D3
+2007,2007x11x17,CWRU,Widener,21,20,,99,,D3 R32,D3
+2007,2007x11x24,Mount Union,TCNJ,59,7,,99,,D3 R16,D3
+2007,2007x11x24,St. John Fisher,Curry,38,7,,99,,D3 R16,D3
+2007,2007x11x24,Central (IA),St. John's (MN),37,7,,99,,D3 R16,D3
+2007,2007x11x24,Bethel (MN),UW Eau Claire,21,12,,99,,D3 R16,D3
+2007,2007x11x24,Mary Hardin-Baylor,NC Wesleyan,64,0,,99,,D3 R16,D3
+2007,2007x11x24,Wesley,Muhlenberg,38,21,,99,,D3 R16,D3
+2007,2007x11x24,UW Whitewater,North Central,59,28,,99,,D3 R16,D3
+2007,2007x11x24,Wabash,CWRU,38,23,,99,,D3 R16,D3
+2007,2007x12x01,Mount Union,St. John Fisher,52,10,,99,,D3 QF,D3
+2007,2007x12x01,Bethel (MN),Central (IA),27,13,,99,,D3 QF,D3
+2007,2007x12x01,Mary Hardin-Baylor,Wesley,27,10,,99,,D3 QF,D3
+2007,2007x12x01,UW Whitewater,Wabash,47,7,,99,,D3 QF,D3
+2007,2007x12x08,Mount Union,Bethel (MN),62,14,,99,,D3 Semi,D3
+2007,2007x12x08,UW Whitewater,Mary Hardin-Baylor,16,7,,99,,D3 Semi,D3
+2007,2007x12x15,UW Whitewater,Mount Union,31,21,,3,Salem VA,D3 Champ,D3
+2007,2007x11x24,Northern Iowa,New Hampshire,38,35,,1,,FCS R16,FCS
+2007,2007x11x24,Delaware,Delaware St.,44,7,,1,,FCS R16,FCS
+2007,2007x11x24,Southern Ill.,Eastern Ill.,30,11,,1,,FCS R16,FCS
+2007,2007x11x24,Massachusetts,Fordham,49,35,,1,,FCS R16,FCS
+2007,2007x11x24,Eastern Wash.,McNeese,44,15,,2,,FCS R16,FCS
+2007,2007x11x24,Appalachian St.,James Madison,28,27,,1,,FCS R16,FCS
+2007,2007x11x24,Wofford,Montana,23,22,,2,,FCS R16,FCS
+2007,2007x11x24,Richmond,Eastern Ky.,31,14,,1,,FCS R16,FCS
+2007,2007x12x01,Delaware,Northern Iowa,39,27,,2,,FCS QF,FCS
+2007,2007x12x01,Southern Ill.,Massachusetts,34,27,,1,,FCS QF,FCS
+2007,2007x12x01,Appalachian St.,Eastern Wash.,38,35,,1,,FCS QF,FCS
+2007,2007x12x01,Richmond,Wofford,21,10,,2,,FCS QF,FCS
+2007,2007x12x08,Delaware,Southern Ill.,20,17,,2,,FCS Semi,FCS
+2007,2007x12x08,Appalachian St.,Richmond,55,35,,1,,FCS Semi,FCS
+2007,2007x12x14,Appalachian St.,Delaware,49,21,,3,Chattanooga,FCS Champ,FCS
+2008,2008x11x15,Tusculum,Albany St.,34,22,,1,,D2 R24,D2
+2008,2008x11x15,Valdosta St.,Carson-Newman,24,20,,1,,D2 R24,D2
+2008,2008x11x15,West Texas A&M,Central Wash.,49,42,,1,,D2 R24,D2
+2008,2008x11x15,Pittsburg St.,Omaha,33,21,,1,,D2 R24,D2
+2008,2008x11x15,West Chester,Southern Conn.,52,32,,1,,D2 R24,D2
+2008,2008x11x15,Seton Hill,American Intl.,14,7,,2,,D2 R24,D2
+2008,2008x11x15,Ashland,Minnesota St.,27,16,,1,,D2 R24,D2
+2008,2008x11x15,Chadron St.,Wayne St. (NE),23,17,,1,,D2 R24,D2
+2008,2008x11x22,Delta St.,Tusculum,27,19,,1,,D2 R16,D2
+2008,2008x11x22,North Alabama,Valdosta St.,37,10,,1,,D2 R16,D2
+2008,2008x11x22,Abilene Christian,West Texas A&M,93,68,,1,,D2 R16,D2
+2008,2008x11x22,NW Missouri St.,Pittsburg St.,38,35,,1,,D2 R16,D2
+2008,2008x11x22,Bloomsburg,West Chester,28,21,,1,,D2 R16,D2
+2008,2008x11x22,California (PA),Seton Hill,48,7,,1,,D2 R16,D2
+2008,2008x11x22,Grand Valley St.,Ashland,40,7,,1,,D2 R16,D2
+2008,2008x11x22,Minn. Duluth,Chadron St.,20,10,,1,,D2 R16,D2
+2008,2008x11x29,North Alabama,Delta St.,55,34,,2,,D2 QF,D2
+2008,2008x11x29,NW Missouri St.,Abilene Christian,45,36,,2,,D2 QF,D2
+2008,2008x11x29,California (PA),Bloomsburg,27,24,,2,,D2 QF,D2
+2008,2008x11x29,Minn. Duluth,Grand Valley St.,19,13,2OT,2,,D2 QF,D2
+2008,2008x12x06,NW Missouri St.,North Alabama,41,7,,1,,D2 Semi,D2
+2008,2008x12x06,Minn. Duluth,California (PA),45,7,,2,,D2 Semi,D2
+2008,2008x12x13,Minn. Duluth,NW Missouri St.,21,14,,3,Florence AL,D2 Champ,D2
+2008,2008x11x22,Mount Union,Randolph-Macon,56,0,,99,,D3 R32,D3
+2008,2008x11x22,Hobart,Lycoming,33,15,,99,,D3 R32,D3
+2008,2008x11x22,Cortland St.,Plymouth St.,31,14,,99,,D3 R32,D3
+2008,2008x11x22,Curry,Ithaca,26,21,,99,,D3 R32,D3
+2008,2008x11x22,North Central,Thomas More,44,23,,99,,D3 R32,D3
+2008,2008x11x22,Franklin,Otterbein,62,45,,99,,D3 R32,D3
+2008,2008x11x22,Wabash,CWRU,20,17,,99,,D3 R32,D3
+2008,2008x11x22,Wheaton,Trine,14,0,,99,,D3 R32,D3
+2008,2008x11x22,Willamette,Occidental,48,33,,99,,D3 R32,D3
+2008,2008x11x22,UW Whitewater,St. John's (MN),37,7,,99,,D3 R32,D3
+2008,2008x11x22,Wartburg,UW Stevens Point,26,21,,99,,D3 R32,D3
+2008,2008x11x22,Monmouth (IL),Aurora,42,13,,99,,D3 R32,D3
+2008,2008x11x22,Millsaps,LaGrange,51,26,,99,,D3 R32,D3
+2008,2008x11x22,Wash. & Jeff.,Chris. Newport,35,29,,99,,D3 R32,D3
+2008,2008x11x22,Wesley,Muhlenberg,20,0,,99,,D3 R32,D3
+2008,2008x11x22,Mary Hardin-Baylor,Hardin Simmons,38,35,,99,,D3 R32,D3
+2008,2008x11x29,Mount Union,Hobart,42,7,,99,,D3 R16,D3
+2008,2008x11x29,Cortland St.,Curry,42,0,,99,,D3 R16,D3
+2008,2008x11x29,Franklin,North Central,38,28,,99,,D3 R16,D3
+2008,2008x11x29,Wheaton,Wabash,59,28,,99,,D3 R16,D3
+2008,2008x11x29,UW Whitewater,Willamette,30,27,,99,,D3 R16,D3
+2008,2008x11x29,Wartburg,Monmouth (IL),30,28,,99,,D3 R16,D3
+2008,2008x11x29,Wash. & Jeff.,Millsaps,35,20,,99,,D3 R16,D3
+2008,2008x11x29,Mary Hardin-Baylor,Wesley,46,14,,99,,D3 R16,D3
+2008,2008x12x06,Mount Union,Cortland St.,41,14,,99,,D3 QF,D3
+2008,2008x12x06,Wheaton,Franklin,45,28,,99,,D3 QF,D3
+2008,2008x12x06,UW Whitewater,Wartburg,34,17,,99,,D3 QF,D3
+2008,2008x12x06,Mary Hardin-Baylor,Wash. & Jeff.,63,7,,99,,D3 QF,D3
+2008,2008x12x13,Mount Union,Wheaton,45,24,,99,,D3 Semi,D3
+2008,2008x12x13,UW Whitewater,Mary Hardin-Baylor,39,13,,99,,D3 Semi,D3
+2008,2008x12x20,Mount Union,UW Whitewater,31,26,,3,Salem VA,D3 Champ,D3
+2008,2008x11x29,James Madison,Wofford,38,35,,1,,FCS R16,FCS
+2008,2008x11x29,Villanova,Colgate,55,28,,1,,FCS R16,FCS
+2008,2008x11x29,Montana,Texas St.,31,13,,1,,FCS R16,FCS
+2008,2008x11x29,Weber St.,Cal Poly,49,35,,2,,FCS R16,FCS
+2008,2008x11x29,Appalachian St.,SC State,37,21,,1,,FCS R16,FCS
+2008,2008x11x29,Richmond,Eastern Ky.,38,10,,1,,FCS R16,FCS
+2008,2008x11x29,Northern Iowa,Maine,40,15,,1,,FCS R16,FCS
+2008,2008x11x29,New Hampshire,Southern Ill.,29,20,,2,,FCS R16,FCS
+2008,2008x12x06,James Madison,Villanova,31,27,,1,,FCS QF,FCS
+2008,2008x12x06,Montana,Weber St.,24,13,,1,,FCS QF,FCS
+2008,2008x12x06,Richmond,Appalachian St.,33,13,,2,,FCS QF,FCS
+2008,2008x12x06,Northern Iowa,New Hampshire,36,34,,1,,FCS QF,FCS
+2008,2008x12x13,Montana,James Madison,35,27,,2,,FCS Semi,FCS
+2008,2008x12x13,Richmond,Northern Iowa,21,20,,2,,FCS Semi,FCS
+2008,2008x12x19,Richmond,Montana,24,7,,3,Chattanooga,FCS Champ,FCS
+2009,2009x11x14,Neb. Kearney,Saginaw Valley St.,35,20,,1,,D2 R24,D2
+2009,2009x11x14,Hillsdale,Minnesota St.,27,24,OT,2,,D2 R24,D2
+2009,2009x11x14,Arkansas Tech,NC Pembroke,41,13,,1,,D2 R24,D2
+2009,2009x11x14,West Alabama,Albany St.,24,22,,2,,D2 R24,D2
+2009,2009x11x14,Edinboro,East Stroudsburg,31,16,,2,,D2 R24,D2
+2009,2009x11x14,California (PA),Fayetteville St.,42,13,,1,,D2 R24,D2
+2009,2009x11x14,Tarleton,TAMU Kingsville,57,56,2OT,1,,D2 R24,D2
+2009,2009x11x14,Abilene Christian,Midwestern St.,24,21,,2,,D2 R24,D2
+2009,2009x11x21,Minn. Duluth,Neb. Kearney,42,7,,1,,D2 R16,D2
+2009,2009x11x21,Grand Valley St.,Hillsdale,44,27,,1,,D2 R16,D2
+2009,2009x11x21,North Alabama,Arkansas Tech,41,28,,1,,D2 R16,D2
+2009,2009x11x21,Carson-Newman,West Alabama,59,21,,1,,D2 R16,D2
+2009,2009x11x21,West Liberty St.,Edinboro,84,63,,1,,D2 R16,D2
+2009,2009x11x21,California (PA),Shippensburg,26,21,,2,,D2 R16,D2
+2009,2009x11x21,Central Wash.,Tarleton,27,6,,1,,D2 R16,D2
+2009,2009x11x21,NW Missouri St.,Abilene Christian,35,10,,1,,D2 R16,D2
+2009,2009x11x28,Grand Valley St.,Minn. Duluth,24,10,,2,,D2 QF,D2
+2009,2009x11x28,Carson-Newman,North Alabama,24,21,,2,,D2 QF,D2
+2009,2009x11x28,California (PA),West Liberty St.,57,35,,2,,D2 QF,D2
+2009,2009x11x28,NW Missouri St.,Central Wash.,21,20,,2,,D2 QF,D2
+2009,2009x12x05,Grand Valley St.,Carson-Newman,41,27,,1,,D2 Semi,D2
+2009,2009x12x05,NW Missouri St.,California (PA),56,31,,1,,D2 Semi,D2
+2009,2009x12x12,NW Missouri St.,Grand Valley St.,30,23,,3,Florence AL,D2 Champ,D2
+2009,2009x11x21,Mount Union,Wash. & Jeff.,55,0,,1,,D3 R32,D3
+2009,2009x11x21,Montclair St.,Maine Maritime,38,22,,1,,D3 R32,D3
+2009,2009x11x21,Albright,Alfred,35,25,,2,,D3 R32,D3
+2009,2009x11x21,Delaware Valley,Susquehanna,66,7,,1,,D3 R32,D3
+2009,2009x11x21,Wesley,NC Wesleyan,55,23,,1,,D3 R32,D3
+2009,2009x11x21,Mississippi Col.,Huntingdon,56,35,,2,,D3 R32,D3
+2009,2009x11x21,Johns Hopkins,Hampden-Sydney,23,7,,2,,D3 R32,D3
+2009,2009x11x21,Thomas More,DePauw,49,39,,1,,D3 R32,D3
+2009,2009x11x21,UW Whitewater,Lakeland,70,7,,1,,D3 R32,D3
+2009,2009x11x21,Ill. Wesleyan,Wabash,41,35,2OT,1,,D3 R32,D3
+2009,2009x11x21,Trine,CWRU,51,38,,2,,D3 R32,D3
+2009,2009x11x21,Wittenberg,Mount St. Joseph,42,14,,1,,D3 R32,D3
+2009,2009x11x21,Coe,St. John's (MN),34,27,,2,,D3 R32,D3
+2009,2009x11x21,St. Thomas,Monmouth (IL),43,21,,2,,D3 R32,D3
+2009,2009x11x21,Mary Hardin-Baylor,Central (IA),42,40,,2,,D3 R32,D3
+2009,2009x11x21,Linfield,Cal Lutheran,38,17,,1,,D3 R32,D3
+2009,2009x11x28,Mount Union,Montclair St.,62,14,,99,,D3 R16,D3
+2009,2009x11x28,Albright,Delaware Valley,27,3,,99,,D3 R16,D3
+2009,2009x11x28,Wesley,Mississippi Col.,43,9,,99,,D3 R16,D3
+2009,2009x11x28,Johns Hopkins,Thomas More,31,29,,99,,D3 R16,D3
+2009,2009x11x28,UW Whitewater,Ill. Wesleyan,45,7,,99,,D3 R16,D3
+2009,2009x11x28,Wittenberg,Trine,34,17,,99,,D3 R16,D3
+2009,2009x11x28,St. Thomas,Coe,34,7,,99,,D3 R16,D3
+2009,2009x11x28,Linfield,Mary Hardin-Baylor,53,21,,99,,D3 R16,D3
+2009,2009x12x05,Mount Union,Albright,55,3,,1,,D3 QF,D3
+2009,2009x12x05,Wesley,Johns Hopkins,12,0,,1,,D3 QF,D3
+2009,2009x12x05,UW Whitewater,Wittenberg,31,13,,1,,D3 QF,D3
+2009,2009x12x05,Linfield,St. Thomas,31,20,,1,,D3 QF,D3
+2009,2009x12x12,Mount Union,Wesley,24,7,,1,,D3 Semi,D3
+2009,2009x12x12,UW Whitewater,Linfield,27,17,,1,,D3 Semi,D3
+2009,2009x12x19,UW Whitewater,Mount Union,38,28,,3,Salem VA,D3 Champ,D3
+2009,2009x11x28,Montana,South Dakota St.,61,48,,1,,FCS R16,FCS
+2009,2009x11x28,S.F. Austin,Eastern Wash.,44,33,,1,,FCS R16,FCS
+2009,2009x11x28,Richmond,Elon,16,13,,1,,FCS R16,FCS
+2009,2009x11x28,Appalachian St.,SC State,20,13,,1,,FCS R16,FCS
+2009,2009x11x28,Villanova,Holy Cross,38,28,,1,,FCS R16,FCS
+2009,2009x11x28,New Hampshire,McNeese,49,13,,2,,FCS R16,FCS
+2009,2009x11x28,Southern Ill.,Eastern Ill.,48,7,,1,,FCS R16,FCS
+2009,2009x11x28,William & Mary,Weber St.,38,0,,1,,FCS R16,FCS
+2009,2009x12x05,Montana,S.F. Austin,51,0,,1,,FCS QF,FCS
+2009,2009x12x05,Appalachian St.,Richmond,35,31,,2,,FCS QF,FCS
+2009,2009x12x05,Villanova,New Hampshire,46,7,,1,,FCS QF,FCS
+2009,2009x12x05,William & Mary,Southern Ill.,24,3,,2,,FCS QF,FCS
+2009,2009x12x12,Villanova,William & Mary,14,13,,1,,FCS Semi,FCS
+2009,2009x12x12,Montana,Appalachian St.,24,17,,1,,FCS Semi,FCS
+2009,2009x12x18,Villanova,Montana,23,21,,3,Chattanooga,FCS Champ,FCS
+2010,2010x11x20,St. Cloud St.,Hillsdale,42,28,,1,,D2 R24,D2
+2010,2010x11x20,Grand Valley St.,Colo. Mines,35,13,,1,,D2 R24,D2
+2010,2010x11x20,Central Mo.,West Texas A&M,55,35,,1,,D2 R24,D2
+2010,2010x11x20,NW Missouri St.,Mo. Western,28,24,,1,,D2 R24,D2
+2010,2010x11x20,Wingate,Morehouse,63,41,,1,,D2 R24,D2
+2010,2010x11x20,North Alabama,Valdosta St.,43,20,,2,,D2 R24,D2
+2010,2010x11x20,Shepherd,Shaw,40,6,,1,,D2 R24,D2
+2010,2010x11x20,Bloomsburg,California (PA),28,26,,2,,D2 R24,D2
+2010,2010x11x27,Minn. Duluth,St. Cloud St.,20,17,OT,1,,D2 R16,D2
+2010,2010x11x27,Augustana (SD),Grand Valley St.,38,6,,1,,D2 R16,D2
+2010,2010x11x27,Central Mo.,Abilene Christian,55,41,,2,,D2 R16,D2
+2010,2010x11x27,NW Missouri St.,TAMU Kingsville,35,31,,2,,D2 R16,D2
+2010,2010x11x27,Albany St.,Wingate,30,28,,1,,D2 R16,D2
+2010,2010x11x27,Delta St.,North Alabama,47,24,,1,,D2 R16,D2
+2010,2010x11x27,Shepherd,Kutztown,41,34,,2,,D2 R16,D2
+2010,2010x11x27,Mercyhurst,Bloomsburg,28,14,,1,,D2 R16,D2
+2010,2010x12x04,Minn. Duluth,Augustana (SD),24,13,,1,,D2 QF,D2
+2010,2010x12x04,NW Missouri St.,Central Mo.,37,20,,1,,D2 QF,D2
+2010,2010x12x04,Delta St.,Albany St.,28,7,,2,,D2 QF,D2
+2010,2010x12x04,Shepherd,Mercyhurst,49,14,,2,,D2 QF,D2
+2010,2010x12x11,Minn. Duluth,NW Missouri St.,17,13,,1,,D2 Semi,D2
+2010,2010x12x11,Delta St.,Shepherd,29,17,,1,,D2 Semi,D2
+2010,2010x12x18,Minn. Duluth,Delta St.,20,17,,3,Florence AL,D2 Champ,D2
+2010,2010x11x20,Wesley,Muhlenberg,53,14,,1,,D3 R32,D3
+2010,2010x11x20,Montclair St.,Hampden-Sydney,16,14,,2,,D3 R32,D3
+2010,2010x11x20,Thomas More,Wash. & Lee,42,14,,1,,D3 R32,D3
+2010,2010x11x20,Mary Hardin-Baylor,Chris. Newport,59,7,,1,,D3 R32,D3
+2010,2010x11x20,North Central,St. Norbert,57,7,,1,,D3 R32,D3
+2010,2010x11x20,Ohio Northern,Wittenberg,37,14,,1,,D3 R32,D3
+2010,2010x11x20,Trine,DePauw,45,35,,2,,D3 R32,D3
+2010,2010x11x20,UW Whitewater,Franklin,52,21,,1,,D3 R32,D3
+2010,2010x11x20,Mount Union,St. Lawrence,49,0,,1,,D3 R32,D3
+2010,2010x11x20,Delaware Valley,Salisbury St.,23,12,,1,,D3 R32,D3
+2010,2010x11x20,Alfred,SUNY Maritime,60,0,,2,,D3 R32,D3
+2010,2010x11x20,Cortland St.,Endicott,49,35,,1,,D3 R32,D3
+2010,2010x11x20,St. Thomas,Benedictine (IL),57,10,,1,,D3 R32,D3
+2010,2010x11x20,Linfield,Cal Lutheran,42,26,,2,,D3 R32,D3
+2010,2010x11x20,Bethel (MN),Wartburg,28,20,,2,,D3 R32,D3
+2010,2010x11x20,Wheaton,Coe,31,21,,1,,D3 R32,D3
+2010,2010x11x27,Wesley,Montclair St.,44,7,,1,,D3 R16,D3
+2010,2010x11x27,Mary Hardin-Baylor,Thomas More,69,7,,1,,D3 R16,D3
+2010,2010x11x27,North Central,Ohio Northern,28,9,,1,,D3 R16,D3
+2010,2010x11x27,UW Whitewater,Trine,45,31,,1,,D3 R16,D3
+2010,2010x11x27,Mount Union,Delaware Valley,31,3,,1,,D3 R16,D3
+2010,2010x11x27,Alfred,Cortland St.,34,20,,2,,D3 R16,D3
+2010,2010x11x27,St. Thomas,Linfield,24,17,2OT,1,,D3 R16,D3
+2010,2010x11x27,Bethel (MN),Wheaton,15,10,,2,,D3 R16,D3
+2010,2010x12x04,Wesley,Mary Hardin-Baylor,19,9,,1,,D3 QF,D3
+2010,2010x12x04,UW Whitewater,North Central,20,10,,2,,D3 QF,D3
+2010,2010x12x04,Mount Union,Alfred,37,7,,1,,D3 QF,D3
+2010,2010x12x04,Bethel (MN),St. Thomas,12,7,,2,,D3 QF,D3
+2010,2010x12x11,UW Whitewater,Wesley,27,7,,2,,D3 Semi,D3
+2010,2010x12x11,Mount Union,Bethel (MN),34,14,,1,,D3 Semi,D3
+2010,2010x12x18,UW Whitewater,Mount Union,31,21,,3,Salem VA,D3 Champ,D3
+2010,2010x11x27,Western Ill.,Coastal Carolina,17,10,,2,,FCS R20,FCS
+2010,2010x11x27,North Dakota St.,Robert Morris,43,17,,1,,FCS R20,FCS
+2010,2010x11x27,Lehigh,Northern Iowa,14,7,,2,,FCS R20,FCS
+2010,2010x11x27,Ga. Southern,SC State,41,16,,1,,FCS R20,FCS
+2010,2010x12x04,Appalachian St.,Western Ill.,42,14,,1,,FCS R16,FCS
+2010,2010x12x04,Villanova,S.F. Austin,54,24,,2,,FCS R16,FCS
+2010,2010x12x04,Eastern Wash.,SE Missouri,37,17,,1,,FCS R16,FCS
+2010,2010x12x04,North Dakota St.,Montana St.,42,17,,2,,FCS R16,FCS
+2010,2010x12x04,Delaware,Lehigh,42,20,,1,,FCS R16,FCS
+2010,2010x12x04,New Hampshire,Bethune Cookman,45,20,,2,,FCS R16,FCS
+2010,2010x12x04,Wofford,Jacksonville St.,17,14,,2,,FCS R16,FCS
+2010,2010x12x04,Ga. Southern,William & Mary,31,15,,2,,FCS R16,FCS
+2010,2010x12x11,Villanova,Appalachian St.,42,24,,2,,FCS QF,FCS
+2010,2010x12x11,Eastern Wash.,North Dakota St.,38,31,OT,1,,FCS QF,FCS
+2010,2010x12x11,Delaware,New Hampshire,16,3,,1,,FCS QF,FCS
+2010,2010x12x11,Ga. Southern,Wofford,23,20,,2,,FCS QF,FCS
+2010,2010x12x18,Eastern Wash.,Villanova,41,31,,1,,FCS Semi,FCS
+2010,2010x12x18,Delaware,Ga. Southern,27,10,,1,,FCS Semi,FCS
+2010,2011x01x07,Eastern Wash.,Delaware,20,19,,3,Frisco,FCS Champ,FCS
+2011,2011x11x19,North Alabama,West Alabama,43,27,,2,,D2 R24,D2
+2011,2011x11x19,North Greenville,Albany St.,63,14,,1,,D2 R24,D2
+2011,2011x11x19,NW Missouri St.,Mo. Western,35,29,,2,,D2 R24,D2
+2011,2011x11x19,Washburn,Abilene Christian,52,49,,1,,D2 R24,D2
+2011,2011x11x19,California (PA),Elizabeth City St.,44,0,,1,,D2 R24,D2
+2011,2011x11x19,Kutztown,Concord,17,14,,1,,D2 R24,D2
+2011,2011x11x19,Minn. Duluth,Saginaw Valley St.,30,27,OT,1,,D2 R24,D2
+2011,2011x11x19,Wayne St. (MI),St. Cloud St.,48,38,,2,,D2 R24,D2
+2011,2011x11x26,Delta St.,North Alabama,42,14,,1,,D2 R16,D2
+2011,2011x11x26,North Greenville,Mars Hill,52,38,,2,,D2 R16,D2
+2011,2011x11x26,NW Missouri St.,Midwestern St.,38,31,OT,2,,D2 R16,D2
+2011,2011x11x26,Pittsburg St.,Washburn,31,22,,1,,D2 R16,D2
+2011,2011x11x26,Winston Salem,California (PA),35,28,,1,,D2 R16,D2
+2011,2011x11x26,New Haven,Kutztown,44,37,,1,,D2 R16,D2
+2011,2011x11x26,Minn. Duluth,CSU Pueblo,24,21,,2,,D2 R16,D2
+2011,2011x11x26,Wayne St. (MI),Neb. Kearney,38,14,,2,,D2 R16,D2
+2011,2011x12x03,Delta St.,North Greenville,28,23,,1,,D2 QF,D2
+2011,2011x12x03,Pittsburg St.,NW Missouri St.,41,16,,1,,D2 QF,D2
+2011,2011x12x03,Winston Salem,New Haven,27,7,,1,,D2 QF,D2
+2011,2011x12x03,Wayne St. (MI),Minn. Duluth,31,25,,2,,D2 QF,D2
+2011,2011x12x10,Pittsburg St.,Delta St.,49,23,,1,,D2 Semi,D2
+2011,2011x12x10,Wayne St. (MI),Winston Salem,21,14,,2,,D2 Semi,D2
+2011,2011x12x17,Pittsburg St.,Wayne St. (MI),35,21,,3,Florence AL,D2 Champ,D2
+2011,2011x11x19,UW Whitewater,Albion,59,0,,1,,D3 R32,D3
+2011,2011x11x19,Franklin,Thomas More,24,21,,1,,D3 R32,D3
+2011,2011x11x19,Kean,Chris. Newport,34,10,,1,,D3 R32,D3
+2011,2011x11x19,Salisbury St.,Western New Eng.,62,24,,1,,D3 R32,D3
+2011,2011x11x19,St. Thomas,St. Scholastica,48,2,,1,,D3 R32,D3
+2011,2011x11x19,Monmouth (IL),Ill. Wesleyan,33,27,,2,,D3 R32,D3
+2011,2011x11x19,St. John Fisher,Johns Hopkins,23,12,,2,,D3 R32,D3
+2011,2011x11x19,Delaware Valley,Norwich,62,10,,1,,D3 R32,D3
+2011,2011x11x19,Mary Hardin-Baylor,Redlands,34,13,,1,,D3 R32,D3
+2011,2011x11x19,McMurry,Trinity (TX),25,16,,2,,D3 R32,D3
+2011,2011x11x19,Linfield,Cal Lutheran,30,27,,1,,D3 R32,D3
+2011,2011x11x19,Wesley,Hobart,35,28,,1,,D3 R32,D3
+2011,2011x11x19,Wabash,Illinois Col.,38,20,,1,,D3 R32,D3
+2011,2011x11x19,North Central,Dubuque,59,13,,1,,D3 R32,D3
+2011,2011x11x19,Centre,Hampden-Sydney,51,41,,1,,D3 R32,D3
+2011,2011x11x19,Mount Union,Benedictine (IL),47,7,,1,,D3 R32,D3
+2011,2011x11x26,UW Whitewater,Franklin,41,14,,1,,D3 R16,D3
+2011,2011x11x26,Salisbury St.,Kean,49,47,,1,,D3 R16,D3
+2011,2011x11x26,St. Thomas,Monmouth (IL),38,10,,1,,D3 R16,D3
+2011,2011x11x26,St. John Fisher,Delaware Valley,27,14,,2,,D3 R16,D3
+2011,2011x11x26,Mary Hardin-Baylor,McMurry,49,20,,1,,D3 R16,D3
+2011,2011x11x26,Wesley,Linfield,49,34,,1,,D3 R16,D3
+2011,2011x11x26,Wabash,North Central,29,28,,1,,D3 R16,D3
+2011,2011x11x26,Mount Union,Centre,30,10,,1,,D3 R16,D3
+2011,2011x12x03,UW Whitewater,Salisbury St.,34,14,,1,,D3 QF,D3
+2011,2011x12x03,St. Thomas,St. John Fisher,45,10,,1,,D3 QF,D3
+2011,2011x12x03,Wesley,Mary Hardin-Baylor,27,24,,2,,D3 QF,D3
+2011,2011x12x03,Mount Union,Wabash,20,8,,1,,D3 QF,D3
+2011,2011x12x10,UW Whitewater,St. Thomas,20,0,,1,,D3 Semi,D3
+2011,2011x12x10,Mount Union,Wesley,28,21,,1,,D3 Semi,D3
+2011,2011x12x16,UW Whitewater,Mount Union,13,10,,3,Salem VA,D3 Champ,D3
+2011,2011x11x26,Stony Brook,Albany,31,28,,1,,FCS R20,FCS
+2011,2011x11x26,Central Ark.,Tennessee Tech,34,14,,2,,FCS R20,FCS
+2011,2011x11x26,Old Dominion,Norfolk St.,35,18,,1,,FCS R20,FCS
+2011,2011x11x26,James Madison,Eastern Ky.,20,17,,2,,FCS R20,FCS
+2011,2011x12x03,Sam Houston,Stony Brook,34,27,,1,,FCS R16,FCS
+2011,2011x12x03,Montana St.,New Hampshire,26,25,,1,,FCS R16,FCS
+2011,2011x12x03,Northern Iowa,Wofford,28,21,,1,,FCS R16,FCS
+2011,2011x12x03,Montana,Central Ark.,41,14,,1,,FCS R16,FCS
+2011,2011x12x03,Ga. Southern,Old Dominion,55,48,,1,,FCS R16,FCS
+2011,2011x12x03,Maine,Appalachian St.,34,12,,2,,FCS R16,FCS
+2011,2011x12x03,Lehigh,Towson,40,38,,2,,FCS R16,FCS
+2011,2011x12x03,North Dakota St.,James Madison,26,14,,1,,FCS R16,FCS
+2011,2011x12x10,Sam Houston,Montana St.,49,13,,1,,FCS QF,FCS
+2011,2011x12x10,Montana,Northern Iowa,48,10,,1,,FCS QF,FCS
+2011,2011x12x10,Ga. Southern,Maine,35,23,,1,,FCS QF,FCS
+2011,2011x12x10,North Dakota St.,Lehigh,24,0,,1,,FCS QF,FCS
+2011,2011x12x17,Sam Houston,Montana,31,28,,1,,FCS Semi,FCS
+2011,2011x12x17,North Dakota St.,Ga. Southern,35,7,,1,,FCS Semi,FCS
+2011,2012x01x07,North Dakota St.,Sam Houston,17,6,,3,Frisco,FCS Champ,FCS
+2012,2012x11x17,Shippensburg,Bloomsburg,58,20,,1,,D2 R24,D2
+2012,2012x11x17,Indiana (PA),Shepherd,27,17,,1,,D2 R24,D2
+2012,2012x11x17,Indianapolis,Midwestern St.,31,14,,1,,D2 R24,D2
+2012,2012x11x17,West Texas A&M,Chadron St.,38,30,,2,,D2 R24,D2
+2012,2012x11x17,West Alabama,Miles,41,7,,1,,D2 R24,D2
+2012,2012x11x17,Lenoir-Rhyne,Fort Valley St.,21,6,,1,,D2 R24,D2
+2012,2012x11x17,NW Missouri St.,Harding,35,0,,1,,D2 R24,D2
+2012,2012x11x17,Mo. Western,Minn. Duluth,57,55,3OT,1,,D2 R24,D2
+2012,2012x11x24,Winston Salem,Shippensburg,37,14,,1,,D2 R16,D2
+2012,2012x11x24,Indiana (PA),New Haven,17,14,,2,,D2 R16,D2
+2012,2012x11x24,CSU Pueblo,Indianapolis,28,7,,1,,D2 R16,D2
+2012,2012x11x24,West Texas A&M,Ashland,33,28,,2,,D2 R16,D2
+2012,2012x11x24,Valdosta St.,West Alabama,49,21,,1,,D2 R16,D2
+2012,2012x11x24,Carson-Newman,Lenoir-Rhyne,38,35,,1,,D2 R16,D2
+2012,2012x11x24,Minnesota St.,NW Missouri St.,38,35,,1,,D2 R16,D2
+2012,2012x11x24,Mo. Western,Henderson St.,45,21,,2,,D2 R16,D2
+2012,2012x12x01,Winston Salem,Indiana (PA),21,17,,1,,D2 QF,D2
+2012,2012x12x01,West Texas A&M,CSU Pueblo,34,13,,2,,D2 QF,D2
+2012,2012x12x01,Valdosta St.,Carson-Newman,48,26,,1,,D2 QF,D2
+2012,2012x12x01,Minnesota St.,Mo. Western,17,10,,1,,D2 QF,D2
+2012,2012x12x08,Winston Salem,West Texas A&M,41,18,,1,,D2 Semi,D2
+2012,2012x12x08,Valdosta St.,Minnesota St.,35,19,,2,,D2 Semi,D2
+2012,2012x12x15,Valdosta St.,Winston Salem,35,7,,3,Florence AL,D2 Champ,D2
+2012,2012x11x17,Linfield,Pacific Lutheran,27,24,,1,,D3 R32,D3
+2012,2012x11x17,North Central,Cal Lutheran,41,21,,2,,D3 R32,D3
+2012,2012x11x17,Bethel (MN),Concordia (IL),24,23,,2,,D3 R32,D3
+2012,2012x11x17,UW Oshkosh,St. Scholastica,55,10,,1,,D3 R32,D3
+2012,2012x11x17,Hobart,Wash. & Lee,38,20,,1,,D3 R32,D3
+2012,2012x11x17,Wittenberg,Heidelberg,52,38,,2,,D3 R32,D3
+2012,2012x11x17,Elmhurst,Coe,27,24,,2,,D3 R32,D3
+2012,2012x11x17,St. Thomas,St. Norbert,48,17,,1,,D3 R32,D3
+2012,2012x11x17,Mary Hardin-Baylor,Louisiana Col.,59,20,,1,,D3 R32,D3
+2012,2012x11x17,Franklin,Adrian,42,10,,2,,D3 R32,D3
+2012,2012x11x17,Cortland St.,Framingham St.,20,19,,1,,D3 R32,D3
+2012,2012x11x17,Wesley,Mount Ida,73,14,,1,,D3 R32,D3
+2012,2012x11x17,Widener,Bridgewater St.,44,14,,1,,D3 R32,D3
+2012,2012x11x17,Salisbury St.,Rowan,17,9,,1,,D3 R32,D3
+2012,2012x11x17,Johns Hopkins,Wash. & Jeff.,42,10,,1,,D3 R32,D3
+2012,2012x11x17,Mount Union,Chris. Newport,72,14,,1,,D3 R32,D3
+2012,2012x11x24,Linfield,North Central,30,14,,1,,D3 R16,D3
+2012,2012x11x24,UW Oshkosh,Bethel (MN),37,14,,1,,D3 R16,D3
+2012,2012x11x24,Hobart,Wittenberg,35,10,,1,,D3 R16,D3
+2012,2012x11x24,St. Thomas,Elmhurst,24,17,,1,,D3 R16,D3
+2012,2012x11x24,Mary Hardin-Baylor,Franklin,63,17,,1,,D3 R16,D3
+2012,2012x11x24,Wesley,Cortland St.,56,6,,1,,D3 R16,D3
+2012,2012x11x24,Widener,Salisbury St.,28,7,,1,,D3 R16,D3
+2012,2012x11x24,Mount Union,Johns Hopkins,55,13,,1,,D3 R16,D3
+2012,2012x12x01,UW Oshkosh,Linfield,31,24,OT,2,,D3 QF,D3
+2012,2012x12x01,St. Thomas,Hobart,47,7,,1,,D3 QF,D3
+2012,2012x12x01,Mary Hardin-Baylor,Wesley,32,20,,1,,D3 QF,D3
+2012,2012x12x01,Mount Union,Widener,72,17,,1,,D3 QF,D3
+2012,2012x12x08,St. Thomas,UW Oshkosh,28,14,,1,,D3 Semi,D3
+2012,2012x12x08,Mount Union,Mary Hardin-Baylor,48,35,,1,,D3 Semi,D3
+2012,2012x12x14,Mount Union,St. Thomas,28,10,,3,Salem VA,D3 Champ,D3
+2012,2012x11x24,South Dakota St.,Eastern Ill.,58,10,,1,,FCS R20,FCS
+2012,2012x11x24,Coastal Carolina,Bethune Cookman,24,14,,2,,FCS R20,FCS
+2012,2012x11x24,Stony Brook,Villanova,20,10,,1,,FCS R20,FCS
+2012,2012x11x24,Wagner,Colgate,31,20,,1,,FCS R20,FCS
+2012,2012x12x01,North Dakota St.,South Dakota St.,28,3,,1,,FCS R16,FCS
+2012,2012x12x01,Wofford,New Hampshire,23,7,,1,,FCS R16,FCS
+2012,2012x12x01,Ga. Southern,Central Ark.,24,16,,1,,FCS R16,FCS
+2012,2012x12x01,Old Dominion,Coastal Carolina,63,35,,1,,FCS R16,FCS
+2012,2012x12x01,Montana St.,Stony Brook,16,10,,1,,FCS R16,FCS
+2012,2012x12x01,Sam Houston,Cal Poly,18,16,,1,,FCS R16,FCS
+2012,2012x12x01,Illinois St.,Appalachian St.,38,37,OT,2,,FCS R16,FCS
+2012,2012x12x01,Eastern Wash.,Wagner,29,19,,1,,FCS R16,FCS
+2012,2012x12x08,North Dakota St.,Wofford,14,7,,1,,FCS QF,FCS
+2012,2012x12x08,Ga. Southern,Old Dominion,49,35,,2,,FCS QF,FCS
+2012,2012x12x08,Sam Houston,Montana St.,34,16,,2,,FCS QF,FCS
+2012,2012x12x08,Eastern Wash.,Illinois St.,51,35,,1,,FCS QF,FCS
+2012,2012x12x15,North Dakota St.,Ga. Southern,23,20,,1,,FCS Semi,FCS
+2012,2012x12x15,Sam Houston,Eastern Wash.,45,42,,2,,FCS Semi,FCS
+2012,2013x01x05,North Dakota St.,Sam Houston,39,13,,3,Frisco,FCS Champ,FCS
+2013,2013x11x23,Winston Salem,Slippery Rock,27,20,,1,,D2 R24,D2
+2013,2013x11x23,West Chester,American Intl.,38,7,,1,,D2 R24,D2
+2013,2013x11x23,Carson-Newman,Newberry,37,27,,1,,D2 R24,D2
+2013,2013x11x23,North Alabama,Tuskegee,30,27,,1,,D2 R24,D2
+2013,2013x11x23,Minn. Duluth,Emporia St.,55,13,,1,,D2 R24,D2
+2013,2013x11x23,St. Cloud St.,Henderson St.,40,35,,2,,D2 R24,D2
+2013,2013x11x23,Grand Valley St.,Saginaw Valley St.,40,7,,1,,D2 R24,D2
+2013,2013x11x23,West Texas A&M,Indianapolis,27,14,,2,,D2 R24,D2
+2013,2013x11x30,Shepherd,Winston Salem,7,0,,1,,D2 R16,D2
+2013,2013x11x30,West Chester,Bloomsburg,40,38,,2,,D2 R16,D2
+2013,2013x11x30,Lenoir-Rhyne,Carson-Newman,27,20,,1,,D2 R16,D2
+2013,2013x11x30,North Alabama,NC Pembroke,37,13,,2,,D2 R16,D2
+2013,2013x11x30,NW Missouri St.,Minn. Duluth,45,21,,1,,D2 R16,D2
+2013,2013x11x30,St. Cloud St.,Minnesota St.,54,48,,2,,D2 R16,D2
+2013,2013x11x30,Grand Valley St.,CSU Pueblo,34,30,,2,,D2 R16,D2
+2013,2013x11x30,West Texas A&M,Ohio Dominican,34,27,,2,,D2 R16,D2
+2013,2013x12x07,West Chester,Shepherd,28,7,,2,,D2 QF,D2
+2013,2013x12x07,Lenoir-Rhyne,North Alabama,42,39,,1,,D2 QF,D2
+2013,2013x12x07,NW Missouri St.,St. Cloud St.,59,21,,1,,D2 QF,D2
+2013,2013x12x07,Grand Valley St.,West Texas A&M,35,28,,1,,D2 QF,D2
+2013,2013x12x14,Lenoir-Rhyne,West Chester,42,14,,1,,D2 Semi,D2
+2013,2013x12x14,NW Missouri St.,Grand Valley St.,27,13,,1,,D2 Semi,D2
+2013,2013x12x21,NW Missouri St.,Lenoir-Rhyne,43,28,,3,Florence AL,D2 Champ,D2
+2013,2013x11x23,Mount Union,Wash. & Jeff.,34,20,,1,,D3 R32,D3
+2013,2013x11x23,Wittenberg,Lebanon Valley,58,17,,1,,D3 R32,D3
+2013,2013x11x23,Ithaca,Framingham St.,20,17,,1,,D3 R32,D3
+2013,2013x11x23,Wesley,Johns Hopkins,29,24,,2,,D3 R32,D3
+2013,2013x11x23,North Central,Albion,63,7,,1,,D3 R32,D3
+2013,2013x11x23,UW Platteville,Concordia (WI),54,20,,1,,D3 R32,D3
+2013,2013x11x23,Wartburg,Ill. Wesleyan,41,7,,2,,D3 R32,D3
+2013,2013x11x23,Bethel (MN),St. Scholastica,70,13,,1,,D3 R32,D3
+2013,2013x11x23,UW Whitewater,St. Norbert,31,7,,1,,D3 R32,D3
+2013,2013x11x23,Franklin,Washington (MO),17,10,,1,,D3 R32,D3
+2013,2013x11x23,Hampden-Sydney,Maryville (TN),42,34,,1,,D3 R32,D3
+2013,2013x11x23,Linfield,Pacific Lutheran,42,21,,1,,D3 R32,D3
+2013,2013x11x23,Hobart,Gallaudet,34,7,,1,,D3 R32,D3
+2013,2013x11x23,St. John Fisher,John Carroll,25,16,,2,,D3 R32,D3
+2013,2013x11x23,Rowan,Endicott,24,0,,1,,D3 R32,D3
+2013,2013x11x23,Mary Hardin-Baylor,Redlands,35,7,,1,,D3 R32,D3
+2013,2013x11x30,Mount Union,Wittenberg,56,21,,1,,D3 R16,D3
+2013,2013x11x30,Wesley,Ithaca,23,15,,1,,D3 R16,D3
+2013,2013x11x30,North Central,UW Platteville,52,24,,1,,D3 R16,D3
+2013,2013x11x30,Bethel (MN),Wartburg,34,27,,1,,D3 R16,D3
+2013,2013x11x30,UW Whitewater,Franklin,33,3,,1,,D3 R16,D3
+2013,2013x11x30,Linfield,Hampden-Sydney,31,21,,1,,D3 R16,D3
+2013,2013x11x30,St. John Fisher,Hobart,27,6,,2,,D3 R16,D3
+2013,2013x11x30,Mary Hardin-Baylor,Rowan,59,8,,1,,D3 R16,D3
+2013,2013x12x07,Mount Union,Wesley,62,59,,1,,D3 QF,D3
+2013,2013x12x07,North Central,Bethel (MN),41,17,,2,,D3 QF,D3
+2013,2013x12x07,UW Whitewater,Linfield,28,17,,1,,D3 QF,D3
+2013,2013x12x07,Mary Hardin-Baylor,St. John Fisher,45,23,,1,,D3 QF,D3
+2013,2013x12x14,Mount Union,North Central,41,40,,1,,D3 Semi,D3
+2013,2013x12x14,UW Whitewater,Mary Hardin-Baylor,16,15,,2,,D3 Semi,D3
+2013,2013x12x20,UW Whitewater,Mount Union,52,14,,3,Salem VA,D3 Champ,D3
+2013,2013x11x30,Furman,SC State,30,20,,2,,FCS R24,FCS
+2013,2013x11x30,Coastal Carolina,Bethune Cookman,48,24,,1,,FCS R24,FCS
+2013,2013x11x30,New Hampshire,Lafayette,45,7,,1,,FCS R24,FCS
+2013,2013x11x30,Sam Houston,Southern Utah,51,20,,1,,FCS R24,FCS
+2013,2013x11x30,South Dakota St.,Northern Ariz.,26,7,,2,,FCS R24,FCS
+2013,2013x11x30,Jacksonville St.,Samford,55,14,,1,,FCS R24,FCS
+2013,2013x11x30,Fordham,Sacred Heart,37,27,,1,,FCS R24,FCS
+2013,2013x11x30,Tennessee St.,Butler,31,0,,2,,FCS R24,FCS
+2013,2013x12x07,North Dakota St.,Furman,38,7,,1,,FCS R16,FCS
+2013,2013x12x07,Coastal Carolina,Montana,42,35,,2,,FCS R16,FCS
+2013,2013x12x07,New Hampshire,Maine,41,27,,2,,FCS R16,FCS
+2013,2013x12x07,SE Louisiana,Sam Houston,30,29,,1,,FCS R16,FCS
+2013,2013x12x07,Eastern Wash.,South Dakota St.,41,17,,1,,FCS R16,FCS
+2013,2013x12x07,Jacksonville St.,McNeese,31,10,,2,,FCS R16,FCS
+2013,2013x12x07,Towson,Fordham,48,28,,1,,FCS R16,FCS
+2013,2013x12x07,Eastern Ill.,Tennessee St.,51,10,,1,,FCS R16,FCS
+2013,2013x12x14,North Dakota St.,Coastal Carolina,48,14,,1,,FCS QF,FCS
+2013,2013x12x14,New Hampshire,SE Louisiana,20,17,,2,,FCS QF,FCS
+2013,2013x12x14,Eastern Wash.,Jacksonville St.,35,24,,1,,FCS QF,FCS
+2013,2013x12x14,Towson,Eastern Ill.,49,39,,2,,FCS QF,FCS
+2013,2013x12x21,North Dakota St.,New Hampshire,52,14,,1,,FCS Semi,FCS
+2013,2013x12x21,Towson,Eastern Wash.,35,31,,2,,FCS Semi,FCS
+2013,2014x01x04,North Dakota St.,Towson,35,7,,3,Frisco,FCS Champ,FCS
+2014,2014x11x22,West Chester,Slippery Rock,46,20,,1,,D2 R24,D2
+2014,2014x11x22,Virginia St.,CW Post,28,17,,1,,D2 R24,D2
+2014,2014x11x22,Minn. Duluth,NW Missouri St.,25,21,,1,,D2 R24,D2
+2014,2014x11x22,Pittsburg St.,Harding,59,42,,1,,D2 R24,D2
+2014,2014x11x22,Valdosta St.,North Alabama,33,31,,2,,D2 R24,D2
+2014,2014x11x22,West Georgia,Tuskegee,20,17,,2,,D2 R24,D2
+2014,2014x11x22,Ohio Dominican,Colo. Mines,34,23,,2,,D2 R24,D2
+2014,2014x11x22,Angelo St.,Michigan Tech,42,41,,2,,D2 R24,D2
+2014,2014x11x29,Concord,West Chester,51,36,,1,,D2 R16,D2
+2014,2014x11x29,Bloomsburg,Virginia St.,35,14,,1,,D2 R16,D2
+2014,2014x11x29,Minn. Duluth,Ouachita Baptist,48,45,OT,2,,D2 R16,D2
+2014,2014x11x29,Minnesota St.,Pittsburg St.,24,21,OT,1,,D2 R16,D2
+2014,2014x11x29,Valdosta St.,Lenoir-Rhyne,23,21,,2,,D2 R16,D2
+2014,2014x11x29,West Georgia,Delta St.,37,27,,2,,D2 R16,D2
+2014,2014x11x29,Ohio Dominican,Ferris St.,46,33,,2,,D2 R16,D2
+2014,2014x11x29,CSU Pueblo,Angelo St.,52,14,,1,,D2 R16,D2
+2014,2014x12x06,Concord,Bloomsburg,32,26,,1,,D2 QF,D2
+2014,2014x12x06,Minnesota St.,Minn. Duluth,44,17,,1,,D2 QF,D2
+2014,2014x12x06,West Georgia,Valdosta St.,31,17,,2,,D2 QF,D2
+2014,2014x12x06,CSU Pueblo,Ohio Dominican,31,28,,1,,D2 QF,D2
+2014,2014x12x13,Minnesota St.,Concord,47,13,,1,,D2 Semi,D2
+2014,2014x12x13,CSU Pueblo,West Georgia,10,7,,1,,D2 Semi,D2
+2014,2014x12x20,CSU Pueblo,Minnesota St.,13,0,,3,KCK,D2 Champ,D2
+2014,2014x11x22,UW Whitewater,Macalester,55,2,,1,,D3 R32,D3
+2014,2014x11x22,Wabash,Franklin,33,14,,1,,D3 R32,D3
+2014,2014x11x22,St. John's (MN),St. Scholastica,35,7,,1,,D3 R32,D3
+2014,2014x11x22,Wartburg,St. Thomas,37,31,,1,,D3 R32,D3
+2014,2014x11x22,Widener,Muhlenberg,36,35,,1,,D3 R32,D3
+2014,2014x11x22,Chris. Newport,Delaware Valley,29,26,,2,,D3 R32,D3
+2014,2014x11x22,Linfield,Chapman,55,24,,1,,D3 R32,D3
+2014,2014x11x22,Mary Hardin-Baylor,Texas Lutheran,27,20,,1,,D3 R32,D3
+2014,2014x11x22,Wesley,Hampden-Sydney,52,7,,1,,D3 R32,D3
+2014,2014x11x22,MIT,Husson,27,20,OT,2,,D3 R32,D3
+2014,2014x11x22,Johns Hopkins,Rowan,24,16,,1,,D3 R32,D3
+2014,2014x11x22,Hobart,Ithaca,22,15,,1,,D3 R32,D3
+2014,2014x11x22,Wheaton,Benedictine (IL),43,14,,1,,D3 R32,D3
+2014,2014x11x22,John Carroll,Centre,63,28,,1,,D3 R32,D3
+2014,2014x11x22,Wash. & Jeff.,Wittenberg,41,25,,2,,D3 R32,D3
+2014,2014x11x22,Mount Union,Adrian,63,3,,1,,D3 R32,D3
+2014,2014x11x29,UW Whitewater,Wabash,38,14,,1,,D3 R16,D3
+2014,2014x11x29,Wartburg,St. John's (MN),21,10,,1,,D3 R16,D3
+2014,2014x11x29,Widener,Chris. Newport,37,27,,1,,D3 R16,D3
+2014,2014x11x29,Linfield,Mary Hardin-Baylor,31,28,,2,,D3 R16,D3
+2014,2014x11x29,Wesley,MIT,59,0,,1,,D3 R16,D3
+2014,2014x11x29,Hobart,Johns Hopkins,24,21,,1,,D3 R16,D3
+2014,2014x11x29,John Carroll,Wheaton,14,12,,2,,D3 R16,D3
+2014,2014x11x29,Mount Union,Wash. & Jeff.,67,0,,1,,D3 R16,D3
+2014,2014x12x06,UW Whitewater,Wartburg,37,33,,1,,D3 QF,D3
+2014,2014x12x06,Linfield,Widener,45,7,,2,,D3 QF,D3
+2014,2014x12x06,Wesley,Hobart,41,13,,1,,D3 QF,D3
+2014,2014x12x06,Mount Union,John Carroll,36,28,,1,,D3 QF,D3
+2014,2014x12x13,UW Whitewater,Linfield,20,14,,1,,D3 Semi,D3
+2014,2014x12x13,Mount Union,Wesley,70,21,,1,,D3 Semi,D3
+2014,2014x12x19,UW Whitewater,Mount Union,43,34,,3,Salem VA,D3 Champ,D3
+2014,2014x11x29,Fordham,Sacred Heart,44,22,,1,,FCS R24,FCS
+2014,2014x11x29,Indiana St.,Eastern Ky.,36,16,,2,,FCS R24,FCS
+2014,2014x11x29,Northern Iowa,S.F. Austin,44,10,,1,,FCS R24,FCS
+2014,2014x11x29,Montana,San Diego,52,14,,1,,FCS R24,FCS
+2014,2014x11x29,Sam Houston,SE Louisiana,21,17,,1,,FCS R24,FCS
+2014,2014x11x29,Liberty,James Madison,26,21,,2,,FCS R24,FCS
+2014,2014x11x29,Richmond,Morgan St.,46,24,,1,,FCS R24,FCS
+2014,2014x11x29,South Dakota St.,Montana St.,47,40,,2,,FCS R24,FCS
+2014,2014x12x06,New Hampshire,Fordham,44,19,,1,,FCS R16,FCS
+2014,2014x12x06,Chattanooga,Indiana St.,35,14,,1,,FCS R16,FCS
+2014,2014x12x06,Illinois St.,Northern Iowa,41,21,,1,,FCS R16,FCS
+2014,2014x12x06,Eastern Wash.,Montana,37,20,,1,,FCS R16,FCS
+2014,2014x12x06,Sam Houston,Jacksonville St.,37,26,,2,,FCS R16,FCS
+2014,2014x12x06,Villanova,Liberty,29,22,,1,,FCS R16,FCS
+2014,2014x12x06,Coastal Carolina,Richmond,36,15,,1,,FCS R16,FCS
+2014,2014x12x06,North Dakota St.,South Dakota St.,27,24,,1,,FCS R16,FCS
+2014,2014x12x13,New Hampshire,Chattanooga,35,30,,1,,FCS QF,FCS
+2014,2014x12x13,Illinois St.,Eastern Wash.,59,46,,2,,FCS QF,FCS
+2014,2014x12x13,Sam Houston,Villanova,34,31,,2,,FCS QF,FCS
+2014,2014x12x13,North Dakota St.,Coastal Carolina,39,32,,1,,FCS QF,FCS
+2014,2014x12x20,Illinois St.,New Hampshire,21,18,,2,,FCS Semi,FCS
+2014,2014x12x20,North Dakota St.,Sam Houston,35,3,,1,,FCS Semi,FCS
+2014,2015x01x10,North Dakota St.,Illinois St.,29,27,,3,Frisco,FCS Champ,FCS
+2015,2015x11x21,Indiana (PA),Charleston (WV),47,21,,2,,D2 R28,D2
+2015,2015x11x21,Slippery Rock,Virginia Union,40,21,,1,,D2 R28,D2
+2015,2015x11x21,Assumption,Bowie St.,51,29,,1,,D2 R28,D2
+2015,2015x11x21,Valdosta St.,Carson-Newman,61,59,,1,,D2 R28,D2
+2015,2015x11x21,North Alabama,Newberry,50,7,,1,,D2 R28,D2
+2015,2015x11x21,Tuskegee,Catawba,26,16,,2,,D2 R28,D2
+2015,2015x11x21,CSU Pueblo,Indianapolis,27,14,,1,,D2 R28,D2
+2015,2015x11x21,Ferris St.,TAMU Commerce,43,30,,1,,D2 R28,D2
+2015,2015x11x21,Grand Valley St.,Ashland,45,23,,2,,D2 R28,D2
+2015,2015x11x21,Humboldt St.,Augustana (SD),45,31,,1,,D2 R28,D2
+2015,2015x11x21,Emporia St.,Minnesota St.,51,49,,2,,D2 R28,D2
+2015,2015x11x21,Henderson St.,Sioux Falls,23,16,,1,,D2 R28,D2
+2015,2015x11x28,Shepherd,Indiana (PA),17,13,,1,,D2 R16,D2
+2015,2015x11x28,Slippery Rock,Assumption,41,39,,1,,D2 R16,D2
+2015,2015x11x28,West Georgia,Valdosta St.,27,20,,1,,D2 R16,D2
+2015,2015x11x28,Tuskegee,North Alabama,35,31,,2,,D2 R16,D2
+2015,2015x11x28,CSU Pueblo,Midwestern St.,26,17,,2,,D2 R16,D2
+2015,2015x11x28,Grand Valley St.,Ferris St.,38,34,,2,,D2 R16,D2
+2015,2015x11x28,NW Missouri St.,Humboldt St.,38,7,,1,,D2 R16,D2
+2015,2015x11x28,Emporia St.,Henderson St.,29,3,,2,,D2 R16,D2
+2015,2015x12x05,Shepherd,Slippery Rock,23,16,,1,,D2 QF,D2
+2015,2015x12x05,West Georgia,Tuskegee,35,6,,1,,D2 QF,D2
+2015,2015x12x05,Grand Valley St.,CSU Pueblo,31,7,,2,,D2 QF,D2
+2015,2015x12x05,NW Missouri St.,Emporia St.,38,17,,1,,D2 QF,D2
+2015,2015x12x12,Shepherd,Grand Valley St.,34,32,,1,,D2 Semi,D2
+2015,2015x12x12,NW Missouri St.,West Georgia,38,23,,1,,D2 Semi,D2
+2015,2015x12x19,NW Missouri St.,Shepherd,34,7,,3,KCK,D2 Champ,D2
+2015,2015x11x21,St. Thomas,La Verne,57,14,,1,,D3 R32,D3
+2015,2015x11x21,St. John's (MN),Dubuque,51,7,,1,,D3 R32,D3
+2015,2015x11x21,Thomas More,Wash. & Lee,51,21,,1,,D3 R32,D3
+2015,2015x11x21,Wabash,Albion,35,14,,1,,D3 R32,D3
+2015,2015x11x21,Linfield,Witworth,48,10,,1,,D3 R32,D3
+2015,2015x11x21,Cortland St.,Salisbury St.,45,21,,1,,D3 R32,D3
+2015,2015x11x21,Huntingdon,Hendrix,38,27,,1,,D3 R32,D3
+2015,2015x11x21,Mary Hardin-Baylor,Hardin Simmons,37,19,,2,,D3 R32,D3
+2015,2015x11x21,Mount Union,St. Lawrence,55,23,,1,,D3 R32,D3
+2015,2015x11x21,Albright,Norwich,49,0,,1,,D3 R32,D3
+2015,2015x11x21,Wesley,Framingham St.,42,22,,1,,D3 R32,D3
+2015,2015x11x21,Johns Hopkins,Western New Eng.,52,20,,1,,D3 R32,D3
+2015,2015x11x21,UW Oshkosh,St. Scholastica,48,0,,1,,D3 R32,D3
+2015,2015x11x21,Ohio Northern,Franklin,27,22,,2,,D3 R32,D3
+2015,2015x11x21,UW Whitewater,St. Norbert,48,0,,1,,D3 R32,D3
+2015,2015x11x21,Wheaton,Lakeland,55,6,,1,,D3 R32,D3
+2015,2015x11x28,St. Thomas,St. John's (MN),38,19,,1,,D3 R16,D3
+2015,2015x11x28,Wabash,Thomas More,33,27,,1,,D3 R16,D3
+2015,2015x11x28,Linfield,Cortland St.,38,22,,1,,D3 R16,D3
+2015,2015x11x28,Mary Hardin-Baylor,Huntingdon,43,23,,1,,D3 R16,D3
+2015,2015x11x28,Mount Union,Albright,66,7,,1,,D3 R16,D3
+2015,2015x11x28,Wesley,Johns Hopkins,42,37,,2,,D3 R16,D3
+2015,2015x11x28,UW Oshkosh,Ohio Northern,42,7,,1,,D3 R16,D3
+2015,2015x11x28,UW Whitewater,Wheaton,31,17,,2,,D3 R16,D3
+2015,2015x12x05,St. Thomas,Wabash,38,7,,1,,D3 QF,D3
+2015,2015x12x05,Linfield,Mary Hardin-Baylor,38,35,,1,,D3 QF,D3
+2015,2015x12x05,Mount Union,Wesley,56,35,,1,,D3 QF,D3
+2015,2015x12x05,UW Whitewater,UW Oshkosh,31,29,,2,,D3 QF,D3
+2015,2015x12x12,St. Thomas,Linfield,38,17,,1,,D3 Semi,D3
+2015,2015x12x12,Mount Union,UW Whitewater,36,6,,1,,D3 Semi,D3
+2015,2015x12x18,Mount Union,St. Thomas,49,35,,3,Salem VA,D3 Champ,D3
+2015,2015x11x28,Chattanooga,Fordham,50,20,,1,,FCS R24,FCS
+2015,2015x11x28,Citadel,Coastal Carolina,41,38,,2,,FCS R24,FCS
+2015,2015x11x28,Colgate,New Hampshire,27,20,,2,,FCS R24,FCS
+2015,2015x11x28,Sam Houston,Southern Utah,42,39,,1,,FCS R24,FCS
+2015,2015x11x28,Montana,South Dakota St.,24,17,,1,,FCS R24,FCS
+2015,2015x11x28,Northern Iowa,Eastern Ill.,53,17,,1,,FCS R24,FCS
+2015,2015x11x28,William & Mary,Duquesne,52,49,,1,,FCS R24,FCS
+2015,2015x11x28,Western Ill.,Dayton,24,7,,2,,FCS R24,FCS
+2015,2015x12x05,Jacksonville St.,Chattanooga,41,35,OT,1,,FCS R16,FCS
+2015,2015x12x05,Charleston So.,Citadel,14,6,,1,,FCS R16,FCS
+2015,2015x12x05,Colgate,James Madison,44,38,,2,,FCS R16,FCS
+2015,2015x12x05,Sam Houston,McNeese,34,29,,2,,FCS R16,FCS
+2015,2015x12x05,North Dakota St.,Montana,37,6,,1,,FCS R16,FCS
+2015,2015x12x05,Northern Iowa,Portland St.,29,17,,2,,FCS R16,FCS
+2015,2015x12x05,Richmond,William & Mary,48,13,,1,,FCS R16,FCS
+2015,2015x12x05,Illinois St.,Western Ill.,36,19,,1,,FCS R16,FCS
+2015,2015x12x12,Jacksonville St.,Charleston So.,58,38,,1,,FCS QF,FCS
+2015,2015x12x12,Richmond,Illinois St.,39,27,,2,,FCS QF,FCS

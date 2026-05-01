@@ -1,0 +1,465 @@
+sport,year,round,event,name1,name2,team1,score1,team2,score2,ot,location
+MLS,1914,,USOCUP,,,Brooklyn Field Club,2,Brooklyn Celtic,1,,
+MLS,1915,,USOCUP,,,Bethlehem Steel,3,Brooklyn Celtic,1,,
+MLS,1916,,USOCUP,,,Bethlehem Steel,1,Fall River Rovers,0,,
+MLS,1917,,USOCUP,,,Fall River Rovers,1,Bethlehem Steel,0,,
+MLS,1918,,USOCUP,,,Bethlehem Steel,3,Fall River Rovers,0,replay after 2-2,
+MLS,1919,,USOCUP,,,Bethlehem Steel,2,Paterson Silk Sox,0,,
+MLS,1920,,USOCUP,,,St. Louis Ben Millers,2,Fore River Rovers,1,,
+MLS,1921,,USOCUP,,,Brooklyn Robins Dry Dock,4,St. Louis Scullin Steel,2,,
+MLS,1922,,USOCUP,,,St. Louis Scullin Steel,3,Brooklyn Todd Shipyards,2,,
+MLS,1923,,USOCUP,,,Paterson Silk Sox,2,St. Louis Scullin Steel,2,walkover after 2-2,
+MLS,1924,,USOCUP,,,Fall River Marksmen,4,St. Louis Vesper Buick,2,,
+MLS,1925,,USOCUP,,,Shawsheen Indians,3,Chicago Canadians,0,,
+MLS,1926,,USOCUP,,,Bethlehem Steel,7,St. Louis Ben Millers,2,,
+MLS,1927,,USOCUP,,,Fall River Marksmen,7,Detroit Holley Carburetor,0,,
+MLS,1928,,USOCUP,,,New York Nationals,3,Chicago Bricklayers,0,replay after 1-1,
+MLS,1929,,USOCUP,,,New York Hakoah,5,St. Louis Madison Kennel,0,2-0 3-0,
+MLS,1930,,USOCUP,,,Fall River Marksmen,9,Cleveland Bruell Insurance,3,7-2 2-1,
+MLS,1931,,USOCUP,,,Fall River Marksmen,9,Chicago Bricklayers,3,6-2 1-1 2-0,
+MLS,1932,,USOCUP,,,New Bedford Whalers,8,St. Louis Stix, Baer and Fuller,5,3-3 5-2,
+MLB,1933,,ASG,,,American,4,National,2,,Chicago AL
+MLS,1933,,USOCUP,,,St. Louis Stix, Baer and Fuller,3,New York Americans,1,1-0 2-1,
+MLB,1934,,ASG,,,American,9,National,7,,New York NL
+MLS,1934,,USOCUP,,,St. Louis Stix, Baer and Fuller,11,Pawtucket Rangers,5,4-2 2-3 5-0,
+MLB,1935,,ASG,,,American,4,National,1,,Cleveland
+MLS,1935,,USOCUP,,,St. Louis Stix, Baer and Fuller,7,Pawtucket Rangers,6,5-2 1-1 1-3,
+MLB,1936,,ASG,,,National,4,American,3,,Boston NL
+MLS,1936,,USOCUP,,,Philadelphia German American,5,St. Louis Stix, Baer and Fuller,2,2-2 3-0,
+MLB,1937,,ASG,,,American,8,National,3,,Washington AL
+MLS,1937,,USOCUP,,,New York Americans,4,St. Louis Stix, Baer and Fuller,3,0-1 4-2,
+MLB,1938,,ASG,,,National,4,American,1,,Cincinnati
+MLS,1938,,USOCUP,,,Chicago Sparta,6,Brooklyn St. Mary's Celtic,2,3-0 3-2,
+NFL,1938,,NFLASG,,,New York Giants,13,NFL All-Stars,10,,Los Angeles
+MLB,1939,,ASG,,,American,3,National,1,,New York AL
+MLS,1939,,USOCUP,,,Brooklyn St. Mary's Celtic,5,Chicago Manhattan Beer,1,1-0 4-1,
+NFL,1939,,NFLASG,,,Green Bay Packers,16,NFL All-Stars,7,,Los Angeles
+MLB,1940,,ASG,,,National,4,American,0,,St. Louis NL
+MLS,1940,,USOCUP,,,Baltimore SC<br>Chicago Sparta,2,(shared),2,1-1 2-2 TIE,
+NFL,1940,,NFLASG,,,Chicago Bears,28,NFL All-Stars,14,,Los Angeles
+MLB,1941,,ASG,,,American,7,National,5,,Detroit
+MLS,1941,,USOCUP,,,Pawtucket Rangers,8,Detroit Chrysler,5,4-2 4-3 AET,
+NFL,1941,,NFLASG,,,Chicago Bears,35,NFL All-Stars,24,,New York
+MLB,1942,,ASG,,,American,3,National,1,,New York NL
+MLS,1942,,USOCUP,,,Pittsburgh Gallatin,6,Pawtucket Rangers,3,2-1 4-2,
+NFL,1942,,NFLASG,,,NFL All-Stars,17,Washington Redskins,14,,Philadelphia
+MLB,1943,,ASG,,,American,5,National,3,,Philadelphia AL
+MLS,1943,,USOCUP,,,Brooklyn Hispano,3,Pittsburgh Morgan Strasser,2,replay after 2-2,
+MLB,1944,,ASG,,,National,7,American,1,,Pittsburgh
+MLS,1944,,USOCUP,,,Brooklyn Hispano,4,Pittsburgh Morgan Strasser,0,,
+MLS,1945,,USOCUP,,,New York Brookhattan,6,Cleveland Americans,3,4-1 2-1,
+MLB,1946,,ASG,,,American,12,National,0,,Boston AL
+MLS,1946,,USOCUP,,,Chicago Vikings,3,Fall River Ponta Delgada,2,1-1 2-1,
+MLB,1947,,ASG,,,American,2,National,1,,Chicago NL
+MLS,1947,,USOCUP,,,Fall River Ponta Delgada,9,Chicago Sparta,3,6-1 3-2,
+NHL,1947,,NHLASG,,,NHL All-Stars,4,Toronto Maple Leafs,3,,Toronto
+MLB,1948,,ASG,,,American,5,National,2,,St. Louis AL
+MLS,1948,,USOCUP,,,St. Louis Simpkins Ford,3,New York Brookhattan,2,,
+NHL,1948,,NHLASG,,,NHL All-Stars,3,Toronto Maple Leafs,1,,Chicago
+MLB,1949,,ASG,,,American,11,National,7,,Brooklyn
+MLS,1949,,USOCUP,,,Pittsburgh Morgan Strasser,4,Philadelphia Nationals,3,0-1 4-2,
+NHL,1949,,NHLASG,,,NHL All-Stars,3,Toronto Maple Leafs,1,,Toronto
+MLB,1950,,ASG,,,National,4,American,3,14 innings,Chicago AL
+MLS,1950,,USOCUP,,,St. Louis Simpkins Ford,3,Fall River Ponta Delgada,1,2-0 1-1,
+NFL,1950,,Pro Bowl,,,NFL American,28,NFL National,27,,Los Angeles
+NHL,1950,,NHLASG,,,Detroit Red Wings,7,NHL All-Stars,1,,Detroit
+MLB,1951,,ASG,,,National,8,American,3,,Detroit
+MLS,1951,,USOCUP,,,New York German Hungarian,8,Pittsburgh Heidelberg,6,2-4 6-2 AET,
+NBA,1951,,NBAASG,,,East,111,West,94,,Boston
+NFL,1951,,Pro Bowl,,,NFL National,30,NFL American,13,,Los Angeles
+NHL,1951,,NHLASG,,,First Team,2,Second Team,2,TIE,Toronto
+MLB,1952,,ASG,,,National,3,American,2,5 innings,Philadelphia NL
+MLS,1952,,USOCUP,,,Harmarville Hurricanes,7,Philadelphia Nationals,5,3-4 4-1 AET,
+NBA,1952,,NBAASG,,,East,108,West,91,,Boston
+NFL,1952,,Pro Bowl,,,NFL National,27,NFL American,7,,Los Angeles
+NHL,1952,,NHLASG,,,First Team,1,Second Team,1,TIE,Detroit
+MLB,1953,,ASG,,,National,5,American,1,,Cincinnati
+MLS,1953,,USOCUP,,,Chicago Falcons,3,Harmarville Hurricanes,0,2-0 1-0,
+NBA,1953,,NBAASG,,,West,79,East,75,,Ft. Wayne
+NFL,1953,,Pro Bowl,,,NFL East,20,NFL West,9,,Los Angeles
+NHL,1953,,NHLASG,,,NHL All-Stars,3,Montreal Canadiens,1,,Montreal
+MLB,1954,,ASG,,,American,11,National,9,,Cleveland
+MLS,1954,,USOCUP,,,New York Americans,3,St. Louis Kutis,1,1-1 2-0,
+NBA,1954,,NBAASG,,,East,98,West,93,OT,New York
+NFL,1954,,Pro Bowl,,,NFL West,26,NFL East,19,,Los Angeles
+NHL,1954,,NHLASG,,,NHL All-Stars,2,Detroit Red Wings,2,TIE,Detroit
+MLB,1955,,ASG,,,National,6,American,5,12 innings,Milwaukee NL
+MLS,1955,,USOCUP,,,New York Eintracht,2,Los Angeles Danish American,0,,
+NBA,1955,,NBAASG,,,East,100,West,91,,New York
+NFL,1955,,Pro Bowl,,,NFL East,31,NFL West,30,,Los Angeles
+NHL,1955,,NHLASG,,,Detroit Red Wings,3,NHL All-Stars,1,,Detroit
+MLB,1956,,ASG,,,National,7,American,3,,Washington AL
+MLS,1956,,USOCUP,,,Harmarville Hurricanes,3,Chicago Schwaben,2,0-1 3-1 AET,
+NBA,1956,,NBAASG,,,West,108,East,94,,Rochester
+NFL,1956,,Pro Bowl,,,NFL West,19,NFL East,10,,Los Angeles
+NHL,1956,,NHLASG,,,NHL All-Stars,1,Montreal Canadiens,1,TIE,Montreal
+MLB,1957,,ASG,,,American,6,National,5,,St. Louis NL
+MLS,1957,,USOCUP,,,St. Louis Kutis,6,New York Hakoah,1,3-0 3-1,
+NBA,1957,,NBAASG,,,East,109,West,97,,Boston
+NFL,1957,,Pro Bowl,,,NFL West,26,NFL East,7,,Los Angeles
+NHL,1957,,NHLASG,,,NHL All-Stars,5,Montreal Canadiens,3,,Montreal
+MLB,1958,,ASG,,,American,4,National,3,,Baltimore
+MLS,1958,,USOCUP,,,Los Angeles Kickers,2,Baltimore Pompei,1,AET,
+NBA,1958,,NBAASG,,,East,130,West,118,,St. Louis
+NFL,1958,,Pro Bowl,,,NFL East,28,NFL West,21,,Los Angeles
+NHL,1958,,NHLASG,,,Montreal Canadiens,6,NHL All-Stars,3,,Montreal
+MLB,1959,1,ASG,,,American,5,National,3,,Los Angeles
+MLB,1959,2,ASG,,,National,5,American,4,,Pittsburgh
+MLS,1959,,USOCUP,,,San Pedro McIlvaine Canvasbacks,4,Fall River SC,3,,
+NBA,1959,,NBAASG,,,West,124,East,108,,Detroit
+NFL,1959,,Pro Bowl,,,NFL West,38,NFL East,21,,Los Angeles
+NHL,1959,,NHLASG,,,Montreal Canadiens,6,NHL All-Stars,1,,Montreal
+MLB,1960,1,ASG,,,National,6,American,0,,New York AL
+MLB,1960,2,ASG,,,National,5,American,3,,Kansas City
+MLS,1960,,USOCUP,,,Philadelphia Ukrainians,5,Los Angeles Kickers,3,AET,
+NBA,1960,,NBAASG,,,East,125,West,115,,Philadelphia
+NFL,1960,,Pro Bowl,,,NFL West,35,NFL East,31,,Los Angeles
+NHL,1960,,NHLASG,,,NHL All-Stars,2,Montreal Canadiens,1,,Montreal
+MLB,1961,1,ASG,,,National,1,American,1,TIE,Boston AL
+MLB,1961,2,ASG,,,National,5,American,4,10 innings,San Francisco
+MLS,1961,,USOCUP,,,Philadelphia Ukrainians,7,Los Angeles Scots,4,2-2 5-2,
+NBA,1961,,NBAASG,,,West,153,East,131,,Syracuse
+NFL,1961,,AFLASG,,,AFL West,47,AFL East,27,,San Diego
+NFL,1961,,Pro Bowl,,,NFL West,31,NFL East,30,,Los Angeles
+NHL,1961,,NHLASG,,,NHL All-Stars,3,Chicago Black Hawks,1,,Chicago
+MLB,1962,1,ASG,,,American,9,National,4,,Chicago NL
+MLB,1962,2,ASG,,,National,3,American,1,,Washington AL
+MLS,1962,,USOCUP,,,New York Hungaria,3,San Francisco Scots,0,,
+NBA,1962,,NBAASG,,,West,150,East,130,,St. Louis
+NFL,1962,,AFLASG,,,AFL West,21,AFL East,14,,San Diego
+NFL,1962,,Pro Bowl,,,NFL East,30,NFL West,20,,Los Angeles
+NHL,1962,,NHLASG,,,Toronto Maple Leafs,4,NHL All-Stars,1,,Toronto
+MLB,1963,,ASG,,,National,5,American,3,,Cleveland
+MLS,1963,,USOCUP,,,Philadelphia Ukrainians,1,Los Angeles Armenians,0,AET,
+NBA,1963,,NBAASG,,,East,115,West,108,,Los Angeles
+NFL,1963,,AFLASG,,,AFL West,27,AFL East,24,,San Diego
+NFL,1963,,Pro Bowl,,,NFL West,31,NFL East,17,,Los Angeles
+NHL,1963,,NHLASG,,,NHL All-Stars,3,Toronto Maple Leafs,3,TIE,Toronto
+MLB,1964,,ASG,,,National,7,American,4,,New York NL
+MLS,1964,,USOCUP,,,Los Angeles Kickers,4,Philadelphia Ukrainians,2,2-2 2-0,
+NBA,1964,,NBAASG,,,East,111,West,107,,Boston
+NFL,1964,,AFLASG,,,AFL West,38,AFL East,14,,Houston
+NFL,1964,,Pro Bowl,,,NFL West,34,NFL East,14,,Los Angeles
+NHL,1964,,NHLASG,,,NHL All-Stars,3,Toronto Maple Leafs,2,,Toronto
+MLB,1965,,ASG,,,National,6,American,5,,Minneapolis
+MLS,1965,,USOCUP,,,New York Ukrainians,5,Chicago Hansa,2,1-1 4-1 AET,
+NBA,1965,,NBAASG,,,East,124,West,123,,St. Louis
+NFL,1965,,AFLASG,,,AFL All-Stars,30,Buffalo Bills,19,,Houston
+NFL,1965,,Pro Bowl,,,NFL East,36,NFL West,7,,Los Angeles
+NHL,1965,,NHLASG,,,NHL All-Stars,5,Montreal Canadiens,2,,Montreal
+MLB,1966,,ASG,,,National,2,American,1,10 innings,St. Louis NL
+MLS,1966,,USOCUP,,,Philadelphia Ukrainians,4,Orange County SC,0,1-0 3-0,
+NBA,1966,,NBAASG,,,East,137,West,94,,Cincinnati
+NFL,1966,,AFLASG,,,AFL East,30,AFL West,23,,Oakland
+NFL,1966,,Pro Bowl,,,NFL East,20,NFL West,10,,Los Angeles
+MLB,1967,,ASG,,,National,2,American,1,15 innings,Anaheim
+MLS,1967,,USOCUP,,,New York Greek American,4,Orange County SC,2,,
+NBA,1967,,NBAASG,,,West,135,East,120,,San Francisco
+NFL,1967,,AFLASG,,,AFL East,25,AFL West,24,,Jacksonville
+NFL,1967,,Pro Bowl,,,NFL West,38,NFL East,20,,Los Angeles
+NHL,1967,,NHLASG,,,Montreal Canadiens,3,NHL All-Stars,0,,Montreal
+MLB,1968,,ASG,,,National,1,American,0,,Houston
+MLS,1968,,USOCUP,,,New York Greek American,2,Chicago Olympic,1,1-1 1-0,
+NBA,1968,,NBAASG,,,East,144,West,124,,New York
+NFL,1968,,AFLASG,,,AFL West,38,AFL East,25,,Jacksonville
+NFL,1968,,Pro Bowl,,,NFL West,10,NFL East,7,,Los Angeles
+NHL,1968,,NHLASG,,,Toronto Maple Leafs,4,NHL All-Stars,3,,Toronto
+MLB,1969,,ASG,,,National,9,American,3,,Washington AL
+MLS,1969,,USOCUP,,,New York Greek American,1,Los Angeles Armenians,0,,
+NBA,1969,,NBAASG,,,East,123,West,112,,Baltimore
+NFL,1969,,AFLASG,,,AFL West,26,AFL East,3,,Houston
+NFL,1969,,Pro Bowl,,,NFL West,16,NFL East,13,,Los Angeles
+NHL,1969,,NHLASG,,,West,3,East,3,TIE,Montreal
+MLB,1970,,ASG,,,National,5,American,4,12 innings,Cincinnati
+MLS,1970,,USOCUP,,,Elizabeth SC,2,Los Angeles Croatians,1,,
+NBA,1970,,NBAASG,,,East,142,West,135,,Philadelphia
+NFL,1970,,Pro Bowl,,,NFC,27,AFC,6,,Los Angeles
+NHL,1970,,NHLASG,,,East,4,West,1,,St. Louis
+MLB,1971,,ASG,,,American,6,National,4,,Detroit
+MLS,1971,,USOCUP,,,New York Hota,6,San Pedro Yugoslavs,4,AET,
+NBA,1971,,NBAASG,,,West,108,East,107,,San Diego
+NFL,1971,,Pro Bowl,,,AFC,26,NFC,13,,Los Angeles
+NHL,1971,,NHLASG,,,West,2,East,1,,Boston
+MLB,1972,,ASG,,,National,4,American,3,10 innings,Atlanta
+MLS,1972,,USOCUP,,,Elizabeth SC,1,San Pedro Yugoslavs,0,,
+NBA,1972,,NBAASG,,,West,112,East,110,,Inglewood
+NFL,1972,,Pro Bowl,,,AFC,33,NFC,28,,Irving
+NHL,1972,,NHLASG,,,East,3,West,2,,Bloomington
+MLB,1973,,ASG,,,National,7,American,1,,Kansas City
+MLS,1973,,USOCUP,,,Los Angeles Maccabee,5,Cleveland Inter Italian,3,AET,
+NBA,1973,,NBAASG,,,East,104,West,84,,Chicago
+NFL,1973,,Pro Bowl,,,AFC,15,NFC,13,,Kansas City
+NHL,1973,,NHLASG,,,East,5,West,4,,New York
+MLB,1974,,ASG,,,National,7,American,2,,Pittsburgh
+MLS,1974,,USOCUP,,,New York Greek American,2,Chicago Croatians,0,,
+NBA,1974,,NBAASG,,,West,134,East,123,,Seattle
+NFL,1974,,Pro Bowl,,,NFC,17,AFC,10,,Miami
+NHL,1974,,NHLASG,,,West,6,East,4,,Chicago
+MLB,1975,,ASG,,,National,6,American,3,,Milwaukee AL
+MLS,1975,,USOCUP,,,Los Angeles Maccabee,1,New York Inter Giuliana,0,,
+NBA,1975,,NBAASG,,,East,108,West,102,,Phoenix
+NFL,1975,,Pro Bowl,,,NFC,23,AFC,20,,New Orleans
+NHL,1975,,NHLASG,,,Wales,7,Campbell,1,,Montreal
+MLB,1976,,ASG,,,National,7,American,1,,Philadelphia NL
+MLS,1976,,USOCUP,,,San Francisco Italians,1,New York Inter Giuliana,0,,
+NBA,1976,,NBAASG,,,East,123,West,109,,Philadelphia
+NFL,1976,,Pro Bowl,,,AFC,24,NFC,14,,Seattle
+NHL,1976,,NHLASG,,,Wales,7,Campbell,5,,Philadelphia
+MLB,1977,,ASG,,,National,7,American,5,,New York AL
+MLS,1977,,USOCUP,,,Los Angeles Maccabee,5,Philadelphia United German Hungarians,1,,
+NBA,1977,,NBAASG,,,West,125,East,124,,Milwaukee
+NFL,1977,,Pro Bowl,,,NFC,14,AFC,13,,Tampa
+NHL,1977,,NHLASG,,,Wales,4,Campbell,3,,Vancouver
+MLB,1978,,ASG,,,National,7,American,3,,San Diego
+MLS,1978,,USOCUP,,,Los Angeles Maccabee,2,Bridgeport Vasco da Gama,0,AET,
+NBA,1978,,NBAASG,,,East,133,West,125,,Atlanta
+NFL,1978,,Pro Bowl,,,NFC,13,AFC,7,,Los Angeles
+NHL,1978,,NHLASG,,,Wales,3,Campbell,2,OT,Buffalo
+MLB,1979,,ASG,,,National,7,American,6,,Seattle
+MLS,1979,,USOCUP,,,Brooklyn Italians,2,Chicago Croatians,1,,
+NBA,1979,,NBAASG,,,West,134,East,129,,Detroit
+NFL,1979,,Pro Bowl,,,NFC,37,AFC,27,,Honolulu
+MLB,1980,,ASG,,,National,4,American,2,,Los Angeles
+MLS,1980,,USOCUP,,,New York Pancyprian Freedoms,3,Los Angeles Maccabee,2,,
+NBA,1980,,NBAASG,,,East,144,West,136,OT,Landover
+NFL,1980,,Pro Bowl,,,NFC,21,AFC,7,,Honolulu
+NHL,1980,,NHLASG,,,Wales,6,Campbell,3,,Detroit
+MLB,1981,,ASG,,,National,5,American,4,,Cleveland
+MLS,1981,,USOCUP,,,Maccabi Los Angeles,5,Brooklyn Italians,1,,
+NBA,1981,,NBAASG,,,East,123,West,120,,Richfield
+NFL,1981,,Pro Bowl,,,AFC,16,NFC,13,,Honolulu
+NHL,1981,,NHLASG,,,Campbell,4,Wales,1,,Inglewood
+MLB,1982,,ASG,,,National,4,American,1,,Montreal
+MLS,1982,,USOCUP,,,New York Pancyprian Freedoms,4,Los Angeles Maccabee,3,AET,
+NBA,1982,,NBAASG,,,East,120,West,118,,East Rutherford
+NFL,1982,,Pro Bowl,,,NFC,20,AFC,19,,Honolulu
+NHL,1982,,NHLASG,,,Wales,4,Campbell,2,,Washington
+MLB,1983,,ASG,,,American,13,National,3,,Chicago AL
+MLS,1983,,USOCUP,,,New York Pancyprian Freedoms,4,St. Louis Kutis,3,,
+NBA,1983,,NBAASG,,,East,132,West,123,,Inglewood
+NFL,1983,,Pro Bowl,,,NFC,45,AFC,3,,Honolulu
+NHL,1983,,NHLASG,,,Campbell,9,Wales,3,,Uniondale
+MLB,1984,,ASG,,,National,3,American,1,,San Francisco
+MLS,1984,,USOCUP,,,New York Krete,4,Chicago Croatians,2,,
+NBA,1984,,NBAASG,,,East,154,West,145,OT,Denver
+NFL,1984,,Pro Bowl,,,AFC,22,NFC,14,,Honolulu
+NHL,1984,,NHLASG,,,Wales,7,Campbell,6,,East Rutherford
+MLB,1985,,ASG,,,National,6,American,1,,Minneapolis
+MLS,1985,,USOCUP,,,San Francisco Greek American,2,St. Louis Kutis,1,,
+NBA,1985,,NBAASG,,,West,140,East,129,,Indianapolis
+NFL,1985,,Pro Bowl,,,NFC,28,AFC,24,,Honolulu
+NHL,1985,,NHLASG,,,Wales,6,Campbell,4,,Calgary
+MLB,1986,,ASG,,,American,3,National,2,,Houston
+MLS,1986,,USOCUP,,,St. Louis Kutis,1,San Pedro Yugoslavs,0,,
+NBA,1986,,NBAASG,,,East,139,West,132,,Dallas
+NFL,1986,,Pro Bowl,,,AFC,10,NFC,6,,Honolulu
+NHL,1986,,NHLASG,,,Wales,4,Campbell,3,OT,Hartford
+MLB,1987,,ASG,,,National,2,American,0,13 innings,Oakland
+MLS,1987,,USOCUP,,,Washington Club Espana,0,Seattle Mitre Eagels,0,4:3P,
+NBA,1987,,NBAASG,,,West,154,East,149,OT,Seattle
+NFL,1987,,Pro Bowl,,,AFC,15,NFC,6,,Honolulu
+MLB,1988,,ASG,,,American,2,National,1,,Cincinnati
+MLS,1988,,USOCUP,,,St. Louis Busch,2,San Francisco Greek American,1,AET,
+NBA,1988,,NBAASG,,,East,138,West,133,,Chicago
+NFL,1988,,Pro Bowl,,,NFC,34,AFC,3,,Honolulu
+NHL,1988,,NHLASG,,,Wales,6,Campbell,5,OT,St. Louis
+MLB,1989,,ASG,,,American,5,National,3,,Anaheim
+MLS,1989,,USOCUP,,,St. Petersburg Kickers,2,New York Greek American,1,AET,
+NBA,1989,,NBAASG,,,West,143,East,134,,Houston
+NFL,1989,,Pro Bowl,,,NFC,27,AFC,21,,Honolulu
+NHL,1989,,NHLASG,,,Campbell,9,Wales,5,,Edmonton
+MLB,1990,,ASG,,,American,2,National,0,,Chicago NL
+MLS,1990,,USOCUP,,,Chicago Eagles,2,Brooklyn Italians,1,,
+NBA,1990,,NBAASG,,,East,130,West,113,,Miami
+NFL,1990,,Pro Bowl,,,AFC,23,NFC,21,,Honolulu
+NHL,1990,,NHLASG,,,Wales,12,Campbell,7,,Pittsburgh
+MLB,1991,,ASG,,,American,4,National,2,,Toronto
+MLS,1991,,USOCUP,,,Brooklyn Italians,1,Richardson Rockets,0,,
+NBA,1991,,NBAASG,,,East,116,West,114,,Charlotte
+NFL,1991,,Pro Bowl,,,NFC,21,AFC,15,,Honolulu
+NHL,1991,,NHLASG,,,Campbell,11,Wales,5,,Chicago
+MLB,1992,,ASG,,,American,13,National,6,,San Diego
+MLS,1992,,USOCUP,,,San Jose Oaks,2,Bridgeport Vasco da Gama,1,,
+NBA,1992,,NBAASG,,,West,153,East,113,,Orlando
+NFL,1992,,Pro Bowl,,,AFC,23,NFC,20,OT,Honolulu
+NHL,1992,,NHLASG,,,Campbell,10,Wales,6,,Philadelphia
+MLB,1993,,ASG,,,American,9,National,3,,Baltimore
+MLS,1993,,USOCUP,,,San Francisco Mexico,5,Philadelphia United German Hungarians,0,,
+NBA,1993,,NBAASG,,,West,135,East,132,OT,Salt Lake City
+NFL,1993,,Pro Bowl,,,NFC,17,AFC,3,,Honolulu
+NHL,1993,,NHLASG,,,Wales,16,Campbell,6,,Montreal
+MLB,1994,,ASG,,,National,8,American,7,10 innings,Pittsburgh
+MLS,1994,,USOCUP,,,San Francisco Greek American,3,Milwaukee Bavarians,0,,
+NBA,1994,,NBAASG,,,East,127,West,118,,Minneapolis
+NFL,1994,,Pro Bowl,,,AFC,41,NFC,13,,Honolulu
+NHL,1994,,NHLASG,,,East,9,West,8,,New York
+MLB,1995,,ASG,,,National,3,American,2,,Arlington
+MLS,1995,,USOCUP,,,Richmond Kickers,1,El Paso Patriots,1,4:2P,
+NBA,1995,,NBAASG,,,West,139,East,112,,Phoenix
+NFL,1995,,Pro Bowl,,,NFC,20,AFC,13,,Honolulu
+MLB,1996,,ASG,,,National,6,American,0,,Philadelphia NL
+MLS,1996,,MLSASG,,,East,3,West,2,,East Rutherford
+MLS,1996,,USOCUP,,,DC United,3,Rochester Rhinos,0,,
+NBA,1996,,NBAASG,,,East,129,West,118,,San Antonio
+NFL,1996,,Pro Bowl,,,AFC,26,NFC,23,OT,Honolulu
+NHL,1996,,NHLASG,,,East,5,West,4,,Boston
+MLB,1997,,ASG,,,American,3,National,1,,Cleveland
+MLS,1997,,MLSASG,,,East,5,West,4,,East Rutherford
+MLS,1997,,USOCUP,,,Dallas Burn,0,DC United,0,5:3P,
+NBA,1997,,NBAASG,,,East,132,West,120,,Cleveland
+NFL,1997,,Pro Bowl,,,AFC,29,NFC,24,,Honolulu
+NHL,1997,,NHLASG,,,East,11,West,7,,San Jose
+MLB,1998,,ASG,,,American,13,National,8,,Denver
+MLS,1998,,MLSASG,,,MLS USA,6,MLS World,1,,Orlando
+MLS,1998,,USOCUP,,,Chicago Fire,2,Columbus Crew,1,AET,
+NBA,1998,,NBAASG,,,East,135,West,114,,New York
+NFL,1998,,Pro Bowl,,,AFC,23,NFC,10,,Honolulu
+NHL,1998,,NHLASG,,,North America,8,World,7,,Vancouver
+MLB,1999,,ASG,,,American,4,National,1,,Boston AL
+MLS,1999,,MLSASG,,,West,6,East,4,,San Diego
+MLS,1999,,USOCUP,,,Rochester Rhinos,2,Colorado Rapids,0,,
+NFL,1999,,Pro Bowl,,,NFC,51,AFC,31,,Honolulu
+NHL,1999,,NHLASG,,,North America,8,World,6,,Tampa
+MLB,2000,,ASG,,,American,6,National,3,,Atlanta
+MLS,2000,,MLSASG,,,East,9,West,4,,Columbus
+MLS,2000,,USOCUP,,,Chicago Fire,2,Miami Fusion,1,,
+NBA,2000,,NBAASG,,,West,137,East,126,,Oakland
+NFL,2000,,Pro Bowl,,,AFC,38,NFC,17,,Honolulu
+NHL,2000,,NHLASG,,,World,9,North America,4,,Toronto
+MLB,2001,,ASG,,,American,4,National,1,,Seattle
+MLS,2001,,MLSASG,,,East,6,West,6,TIE,San Jose
+MLS,2001,,USOCUP,,,Los Angeles Galaxy,2,New England Revolution,1,AET,
+NBA,2001,,NBAASG,,,East,111,West,110,,Washington
+NFL,2001,,Pro Bowl,,,AFC,38,NFC,30,,Honolulu
+NHL,2001,,NHLASG,,,North America,14,World,12,,Denver
+MLB,2002,,ASG,,,American,7,National,7,TIE 11 innings,Milwaukee NL
+MLS,2002,,MLSASG,,,MLS All-Stars,3,United States NT,2,,Washington
+MLS,2002,,USOCUP,,,Columbus Crew,1,Los Angeles Galaxy,0,,
+NBA,2002,,NBAASG,,,West,135,East,120,,Philadelphia
+NFL,2002,,Pro Bowl,,,AFC,45,NFC,20,,Honolulu
+NHL,2002,,NHLASG,,,World,8,North America,5,,Los Angeles
+MLB,2003,,ASG,,,American,7,National,6,,Chicago AL
+MLS,2003,,MLSASG,,,MLS All-Stars,3,Guadalajara,1,,Los Angeles
+MLS,2003,,USOCUP,,,Chicago Fire,1,NY/NJ MetroStars,0,,
+NBA,2003,,NBAASG,,,West,155,East,145,2OT,Atlanta
+NFL,2003,,Pro Bowl,,,NFC,55,AFC,52,,Honolulu
+NHL,2003,,NHLASG,,,West,6,East,5,SO,Miami
+MLB,2004,,ASG,,,American,9,National,4,,Houston
+MLS,2004,,MLSASG,,,East,3,West,2,,Washington
+MLS,2004,,USOCUP,,,Kansas City Wizards,1,Chicago Fire,0,AET,
+NBA,2004,,NBAASG,,,West,136,East,132,,Los Angeles
+NFL,2004,,Pro Bowl,,,AFC,38,NFC,27,,Honolulu
+NHL,2004,,NHLASG,,,East,6,West,4,,St. Paul
+MLB,2005,,ASG,,,American,7,National,5,,Detroit
+MLS,2005,,MLSASG,,,MLS All-Stars,4,Fulham,1,,Columbus
+MLS,2005,,USOCUP,,,Los Angeles Galaxy,1,FC Dallas,0,,
+NBA,2005,,NBAASG,,,East,125,West,115,,Denver
+NFL,2005,,Pro Bowl,,,NFC,23,AFC,17,,Honolulu
+MLB,2006,,ASG,,,American,3,National,2,,Pittsburgh
+MLS,2006,,MLSASG,,,MLS All-Stars,1,Chelsea,0,,Chicago
+MLS,2006,,USOCUP,,,Chicago Fire,3,Los Angeles Galaxy,1,,
+NBA,2006,,NBAASG,,,East,122,West,120,,Houston
+NFL,2006,,Pro Bowl,,,AFC,31,NFC,28,,Honolulu
+MLB,2007,,ASG,,,American,5,National,4,,San Francisco
+MLS,2007,,MLSASG,,,MLS All-Stars,2,Celtic,0,,Denver
+MLS,2007,,USOCUP,,,New England Revolution,3,FC Dallas,2,,
+NBA,2007,,NBAASG,,,West,153,East,132,,Las Vegas
+NFL,2007,,Pro Bowl,,,NFC,42,AFC,30,,Honolulu
+NHL,2007,,NHLASG,,,West,12,East,9,,Dallas
+MLB,2008,,ASG,,,American,4,National,3,15 innings,New York AL
+MLS,2008,,MLSASG,,,MLS All-Stars,3,West Ham United,2,,Toronto
+MLS,2008,,USOCUP,,,DC United,2,Charleston Battery,1,,
+NBA,2008,,NBAASG,,,East,134,West,128,,New Orleans
+NFL,2008,,Pro Bowl,,,NFC,30,AFC,21,,Honolulu
+NHL,2008,,NHLASG,,,East,8,West,7,,Atlanta
+MLB,2009,,ASG,,,American,4,National,3,,St. Louis NL
+MLS,2009,,MLSASG,,,Everton,1,MLS All-Stars,1,4:3P,Salt Lake City
+MLS,2009,,USOCUP,,,Seattle Sounders,2,DC United,1,,
+NBA,2009,,NBAASG,,,West,146,East,119,,Phoenix
+NFL,2009,,Pro Bowl,,,AFC,41,NFC,34,,Miami
+NHL,2009,,NHLASG,,,East,12,West,11,SO,Montreal
+MLB,2010,,ASG,,,National,3,American,1,,Anaheim
+MLS,2010,,MLSASG,,,Manchester United,5,MLS All-Stars,2,,Houston
+MLS,2010,,USOCUP,,,Seattle Sounders,2,Columbus Crew,1,,
+NBA,2010,,NBAASG,,,East,141,West,139,,Arlington
+NFL,2010,,Pro Bowl,,,NFC,55,AFC,41,,Honolulu
+MLB,2011,,ASG,,,National,5,American,1,,Phoenix
+MLS,2011,,MLSASG,,,Manchester United,4,MLS All-Stars,0,,Harrison
+MLS,2011,,USOCUP,,,Seattle Sounders,2,Chicago Fire,0,,
+NBA,2011,,NBAASG,,,West,148,East,143,,Los Angeles
+NFL,2011,,Pro Bowl,,,AFC,59,NFC,41,,Honolulu
+NHL,2011,,NHLASG,,,Team Lidstrom,11,Team Staal,10,,Raleigh
+MLB,2012,,ASG,,,National,8,American,0,,Kansas City
+MLS,2012,,MLSASG,,,MLS All-Stars,3,Chelsea,2,,Philadelphia
+MLS,2012,,USOCUP,,,Sporting Kansas City,1,Seattle Sounders,1,3:2P,
+NBA,2012,,NBAASG,,,West,152,East,149,,Orlando
+NFL,2012,,Pro Bowl,,,NFC,62,AFC,35,,Honolulu
+NHL,2012,,NHLASG,,,Team Chara,12,Team Alfredsson,9,,Ottawa
+MLB,2013,,ASG,,,American,3,National,0,,New York NL
+MLS,2013,,MLSASG,,,Roma,3,MLS All-Stars,1,,Kansas City
+MLS,2013,,USOCUP,,,DC United,1,Real Salt Lake,0,,
+NBA,2013,,NBAASG,,,West,143,East,138,,Houston
+NFL,2013,,Pro Bowl,,,Team Rice,22,Team Sanders,21,,Honolulu
+MLB,2014,,ASG,,,American,5,National,3,,Minnesota
+MLS,2014,,MLSASG,,,MLS All-Stars,2,Bayern Munich,1,,Portland
+MLS,2014,,USOCUP,,,Seattle Sounders,3,Philadelphia Union,1,AET,
+NBA,2014,,NBAASG,,,West,163,East,155,,New Orleans
+NFL,2014,,Pro Bowl,,,Team Irvin,32,Team Carter,28,,Glendale
+MLB,2015,,ASG,,,American,6,National,3,,Cincinnati
+MLS,2015,,MLSASG,,,MLS All-Stars,2,Tottenham,1,,Denver
+MLS,2015,,USOCUP,,,Sporting Kansas City,1,Philadelphia Union,1,7:6P,
+NBA,2015,,NBAASG,,,West,163,East,158,,New York
+NFL,2015,,Pro Bowl,,,Team Irvin,49,Team Rice,27,,Honolulu
+NHL,2015,,NHLASG,,,Team Toews,17,Team Foligno,12,,Columbus
+MLB,2016,,ASG,,,American,4,National,2,,San Diego
+MLS,2016,,MLSASG,,,Arsenal,2,MLS All-Stars,1,,San Jose
+MLS,2016,,USOCUP,,,FC Dallas,4,New England Revolution,2,,
+NBA,2016,,NBAASG,,,West,196,East,173,,Toronto
+NFL,2016,,Pro Bowl,,,AFC,20,NFC,13,,Orlando
+NHL,2016,,NHLASG,,,Pacific,1,Atlantic,0,Final,Nashville
+MLB,2017,,ASG,,,American,2,National,1,10 innings,Miami
+MLS,2017,,MLSASG,,,Real Madrid,1,MLS All-Stars,1,4:2P,Chicago
+MLS,2017,,USOCUP,,,Sporting Kansas City,2,New York Red Bulls,1,,
+NBA,2017,,NBAASG,,,West,192,East,182,,New Orleans
+NFL,2017,,Pro Bowl,,,AFC,24,NFC,23,,Orlando
+NHL,2017,,NHLASG,,,Metropolitan,4,Pacific,3,Final,Los Angeles
+MLB,2018,,ASG,,,American,8,National,6,10 innings,Washington
+MLS,2018,,MLSASG,,,Juventus,1,MLS All-Stars,1,5:3P,Atlanta
+MLS,2018,,USOCUP,,,Houston Dynamo,3,Philadelphia Union,0,,
+NBA,2018,,NBAASG,,,Team Lebron,148,Team Stephen,145,,Los Angeles
+NFL,2018,,Pro Bowl,,,AFC,26,NFC,7,,Orlando
+NHL,2018,,NHLASG,,,Pacific,5,Atlantic,2,Final,Tampa
+MLB,2019,,ASG,,,American,4,National,3,,Cleveland
+MLS,2019,,MLSASG,,,Atletico Madrid,3,MLS All-Stars,0,,Orlando
+MLS,2019,,USOCUP,,,Atlanta United,2,Minnesota United,1,,
+NBA,2019,,NBAASG,,,Team Lebron,178,Team Giannis,164,,Charlotte
+NFL,2019,,Pro Bowl,,,AFC,38,NFC,33,,Orlando
+NHL,2019,,NHLASG,,,Metropolitan,10,Central,5,Final,San Jose
+NBA,2020,,NBAASG,,,Team Lebron,157,Team Giannis,155,,Chicago
+NHL,2020,,NHLASG,,,Pacific,5,Atlantic,4,,St. Louis
+MLB,2021,,ASG,,,American,5,National,2,,Colorado
+MLS,2021,,MLSASG,,,MLS All-Stars,1,Liga MX All-Stars,1,3:2P,Los Angeles
+NBA,2021,,NBAASG,,,Team Lebron,170,Team Durant,150,,Atlanta
+MLB,2022,,ASG,,,American,3,National,2,,Los Angeles
+MLS,2022,,MLSASG,,,MLS All-Stars,2,Liga MX All-Stars,1,,Minnesota
+MLS,2022,,USOCUP,,,Orlando City,3,Sacramento Republic,0,,
+NBA,2022,,NBAASG,,,Team Lebron,163,Team Durant,160,,Cleveland
+NFL,2022,,Pro Bowl,,,AFC,41,NFC,35,,Las Vegas
+NHL,2022,,NHLASG,,,Metropolitan,5,Central,3,,Las Vegas
+MLB,2023,,ASG,,,National,3,American,2,,Seattle
+MLS,2023,,MLSASG,,,Arsenal,5,MLS All-Stars,0,,Washington DC
+MLS,2023,,USOCUP,,,Houston Dynamo,2,Inter Miami,1,,Fort Lauderdale
+NBA,2023,,NBAASG,,,Team Giannis,184,Team LeBron,175,,Salt Lake City
+NFL,2023,,Pro Bowl,,,NFC,35,AFC,33,,Las Vegas
+NHL,2023,,NHLASG,,,Atlantic,7,Central,5,,Miami
+MLB,2024,,ASG,,,American,5,National,3,,Texas
+MLS,2024,,MLSASG,,,Liga MX All-Stars,4,MLS All-Stars,1,,Columbus
+MLS,2024,,USOCUP,,,Los Angeles FC,3,Sporting Kansas City,1,AET,
+NBA,2024,,NBAASG,,,East,211,West,186,,Indiana
+NFL,2024,,Pro Bowl,,,NFC,64,AFC,59,,Orlando
+NHL,2024,,NHLASG,,,Team Matthews,7,Team McDavid,4,,Toronto
+MLB,2025,,ASG,,,National,6,American,6,4-3 Swingoff,Atlanta
+MLS,2025,,MLSASG,,,MLS All-Stars,3,Liga MX All-Stars,1,,Austin
+MLS,2025,,USOCUP,,,Nashville SC,2,Austin FC,1,,
+NBA,2025,,NBAASG,,,OGs,41,Global Stars,25,,San Francisco
+NFL,2025,,Pro Bowl,,,NFC,66,AFC,52,,San Francisco

@@ -1,0 +1,306 @@
+names,codes,myname,conf
+Abilene Christian,2,Abilene Christian,WAC
+Akron,5,Akron,MAC
+Alabama A&M,6,Alabama A&M,SWAC
+Alabama St.,7,Alabama St.,SWAC
+Alabama,8,Alabama,SEC
+UAB,9,UAB,CUSA
+UAlbany,14,Albany,AEC
+Alcorn,17,Alcorn,SWAC
+App State,27,Appalachian St.,SBC
+Arizona St.,28,Arizona St.,Pac12
+Arizona,29,Arizona,Pac12
+Arkansas St.,30,Arkansas St.,SBC
+Arkansas,31,Arkansas,SEC
+Little Rock,32,Little Rock,OVC
+Auburn,37,Auburn,SEC
+Austin Peay,43,Austin Peay,ASUN
+Ball St.,47,Ball State,MAC
+Charleston So.,48,Charleston So.,BSC
+Baylor,51,Baylor,Big12
+Bellarmine,52,Bellarmine,ASUN
+Bethune-Cookman,61,Bethune Cookman,SWAC
+Binghamton,62,Binghamton,AEC
+Boston College,67,Boston College,ACC
+Bowling Green,71,Bowling Green,MAC
+Bradley,72,Bradley,MVC
+BYU,77,BYU,WCC
+Brown,80,Brown,Ivy
+Bryant,81,Bryant,AEC
+Bucknell,83,Bucknell,Patriot
+Butler,87,Butler,BEC
+Cal Poly,90,Cal Poly,BWC
+CSU Bakersfield,94,CS Bakersfield,BWC
+Fresno St.,96,Fresno St.,MWC
+Cal St. Fullerton,97,CS Fullerton,BWC
+Long Beach St.,99,Long Beach St.,BWC
+CSUN,101,CS Northridge,BWC
+Sacramento St.,102,Sacramento St.,WAC
+UC Santa Barbara,104,UCSB,BWC
+California,107,California,Pac12
+UC Davis,108,UC Davis,BWC
+UC Irvine,109,UC Irvine,BWC
+UCLA,110,UCLA,Pac12
+UC Riverside,111,UC Riverside,BWC
+UC San Diego,112,UCSD,BWC
+Campbell,115,Campbell,BSC
+Canisius,116,Canisius,MAAC
+Central Conn. St.,127,Central Conn.,NEC
+UCF,128,UCF,American
+Central Mich.,129,Central Mich.,MAC
+Cincinnati,140,Cincinnati,American
+The Citadel,141,Citadel,Southern
+Clemson,147,Clemson,ACC
+Coastal Carolina,149,Coastal Carolina,SBC
+Columbia,158,Columbia,Ivy
+UConn,164,Connecticut,BEC
+Coppin St.,165,Coppin St.,NEC
+Cornell,167,Cornell,Ivy
+Creighton,169,Creighton,BEC
+Dartmouth,172,Dartmouth,Ivy
+Davidson,173,Davidson,A10
+Dayton,175,Dayton,A10
+Delaware St.,178,Delaware St.,NEC
+Delaware,180,Delaware,Colonial
+Duke,193,Duke,ACC
+East Carolina,196,East Carolina,American
+ETSU,198,ETSU,Southern
+Eastern Ill.,201,Eastern Ill.,OVC
+Eastern Ky.,202,Eastern Ky.,ASUN
+Eastern Mich.,204,Eastern Mich.,MAC
+Evansville,219,Evansville,MVC
+Fairfield,220,Fairfield,MAAC
+FDU,222,Fairleigh Dickinson,NEC
+Florida A&M,228,Florida A&M,SWAC
+Fla. Atlantic,229,Fla. Atlantic,CUSA
+FIU,231,FIU,CUSA
+Florida St.,234,Florida St.,ACC
+Florida,235,Florida,SEC
+Fordham,236,Fordham,A10
+George Mason,248,George Mason,A10
+George Washington,249,George Washington,A10
+Georgetown,251,Georgetown,BEC
+Ga. Southern,253,Ga. Southern,SBC
+Georgia St.,254,Georgia St.,SBC
+Georgia Tech,255,Georgia Tech,ACC
+Georgia,257,Georgia,SEC
+Gonzaga,260,Gonzaga,WCC
+Grambling,261,Grambling,SWAC
+Hartford,272,Hartford,Indep
+Harvard,275,Harvard,Ivy
+Hawaii,277,Hawaii,BWC
+Hofstra,283,Hofstra,Colonial
+Holy Cross,285,Holy Cross,Patriot
+Houston Christian,287,Houston Christian,SLC
+Houston,288,Houston,American
+Illinois St.,299,Illinois St.,MVC
+Illinois,301,Illinois,Big10
+UIC,302,UIC,MVC
+Indiana St.,305,Indiana St.,MVC
+Indiana,306,Indiana,Big10
+Purdue Fort Wayne,308,Fort Wayne,HL
+Iona,310,Iona,MAAC
+Iowa,312,Iowa,Big10
+Jackson St.,314,Jackson St.,SWAC
+Jacksonville St.,315,Jacksonville St.,ASUN
+Jacksonville,316,Jacksonville,ASUN
+James Madison,317,James Madison,SBC
+Kansas St.,327,Kansas St.,Big12
+Kansas,328,Kansas,Big12
+Kent St.,331,Kent State,MAC
+Kentucky,334,Kentucky,SEC
+Lafayette,342,Lafayette,Patriot
+Lamar University,346,Lamar,SLC
+Lehigh,352,Lehigh,Patriot
+Liberty,355,Liberty,ASUN
+LIU,361,LIU,NEC
+Longwood,363,Longwood,BSC
+LSU,365,LSU,SEC
+Louisiana Tech,366,Louisiana Tech,CUSA
+Louisville,367,Louisville,ACC
+UMass Lowell,368,Mass Lowell,AEC
+LMU (CA),370,Loyola Marymount,WCC
+Maine,380,Maine,AEC
+Manhattan,381,Manhattan,MAAC
+Marist,386,Marist,MAAC
+Marshall,388,Marshall,SBC
+UMBC,391,UMBC,AEC
+Maryland,392,Maryland,Big10
+UMES,393,UMES,NEC
+Massachusetts,400,Massachusetts,A10
+McNeese,402,McNeese,SLC
+Memphis,404,Memphis,American
+Mercer,406,Mercer,Southern
+Merrimack,410,Merrimack,NEC
+Miami (OH),414,Miami Ohio,MAC
+Miami (FL),415,Miami,ACC
+Michigan St.,416,Michigan St.,Big10
+Michigan,418,Michigan,Big10
+Middle Tenn.,419,Middle Tenn.,CUSA
+Minnesota,428,Minnesota,Big10
+Mississippi St.,430,Miss State,SEC
+Mississippi Val.,432,Miss Valley,SWAC
+Ole Miss,433,Mississippi,SEC
+Missouri,434,Missouri,SEC
+Monmouth,439,Monmouth,Colonial
+Morehead St.,444,Morehead St.,OVC
+Mount St. Mary's,450,Mount St. Mary's,MAAC
+Murray St.,454,Murray St.,MVC
+UNC Asheville,456,NC Asheville,BSC
+North Carolina,457,North Carolina,ACC
+Charlotte,458,Charlotte,CUSA
+UNC Greensboro,459,NC Greensboro,Southern
+UNCW,460,NC Wilmington,Colonial
+Nebraska,463,Nebraska,Big10
+Omaha,464,Omaha,Summit
+UNLV,465,UNLV,MWC
+Nevada,466,Nevada,MWC
+NJIT,471,NJIT,AEC
+New Mexico St.,472,New Mexico St.,WAC
+New Mexico,473,New Mexico,MWC
+New Orleans,474,New Orleans,SLC
+Niagara,482,Niagara,MAAC
+Nicholls,483,Nicholls,SLC
+Norfolk St.,485,Norfolk St.,NEC
+North Ala.,487,North Alabama,ASUN
+N.C. A&T,488,NC A&T,Colonial
+NC State,490,NC State,ACC
+North Dakota St.,493,North Dakota St.,Summit
+ULM,498,UL Monroe,SBC
+Northeastern,500,Northeastern,Colonial
+Northern Colo.,502,Northern Colo.,Summit
+NIU,503,Northern Ill.,MAC
+Northern Ky.,505,Northern Ky.,HL
+Northwestern St.,508,Northwestern St.,SLC
+Northwestern,509,Northwestern,Big10
+Notre Dame,513,Notre Dame,ACC
+Oakland,514,Oakland,HL
+Ohio St.,518,Ohio State,Big10
+Ohio,519,Ohio,MAC
+Oklahoma St.,521,Oklahoma St.,Big12
+Oklahoma,522,Oklahoma,Big12
+Old Dominion,523,Old Dominion,SBC
+Oral Roberts,527,Oral Roberts,Summit
+Oregon St.,528,Oregon St.,Pac12
+Oregon,529,Oregon,Pac12
+Pacific,534,Pacific,WCC
+UTRGV,536,UTRGV,WAC
+Penn St.,539,Penn State,Big10
+Penn,540,Pennsylvania,Ivy
+Pepperdine,541,Pepperdine,WCC
+Pittsburgh,545,Pittsburgh,ACC
+Portland,551,Portland,WCC
+Prairie View,553,Prairie View,SWAC
+Princeton,554,Princeton,Ivy
+Purdue,559,Purdue,Big10
+Quinnipiac,562,Quinnipiac,MAAC
+Radford,563,Radford,BSC
+Rhode Island,572,Rhode Island,A10
+Rice,574,Rice,CUSA
+Richmond,575,Richmond,A10
+Rider,576,Rider,MAAC
+Rutgers,587,Rutgers,Big10
+Sacred Heart,590,Sacred Heart,NEC
+St. Bonaventure,596,St. Bonaventure,A10
+St. John's (NY),603,St. John's,BEC
+Saint Joseph's,606,St. Joseph's,A10
+Saint Louis,609,St. Louis,A10
+Saint Mary's (CA),610,St. Mary's,WCC
+Saint Peter's,617,St. Peter's,MAAC
+St. Thomas (MN),620,St. Thomas,Summit
+Sam Houston,624,Sam Houston,WAC
+Samford,625,Samford,Southern
+San Diego St.,626,San Diego St.,MWC
+San Diego,627,San Diego,WCC
+San Francisco,629,San Francisco,WCC
+San Jose St.,630,San Jose St.,MWC
+Santa Clara,631,Santa Clara,WCC
+Seton Hall,635,Seton Hall,BEC
+Siena,639,Siena,MAAC
+South Alabama,646,South Alabama,SBC
+South Carolina,648,South Carolina,SEC
+South Dakota St.,649,South Dakota St.,Summit
+South Fla.,651,South Florida,American
+Southeast Mo. St.,654,SE Missouri,OVC
+Southeastern La.,655,SE Louisiana,SLC
+Southern California,657,USC,Pac12
+Southern Ill.,659,Southern Ill.,MVC
+SIUE,660,SIUE,OVC
+Southern Ind.,661,Southern Ind.,OVC
+Southern Miss.,664,Southern Miss,SBC
+Southern U.,665,Southern,SWAC
+Missouri St.,669,Missouri St.,MVC
+Texas St.,670,Texas St.,SBC
+Louisiana,671,Louisiana,SBC
+Stanford,674,Stanford,Pac12
+SFA,676,Stephen F. Austin,WAC
+Stetson,678,Stetson,ASUN
+Stonehill,682,Stonehill,NEC
+Stony Brook,683,Stony Brook,Colonial
+Tennessee Tech,692,Tennessee Tech,OVC
+Tennessee,694,Tennessee,SEC
+UT Martin,695,UT Martin,OVC
+Texas A&M,697,Texas A&M,SEC
+TCU,698,TCU,Big12
+Texas Southern,699,Texas Southern,SWAC
+Texas Tech,700,Texas Tech,Big12
+UT Arlington,702,UT Arlington,WAC
+Texas,703,Texas,Big12
+UTSA,706,UTSA,CUSA
+Toledo,709,Toledo,MAC
+Towson,711,Towson,Colonial
+Troy,716,Troy,SBC
+Tulane,718,Tulane,American
+Air Force,721,Air Force,MWC
+Army West Point,725,Army,Patriot
+Navy,726,Navy,Patriot
+Utah,732,Utah,Pac12
+Valparaiso,735,Valparaiso,MVC
+Vanderbilt,736,Vanderbilt,SEC
+Villanova,739,Villanova,BEC
+VCU,740,VCU,A10
+VMI,741,VMI,Southern
+Virginia Tech,742,Virginia Tech,ACC
+Virginia,746,Virginia,ACC
+Wagner,748,Wagner,NEC
+Wake Forest,749,Wake Forest,ACC
+Washington St.,754,Washington St.,Pac12
+Washington,756,Washington,Pac12
+West Virginia,768,West Virginia,Big12
+Western Caro.,769,Western Caro.,Southern
+Western Ill.,771,Western Ill.,Summit
+Western Ky.,772,Western Ky.,CUSA
+Western Mich.,774,Western Mich.,MAC
+Wichita St.,782,Wichita St.,American
+William & Mary,786,William & Mary,Colonial
+Winthrop,792,Winthrop,BSC
+Milwaukee,797,Milwaukee,HL
+Wright St.,810,Wright St.,HL
+Xavier,812,Xavier,BEC
+Yale,813,Yale,Ivy
+Youngstown St.,817,Youngstown St.,HL
+Central Ark.,1004,Central Ark.,ASUN
+Col. of Charleston,1014,Charleston,Colonial
+DBU,1045,DBU,CUSA
+Elon,1068,Elon,Colonial
+Gardner-Webb,1092,Gardner Webb,BSC
+Grand Canyon,1104,Grand Canyon,WAC
+Kennesaw St.,1157,Kennesaw St.,ASUN
+Presbyterian,1320,Presbyterian,BSC
+Seattle U,1356,Seattle,WAC
+Tarleton St.,1395,Tarleton St.,WAC
+Ark.-Pine Bluff,2678,Ark. Pine Bluff,SWAC
+North Florida,2711,North Florida,ASUN
+UIW,2743,Incarnate Word,SLC
+Wofford,2915,Wofford,Southern
+USC Upstate,10411,SC Upstate,BSC
+Queens (NC),11504,Queens,ASUN
+Belmont,14927,Belmont,MVC
+High Point,19651,High Point,BSC
+A&M-Corpus Christi,26172,TAMUCC,SLC
+Lipscomb,28600,Lipscomb,ASUN
+FGCU,28755,FGCU,ASUN
+Utah Valley,30024,Utah Valley,WAC
+Utah Tech,30095,Utah Tech,WAC
+California Baptist,30135,Cal Baptist,WAC
+Lindenwood,30136,Lindenwood,OVC

@@ -1,0 +1,54 @@
+/* Layout */
+body {margin:10px; padding:0 10px 10px 10px; background-color:#ffffff;}
+#head {text-align:left; width: 100%; background: #cdcdcd; padding: 5px 0 5px 0;}
+#red {text-align:center; width: 100%; background: #CE2029; padding: 10px 0 10px 0;}
+#yellow {text-align:center; width: 100%; background: #FFD800; padding: 10px 0 10px 0;}
+#blue {text-align:center; width: 100%; background: #062A78; padding: 10px 0 10px 0;}
+#main {width:100%; padding:0;}
+#foot {text-align:left; width: 100%; background: #cdcdcd; padding: 5px 0 5px 0;}
+
+/* Text Styles */
+
+h1 {color: #FFD800; font-weight:bold; font-style:italic; font-size:3em; font-family:Verdana, sans-serif; margin:0;}
+h2 {color: #ff0000; font-weight:bold; font-size:2em; font-family:times new roman, times, sans-serif; margin:0;}
+h3 {color: #000000; font-weight:bold; font-size:1.5em; font-family:times new roman, times, sans-serif; margin:0;}
+h4 {color: #ffffff; font-weight:bold; font-size:1.5em; font-family:Verdana, times, sans-serif; margin:0;}
+h5 {color: #000000; font-weight:normal; font-size:0.75em; font-family:times new roman, times, sans-serif; margin:0; display:inline;}
+
+table {border:1px solid black; text-align:center; border-spacing:2;}
+th{border:1px solid black; background-color:#000000; color:#ffffff;  font-size:1em;}
+th.hl{border:1px solid black; background-color:#062A78; color:#ffffff;  font-size:1em;}
+th.hl2{border:1px solid black; background-color:#062A78; color:#ffffff;  font-size:1em;}
+th.xx2{border:1px solid black; background-color:#000000; color:#000000;  font-size:1em;}
+th.hl3{border:1px solid black; background-color:#062A78; color:#ffffff;  font-size:1em;}
+td{border:1px solid black; font-size:1em}
+tr.d0{background-color:#ffffff;}
+tr.d1{background-color:#cdcdcd;}
+tr.d2{background-color:#a7a7a7;}
+tr.d3{background-color:#FFD800;}
+tr.d4{background-color:#7f7f7f; color:#ffffff; font-weight:bold;}
+
+table.head {border: 0; text-align:center; border-spacing:0; padding:0;width:100%;}
+tr.head {border: 0; text-align:center; border-spacing:0; padding:0;width:100%;}
+td.head {border: 0; text-align:center; border-spacing:0; padding:0;width:100%;}
+
+table.blue {width:100%; border:0; text-align:center; color:#ffffff;}
+td.blue {border:0; text-align:center; color:#ffffff;}
+
+a.red:link {color: #062A78; text-decoration: none;}
+a.red:visited {color: #062A78; text-decoration: none;}
+a.red:hover {color: #062A78; text-decoration: none;}
+a.red:active {color: #062A78; text-decoration: none;}
+
+a.blue:link {color: #ffffff; text-decoration: none;}
+a.blue:visited {color: #CDCDCD; text-decoration: none;}
+a.blue:hover {color: #FFD800; text-decoration: none;}
+a.blue:active {color: #006400; text-decoration: none;}
+
+a:link{color: ##062A78;}
+a:visited{color:#CE2029;}
+a:hover{color:#FFD800;}
+a:active{color:#ffff00;}
+
+
+
