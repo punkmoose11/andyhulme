@@ -304,7 +304,7 @@ play.tm$name2 <- ifelse(grepl("First Round",play.tm$name1),"First Round",paste(p
 
 play.tm$row <- paste(ifelse(play.tm$flag==1,"<tr><th colspan='6'></th></tr>",""),"<tr><td>",paste(
 				ifelse(play.tm$flag>=1,paste("<a href='",play.tm$year,".html'><b>",play.tm$year,"</b></a>",sep=""),""),
-				ifelse(play.tm$flag2==1,
+				ifelse(play.tm$flag2==1 | play.tm$flag>=1,
 					paste("<b>",ifelse(play.tm$name2!="",paste(play.tm$name2),paste(play.tm$name1)),"</b>"),""),
 				paste("<a href='",teamlink(play.tm$team2),".html'>",play.tm$team2,"</a>",sep=""),
 				paste(play.tm$result),
