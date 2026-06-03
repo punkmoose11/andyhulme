@@ -72,7 +72,7 @@ HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"<
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
 HTML <- gsub("<< <a href='bracket2020.html'>2020</a> ","<< <a href='bracket2019.html'>2019</a> ",HTML)
 HTML <- gsub("<a href='bracket2020.html'>2020</a> >>","<a href='bracket2021.html'>2021</a> >>",HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2027.html'>2027</a> >>","2027 >>",HTML)
 HTML <- gsub("<< <a href='bracket1947.html'>1947</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
@@ -126,7 +126,7 @@ HTML <- gsub("SPORTZ","<a href='./index.html'>Volleyball</a>",HTML)
 HTML <- gsub("YEAR1",paste(j," (<a href='",j,".html'>Games</a>",")",sep=""),HTML)
 HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"</a>",sep=""),HTML)
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2026.html'>2026</a> >>","2026 >>",HTML)
 HTML <- gsub("<< <a href='bracket1980.html'>1980</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
@@ -198,7 +198,7 @@ HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"<
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
 HTML <- gsub("<< <a href='bracket2020.html'>2020</a> ","<< <a href='bracket2019.html'>2019</a> ",HTML)
 HTML <- gsub("<a href='bracket2020.html'>2020</a> >>","<a href='bracket2021.html'>2021</a> >>",HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2027.html'>2027</a> >>","2027 >>",HTML)
 HTML <- gsub("<< <a href='bracket1981.html'>1981</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
@@ -262,7 +262,7 @@ HTML <- gsub("SPORTZ","<a href='./index.html'>Soccer Men</a>",HTML)
 HTML <- gsub("YEAR1",paste(j," (<a href='",j,".html'>Games</a>",")",sep=""),HTML)
 HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"</a>",sep=""),HTML)
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2026.html'>2026</a> >>","2026 >>",HTML)
 HTML <- gsub("<< <a href='bracket1958.html'>1958</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
@@ -323,7 +323,7 @@ HTML <- gsub("SPORTZ","<a href='./index.html'>Soccer Women</a>",HTML)
 HTML <- gsub("YEAR1",paste(j," (<a href='",j,".html'>Games</a>",")",sep=""),HTML)
 HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"</a>",sep=""),HTML)
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2026.html'>2026</a> >>","2026 >>",HTML)
 HTML <- gsub("<< <a href='bracket1981.html'>1981</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
@@ -357,7 +357,7 @@ sink()
 
 lax <- subset(ncaa, sport=="LAX")
 
-for (j in c(1971:2019,2021:2025)) {
+for (j in c(1971:2019,2021:2026)) {
 
 bracket <- subset(lax, year==j)
 
@@ -381,7 +381,7 @@ HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"<
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
 HTML <- gsub("<< <a href='bracket2020.html'>2020</a> ","<< <a href='bracket2019.html'>2019</a> ",HTML)
 HTML <- gsub("<a href='bracket2020.html'>2020</a> >>","<a href='bracket2021.html'>2021</a> >>",HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2027.html'>2027</a> >>","2027 >>",HTML)
 HTML <- gsub("<< <a href='bracket1970.html'>1970</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)

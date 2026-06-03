@@ -26,7 +26,7 @@ pro <- read.csv("../Data/protournament.csv")
 
 nfl <- subset(pro, sport=="NFL")
 
-for (j in 1966:2024) {
+for (j in 1966:2025) {
 
 bracket <- subset(nfl, year==j)
 
@@ -47,7 +47,7 @@ HTML <- gsub("SPORTZ","<a href='./index.html'>NFL</a>",HTML)
 HTML <- gsub("YEAR1",paste("<a href='",paste(j),".html'>",paste(j),"</a>",sep=""),HTML)
 HTML <- gsub("YEAR0",paste("<a href='bracket",paste(j-1),".html'>",paste(j-1),"</a>",sep=""),HTML)
 HTML <- gsub("YEAR2",paste("<a href='bracket",paste(j+1),".html'>",paste(j+1),"</a>",sep=""),HTML)
-HTML <- gsub("<a href='bracket2025.html'>2025</a> >>","2025 >>",HTML)
+HTML <- gsub("<a href='bracket2026.html'>2026</a> >>","2026 >>",HTML)
 HTML <- gsub("<< <a href='bracket1965.html'>1965</a> ","<< First ",HTML)
 
 HTML <- gsub("YYYY",paste(j),HTML)
