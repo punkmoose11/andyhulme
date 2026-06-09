@@ -3314,10 +3314,10 @@ yr,team,regional,round,nickname,conference,record,seed,natseed,host,suphost
 2025,Miss State,Super Regional 8,Tallahassee,Bulldogs,,,3,,,
 2025,Bethune Cookman,Super Regional 8,Tallahassee,Wildcats,,,4,,,
 2026,UCLA,Super Regional 1,Los Angeles,Bruins,,,1,1,H,
-2026,Virginia Tech,Super Regional 1,Los Angeles,Hokies,,,2,,,H
+2026,Virginia Tech,Super Regional 1,Los Angeles,Hokies,,,2,,,
 2026,Cal Poly,Super Regional 1,Los Angeles,Mustangs,,,3,,,
 2026,St. Mary's,Super Regional 1,Los Angeles,Gaels,,,4,,,
-2026,West Virginia,Super Regional 1,Morgantown,Mountaineers,,,1,16,H,
+2026,West Virginia,Super Regional 1,Morgantown,Mountaineers,,,1,16,H,H
 2026,Wake Forest,Super Regional 1,Morgantown,Demon Deacons,,,2,,,
 2026,Kentucky,Super Regional 1,Morgantown,Wildcats,,,3,,,
 2026,Binghamton,Super Regional 1,Morgantown,Bearcats,,,4,,,
@@ -3361,17 +3361,17 @@ yr,team,regional,round,nickname,conference,record,seed,natseed,host,suphost
 2026,Oregon St.,Super Regional 6,Eugene,Beavers,,,2,,,
 2026,Washington St.,Super Regional 6,Eugene,Cougars,,,3,,,
 2026,Yale,Super Regional 6,Eugene,Bulldogs,,,4,,,
-2026,Alabama,Super Regional 7,Tuscaloosa,Crimson Tide,,,1,7,H,
-2026,Oklahoma St.,Super Regional 7,Tuscaloosa,Cowboys,,,2,,,H
+2026,Alabama,Super Regional 7,Tuscaloosa,Crimson Tide,,,1,7,H,H
+2026,Oklahoma St.,Super Regional 7,Tuscaloosa,Cowboys,,,2,,,
 2026,SC Upstate,Super Regional 7,Tuscaloosa,Spartans,,,3,,,
 2026,Alabama St.,Super Regional 7,Tuscaloosa,Hornets,,,4,,,
 2026,Florida St.,Super Regional 7,Tallahassee,Seminoles,,,1,10,H,
 2026,Coastal Carolina,Super Regional 7,Tallahassee,Chanticleers,,,2,,,
 2026,Northern Ill.,Super Regional 7,Tallahassee,Huskies,,,3,,,
 2026,St. John's,Super Regional 7,Tallahassee,Red Storm,,,4,,,
-2026,Florida,Super Regional 8,Gainesville,Gators,,,1,8,H,H
+2026,Florida,Super Regional 8,Gainesville,Gators,,,1,8,H,
 2026,Miami,Super Regional 8,Gainesville,Hurricanes,,,2,,,
-2026,Troy,Super Regional 8,Gainesville,Trojans,,,3,,,
+2026,Troy,Super Regional 8,Gainesville,Trojans,,,3,,,H
 2026,Rider,Super Regional 8,Gainesville,Broncs,,,4,,,
 2026,Southern Miss,Super Regional 8,Hattiesburg,Golden Eagles,,,1,9,H,
 2026,Virginia,Super Regional 8,Hattiesburg,Cavaliers,,,2,,,
