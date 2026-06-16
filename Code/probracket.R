@@ -122,7 +122,7 @@ sink()
 
 nba <- subset(pro, sport=="NBA")
 
-for (j in 1947:2025) {
+for (j in 1947:2026) {
 
 bracket <- subset(nba, year==j)
 
@@ -171,7 +171,7 @@ sink()
 
 nhl <- subset(pro, sport=="NHL")
 
-for (j in c(1927:2004,2006:2025)) {
+for (j in c(1927:2004,2006:2026)) {
 
 bracket <- subset(nhl, year==j)
 
