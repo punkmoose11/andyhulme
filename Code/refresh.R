@@ -41,6 +41,10 @@ worldcup <- read_excel("C://Users/andyh/OneDrive/Documents/SPORTSDATA/Scores.xls
 worldcup <- as.data.frame(worldcup) 
 write.csv(worldcup, file = "../Data/worldcup.csv", quote = FALSE, row.names = FALSE, na="")
 
+wbc <- read_excel("C://Users/andyh/OneDrive/Documents/SPORTSDATA/World Baseball Classic.xlsx",sheet = "Games")
+wbc <- as.data.frame(wbc) 
+write.csv(wbc, file = "../Data/wbc.csv", quote = FALSE, row.names = FALSE, na="")
+
 source("almanac.r")
 source("probracket.r")
 source("worldcup.r")

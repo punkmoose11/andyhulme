@@ -1,0 +1,332 @@
+YEAR,Round,Group,Location,Date,GameNo,TEAM1,TEAM2,RUNS1,RUNS2,INN,...12,...13,Winner,Loser
+2006,1,A,Tokyo,2006-03-03,1,South Korea,Chinese Taipei,2,0,,,,South Korea,Chinese Taipei
+2006,1,A,Tokyo,2006-03-03,2,Japan,China,18,2,8,,,Japan,China
+2006,1,A,Tokyo,2006-03-04,3,China,South Korea,1,10,,,,South Korea,China
+2006,1,A,Tokyo,2006-03-04,4,Japan,Chinese Taipei,14,3,7,,,Japan,Chinese Taipei
+2006,1,A,Tokyo,2006-03-05,5,Chinese Taipei,China,12,3,,,,Chinese Taipei,China
+2006,1,A,Tokyo,2006-03-05,6,South Korea,Japan,3,2,,,,South Korea,Japan
+2006,1,B,Phoenix,2006-03-07,1,Mexico,United States,0,2,,,,United States,Mexico
+2006,1,B,Scottsdale,2006-03-07,2,Canada,South Africa,11,8,,,,Canada,South Africa
+2006,1,B,Phoenix,2006-03-08,3,Canada,United States,8,6,,,,Canada,United States
+2006,1,B,Scottsdale,2006-03-08,4,South Africa,Mexico,4,10,,,,Mexico,South Africa
+2006,1,B,Phoenix,2006-03-09,5,Mexico,Canada,9,1,,,,Mexico,Canada
+2006,1,B,Scottsdale,2006-03-10,6,United States,South Africa,17,0,5,,,United States,South Africa
+2006,1,C,San Juan,2006-03-07,1,Panama,Puerto Rico,1,2,,,,Puerto Rico,Panama
+2006,1,C,San Juan,2006-03-08,2,Cuba,Panama,8,6,11,,,Cuba,Panama
+2006,1,C,San Juan,2006-03-08,3,Puerto Rico,Netherlands,8,3,,,,Puerto Rico,Netherlands
+2006,1,C,San Juan,2006-03-09,4,Cuba,Netherlands,11,2,,,,Cuba,Netherlands
+2006,1,C,San Juan,2006-03-10,5,Netherlands,Panama,10,0,7,,,Netherlands,Panama
+2006,1,C,San Juan,2006-03-10,6,Puerto Rico,Cuba,12,2,7,,,Puerto Rico,Cuba
+2006,1,D,Orlando,2006-03-07,1,Dominican Rep.,Venezuela,11,5,,,,Dominican Rep.,Venezuela
+2006,1,D,Orlando,2006-03-07,2,Australia,Italy,0,10,7,,,Italy,Australia
+2006,1,D,Orlando,2006-03-08,3,Italy,Venezuela,0,6,,,,Venezuela,Italy
+2006,1,D,Orlando,2006-03-09,4,Italy,Dominican Rep.,3,8,,,,Dominican Rep.,Italy
+2006,1,D,Orlando,2006-03-09,5,Venezuela,Australia,2,0,,,,Venezuela,Australia
+2006,1,D,Orlando,2006-03-10,6,Australia,Dominican Rep.,4,6,,,,Dominican Rep.,Australia
+2006,2,1,Anaheim,2006-03-12,1,Japan,United States,3,4,,,,United States,Japan
+2006,2,1,Anaheim,2006-03-12,2,Mexico,South Korea,1,2,,,,South Korea,Mexico
+2006,2,1,Anaheim,2006-03-13,3,United States,South Korea,3,7,,,,South Korea,United States
+2006,2,1,Anaheim,2006-03-14,4,Japan,Mexico,6,1,,,,Japan,Mexico
+2006,2,1,Anaheim,2006-03-15,5,South Korea,Japan,2,1,,,,South Korea,Japan
+2006,2,1,Anaheim,2006-03-16,6,United States,Mexico,1,2,,,,Mexico,United States
+2006,2,2,San Juan,2006-03-12,1,Cuba,Venezuela,7,2,,,,Cuba,Venezuela
+2006,2,2,San Juan,2006-03-12,2,Puerto Rico,Dominican Rep.,7,1,,,,Puerto Rico,Dominican Rep.
+2006,2,2,San Juan,2006-03-13,3,Dominican Rep.,Cuba,7,3,,,,Dominican Rep.,Cuba
+2006,2,2,San Juan,2006-03-13,4,Venezuela,Puerto Rico,6,0,,,,Venezuela,Puerto Rico
+2006,2,2,San Juan,2006-03-14,5,Venezuela,Dominican Rep.,1,2,,,,Dominican Rep.,Venezuela
+2006,2,2,San Juan,2006-03-15,6,Cuba,Puerto Rico,4,3,,,,Cuba,Puerto Rico
+2006,3,Final,San Diego,2006-03-20,3,Japan,Cuba,10,6,,,,Japan,Cuba
+2006,3,Semis,San Diego,2006-03-18,1,Cuba,Dominican Rep.,3,1,,,,Cuba,Dominican Rep.
+2006,3,Semis,San Diego,2006-03-18,2,Japan,South Korea,6,0,,,,Japan,South Korea
+2009,1,A,Tokyo,2009-03-05,1,China,Japan,0,4,,,,Japan,China
+2009,1,A,Tokyo,2009-03-06,2,Chinese Taipei,South Korea,0,9,,,,South Korea,Chinese Taipei
+2009,1,A,Tokyo,2009-03-07,3,Chinese Taipei,China,1,4,,,,China,Chinese Taipei
+2009,1,A,Tokyo,2009-03-07,4,Japan,South Korea,14,2,7,,,Japan,South Korea
+2009,1,A,Tokyo,2009-03-08,5,China,South Korea,0,14,7,,,South Korea,China
+2009,1,A,Tokyo,2009-03-09,6,South Korea,Japan,1,0,,,,South Korea,Japan
+2009,1,B,Mexico City,2009-03-08,1,South Africa,Cuba,1,8,,,,Cuba,South Africa
+2009,1,B,Mexico City,2009-03-08,2,Australia,Mexico,17,7,8,,,Australia,Mexico
+2009,1,B,Mexico City,2009-03-09,3,Mexico,South Africa,14,3,,,,Mexico,South Africa
+2009,1,B,Mexico City,2009-03-10,4,Cuba,Australia,5,4,,,,Cuba,Australia
+2009,1,B,Mexico City,2009-03-11,5,Mexico,Australia,16,1,6,,,Mexico,Australia
+2009,1,B,Mexico City,2009-03-12,6,Mexico,Cuba,4,16,7,,,Cuba,Mexico
+2009,1,C,Toronto,2009-03-07,1,Canada,United States,5,6,,,,United States,Canada
+2009,1,C,Toronto,2009-03-07,2,Italy,Venezuela,0,7,,,,Venezuela,Italy
+2009,1,C,Toronto,2009-03-08,3,United States,Venezuela,15,6,,,,United States,Venezuela
+2009,1,C,Toronto,2009-03-09,4,Italy,Canada,6,2,,,,Italy,Canada
+2009,1,C,Toronto,2009-03-10,5,Italy,Venezuela,1,10,,,,Venezuela,Italy
+2009,1,C,Toronto,2009-03-11,6,Venezuela,United States,5,3,,,,Venezuela,United States
+2009,1,D,San Juan,2009-03-07,1,Netherlands,Dominican Rep.,3,2,,,,Netherlands,Dominican Rep.
+2009,1,D,San Juan,2009-03-07,2,Panama,Puerto Rico,0,7,,,,Puerto Rico,Panama
+2009,1,D,San Juan,2009-03-08,3,Panama,Dominican Rep.,0,9,,,,Dominican Rep.,Panama
+2009,1,D,San Juan,2009-03-09,4,Netherlands,Puerto Rico,1,3,,,,Puerto Rico,Netherlands
+2009,1,D,San Juan,2009-03-10,5,Dominican Rep.,Netherlands,1,2,11,,,Netherlands,Dominican Rep.
+2009,1,D,San Juan,2009-03-11,6,Netherlands,Puerto Rico,0,5,,,,Puerto Rico,Netherlands
+2009,2,1,San Diego,2009-03-15,1,Japan,Cuba,6,0,,,,Japan,Cuba
+2009,2,1,San Diego,2009-03-15,2,Mexico,South Korea,2,8,,,,South Korea,Mexico
+2009,2,1,San Diego,2009-03-16,3,Cuba,Mexico,7,4,,,,Cuba,Mexico
+2009,2,1,San Diego,2009-03-17,4,Japan,South Korea,1,4,,,,South Korea,Japan
+2009,2,1,San Diego,2009-03-18,5,Japan,Cuba,5,0,,,,Japan,Cuba
+2009,2,1,San Diego,2009-03-19,6,Japan,South Korea,6,2,,,,Japan,South Korea
+2009,2,2,Miami,2009-03-14,1,Netherlands,Venezuela,1,3,,,,Venezuela,Netherlands
+2009,2,2,Miami,2009-03-14,2,United States,Puerto Rico,1,11,7,,,Puerto Rico,United States
+2009,2,2,Miami,2009-03-15,3,Netherlands,United States,3,9,,,,United States,Netherlands
+2009,2,2,Miami,2009-03-16,4,Venezuela,Puerto Rico,2,0,,,,Venezuela,Puerto Rico
+2009,2,2,Miami,2009-03-17,5,Puerto Rico,United States,5,6,,,,United States,Puerto Rico
+2009,2,2,Miami,2009-03-18,6,United States,Venezuela,6,10,,,,Venezuela,United States
+2009,3,Final,Los Angeles,2009-03-23,3,Japan,South Korea,5,3,10,,,Japan,South Korea
+2009,3,Semis,Los Angeles,2009-03-21,1,South Korea,Venezuela,10,2,,,,South Korea,Venezuela
+2009,3,Semis,Los Angeles,2009-03-22,2,United States,Japan,4,9,,,,Japan,United States
+2013,0,QA,Jupiter,2012-09-19,1,Israel,South Africa,7,3,,,,Israel,South Africa
+2013,0,QA,Jupiter,2012-09-20,2,France,Spain,0,8,7,,,Spain,France
+2013,0,QA,Jupiter,2012-09-21,3,Israel,Spain,4,2,8,,,Israel,Spain
+2013,0,QA,Jupiter,2012-09-21,4,South Africa,France,5,2,11,,,South Africa,France
+2013,0,QA,Jupiter,2012-09-22,5,Spain,South Africa,13,3,,,,Spain,South Africa
+2013,0,QA,Jupiter,2012-09-23,6,Spain,Israel,9,7,10,,,Spain,Israel
+2013,0,QB,Regensburg,2012-09-20,1,Great Britain,Canada,1,11,7,,,Canada,Great Britain
+2013,0,QB,Regensburg,2012-09-21,2,Czechia,Germany,1,16,6,,,Germany,Czechia
+2013,0,QB,Regensburg,2012-09-22,3,Great Britain,Czechia,12,5,,,,Great Britain,Czechia
+2013,0,QB,Regensburg,2012-09-22,4,Canada,Germany,16,7,,,,Canada,Germany
+2013,0,QB,Regensburg,2012-09-23,5,Germany,Great Britain,16,1,7,,,Germany,Great Britain
+2013,0,QB,Regensburg,2012-09-24,6,Germany,Canada,1,11,8,,,Canada,Germany
+2013,0,QC,Panama City,2016-03-17,1,Brazil,Panama,3,2,,,,Brazil,Panama
+2013,0,QC,Panama City,2016-03-17,2,Nicaragua,Colombia,1,8,,,,Colombia,Nicaragua
+2013,0,QC,Panama City,2016-03-18,3,Colombia,Brazil,1,7,,,,Brazil,Colombia
+2013,0,QC,Panama City,2016-03-18,4,Nicaragua,Panama,2,6,,,,Panama,Nicaragua
+2013,0,QC,Panama City,2016-03-19,5,Panama,Colombia,9,7,,,,Panama,Colombia
+2013,0,QC,Panama City,2016-03-20,6,Panama,Brazil,0,1,,,,Brazil,Panama
+2013,0,QD,New Taipei,2016-09-22,1,Philippines,Thailand,8,2,,,,Philippines,Thailand
+2013,0,QD,New Taipei,2016-09-22,2,New Zealand,Chinese Taipei,0,10,7,,,Chinese Taipei,New Zealand
+2013,0,QD,New Taipei,2016-09-23,3,New Zealand,Thailand,12,2,8,,,New Zealand,Thailand
+2013,0,QD,New Taipei,2016-09-23,4,Chinese Taipei,Philippines,16,0,7,,,Chinese Taipei,Philippines
+2013,0,QD,New Taipei,2016-09-24,5,New Zealand,Philippines,10,6,,,,New Zealand,Philippines
+2013,0,QD,New Taipei,2016-09-25,6,New Zealand,Chinese Taipei,0,9,,,,Chinese Taipei,New Zealand
+2013,1,A,Fukuoka,2013-03-02,1,Japan,Brazil,5,3,,,,Japan,Brazil
+2013,1,A,Fukuoka,2013-03-03,2,Cuba,Brazil,5,2,,,,Cuba,Brazil
+2013,1,A,Fukuoka,2013-03-03,3,China,Japan,2,5,,,,Japan,China
+2013,1,A,Fukuoka,2013-03-04,4,China,Cuba,0,12,7,,,Cuba,China
+2013,1,A,Fukuoka,2013-03-05,5,Brazil,China,2,5,,,,China,Brazil
+2013,1,A,Fukuoka,2013-03-06,6,Japan,Cuba,3,6,,,,Cuba,Japan
+2013,1,B,Taichung,2013-03-02,1,Australia,Chinese Taipei,1,4,,,,Chinese Taipei,Australia
+2013,1,B,Taichung,2013-03-02,2,South Korea,Netherlands,0,5,,,,Netherlands,South Korea
+2013,1,B,Taichung,2013-03-03,3,Netherlands,Chinese Taipei,3,8,,,,Chinese Taipei,Netherlands
+2013,1,B,Taichung,2013-03-04,4,South Korea,Australia,6,0,,,,South Korea,Australia
+2013,1,B,Taichung,2013-03-05,5,Australia,Netherlands,1,4,,,,Netherlands,Australia
+2013,1,B,Taichung,2013-03-05,6,Chinese Taipei,South Korea,2,3,,,,South Korea,Chinese Taipei
+2013,1,C,San Juan,2013-03-07,1,Venezuela,Dominican Rep.,3,9,,,,Dominican Rep.,Venezuela
+2013,1,C,San Juan,2013-03-08,2,Spain,Puerto Rico,0,3,,,,Puerto Rico,Spain
+2013,1,C,San Juan,2013-03-09,3,Dominican Rep.,Spain,6,3,,,,Dominican Rep.,Spain
+2013,1,C,San Juan,2013-03-09,4,Puerto Rico,Venezuela,6,3,,,,Puerto Rico,Venezuela
+2013,1,C,San Juan,2013-03-10,5,Spain,Venezuela,6,11,,,,Venezuela,Spain
+2013,1,C,San Juan,2013-03-10,6,Dominican Rep.,Puerto Rico,4,2,,,,Dominican Rep.,Puerto Rico
+2013,1,D,Scottsdale,2013-03-07,1,Italy,Mexico,6,5,,,,Italy,Mexico
+2013,1,D,Phoenix,2013-03-08,2,Canada,Italy,4,14,8,,,Italy,Canada
+2013,1,D,Phoenix,2013-03-08,3,Mexico,United States,5,2,,,,Mexico,United States
+2013,1,D,Phoenix,2013-03-09,4,Canada,Mexico,10,3,,,,Canada,Mexico
+2013,1,D,Phoenix,2013-03-09,5,United States,Italy,6,2,,,,United States,Italy
+2013,1,D,Phoenix,2013-03-10,6,United States,Canada,9,4,,,,United States,Canada
+2013,2,1,Tokyo,2013-03-08,1,Netherlands,Cuba,6,2,,,,Netherlands,Cuba
+2013,2,1,Tokyo,2013-03-08,2,Japan,Chinese Taipei,4,3,10,,,Japan,Chinese Taipei
+2013,2,1,Tokyo,2013-03-09,3,Chinese Taipei,Cuba,0,14,7,,,Cuba,Chinese Taipei
+2013,2,1,Tokyo,2013-03-10,4,Japan,Netherlands,16,4,7,,,Japan,Netherlands
+2013,2,1,Tokyo,2013-03-11,5,Cuba,Netherlands,6,7,,,,Netherlands,Cuba
+2013,2,1,Tokyo,2013-03-12,6,Netherlands,Japan,6,10,,,,Japan,Netherlands
+2013,2,2,Miami,2013-03-12,1,Italy,Dominican Rep.,4,5,,,,Dominican Rep.,Italy
+2013,2,2,Miami,2013-03-12,2,Puerto Rico,United States,1,7,,,,United States,Puerto Rico
+2013,2,2,Miami,2013-03-13,3,Italy,Puerto Rico,3,4,,,,Puerto Rico,Italy
+2013,2,2,Miami,2013-03-14,4,Dominican Rep.,United States,3,1,,,,Dominican Rep.,United States
+2013,2,2,Miami,2013-03-15,5,Puerto Rico,United States,4,3,,,,Puerto Rico,United States
+2013,2,2,Miami,2013-03-15,6,Puerto Rico,Dominican Rep.,0,2,,,,Dominican Rep.,Puerto Rico
+2013,3,Final,San Francisco,2013-03-19,3,Puerto Rico,Dominican Rep.,0,3,,,,Dominican Rep.,Puerto Rico
+2013,3,Semis,San Francisco,2013-03-17,1,Puerto Rico,Japan,3,1,,,,Puerto Rico,Japan
+2013,3,Semis,San Francisco,2013-03-18,2,Netherlands,Dominican Rep.,1,4,,,,Dominican Rep.,Netherlands
+2017,0,QA,Sydney,2016-02-11,1,South Africa,New Zealand,7,1,,,,South Africa,New Zealand
+2017,0,QA,Sydney,2016-02-11,2,Philippines,Australia,1,11,7,,,Australia,Philippines
+2017,0,QA,Sydney,2016-02-12,3,Philippines,New Zealand,7,17,8,,,New Zealand,Philippines
+2017,0,QA,Sydney,2016-02-12,4,South Africa,Australia,1,4,,,,Australia,South Africa
+2017,0,QA,Sydney,2016-02-13,5,South Africa,New Zealand,9,2,,,,South Africa,New Zealand
+2017,0,QA,Sydney,2016-02-14,6,South Africa,Australia,5,12,,,,Australia,South Africa
+2017,0,QB,Mexicali,2016-03-17,1,Germany,Nicaragua,4,5,10,,,Nicaragua,Germany
+2017,0,QB,Mexicali,2016-03-17,2,Czechia,Mexico,1,2,,,,Mexico,Czechia
+2017,0,QB,Mexicali,2016-03-18,3,Czechia,Germany,15,3,8,,,Czechia,Germany
+2017,0,QB,Mexicali,2016-03-18,4,Nicaragua,Mexico,0,11,7,,,Mexico,Nicaragua
+2017,0,QB,Mexicali,2016-03-19,5,Nicaragua,Czechia,7,6,11,,,Nicaragua,Czechia
+2017,0,QB,Mexicali,2016-03-20,6,Nicaragua,Mexico,1,12,7,,,Mexico,Nicaragua
+2017,0,QC,Panama City,2016-03-17,1,Colombia,Spain,9,2,,,,Colombia,Spain
+2017,0,QC,Panama City,2016-03-17,2,France,Panama,2,9,,,,Panama,France
+2017,0,QC,Panama City,2016-03-18,3,France,Spain,5,3,,,,France,Spain
+2017,0,QC,Panama City,2016-03-18,4,Colombia,Panama,6,3,,,,Colombia,Panama
+2017,0,QC,Panama City,2016-03-19,5,Panama,France,7,4,,,,Panama,France
+2017,0,QC,Panama City,2016-03-20,6,Panama,Colombia,1,2,,,,Colombia,Panama
+2017,0,QD,Brooklyn,2016-09-22,1,Pakistan,Brazil,0,10,7,,,Brazil,Pakistan
+2017,0,QD,Brooklyn,2016-09-22,2,Great Britain,Israel,2,5,,,,Israel,Great Britain
+2017,0,QD,Brooklyn,2016-09-23,3,Brazil,Israel,0,1,,,,Israel,Brazil
+2017,0,QD,Brooklyn,2016-09-23,4,Great Britain,Pakistan,14,0,7,,,Great Britain,Pakistan
+2017,0,QD,Brooklyn,2016-09-24,5,Brazil,Great Britain,3,4,,,,Great Britain,Brazil
+2017,0,QD,Brooklyn,2016-09-25,6,Great Britain,Israel,1,9,,,,Israel,Great Britain
+2017,1,A,Seoul,2017-03-06,1,Israel,South Korea,2,1,10,,,Israel,South Korea
+2017,1,A,Seoul,2017-03-07,2,Israel,Chinese Taipei,15,7,,,,Israel,Chinese Taipei
+2017,1,A,Seoul,2017-03-07,3,South Korea,Netherlands,0,5,,,,Netherlands,South Korea
+2017,1,A,Seoul,2017-03-08,4,Chinese Taipei,Netherlands,5,6,,,,Netherlands,Chinese Taipei
+2017,1,A,Seoul,2017-03-09,5,Netherlands,Israel,2,4,,,,Israel,Netherlands
+2017,1,A,Seoul,2017-03-09,6,South Korea,Chinese Taipei,11,8,10,,,South Korea,Chinese Taipei
+2017,1,B,Tokyo,2017-03-07,1,Cuba,Japan,6,11,,,,Japan,Cuba
+2017,1,B,Tokyo,2017-03-08,2,China,Cuba,0,6,,,,Cuba,China
+2017,1,B,Tokyo,2017-03-08,3,Japan,Australia,4,1,,,,Japan,Australia
+2017,1,B,Tokyo,2017-03-09,4,Australia,China,11,0,8,,,Australia,China
+2017,1,B,Tokyo,2017-03-10,5,Australia,Cuba,3,4,,,,Cuba,Australia
+2017,1,B,Tokyo,2017-03-10,6,China,Japan,1,7,,,,Japan,China
+2017,1,C,Miami,2017-03-09,1,Canada,Dominican Rep.,2,9,,,,Dominican Rep.,Canada
+2017,1,C,Miami,2017-03-10,2,Colombia,United States,2,3,10,,,United States,Colombia
+2017,1,C,Miami,2017-03-11,3,Colombia,Canada,4,1,,,,Colombia,Canada
+2017,1,C,Miami,2017-03-11,4,United States,Dominican Rep.,5,7,,,,Dominican Rep.,United States
+2017,1,C,Miami,2017-03-12,5,Dominican Rep.,Colombia,10,3,11,,,Dominican Rep.,Colombia
+2017,1,C,Miami,2017-03-12,6,Canada,United States,0,8,,,,United States,Canada
+2017,1,D,Zapopan,2017-03-09,1,Mexico,Italy,9,10,,,,Italy,Mexico
+2017,1,D,Zapopan,2017-03-10,2,Venezuela,Puerto Rico,0,11,7,,,Puerto Rico,Venezuela
+2017,1,D,Zapopan,2017-03-11,3,Venezuela,Italy,11,10,10,,,Venezuela,Italy
+2017,1,D,Zapopan,2017-03-11,4,Puerto Rico,Mexico,9,4,,,,Puerto Rico,Mexico
+2017,1,D,Zapopan,2017-03-12,5,Italy,Puerto Rico,3,9,,,,Puerto Rico,Italy
+2017,1,D,Zapopan,2017-03-12,6,Mexico,Venezuela,11,9,,,,Mexico,Venezuela
+2017,1,D,Zapopan,2017-03-13,7,Venezuela,Italy,4,3,,,,Venezuela,Italy
+2017,2,E,Tokyo,2017-03-12,1,Cuba,Israel,1,4,,,,Israel,Cuba
+2017,2,E,Tokyo,2017-03-12,2,Japan,Netherlands,8,6,11,,,Japan,Netherlands
+2017,2,E,Tokyo,2017-03-13,3,Netherlands,Israel,12,2,8,,,Netherlands,Israel
+2017,2,E,Tokyo,2017-03-14,4,Cuba,Japan,5,8,,,,Japan,Cuba
+2017,2,E,Tokyo,2017-03-15,5,Netherlands,Cuba,14,1,7,,,Netherlands,Cuba
+2017,2,E,Tokyo,2017-03-15,6,Israel,Japan,3,8,,,,Japan,Israel
+2017,2,F,San Diego,2017-03-14,1,Dominican Rep.,Puerto Rico,1,3,,,,Puerto Rico,Dominican Rep.
+2017,2,F,San Diego,2017-03-15,2,Venezuela,United States,2,4,,,,United States,Venezuela
+2017,2,F,San Diego,2017-03-16,3,Venezuela,Dominican Rep.,0,3,,,,Dominican Rep.,Venezuela
+2017,2,F,San Diego,2017-03-17,4,United States,Puerto Rico,5,6,,,,Puerto Rico,United States
+2017,2,F,San Diego,2017-03-18,5,Puerto Rico,Venezuela,13,2,,,,Puerto Rico,Venezuela
+2017,2,F,San Diego,2017-03-18,6,United States,Dominican Rep.,6,3,,,,United States,Dominican Rep.
+2017,3,Final,Los Angeles,2017-03-22,3,United States,Puerto Rico,8,0,,,,United States,Puerto Rico
+2017,3,Semis,Los Angeles,2017-03-20,1,Netherlands,Puerto Rico,3,4,11,,,Puerto Rico,Netherlands
+2017,3,Semis,Los Angeles,2017-03-21,2,United States,Japan,2,1,,,,United States,Japan
+2023,0,QA,Regensburg,2022-09-16,1,South Africa,Spain,4,5,,,,Spain,South Africa
+2023,0,QA,Regensburg,2022-09-16,2,Great Britain,France,14,4,8,,,Great Britain,France
+2023,0,QA,Regensburg,2022-09-17,3,Spain,Czechia,21,7,7,,,Spain,Czechia
+2023,0,QA,Regensburg,2022-09-17,4,Great Britain,Germany,8,1,,,,Great Britain,Germany
+2023,0,QA,Regensburg,2022-09-18,5,France,Czechia,1,7,,,,Czechia,France
+2023,0,QA,Regensburg,2022-09-19,6,South Africa,Germany,5,11,,,,Germany,South Africa
+2023,0,QA,Regensburg,2022-09-20,7,Germany,Czechia,4,8,,,,Czechia,Germany
+2023,0,QA,Regensburg,2022-09-20,8,Spain,Great Britain,9,10,10,,,Great Britain,Spain
+2023,0,QA,Regensburg,2022-09-21,9,Czechia,Spain,3,1,,,,Czechia,Spain
+2023,0,QB,Panama City,2022-09-30,1,New Zealand,Brazil,7,12,,,,Brazil,New Zealand
+2023,0,QB,Panama City,2022-09-30,2,Pakistan,Argentina,4,7,,,,Argentina,Pakistan
+2023,0,QB,Panama City,2022-10-01,3,Brazil,Nicaragua,4,1,,,,Brazil,Nicaragua
+2023,0,QB,Panama City,2022-10-01,4,Argentina,Panama,0,11,7,,,Panama,Argentina
+2023,0,QB,Panama City,2022-10-02,5,Pakistan,Nicaragua,0,12,7,,,Nicaragua,Pakistan
+2023,0,QB,Panama City,2022-10-02,6,New Zealand,Argentina,1,4,,,,Argentina,New Zealand
+2023,0,QB,Panama City,2022-10-04,7,Argentina,Nicaragua,5,6,,,,Nicaragua,Argentina
+2023,0,QB,Panama City,2022-10-04,8,Brazil,Panama,0,4,,,,Panama,Brazil
+2023,0,QB,Panama City,2022-10-05,9,Nicaragua,Brazil,3,1,,,,Nicaragua,Brazil
+2023,1,A,Taichung,2023-03-08,1,Cuba,Netherlands,2,4,,,,Netherlands,Cuba
+2023,1,A,Taichung,2023-03-08,2,Panama,Chinese Taipei,12,5,,,,Panama,Chinese Taipei
+2023,1,A,Taichung,2023-03-09,3,Panama,Netherlands,1,3,,,,Netherlands,Panama
+2023,1,A,Taichung,2023-03-09,4,Italy,Cuba,6,3,10,,,Italy,Cuba
+2023,1,A,Taichung,2023-03-10,5,Cuba,Panama,13,4,,,,Cuba,Panama
+2023,1,A,Taichung,2023-03-10,6,Italy,Chinese Taipei,7,11,,,,Chinese Taipei,Italy
+2023,1,A,Taichung,2023-03-11,7,Panama,Italy,2,0,,,,Panama,Italy
+2023,1,A,Taichung,2023-03-11,8,Netherlands,Chinese Taipei,5,9,,,,Chinese Taipei,Netherlands
+2023,1,A,Taichung,2023-03-12,9,Chinese Taipei,Cuba,1,7,,,,Cuba,Chinese Taipei
+2023,1,A,Taichung,2023-03-12,10,Netherlands,Italy,1,7,,,,Italy,Netherlands
+2023,1,B,Tokyo,2023-03-09,1,Australia,South Korea,8,7,,,,Australia,South Korea
+2023,1,B,Tokyo,2023-03-09,2,China,Japan,1,8,,,,Japan,China
+2023,1,B,Tokyo,2023-03-10,3,Czechia,China,8,5,,,,Czechia,China
+2023,1,B,Tokyo,2023-03-10,4,South Korea,Japan,4,13,,,,Japan,South Korea
+2023,1,B,Tokyo,2023-03-11,5,China,Australia,2,12,7,,,Australia,China
+2023,1,B,Tokyo,2023-03-11,6,Czechia,Japan,2,10,,,,Japan,Czechia
+2023,1,B,Tokyo,2023-03-11,7,Czechia,South Korea,3,7,,,,South Korea,Czechia
+2023,1,B,Tokyo,2023-03-11,8,Japan,Australia,7,1,,,,Japan,Australia
+2023,1,B,Tokyo,2023-03-13,9,Australia,Czechia,8,3,,,,Australia,Czechia
+2023,1,B,Tokyo,2023-03-13,10,South Korea,China,22,2,5,,,South Korea,China
+2023,1,C,Phoenix,2023-03-11,1,Colombia,Mexico,5,4,10,,,Colombia,Mexico
+2023,1,C,Phoenix,2023-03-11,2,Great Britain,United States,2,6,,,,United States,Great Britain
+2023,1,C,Phoenix,2023-03-12,3,Great Britain,Canada,8,18,7,,,Canada,Great Britain
+2023,1,C,Phoenix,2023-03-12,4,Mexico,United States,11,5,,,,Mexico,United States
+2023,1,C,Phoenix,2023-03-13,5,Colombia,Great Britain,5,7,,,,Great Britain,Colombia
+2023,1,C,Phoenix,2023-03-13,6,Canada,United States,1,12,7,,,United States,Canada
+2023,1,C,Phoenix,2023-03-14,7,Canada,Colombia,5,0,,,,Canada,Colombia
+2023,1,C,Phoenix,2023-03-14,8,Great Britain,Mexico,1,2,,,,Mexico,Great Britain
+2023,1,C,Phoenix,2023-03-15,9,Mexico,Canada,10,3,,,,Mexico,Canada
+2023,1,C,Phoenix,2023-03-15,10,United States,Colombia,3,2,,,,United States,Colombia
+2023,1,D,Miami,2023-03-11,1,Nicaragua,Puerto Rico,1,9,,,,Puerto Rico,Nicaragua
+2023,1,D,Miami,2023-03-11,2,Dominican Rep.,Venezuela,1,5,,,,Venezuela,Dominican Rep.
+2023,1,D,Miami,2023-03-12,3,Nicaragua,Israel,1,3,,,,Israel,Nicaragua
+2023,1,D,Miami,2023-03-12,4,Venezuela,Puerto Rico,9,6,,,,Venezuela,Puerto Rico
+2023,1,D,Miami,2023-03-13,5,Dominican Rep.,Nicaragua,6,1,,,,Dominican Rep.,Nicaragua
+2023,1,D,Miami,2023-03-13,6,Israel,Puerto Rico,0,10,8,,,Puerto Rico,Israel
+2023,1,D,Miami,2023-03-14,7,Nicaragua,Venezuela,1,4,,,,Venezuela,Nicaragua
+2023,1,D,Miami,2023-03-14,8,Israel,Dominican Rep.,0,10,7,,,Dominican Rep.,Israel
+2023,1,D,Miami,2023-03-15,9,Venezuela,Israel,5,1,,,,Venezuela,Israel
+2023,1,D,Miami,2023-03-15,10,Puerto Rico,Dominican Rep.,5,2,,,,Puerto Rico,Dominican Rep.
+2023,3,Final,Miami,2023-03-21,7,United States,Japan,2,3,,,,Japan,United States
+2023,3,Quarters,Tokyo,2023-03-15,1,Australia,Cuba,3,4,,,,Cuba,Australia
+2023,3,Quarters,Tokyo,2023-03-16,2,Italy,Japan,3,9,,,,Japan,Italy
+2023,3,Quarters,Miami,2023-03-17,3,Puerto Rico,Mexico,4,5,,,,Mexico,Puerto Rico
+2023,3,Quarters,Miami,2023-03-18,4,United States,Venezuela,9,7,,,,United States,Venezuela
+2023,3,Semis,Miami,2023-03-19,5,Cuba,United States,2,14,,,,United States,Cuba
+2023,3,Semis,Miami,2023-03-20,6,Mexico,Japan,5,6,,,,Japan,Mexico
+2026,0,QA,Taipei,2025-02-21,1,South Africa,Nicaragua,1,2,10,,,Nicaragua,South Africa
+2026,0,QA,Taipei,2025-02-21,2,Spain,Chinese Taipei,12,5,,,,Spain,Chinese Taipei
+2026,0,QA,Taipei,2025-02-22,3,Spain,Nicaragua,1,2,10,,,Nicaragua,Spain
+2026,0,QA,Taipei,2025-02-22,4,Chinese Taipei,South Africa,9,1,,,,Chinese Taipei,South Africa
+2026,0,QA,Taipei,2025-02-23,5,South Africa,Spain,1,9,,,,Spain,South Africa
+2026,0,QA,Taipei,2025-02-23,6,Nicaragua,Chinese Taipei,6,0,,,,Nicaragua,Chinese Taipei
+2026,0,QA,Taipei,2025-02-25,7,Chinese Taipei,Spain,6,3,,,,Chinese Taipei,Spain
+2026,0,QB,Tucson,2025-03-02,1,China,Germany,2,12,7,,,Germany,China
+2026,0,QB,Tucson,2025-03-02,2,Brazil,Colombia,0,5,,,,Colombia,Brazil
+2026,0,QB,Tucson,2025-03-03,3,Brazil,Germany,9,7,,,,Brazil,Germany
+2026,0,QB,Tucson,2025-03-03,4,Colombia,China,8,1,,,,Colombia,China
+2026,0,QB,Tucson,2025-03-04,5,China,Brazil,2,12,7,,,Brazil,China
+2026,0,QB,Tucson,2025-03-04,6,Germany,Colombia,0,10,7,,,Colombia,Germany
+2026,0,QB,Tucson,2025-03-06,7,Germany,Brazil,4,6,,,,Brazil,Germany
+2026,1,A,San Juan,2026-03-06,1,Cuba,Panama,3,1,,,,Cuba,Panama
+2026,1,A,San Juan,2026-03-06,2,Puerto Rico,Colombia,5,0,,,,Puerto Rico,Colombia
+2026,1,A,San Juan,2026-03-07,3,Colombia,Canada,2,8,,,,Canada,Colombia
+2026,1,A,San Juan,2026-03-07,4,Panama,Puerto Rico,3,4,10,,,Puerto Rico,Panama
+2026,1,A,San Juan,2026-03-08,5,Colombia,Cuba,4,7,,,,Cuba,Colombia
+2026,1,A,San Juan,2026-03-08,6,Panama,Canada,4,3,,,,Panama,Canada
+2026,1,A,San Juan,2026-03-09,7,Colombia,Panama,4,3,,,,Colombia,Panama
+2026,1,A,San Juan,2026-03-09,8,Cuba,Puerto Rico,1,4,,,,Puerto Rico,Cuba
+2026,1,A,San Juan,2026-03-10,9,Canada,Puerto Rico,3,2,,,,Canada,Puerto Rico
+2026,1,A,San Juan,2026-03-11,10,Canada,Cuba,7,2,,,,Canada,Cuba
+2026,1,B,Houston,2026-03-06,1,Mexico,Great Britain,8,2,,,,Mexico,Great Britain
+2026,1,B,Houston,2026-03-06,2,United States,Brazil,15,5,,,,United States,Brazil
+2026,1,B,Houston,2026-03-07,3,Brazil,Italy,0,8,,,,Italy,Brazil
+2026,1,B,Houston,2026-03-07,4,Great Britain,United States,1,9,,,,United States,Great Britain
+2026,1,B,Houston,2026-03-08,5,Great Britain,Italy,4,7,,,,Italy,Great Britain
+2026,1,B,Houston,2026-03-08,6,Brazil,Mexico,0,16,6,,,Mexico,Brazil
+2026,1,B,Houston,2026-03-09,7,Brazil,Great Britain,1,8,,,,Great Britain,Brazil
+2026,1,B,Houston,2026-03-09,8,Mexico,United States,3,5,,,,United States,Mexico
+2026,1,B,Houston,2026-03-10,9,Italy,United States,8,6,,,,Italy,United States
+2026,1,B,Houston,2026-03-11,10,Italy,Mexico,9,1,,,,Italy,Mexico
+2026,1,C,Tokyo,2026-03-05,1,Chinese Taipei,Australia,0,3,,,,Australia,Chinese Taipei
+2026,1,C,Tokyo,2026-03-05,2,Czechia,South Korea,4,11,,,,South Korea,Czechia
+2026,1,C,Tokyo,2026-03-06,3,Australia,Czechia,5,1,,,,Australia,Czechia
+2026,1,C,Tokyo,2026-03-06,4,Japan,Chinese Taipei,13,0,7,,,Japan,Chinese Taipei
+2026,1,C,Tokyo,2026-03-07,5,Chinese Taipei,Czechia,14,0,7,,,Chinese Taipei,Czechia
+2026,1,C,Tokyo,2026-03-07,6,South Korea,Japan,6,8,,,,Japan,South Korea
+2026,1,C,Tokyo,2026-03-08,7,Chinese Taipei,South Korea,5,4,10,,,Chinese Taipei,South Korea
+2026,1,C,Tokyo,2026-03-08,8,Australia,Japan,3,4,,,,Japan,Australia
+2026,1,C,Tokyo,2026-03-09,9,South Korea,Australia,7,2,,,,South Korea,Australia
+2026,1,C,Tokyo,2026-03-10,10,Czechia,Japan,0,9,,,,Japan,Czechia
+2026,1,D,Miami,2026-03-06,1,Netherlands,Venezuela,2,6,,,,Venezuela,Netherlands
+2026,1,D,Miami,2026-03-06,2,Nicaragua,Dominican Rep.,3,12,,,,Dominican Rep.,Nicaragua
+2026,1,D,Miami,2026-03-07,3,Nicaragua,Netherlands,3,4,,,,Netherlands,Nicaragua
+2026,1,D,Miami,2026-03-07,4,Israel,Venezuela,3,11,,,,Venezuela,Israel
+2026,1,D,Miami,2026-03-08,5,Netherlands,Dominican Rep.,1,12,7,,,Dominican Rep.,Netherlands
+2026,1,D,Miami,2026-03-08,6,Nicaragua,Israel,0,5,,,,Israel,Nicaragua
+2026,1,D,Miami,2026-03-09,7,Dominican Rep.,Israel,10,1,,,,Dominican Rep.,Israel
+2026,1,D,Miami,2026-03-09,8,Venezuela,Nicaragua,4,0,,,,Venezuela,Nicaragua
+2026,1,D,Miami,2026-03-10,9,Israel,Netherlands,6,2,,,,Israel,Netherlands
+2026,1,D,Miami,2026-03-11,10,Dominican Rep.,Venezuela,7,5,,,,Dominican Rep.,Venezuela
+2026,3,Final,Miami,2026-03-17,7,Venezuela,United States,3,2,,,,Venezuela,United States
+2026,3,Quarters,Miami,2026-03-13,1,South Korea,Dominican Rep.,0,10,7,,,Dominican Rep.,South Korea
+2026,3,Quarters,Houston,2026-03-13,2,United States,Canada,5,3,,,,United States,Canada
+2026,3,Quarters,Houston,2026-03-14,3,Puerto Rico,Italy,6,8,,,,Italy,Puerto Rico
+2026,3,Quarters,Miami,2026-03-14,4,Venezuela,Japan,8,5,,,,Venezuela,Japan
+2026,3,Semis,Miami,2026-03-15,5,United States,Dominican Rep.,2,1,,,,United States,Dominican Rep.
+2026,3,Semis,Miami,2026-03-16,6,Venezuela,Italy,4,2,,,,Venezuela,Italy

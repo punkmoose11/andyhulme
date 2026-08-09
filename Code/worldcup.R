@@ -2,6 +2,7 @@
 ############# import data
 data <- read.csv("../Data/worldcup.csv")
 data <- data [c("YEAR","SEQ","STAGE","GROUP","WINNER","WSc","LOSER","LSc","OT")]
+data <- subset(data, is.na(WSc)==F)
 
 teamlink <- function(x){teamx = tolower(gsub("&","",gsub(".","",gsub("'","",gsub(" ", "",x, fixed = TRUE), fixed = TRUE), fixed = TRUE), fixed = TRUE))}
 groupnm  <- function(x){groupx= paste("Group",gsub("frd","",gsub("Grp","",gsub("2nd","",x))))}
@@ -11,8 +12,9 @@ rename   <- function(x){rename=
 	ifelse(x=="Czechoslovakia","Czech Republic",
 	ifelse(x=="Soviet Union","Russia",
 	ifelse(x=="Yugoslavia","Serbia",
+	ifelse(x=="Zaire","Congo DR",
 	ifelse(x=="Serbia and Montenegro","Serbia",paste(x)
-)))))}
+))))))}
 
 ############# create df with one record for each team per game
 games.1 <- data
@@ -63,7 +65,7 @@ overall$team <- gsub("(\\d+)(_)([^_]+)", "\\3", overall$okey)
 
 # create group stage summaries
 games$key <- paste(games$yr, games$team, games$GROUP, sep="_")
-games.g <- subset(games  , SEQ>=20)
+games.g <- subset(games  , SEQ>=20 & SEQ!=32)
 games.gg<- subset(games.g, SEQ!=90)
 
 group <- as.data.frame.matrix(table(games.gg$key,games.gg$result))
@@ -92,6 +94,9 @@ names(group1) <- c("yr","team","grp1","record1","rank1");
 group2 <- subset(group,grepl("2nd",group$grp)|grepl("Wfrd",group$grp))[c("yr","team","grp","WTL","grankc")]
 names(group2) <- c("yr","team","grp2","record2","rank2");
 
+pre32 <- subset(games,SEQ==32 & result!="T")[c("yr","team","score","result")]
+names(pre32) <- c("yr","team","p32","p32.r");
+
 prelm <- subset(games,SEQ==16 & result!="T")[c("yr","team","score","result")]
 names(prelm) <- c("yr","team","pre","pre.r");
 
@@ -110,6 +115,7 @@ names(final) <- c("yr","team","fin","fin.r");
 summ <- merge(summ,overall,by=c("yr","team"),all.x=T)
 summ <- merge(summ,group1,by=c("yr","team"),all.x=T)
 summ <- merge(summ,group2,by=c("yr","team"),all.x=T)
+summ <- merge(summ,pre32 ,by=c("yr","team"),all.x=T)
 summ <- merge(summ,prelm ,by=c("yr","team"),all.x=T)
 summ <- merge(summ,quart ,by=c("yr","team"),all.x=T)
 summ <- merge(summ,semif ,by=c("yr","team"),all.x=T)
@@ -125,8 +131,9 @@ summ$class <- ifelse(summ$fin.r=="W"|summ$fin.r=="PW",100000,
 			ifelse(summ$sem.r=="L"|summ$sem.r=="PL",70000,
 			ifelse(summ$qua.r=="L"|summ$qua.r=="PL",60000,
 			ifelse(summ$pre.r=="L"|summ$pre.r=="PL",50000,
+			ifelse(summ$p32.r=="L"|summ$p32.r=="PL",40000,
 			ifelse(summ$grp2=="Wfrd",40000,
-			ifelse(grepl("2nd",summ$grp2),30000,20000)))))))))
+			ifelse(grepl("2nd",summ$grp2),30000,20000))))))))))
 
 summ$class <- summ$class + ifelse(summ$grp2=="Wfrd",-1000*as.numeric(substring(summ$rank2,1,1)),0)
 
@@ -143,13 +150,15 @@ summ$place <- ifelse(summ$rank==1,"1ST",
 			ifelse(summ$rank==4,"4TH",
 			ifelse(summ$qua.r=="L"|summ$qua.r=="PL","QF",
 			ifelse(summ$pre.r=="L"|summ$pre.r=="PL","R16",
-			ifelse(summ$grp2!="","2G","999"))))))))
+			ifelse(summ$p32.r=="L"|summ$p32.r=="PL","R32",
+			ifelse(summ$grp2!="","2G","999")))))))))
 
 summ$okey <- NULL; summ$class <- NULL; summ$sort <- NULL;
 
 summ$REC <- paste(summ$W,summ$T+summ$PW+summ$PL,summ$L,sep="-")
 summ$COL1 <- paste(summ$record1,summ$rank1)
 summ$COL2 <- paste(summ$record2,summ$rank2)
+summ$COL30<- paste(summ$p32)
 summ$COL3 <- paste(summ$pre)
 summ$COL4 <- paste(summ$qua)
 summ$COL5 <- paste(summ$sem)
@@ -188,6 +197,7 @@ summ.yr$row <- paste(ifelse(summ.yr$rank==999,"<tr><th colspan='8'></th></tr>","
 				paste(summ.yr$REC),
 				paste(summ.yr$COL1),
 				paste(summ.yr$COL2),
+				paste(summ.yr$COL30),
 				paste(summ.yr$COL3),
 				paste(summ.yr$COL4),
 				paste(summ.yr$COL5),
@@ -228,7 +238,7 @@ games.yr$row <- paste("<tr><td>",paste(
 }
 
 ### knockout games data set for given year
-ko.yr <- subset(games, yr == u.yr[i] & SEQ<=16 & XXX=="XXX")
+ko.yr <- subset(games, yr == u.yr[i] & (SEQ<=16|SEQ==32) & XXX=="XXX")
 
 if (nrow(ko.yr)>0) {
 ko.yr <- ko.yr[order(-ko.yr$SEQ),]
@@ -253,7 +263,7 @@ cat(paste("<center><a href='",u.yr[i-1],".html'> << ",u.yr[i-1],"</a> | ",
 
 cat("<br><table width='80%' align='center'>")
 cat("<col width='11%'><col width='20%'><col width='11%'>")
-cat(paste("<tr>","<th class='xx2'><font color='white'>Rank</font></th><th class='xx2'> </th><th class='xx2'><font color='white'>Record</font></th><th colspan='2' class='hl2'>Group Stages</th><th colspan='4' class='hl2'>Knockout Rounds</th>","</tr>"))
+cat(paste("<tr>","<th class='xx2'><font color='white'>Rank</font></th><th class='xx2'> </th><th class='xx2'><font color='white'>Record</font></th><th colspan='2' class='hl2'>Group Stages</th><th colspan='5' class='hl2'>Knockout Rounds</th>","</tr>"))
 write.table(summ.yr["row"], file = "", quote = FALSE, row.names = FALSE, col.names = FALSE)
 cat("</table><br>")
 
@@ -313,6 +323,7 @@ summ.tm$row <- paste("<tr class='d",summ.tm$class,"'><td>",paste(
 				summ.tm$rank,
 				summ.tm$COL1,
 				summ.tm$COL2,
+				summ.tm$COL30,
 				summ.tm$COL3,
 				summ.tm$COL4,
 				summ.tm$COL5,
@@ -347,9 +358,9 @@ write.table(header, file = "", quote = FALSE, row.names = FALSE, col.names = FAL
 cat(paste("<br><h2><center>",summ.tm$team[1],"</center></h2>"))
 
 cat("<br><table width='80%' align='center'>")
-cat("<col width='11%'><col width='20%'><col width='11%'><col width='11%'><col width='11%'><col width='9%'><col width='9%'><col width='9%'><col width='9%'>")
-cat(paste("<tr>","<th colspan='3'></th><th colspan='2' class='hl2'>Group Stages</th><th colspan='4' class='hl2'>Knockout Rounds</th></tr>",sep=""))
-cat(paste("<tr>","<th>Year</th><th>Team</th><th>Rank</th><th>1st</th><th>2nd</th><th>R16</th><th>QF</th><th>SF</th><th>F</th></tr>",sep=""))
+cat("<col width='10%'><col width='19%'><col width='9%'><col width='11%'><col width='11%'><col width='8%'><col width='8%'><col width='8%'><col width='8%'><col width='8%'>")
+cat(paste("<tr>","<th colspan='3'></th><th colspan='2' class='hl2'>Group Stages</th><th colspan='5' class='hl2'>Knockout Rounds</th></tr>",sep=""))
+cat(paste("<tr>","<th>Year</th><th>Team</th><th>Rank</th><th>1st</th><th>2nd</th><th>R32</th><th>R16</th><th>QF</th><th>SF</th><th>F</th></tr>",sep=""))
 write.table(summ.tm["row"], file = "", quote = FALSE, row.names = FALSE, col.names = FALSE)
 cat("</table><br>")
 
@@ -428,7 +439,7 @@ lyr  <- aggregate(summ$yr   , list(summ$team2), max); names(lyr )[names(lyr )=="
 
 byteam <- merge(byteam,agg,by.x="team2",by.y="Group.1")
 
-po.tm <- subset(games,SEQ<20)
+po.tm <- subset(games,SEQ<20|SEQ==32)
 po.tm$resultf <- paste(gsub("P","",po.tm$result),po.tm$SEQ,sep="")
 potab <- as.data.frame.matrix(table(po.tm$team2,po.tm$resultf))
 potab$team2 <- rownames(potab)
@@ -451,6 +462,7 @@ byteam$row <- paste("<tr class='d",byteam$class,"'><td>",paste(
 				byteam$T+byteam$PW+byteam$PL,
 				byteam$L,
 				paste(byteam$GF,byteam$GA,sep="-"),
+				paste(byteam$W32,byteam$L32,sep="-"),
 				paste(byteam$W16,byteam$L16,sep="-"),
 				paste(byteam$W8 ,byteam$L8 ,sep="-"),
 				paste(byteam$W4 ,byteam$L4 ,sep="-"),
@@ -466,7 +478,7 @@ cat(paste("<br><h2><center>World Cup</center></h2>"))
 
 cat("<br><table width='80%' align='center'>")
 #cat("<col width='20%'><col width='6%'><col width='7%'><col width='7%'><col width='4%'><col width='4%'><col width='4%'><col width='8%'><col width='6%'><col width='6%'><col width='6%'><col width='6%'><col width='4%'><col width='4%'><col width='4%'><col width='4%'>")
-cat("<tr><th></th><th>Years</th><th>Cups</th><th>2nds</th><th>W</th><th>T</th><th>L</th><th>GF-GA</th><th>16</th><th>8</th><th>4</th><th>2</th><th>First</th><th>Last</th></tr>")
+cat("<tr><th></th><th>Years</th><th>Cups</th><th>2nds</th><th>W</th><th>T</th><th>L</th><th>GF-GA</th><th>32</th><th>16</th><th>8</th><th>4</th><th>2</th><th>First</th><th>Last</th></tr>")
 write.table(byteam["row"], file = "", quote = FALSE, row.names = FALSE, col.names = FALSE)
 cat("</table><br>")
 

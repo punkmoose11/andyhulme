@@ -25,7 +25,7 @@ trim <- function (x) gsub("^\\s+|\\s+$", "", x)
 
 ##########################################
 ##########################################
-for (yyyy in c(1988:2019,2021:2025)) {
+for (yyyy in c(1988:2019,2021:2026)) {
 
 data <- subset(dataf, yr==yyyy)
 info <- subset(infof, yr==yyyy)

@@ -1122,16 +1122,17 @@ yr,cwsno,date,regional,round,gameno,winner,wsc,loser,lsc,inn,notes
 2026,1121,2026-06-12,CWS,Bracket 1,Game 2,North Carolina,6,Mississippi,2,,
 2026,1122,2026-06-13,CWS,Bracket 2,Game 3,Oklahoma,9,Alabama,0,,
 2026,1123,2026-06-13,CWS,Bracket 2,Game 4,Georgia,7,Texas,1,,
-2026,1124,2026-06-14,CWS,Bracket 1,Game 5,Troy,12,Mississippi,8,,
+2026,1124,2026-06-14,CWS,Bracket 1,Game 5,Troy,12,Mississippi,8,,Mississippi eliminated
 2026,1125,2026-06-14,CWS,Bracket 1,Game 6,North Carolina,5,West Virginia,2,,
-2026,1126,2026-06-15,CWS,Bracket 2,Game 7,Texas,14,Alabama,2,,
+2026,1126,2026-06-15,CWS,Bracket 2,Game 7,Texas,14,Alabama,2,,Alabama eliminated
 2026,1127,2026-06-15,CWS,Bracket 2,Game 8,Oklahoma,4,Georgia,3,,
-2026,1128,2026-06-16,CWS,Bracket 1,Game 9,West Virginia,0,Troy,0,,
-2026,1129,2026-06-16,CWS,Bracket 2,Game 10,Texas,0,Georgia,0,,
-2026,1130,2026-06-17,CWS,Bracket 1,Game 11,,,,,,
-2026,1131,2026-06-17,CWS,Bracket 2,Game 12,,,,,,
-2026,1132,2026-06-20,CWS,Championship Series,Final 1,,,,,,
-2026,1133,2026-06-21,CWS,Championship Series,Final 2,,,,,,
+2026,1128,2026-06-16,CWS,Bracket 1,Game 9,West Virginia,12,Troy,0,,Troy eliminated
+2026,1129,2026-06-16,CWS,Bracket 2,Game 10,Georgia,2,Texas,0,,Texas eliminated
+2026,1130,2026-06-17,CWS,Bracket 1,Game 11,North Carolina,12,West Virginia,7,,West Virginia eliminated
+2026,1131,2026-06-17,CWS,Bracket 2,Game 12,Oklahoma,11,Georgia,4,,Georgia eliminated
+2026,1132,2026-06-20,CWS,Championship Series,Final 1,Oklahoma,9,North Carolina,3,,
+2026,1133,2026-06-21,CWS,Championship Series,Final 2,North Carolina,6,Oklahoma,2,,
+2026,1134,2026-06-22,CWS,Championship Series,Final 3,Oklahoma,13,North Carolina,2,,Oklahoma wins CWS
 1947,19470101,,East,District 1,,Yale,,(automatic qualifier),,,
 1947,19470201,,East,District 2,,NYU,,(automatic qualifier),,,
 1947,19470301,,East,District 3,Game 1,Clemson,8,Auburn,3,,
