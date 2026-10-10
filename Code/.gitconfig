@@ -1,0 +1,4 @@
+[http]
+	sslBackend = schannel
+[credential]
+	helper = manager

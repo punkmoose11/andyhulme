@@ -1,0 +1,3632 @@
+year,rank,team,poll
+1936,1,Minnesota,AP
+1936,2,LSU,AP
+1936,3,Pittsburgh,AP
+1936,4,Alabama,AP
+1936,5,Washington,AP
+1936,6,Santa Clara,AP
+1936,7,Northwestern,AP
+1936,8,Notre Dame,AP
+1936,9,Nebraska,AP
+1936,10,Pennsylvania,AP
+1936,11,Duke,AP
+1936,12,Yale,AP
+1936,13,Dartmouth,AP
+1936,14,Duquesne,AP
+1936,15,Fordham,AP
+1936,16,TCU,AP
+1936,17,Tennessee,AP
+1936,18,Arkansas,AP
+1936,18,Navy,AP
+1936,20,Marquette,AP
+1937,1,Pittsburgh,AP
+1937,2,California,AP
+1937,3,Fordham,AP
+1937,4,Alabama,AP
+1937,5,Minnesota,AP
+1937,6,Villanova,AP
+1937,7,Dartmouth,AP
+1937,8,LSU,AP
+1937,9,Notre Dame,AP
+1937,9,Santa Clara,AP
+1937,11,Nebraska,AP
+1937,12,Yale,AP
+1937,13,Ohio State,AP
+1937,14,Arkansas,AP
+1937,14,Holy Cross,AP
+1937,16,TCU,AP
+1937,17,Colorado,AP
+1937,18,Rice,AP
+1937,19,North Carolina,AP
+1937,20,Duke,AP
+1938,1,TCU,AP
+1938,2,Tennessee,AP
+1938,3,Duke,AP
+1938,4,Oklahoma,AP
+1938,5,Notre Dame,AP
+1938,6,Carnegie Tech,AP
+1938,7,USC,AP
+1938,8,Pittsburgh,AP
+1938,9,Holy Cross,AP
+1938,10,Minnesota,AP
+1938,11,Texas Tech,AP
+1938,12,Cornell,AP
+1938,13,Alabama,AP
+1938,14,California,AP
+1938,15,Fordham,AP
+1938,16,Michigan,AP
+1938,17,Northwestern,AP
+1938,18,Villanova,AP
+1938,19,Tulane,AP
+1938,20,Dartmouth,AP
+1939,1,Texas A&M,AP
+1939,2,Tennessee,AP
+1939,3,USC,AP
+1939,4,Cornell,AP
+1939,5,Tulane,AP
+1939,6,Missouri,AP
+1939,7,UCLA,AP
+1939,8,Duke,AP
+1939,9,Iowa,AP
+1939,10,Duquesne,AP
+1939,11,Boston College,AP
+1939,12,Clemson,AP
+1939,13,Notre Dame,AP
+1939,14,Santa Clara,AP
+1939,15,Ohio State,AP
+1939,16,Georgia Tech,AP
+1939,17,Fordham,AP
+1939,18,Nebraska,AP
+1939,19,Oklahoma,AP
+1939,20,Michigan,AP
+1940,1,Minnesota,AP
+1940,2,Stanford,AP
+1940,3,Michigan,AP
+1940,4,Tennessee,AP
+1940,5,Boston College,AP
+1940,6,Texas A&M,AP
+1940,7,Nebraska,AP
+1940,8,Northwestern,AP
+1940,9,Miss State,AP
+1940,10,Washington,AP
+1940,11,Santa Clara,AP
+1940,12,Fordham,AP
+1940,13,Georgetown,AP
+1940,14,Pennsylvania,AP
+1940,15,Cornell,AP
+1940,16,SMU,AP
+1940,17,Hardin Simmons,AP
+1940,18,Duke,AP
+1940,19,Lafayette,AP
+1941,1,Minnesota,AP
+1941,2,Duke,AP
+1941,3,Notre Dame,AP
+1941,4,Texas,AP
+1941,5,Michigan,AP
+1941,6,Fordham,AP
+1941,7,Missouri,AP
+1941,8,Duquesne,AP
+1941,9,Texas A&M,AP
+1941,10,Navy,AP
+1941,11,Northwestern,AP
+1941,12,Oregon St.,AP
+1941,13,Ohio State,AP
+1941,14,Georgia,AP
+1941,15,Pennsylvania,AP
+1941,16,Miss State,AP
+1941,17,Mississippi,AP
+1941,18,Tennessee,AP
+1941,19,Washington St.,AP
+1941,20,Alabama,AP
+1942,1,Ohio State,AP
+1942,2,Georgia,AP
+1942,3,Wisconsin,AP
+1942,4,Tulsa,AP
+1942,5,Georgia Tech,AP
+1942,6,Notre Dame,AP
+1942,7,Tennessee,AP
+1942,8,Boston College,AP
+1942,9,Michigan,AP
+1942,10,Alabama,AP
+1942,11,Texas,AP
+1942,12,Stanford,AP
+1942,13,UCLA,AP
+1942,14,William & Mary,AP
+1942,15,Santa Clara,AP
+1942,16,Auburn,AP
+1942,17,Washington St.,AP
+1942,18,Miss State,AP
+1942,19,Holy Cross,AP
+1942,19,Minnesota,AP
+1942,19,Penn State,AP
+1943,1,Notre Dame,AP
+1943,2,Iowa Pre-Flight,AP
+1943,3,Michigan,AP
+1943,4,Navy,AP
+1943,5,Purdue,AP
+1943,6,Great Lakes Navy,AP
+1943,7,Duke,AP
+1943,8,Del Monte Pre-Flight,AP
+1943,9,Northwestern,AP
+1943,10,March Field,AP
+1943,11,Army,AP
+1943,12,Washington,AP
+1943,13,Georgia Tech,AP
+1943,14,Texas,AP
+1943,15,Tulsa,AP
+1943,16,Dartmouth,AP
+1943,17,Bainbridge NTS,AP
+1943,18,Colorado Col.,AP
+1943,19,Pacific,AP
+1943,20,Pennsylvania,AP
+1944,1,Army,AP
+1944,2,Ohio State,AP
+1944,3,Randolph Field,AP
+1944,4,Navy,AP
+1944,5,Bainbridge NTS,AP
+1944,6,Iowa Pre-Flight,AP
+1944,7,USC,AP
+1944,8,Michigan,AP
+1944,9,Notre Dame,AP
+1944,10,March Field,AP
+1944,11,Duke,AP
+1944,12,Tennessee,AP
+1944,13,Georgia Tech,AP
+1944,13,Norman NAS,AP
+1944,15,Illinois,AP
+1944,16,El Toro Marines,AP
+1944,17,Great Lakes Navy,AP
+1944,18,Fort Pierce,AP
+1944,19,St. Mary's Pre-Flight,AP
+1944,20,Second Air Force,AP
+1945,1,Army,AP
+1945,2,Alabama,AP
+1945,3,Navy,AP
+1945,4,Indiana,AP
+1945,5,Oklahoma St.,AP
+1945,6,Michigan,AP
+1945,7,St. Mary's,AP
+1945,8,Pennsylvania,AP
+1945,9,Notre Dame,AP
+1945,10,Texas,AP
+1945,11,USC,AP
+1945,12,Ohio State,AP
+1945,13,Duke,AP
+1945,14,Tennessee,AP
+1945,15,LSU,AP
+1945,16,Holy Cross,AP
+1945,17,Tulsa,AP
+1945,18,Georgia,AP
+1945,19,Wake Forest,AP
+1945,20,Columbia,AP
+1946,1,Notre Dame,AP
+1946,2,Army,AP
+1946,3,Georgia,AP
+1946,4,UCLA,AP
+1946,5,Illinois,AP
+1946,6,Michigan,AP
+1946,7,Tennessee,AP
+1946,8,LSU,AP
+1946,9,North Carolina,AP
+1946,10,Rice,AP
+1946,11,Georgia Tech,AP
+1946,12,Yale,AP
+1946,13,Pennsylvania,AP
+1946,14,Oklahoma,AP
+1946,15,Texas,AP
+1946,16,Arkansas,AP
+1946,17,Tulsa,AP
+1946,18,NC State,AP
+1946,19,Delaware,AP
+1946,20,Indiana,AP
+1947,1,Notre Dame,AP
+1947,2,Michigan,AP
+1947,3,SMU,AP
+1947,4,Penn State,AP
+1947,5,Texas,AP
+1947,6,Alabama,AP
+1947,7,Pennsylvania,AP
+1947,8,USC,AP
+1947,9,North Carolina,AP
+1947,10,Georgia Tech,AP
+1947,11,Army,AP
+1947,12,Kansas,AP
+1947,13,Mississippi,AP
+1947,14,William & Mary,AP
+1947,15,California,AP
+1947,16,Oklahoma,AP
+1947,17,NC State,AP
+1947,18,Rice,AP
+1947,19,Duke,AP
+1947,20,Columbia,AP
+1948,1,Michigan,AP
+1948,2,Notre Dame,AP
+1948,3,North Carolina,AP
+1948,4,California,AP
+1948,5,Oklahoma,AP
+1948,6,Army,AP
+1948,7,Northwestern,AP
+1948,8,Georgia,AP
+1948,9,Oregon,AP
+1948,10,SMU,AP
+1948,11,Clemson,AP
+1948,12,Vanderbilt,AP
+1948,13,Tulane,AP
+1948,14,Michigan St.,AP
+1948,15,Mississippi,AP
+1948,16,Minnesota,AP
+1948,17,William & Mary,AP
+1948,18,Penn State,AP
+1948,19,Cornell,AP
+1948,20,Wake Forest,AP
+1949,1,Notre Dame,AP
+1949,2,Oklahoma,AP
+1949,3,California,AP
+1949,4,Army,AP
+1949,5,Rice,AP
+1949,6,Ohio State,AP
+1949,7,Michigan,AP
+1949,8,Minnesota,AP
+1949,9,LSU,AP
+1949,10,Pacific,AP
+1949,11,Kentucky,AP
+1949,12,Cornell,AP
+1949,13,Villanova,AP
+1949,14,Maryland,AP
+1949,15,Santa Clara,AP
+1949,16,North Carolina,AP
+1949,17,Tennessee,AP
+1949,18,Princeton,AP
+1949,19,Michigan St.,AP
+1949,20,Baylor,AP
+1949,20,Missouri,AP
+1950,1,Oklahoma,AP
+1950,2,Army,AP
+1950,3,Texas,AP
+1950,4,Tennessee,AP
+1950,5,California,AP
+1950,6,Princeton,AP
+1950,7,Kentucky,AP
+1950,8,Michigan St.,AP
+1950,9,Michigan,AP
+1950,10,Clemson,AP
+1950,11,Washington,AP
+1950,12,Wyoming,AP
+1950,13,Illinois,AP
+1950,14,Ohio State,AP
+1950,15,Miami,AP
+1950,16,Alabama,AP
+1950,17,Nebraska,AP
+1950,18,Wash. & Lee,AP
+1950,19,Tulsa,AP
+1950,20,Tulane,AP
+1950,1,Oklahoma,CP
+1950,2,Texas,CP
+1950,3,Tennessee,CP
+1950,4,California,CP
+1950,5,Army,CP
+1950,6,Michigan,CP
+1950,7,Kentucky,CP
+1950,8,Princeton,CP
+1950,9,Michigan St.,CP
+1950,10,Ohio State,CP
+1950,11,Illinois,CP
+1950,12,Clemson,CP
+1950,13,Miami,CP
+1950,14,Wyoming,CP
+1950,15,Baylor,CP
+1950,15,Washington,CP
+1950,17,Alabama,CP
+1950,18,Wash. & Lee,CP
+1950,19,Navy,CP
+1950,20,Cornell,CP
+1950,20,Nebraska,CP
+1950,20,Wisconsin,CP
+1951,1,Tennessee,AP
+1951,2,Michigan St.,AP
+1951,3,Maryland,AP
+1951,4,Illinois,AP
+1951,5,Georgia Tech,AP
+1951,6,Princeton,AP
+1951,7,Stanford,AP
+1951,8,Wisconsin,AP
+1951,9,Baylor,AP
+1951,10,Oklahoma,AP
+1951,11,TCU,AP
+1951,12,California,AP
+1951,13,Virginia,AP
+1951,14,San Francisco,AP
+1951,15,Kentucky,AP
+1951,16,Boston U.,AP
+1951,17,UCLA,AP
+1951,18,Washington St.,AP
+1951,19,Holy Cross,AP
+1951,20,Clemson,AP
+1951,1,Tennessee,CP
+1951,2,Michigan St.,CP
+1951,3,Illinois,CP
+1951,4,Maryland,CP
+1951,5,Georgia Tech,CP
+1951,6,Princeton,CP
+1951,7,Stanford,CP
+1951,8,Wisconsin,CP
+1951,9,Baylor,CP
+1951,10,TCU,CP
+1951,11,Oklahoma,CP
+1951,12,California,CP
+1951,13,Notre Dame,CP
+1951,14,Purdue,CP
+1951,14,San Francisco,CP
+1951,14,Washington St.,CP
+1951,17,Holy Cross,CP
+1951,17,Kentucky,CP
+1951,17,UCLA,CP
+1951,20,Kansas,CP
+1952,1,Michigan St.,AP
+1952,2,Georgia Tech,AP
+1952,3,Notre Dame,AP
+1952,4,Oklahoma,AP
+1952,5,USC,AP
+1952,6,UCLA,AP
+1952,7,Mississippi,AP
+1952,8,Tennessee,AP
+1952,9,Alabama,AP
+1952,10,Texas,AP
+1952,11,Wisconsin,AP
+1952,12,Tulsa,AP
+1952,13,Maryland,AP
+1952,14,Syracuse,AP
+1952,15,Florida,AP
+1952,16,Duke,AP
+1952,17,Ohio State,AP
+1952,18,Purdue,AP
+1952,19,Princeton,AP
+1952,20,Kentucky,AP
+1952,1,Michigan St.,CP
+1952,2,Georgia Tech,CP
+1952,3,Notre Dame,CP
+1952,4,Oklahoma,CP
+1952,4,USC,CP
+1952,6,UCLA,CP
+1952,7,Mississippi,CP
+1952,8,Tennessee,CP
+1952,9,Alabama,CP
+1952,10,Wisconsin,CP
+1952,11,Texas,CP
+1952,12,Purdue,CP
+1952,13,Maryland,CP
+1952,14,Princeton,CP
+1952,15,Ohio State,CP
+1952,15,Pittsburgh,CP
+1952,17,Navy,CP
+1952,18,Duke,CP
+1952,19,Houston,CP
+1952,19,Kentucky,CP
+1953,1,Maryland,AP
+1953,2,Notre Dame,AP
+1953,3,Michigan St.,AP
+1953,4,Oklahoma,AP
+1953,5,UCLA,AP
+1953,6,Rice,AP
+1953,7,Illinois,AP
+1953,8,Georgia Tech,AP
+1953,9,Iowa,AP
+1953,10,West Virginia,AP
+1953,11,Texas,AP
+1953,12,Texas Tech,AP
+1953,13,Alabama,AP
+1953,14,Army,AP
+1953,15,Wisconsin,AP
+1953,16,Kentucky,AP
+1953,17,Auburn,AP
+1953,18,Duke,AP
+1953,19,Stanford,AP
+1953,20,Michigan,AP
+1953,1,Maryland,CP
+1953,2,Notre Dame,CP
+1953,3,Michigan St.,CP
+1953,4,UCLA,CP
+1953,5,Oklahoma,CP
+1953,6,Rice,CP
+1953,7,Illinois,CP
+1953,8,Texas,CP
+1953,9,Georgia Tech,CP
+1953,10,Iowa,CP
+1953,11,Alabama,CP
+1953,12,Texas Tech,CP
+1953,13,West Virginia,CP
+1953,14,Wisconsin,CP
+1953,15,Kentucky,CP
+1953,16,Army,CP
+1953,17,Stanford,CP
+1953,18,Duke,CP
+1953,19,Michigan,CP
+1953,20,Ohio State,CP
+1954,1,Ohio State,AP
+1954,2,UCLA,AP
+1954,3,Oklahoma,AP
+1954,4,Notre Dame,AP
+1954,5,Navy,AP
+1954,6,Mississippi,AP
+1954,7,Army,AP
+1954,8,Maryland,AP
+1954,9,Wisconsin,AP
+1954,10,Arkansas,AP
+1954,11,Miami,AP
+1954,12,West Virginia,AP
+1954,13,Auburn,AP
+1954,14,Duke,AP
+1954,15,Michigan,AP
+1954,16,Virginia Tech,AP
+1954,17,USC,AP
+1954,18,Baylor,AP
+1954,19,Rice,AP
+1954,20,Penn State,AP
+1954,1,UCLA,CP
+1954,2,Ohio State,CP
+1954,3,Oklahoma,CP
+1954,4,Notre Dame,CP
+1954,5,Navy,CP
+1954,6,Mississippi,CP
+1954,7,Army,CP
+1954,8,Arkansas,CP
+1954,9,Miami,CP
+1954,10,Wisconsin,CP
+1954,11,Georgia Tech,CP
+1954,11,Maryland,CP
+1954,11,USC,CP
+1954,14,Duke,CP
+1954,15,Michigan,CP
+1954,16,Penn State,CP
+1954,17,SMU,CP
+1954,18,Denver,CP
+1954,19,Rice,CP
+1954,20,Minnesota,CP
+1955,1,Oklahoma,AP
+1955,2,Michigan St.,AP
+1955,3,Maryland,AP
+1955,4,UCLA,AP
+1955,5,Ohio State,AP
+1955,6,TCU,AP
+1955,7,Georgia Tech,AP
+1955,8,Auburn,AP
+1955,9,Notre Dame,AP
+1955,10,Mississippi,AP
+1955,11,Pittsburgh,AP
+1955,12,Michigan,AP
+1955,13,USC,AP
+1955,14,Miami,AP
+1955,15,Miami Ohio,AP
+1955,16,Stanford,AP
+1955,17,Texas A&M,AP
+1955,18,Navy,AP
+1955,19,West Virginia,AP
+1955,20,Army,AP
+1955,1,Oklahoma,CP
+1955,2,Michigan St.,CP
+1955,3,Maryland,CP
+1955,4,UCLA,CP
+1955,5,Ohio State,CP
+1955,6,TCU,CP
+1955,7,Georgia Tech,CP
+1955,8,Auburn,CP
+1955,9,Mississippi,CP
+1955,10,Notre Dame,CP
+1955,11,Pittsburgh,CP
+1955,12,USC,CP
+1955,13,Michigan,CP
+1955,14,Texas A&M,CP
+1955,15,Army,CP
+1955,16,Duke,CP
+1955,17,West Virginia,CP
+1955,18,Miami,CP
+1955,19,Iowa,CP
+1955,20,Miami Ohio,CP
+1955,20,Navy,CP
+1955,20,Stanford,CP
+1956,1,Oklahoma,AP
+1956,2,Tennessee,AP
+1956,3,Iowa,AP
+1956,4,Georgia Tech,AP
+1956,5,Texas A&M,AP
+1956,6,Miami,AP
+1956,7,Michigan,AP
+1956,8,Syracuse,AP
+1956,9,Michigan St.,AP
+1956,10,Oregon St.,AP
+1956,11,Baylor,AP
+1956,12,Minnesota,AP
+1956,13,Pittsburgh,AP
+1956,14,TCU,AP
+1956,15,Ohio State,AP
+1956,16,Navy,AP
+1956,17,George Washington,AP
+1956,18,USC,AP
+1956,19,Clemson,AP
+1956,20,Colorado,AP
+1956,1,Oklahoma,CP
+1956,2,Tennessee,CP
+1956,3,Iowa,CP
+1956,4,Georgia Tech,CP
+1956,5,Texas A&M,CP
+1956,6,Miami,CP
+1956,7,Michigan,CP
+1956,8,Syracuse,CP
+1956,9,Minnesota,CP
+1956,10,Michigan St.,CP
+1956,11,Baylor,CP
+1956,12,Pittsburgh,CP
+1956,13,Oregon St.,CP
+1956,14,TCU,CP
+1956,15,USC,CP
+1956,16,Wyoming,CP
+1956,17,Yale,CP
+1956,18,Colorado,CP
+1956,19,Navy,CP
+1956,20,Duke,CP
+1957,1,Auburn,AP
+1957,2,Ohio State,AP
+1957,3,Michigan St.,AP
+1957,4,Oklahoma,AP
+1957,5,Navy,AP
+1957,6,Iowa,AP
+1957,7,Mississippi,AP
+1957,8,Rice,AP
+1957,9,Texas A&M,AP
+1957,10,Notre Dame,AP
+1957,11,Texas,AP
+1957,12,Arizona St.,AP
+1957,13,Tennessee,AP
+1957,14,Miss State,AP
+1957,15,NC State,AP
+1957,16,Duke,AP
+1957,17,Florida,AP
+1957,18,Army,AP
+1957,19,Wisconsin,AP
+1957,20,VMI,AP
+1957,1,Ohio State,CP
+1957,2,Auburn,CP
+1957,3,Michigan St.,CP
+1957,4,Oklahoma,CP
+1957,5,Iowa,CP
+1957,6,Navy,CP
+1957,7,Rice,CP
+1957,8,Mississippi,CP
+1957,9,Notre Dame,CP
+1957,10,Texas A&M,CP
+1957,11,Texas,CP
+1957,12,Arizona St.,CP
+1957,13,Army,CP
+1957,14,Duke,CP
+1957,14,Wisconsin,CP
+1957,16,Tennessee,CP
+1957,17,Oregon,CP
+1957,18,Clemson,CP
+1957,18,UCLA,CP
+1957,20,NC State,CP
+1958,1,LSU,AP
+1958,2,Iowa,AP
+1958,3,Army,AP
+1958,4,Auburn,AP
+1958,5,Oklahoma,AP
+1958,6,Air Force,AP
+1958,7,Wisconsin,AP
+1958,8,Ohio State,AP
+1958,9,Syracuse,AP
+1958,10,TCU,AP
+1958,11,Mississippi,AP
+1958,12,Clemson,AP
+1958,13,Purdue,AP
+1958,14,Florida,AP
+1958,15,South Carolina,AP
+1958,16,California,AP
+1958,17,Notre Dame,AP
+1958,18,SMU,AP
+1958,19,Oklahoma St.,AP
+1958,20,Rutgers,AP
+1958,1,LSU,CP
+1958,2,Iowa,CP
+1958,3,Army,CP
+1958,4,Auburn,CP
+1958,5,Oklahoma,CP
+1958,6,Wisconsin,CP
+1958,7,Ohio State,CP
+1958,8,Air Force,CP
+1958,9,TCU,CP
+1958,10,Syracuse,CP
+1958,11,Purdue,CP
+1958,12,Mississippi,CP
+1958,13,Clemson,CP
+1958,14,Notre Dame,CP
+1958,15,Florida,CP
+1958,16,California,CP
+1958,17,Northwestern,CP
+1958,18,SMU,CP
+1959,1,Syracuse,AP
+1959,2,Mississippi,AP
+1959,3,LSU,AP
+1959,4,Texas,AP
+1959,5,Georgia,AP
+1959,6,Wisconsin,AP
+1959,7,TCU,AP
+1959,8,Washington,AP
+1959,9,Arkansas,AP
+1959,10,Alabama,AP
+1959,11,Clemson,AP
+1959,12,Penn State,AP
+1959,13,Illinois,AP
+1959,14,USC,AP
+1959,15,Oklahoma,AP
+1959,16,Wyoming,AP
+1959,17,Notre Dame,AP
+1959,18,Missouri,AP
+1959,19,Florida,AP
+1959,20,Pittsburgh,AP
+1959,1,Syracuse,CP
+1959,2,Mississippi,CP
+1959,3,LSU,CP
+1959,4,Texas,CP
+1959,5,Georgia,CP
+1959,6,Wisconsin,CP
+1959,7,Washington,CP
+1959,8,TCU,CP
+1959,9,Arkansas,CP
+1959,10,Penn State,CP
+1959,11,Clemson,CP
+1959,12,Illinois,CP
+1959,13,Alabama,CP
+1959,13,USC,CP
+1959,15,Auburn,CP
+1959,16,Michigan St.,CP
+1959,17,Oklahoma,CP
+1959,18,Notre Dame,CP
+1959,19,Florida,CP
+1959,19,Missouri,CP
+1959,19,Pittsburgh,CP
+1960,1,Minnesota,AP
+1960,2,Mississippi,AP
+1960,3,Iowa,AP
+1960,4,Navy,AP
+1960,5,Missouri,AP
+1960,6,Washington,AP
+1960,7,Arkansas,AP
+1960,8,Ohio State,AP
+1960,9,Alabama,AP
+1960,10,Duke,AP
+1960,11,Kansas,AP
+1960,12,Baylor,AP
+1960,13,Auburn,AP
+1960,14,Yale,AP
+1960,15,Michigan St.,AP
+1960,16,Penn State,AP
+1960,17,New Mexico St.,AP
+1960,18,Florida,AP
+1960,19,Purdue,AP
+1960,19,Syracuse,AP
+1960,1,Minnesota,CP
+1960,2,Iowa,CP
+1960,3,Mississippi,CP
+1960,4,Missouri,CP
+1960,5,Washington,CP
+1960,6,Navy,CP
+1960,7,Arkansas,CP
+1960,8,Ohio State,CP
+1960,9,Kansas,CP
+1960,10,Alabama,CP
+1960,11,Baylor,CP
+1960,11,Duke,CP
+1960,11,Michigan St.,CP
+1960,14,Auburn,CP
+1960,15,Purdue,CP
+1960,16,Florida,CP
+1960,17,Texas,CP
+1960,18,Yale,CP
+1960,19,New Mexico St.,CP
+1960,19,Tennessee,CP
+1961,1,Alabama,AP
+1961,2,Ohio State,AP
+1961,3,Texas,AP
+1961,4,LSU,AP
+1961,5,Mississippi,AP
+1961,6,Minnesota,AP
+1961,7,Colorado,AP
+1961,8,Michigan St.,AP
+1961,9,Arkansas,AP
+1961,10,Utah State,AP
+1961,11,Missouri,AP
+1961,12,Purdue,AP
+1961,13,Georgia Tech,AP
+1961,14,Syracuse,AP
+1961,15,Rutgers,AP
+1961,16,UCLA,AP
+1961,17,Arizona,AP
+1961,17,Penn State,AP
+1961,17,Rice,AP
+1961,20,Duke,AP
+1961,1,Alabama,CP
+1961,2,Ohio State,CP
+1961,3,LSU,CP
+1961,4,Texas,CP
+1961,5,Mississippi,CP
+1961,6,Minnesota,CP
+1961,7,Colorado,CP
+1961,8,Arkansas,CP
+1961,9,Michigan St.,CP
+1961,10,Utah State,CP
+1961,11,Missouri,CP
+1961,11,Purdue,CP
+1961,13,Georgia Tech,CP
+1961,14,Duke,CP
+1961,15,Kansas,CP
+1961,16,Syracuse,CP
+1961,17,Wyoming,CP
+1961,18,Wisconsin,CP
+1961,19,Miami,CP
+1961,19,Penn State,CP
+1962,1,USC,AP
+1962,2,Wisconsin,AP
+1962,3,Mississippi,AP
+1962,4,Texas,AP
+1962,5,Alabama,AP
+1962,6,Arkansas,AP
+1962,7,LSU,AP
+1962,8,Oklahoma,AP
+1962,9,Penn State,AP
+1962,10,Minnesota,AP
+1962,1,USC,CP
+1962,2,Wisconsin,CP
+1962,3,Mississippi,CP
+1962,4,Texas,CP
+1962,5,Alabama,CP
+1962,6,Arkansas,CP
+1962,7,Oklahoma,CP
+1962,8,LSU,CP
+1962,9,Penn State,CP
+1962,10,Minnesota,CP
+1962,11,Georgia Tech,CP
+1962,12,Missouri,CP
+1962,13,Ohio State,CP
+1962,14,Duke,CP
+1962,14,Washington,CP
+1962,16,Northwestern,CP
+1962,16,Oregon St.,CP
+1962,18,Arizona St.,CP
+1962,18,Illinois,CP
+1962,18,Miami,CP
+1963,1,Texas,AP
+1963,2,Navy,AP
+1963,3,Illinois,AP
+1963,4,Pittsburgh,AP
+1963,5,Auburn,AP
+1963,6,Nebraska,AP
+1963,7,Mississippi,AP
+1963,8,Alabama,AP
+1963,9,Oklahoma,AP
+1963,10,Michigan St.,AP
+1963,1,Texas,CP
+1963,2,Navy,CP
+1963,3,Pittsburgh,CP
+1963,4,Illinois,CP
+1963,5,Nebraska,CP
+1963,6,Auburn,CP
+1963,7,Mississippi,CP
+1963,8,Oklahoma,CP
+1963,9,Alabama,CP
+1963,10,Michigan St.,CP
+1963,11,Miss State,CP
+1963,12,Syracuse,CP
+1963,13,Arizona St.,CP
+1963,14,Memphis,CP
+1963,15,Washington,CP
+1963,16,Missouri,CP
+1963,16,Penn State,CP
+1963,16,USC,CP
+1963,19,North Carolina,CP
+1963,20,Baylor,CP
+1964,1,Alabama,AP
+1964,2,Arkansas,AP
+1964,3,Notre Dame,AP
+1964,4,Michigan,AP
+1964,5,Texas,AP
+1964,6,Nebraska,AP
+1964,7,LSU,AP
+1964,8,Oregon St.,AP
+1964,9,Ohio State,AP
+1964,10,USC,AP
+1964,1,Alabama,CP
+1964,2,Arkansas,CP
+1964,3,Notre Dame,CP
+1964,4,Michigan,CP
+1964,5,Texas,CP
+1964,6,Nebraska,CP
+1964,7,LSU,CP
+1964,8,Oregon St.,CP
+1964,9,Ohio State,CP
+1964,10,USC,CP
+1964,11,Florida St.,CP
+1964,12,Syracuse,CP
+1964,13,Princeton,CP
+1964,14,Penn State,CP
+1964,14,Utah,CP
+1964,16,Illinois,CP
+1964,16,New Mexico,CP
+1964,18,Missouri,CP
+1964,18,Tulsa,CP
+1964,20,Michigan St.,CP
+1964,20,Mississippi,CP
+1965,1,Alabama,AP
+1965,2,Michigan St.,AP
+1965,3,Arkansas,AP
+1965,4,UCLA,AP
+1965,5,Nebraska,AP
+1965,6,Missouri,AP
+1965,7,Tennessee,AP
+1965,8,LSU,AP
+1965,9,Notre Dame,AP
+1965,10,USC,AP
+1965,1,Michigan St.,CP
+1965,2,Arkansas,CP
+1965,3,Nebraska,CP
+1965,4,Alabama,CP
+1965,5,UCLA,CP
+1965,6,Missouri,CP
+1965,7,Tennessee,CP
+1965,8,Notre Dame,CP
+1965,9,USC,CP
+1965,10,Texas Tech,CP
+1965,11,Ohio State,CP
+1965,12,Florida,CP
+1965,13,Purdue,CP
+1965,14,LSU,CP
+1965,15,Georgia,CP
+1965,16,Tulsa,CP
+1965,17,Mississippi,CP
+1965,18,Kentucky,CP
+1965,19,Syracuse,CP
+1965,20,Colorado,CP
+1966,1,Notre Dame,AP
+1966,2,Michigan St.,AP
+1966,3,Alabama,AP
+1966,4,Georgia,AP
+1966,5,UCLA,AP
+1966,6,Nebraska,AP
+1966,7,Purdue,AP
+1966,8,Georgia Tech,AP
+1966,9,Miami,AP
+1966,10,SMU,AP
+1966,1,Notre Dame,CP
+1966,2,Michigan St.,CP
+1966,3,Alabama,CP
+1966,4,Georgia,CP
+1966,5,UCLA,CP
+1966,6,Purdue,CP
+1966,7,Nebraska,CP
+1966,8,Georgia Tech,CP
+1966,9,SMU,CP
+1966,10,Miami,CP
+1966,11,Florida,CP
+1966,12,Mississippi,CP
+1966,13,Arkansas,CP
+1966,14,Tennessee,CP
+1966,15,Wyoming,CP
+1966,16,Syracuse,CP
+1966,17,Houston,CP
+1966,18,USC,CP
+1966,19,Oregon St.,CP
+1966,20,Virginia Tech,CP
+1967,1,USC,AP
+1967,2,Tennessee,AP
+1967,3,Oklahoma,AP
+1967,4,Indiana,AP
+1967,5,Notre Dame,AP
+1967,6,Wyoming,AP
+1967,7,Oregon St.,AP
+1967,8,Alabama,AP
+1967,9,Purdue,AP
+1967,10,Penn State,AP
+1967,1,USC,CP
+1967,2,Tennessee,CP
+1967,3,Oklahoma,CP
+1967,4,Notre Dame,CP
+1967,5,Wyoming,CP
+1967,6,Indiana,CP
+1967,7,Alabama,CP
+1967,8,Oregon St.,CP
+1967,9,Purdue,CP
+1967,10,UCLA,CP
+1967,11,Penn State,CP
+1967,12,Syracuse,CP
+1967,13,Colorado,CP
+1967,14,Minnesota,CP
+1967,15,Florida St.,CP
+1967,16,Miami,CP
+1967,17,NC State,CP
+1967,18,Georgia,CP
+1967,19,Houston,CP
+1967,20,Arizona St.,CP
+1968,1,Ohio State,AP
+1968,2,Penn State,AP
+1968,3,Texas,AP
+1968,4,USC,AP
+1968,5,Notre Dame,AP
+1968,6,Arkansas,AP
+1968,7,Kansas,AP
+1968,8,Georgia,AP
+1968,9,Missouri,AP
+1968,10,Purdue,AP
+1968,11,Oklahoma,AP
+1968,12,Michigan,AP
+1968,13,Tennessee,AP
+1968,14,SMU,AP
+1968,15,Oregon St.,AP
+1968,16,Auburn,AP
+1968,17,Alabama,AP
+1968,18,Houston,AP
+1968,19,LSU,AP
+1968,20,Ohio,AP
+1968,1,Ohio State,CP
+1968,2,USC,CP
+1968,3,Penn State,CP
+1968,4,Georgia,CP
+1968,5,Texas,CP
+1968,6,Kansas,CP
+1968,7,Tennessee,CP
+1968,8,Notre Dame,CP
+1968,9,Arkansas,CP
+1968,10,Oklahoma,CP
+1968,11,Purdue,CP
+1968,12,Alabama,CP
+1968,13,Oregon St.,CP
+1968,14,Florida St.,CP
+1968,15,Michigan,CP
+1968,16,SMU,CP
+1968,17,Missouri,CP
+1968,18,Minnesota,CP
+1968,18,Ohio,CP
+1968,20,Houston,CP
+1968,20,Stanford,CP
+1969,1,Texas,AP
+1969,2,Penn State,AP
+1969,3,USC,AP
+1969,4,Ohio State,AP
+1969,5,Notre Dame,AP
+1969,6,Missouri,AP
+1969,7,Arkansas,AP
+1969,8,Mississippi,AP
+1969,9,Michigan,AP
+1969,10,LSU,AP
+1969,11,Nebraska,AP
+1969,12,Houston,AP
+1969,13,UCLA,AP
+1969,14,Florida,AP
+1969,15,Tennessee,AP
+1969,16,Colorado,AP
+1969,17,West Virginia,AP
+1969,18,Purdue,AP
+1969,19,Stanford,AP
+1969,20,Auburn,AP
+1969,1,Texas,CP
+1969,2,Penn State,CP
+1969,3,Arkansas,CP
+1969,4,USC,CP
+1969,5,Ohio State,CP
+1969,6,Missouri,CP
+1969,7,LSU,CP
+1969,8,Michigan,CP
+1969,9,Notre Dame,CP
+1969,10,UCLA,CP
+1969,11,Tennessee,CP
+1969,12,Nebraska,CP
+1969,13,Mississippi,CP
+1969,14,Stanford,CP
+1969,15,Auburn,CP
+1969,16,Houston,CP
+1969,17,Florida,CP
+1969,18,Purdue,CP
+1969,18,San Diego St.,CP
+1969,18,West Virginia,CP
+1970,1,Nebraska,AP
+1970,2,Notre Dame,AP
+1970,3,Texas,AP
+1970,4,Tennessee,AP
+1970,5,Ohio State,AP
+1970,6,Arizona St.,AP
+1970,7,LSU,AP
+1970,8,Stanford,AP
+1970,9,Michigan,AP
+1970,10,Auburn,AP
+1970,11,Arkansas,AP
+1970,12,Toledo,AP
+1970,13,Georgia Tech,AP
+1970,14,Dartmouth,AP
+1970,15,USC,AP
+1970,16,Air Force,AP
+1970,17,Tulane,AP
+1970,18,Penn State,AP
+1970,19,Houston,AP
+1970,20,Oklahoma,AP
+1970,1,Texas,CP
+1970,2,Ohio State,CP
+1970,3,Nebraska,CP
+1970,4,Tennessee,CP
+1970,5,Notre Dame,CP
+1970,6,LSU,CP
+1970,7,Michigan,CP
+1970,8,Arizona St.,CP
+1970,9,Auburn,CP
+1970,10,Stanford,CP
+1970,11,Air Force,CP
+1970,12,Arkansas,CP
+1970,13,Dartmouth,CP
+1970,13,Houston,CP
+1970,15,Oklahoma,CP
+1970,16,Colorado,CP
+1970,17,Georgia Tech,CP
+1970,17,Toledo,CP
+1970,19,Penn State,CP
+1970,19,USC,CP
+1971,1,Nebraska,AP
+1971,2,Oklahoma,AP
+1971,3,Colorado,AP
+1971,4,Alabama,AP
+1971,5,Penn State,AP
+1971,6,Michigan,AP
+1971,7,Georgia,AP
+1971,8,Arizona St.,AP
+1971,9,Tennessee,AP
+1971,10,Stanford,AP
+1971,11,LSU,AP
+1971,12,Auburn,AP
+1971,13,Notre Dame,AP
+1971,14,Toledo,AP
+1971,15,Mississippi,AP
+1971,16,Arkansas,AP
+1971,17,Houston,AP
+1971,18,Texas,AP
+1971,19,Washington,AP
+1971,20,USC,AP
+1971,1,Nebraska,CP
+1971,2,Alabama,CP
+1971,3,Oklahoma,CP
+1971,4,Michigan,CP
+1971,5,Auburn,CP
+1971,6,Arizona St.,CP
+1971,7,Colorado,CP
+1971,8,Georgia,CP
+1971,9,Tennessee,CP
+1971,10,LSU,CP
+1971,11,Penn State,CP
+1971,12,Texas,CP
+1971,13,Toledo,CP
+1971,14,Houston,CP
+1971,15,Notre Dame,CP
+1971,16,Stanford,CP
+1971,17,Iowa State,CP
+1971,18,North Carolina,CP
+1971,19,Florida St.,CP
+1971,20,Arkansas,CP
+1971,20,Mississippi,CP
+1972,1,USC,AP
+1972,2,Oklahoma,AP
+1972,3,Texas,AP
+1972,4,Nebraska,AP
+1972,5,Auburn,AP
+1972,6,Michigan,AP
+1972,7,Alabama,AP
+1972,8,Tennessee,AP
+1972,9,Ohio State,AP
+1972,10,Penn State,AP
+1972,11,LSU,AP
+1972,12,North Carolina,AP
+1972,13,Arizona St.,AP
+1972,14,Notre Dame,AP
+1972,15,UCLA,AP
+1972,16,Colorado,AP
+1972,17,NC State,AP
+1972,18,Louisville,AP
+1972,19,Washington St.,AP
+1972,20,Georgia Tech,AP
+1972,1,USC,CP
+1972,2,Oklahoma,CP
+1972,3,Ohio State,CP
+1972,4,Alabama,CP
+1972,5,Texas,CP
+1972,6,Michigan,CP
+1972,7,Auburn,CP
+1972,8,Penn State,CP
+1972,9,Nebraska,CP
+1972,10,LSU,CP
+1972,11,Tennessee,CP
+1972,12,Notre Dame,CP
+1972,13,Arizona St.,CP
+1972,14,Colorado,CP
+1972,14,North Carolina,CP
+1972,16,Louisville,CP
+1972,17,UCLA,CP
+1972,17,Washington St.,CP
+1972,19,Utah State,CP
+1972,20,San Diego St.,CP
+1973,1,Notre Dame,AP
+1973,2,Ohio State,AP
+1973,3,Oklahoma,AP
+1973,4,Alabama,AP
+1973,5,Penn State,AP
+1973,6,Michigan,AP
+1973,7,Nebraska,AP
+1973,8,USC,AP
+1973,9,Arizona St.,AP
+1973,9,Houston,AP
+1973,11,Texas Tech,AP
+1973,12,UCLA,AP
+1973,13,LSU,AP
+1973,14,Texas,AP
+1973,15,Miami Ohio,AP
+1973,16,NC State,AP
+1973,17,Missouri,AP
+1973,18,Kansas,AP
+1973,19,Tennessee,AP
+1973,20,Maryland,AP
+1973,1,Alabama,CP
+1973,2,Oklahoma,CP
+1973,3,Ohio State,CP
+1973,4,Notre Dame,CP
+1973,5,Penn State,CP
+1973,6,Michigan,CP
+1973,7,USC,CP
+1973,8,Texas,CP
+1973,9,UCLA,CP
+1973,10,Arizona St.,CP
+1973,11,Nebraska,CP
+1973,11,Texas Tech,CP
+1973,13,Houston,CP
+1973,14,LSU,CP
+1973,15,Kansas,CP
+1973,15,Tulane,CP
+1973,17,Miami Ohio,CP
+1973,18,Maryland,CP
+1973,19,Florida,CP
+1973,19,San Diego St.,CP
+1974,1,Oklahoma,AP
+1974,2,USC,AP
+1974,3,Michigan,AP
+1974,4,Ohio State,AP
+1974,5,Alabama,AP
+1974,6,Notre Dame,AP
+1974,7,Penn State,AP
+1974,8,Auburn,AP
+1974,9,Nebraska,AP
+1974,10,Miami Ohio,AP
+1974,11,NC State,AP
+1974,12,Michigan St.,AP
+1974,13,Maryland,AP
+1974,14,Baylor,AP
+1974,15,Florida,AP
+1974,16,Texas A&M,AP
+1974,17,Miss State,AP
+1974,17,Texas,AP
+1974,19,Houston,AP
+1974,20,Tennessee,AP
+1974,1,USC,CP
+1974,2,Alabama,CP
+1974,3,Ohio State,CP
+1974,4,Notre Dame,CP
+1974,5,Michigan,CP
+1974,6,Auburn,CP
+1974,7,Penn State,CP
+1974,8,Nebraska,CP
+1974,9,NC State,CP
+1974,10,Miami Ohio,CP
+1974,11,Houston,CP
+1974,12,Florida,CP
+1974,13,Maryland,CP
+1974,14,Baylor,CP
+1974,15,Tennessee,CP
+1974,15,Texas A&M,CP
+1974,17,Miss State,CP
+1974,18,Michigan St.,CP
+1974,19,Tulsa,CP
+1975,1,Oklahoma,AP
+1975,2,Arizona St.,AP
+1975,3,Alabama,AP
+1975,4,Ohio State,AP
+1975,5,UCLA,AP
+1975,6,Texas,AP
+1975,7,Arkansas,AP
+1975,8,Michigan,AP
+1975,9,Nebraska,AP
+1975,10,Penn State,AP
+1975,11,Texas A&M,AP
+1975,12,Miami Ohio,AP
+1975,13,Maryland,AP
+1975,14,California,AP
+1975,15,Pittsburgh,AP
+1975,16,Colorado,AP
+1975,17,USC,AP
+1975,18,Arizona,AP
+1975,19,Georgia,AP
+1975,20,West Virginia,AP
+1975,1,Oklahoma,CP
+1975,2,Arizona St.,CP
+1975,3,Alabama,CP
+1975,4,Ohio State,CP
+1975,5,UCLA,CP
+1975,6,Arkansas,CP
+1975,7,Texas,CP
+1975,8,Michigan,CP
+1975,9,Nebraska,CP
+1975,10,Penn State,CP
+1975,11,Maryland,CP
+1975,12,Texas A&M,CP
+1975,13,Arizona,CP
+1975,13,Pittsburgh,CP
+1975,15,California,CP
+1975,16,Miami Ohio,CP
+1975,17,Notre Dame,CP
+1975,17,West Virginia,CP
+1975,19,Georgia,CP
+1975,19,USC,CP
+1976,1,Pittsburgh,AP
+1976,2,USC,AP
+1976,3,Michigan,AP
+1976,4,Houston,AP
+1976,5,Oklahoma,AP
+1976,6,Ohio State,AP
+1976,7,Texas A&M,AP
+1976,8,Maryland,AP
+1976,9,Nebraska,AP
+1976,10,Georgia,AP
+1976,11,Alabama,AP
+1976,12,Notre Dame,AP
+1976,13,Texas Tech,AP
+1976,14,Oklahoma St.,AP
+1976,15,UCLA,AP
+1976,16,Colorado,AP
+1976,17,Rutgers,AP
+1976,18,Kentucky,AP
+1976,19,Iowa State,AP
+1976,20,Miss State,AP
+1976,1,Pittsburgh,CP
+1976,2,USC,CP
+1976,3,Michigan,CP
+1976,4,Houston,CP
+1976,5,Ohio State,CP
+1976,6,Oklahoma,CP
+1976,7,Nebraska,CP
+1976,8,Texas A&M,CP
+1976,9,Alabama,CP
+1976,10,Georgia,CP
+1976,11,Maryland,CP
+1976,12,Notre Dame,CP
+1976,13,Texas Tech,CP
+1976,14,Oklahoma St.,CP
+1976,15,UCLA,CP
+1976,16,Colorado,CP
+1976,17,Rutgers,CP
+1976,18,Iowa State,CP
+1976,19,Baylor,CP
+1976,19,Kentucky,CP
+1977,1,Notre Dame,AP
+1977,2,Alabama,AP
+1977,3,Arkansas,AP
+1977,4,Texas,AP
+1977,5,Penn State,AP
+1977,6,Kentucky,AP
+1977,7,Oklahoma,AP
+1977,8,Pittsburgh,AP
+1977,9,Michigan,AP
+1977,10,Washington,AP
+1977,11,Ohio State,AP
+1977,12,Nebraska,AP
+1977,13,USC,AP
+1977,14,Florida St.,AP
+1977,15,Stanford,AP
+1977,16,San Diego St.,AP
+1977,17,North Carolina,AP
+1977,18,Arizona St.,AP
+1977,19,Clemson,AP
+1977,20,BYU,AP
+1977,1,Notre Dame,CP
+1977,2,Alabama,CP
+1977,3,Arkansas,CP
+1977,4,Penn State,CP
+1977,5,Texas,CP
+1977,6,Oklahoma,CP
+1977,7,Pittsburgh,CP
+1977,8,Michigan,CP
+1977,9,Washington,CP
+1977,10,Nebraska,CP
+1977,11,Florida St.,CP
+1977,12,Ohio State,CP
+1977,12,USC,CP
+1977,14,North Carolina,CP
+1977,15,Stanford,CP
+1977,16,BYU,CP
+1977,16,North Texas,CP
+1977,18,Arizona St.,CP
+1977,19,NC State,CP
+1977,19,San Diego St.,CP
+1978,1,Alabama,AP
+1978,2,USC,AP
+1978,3,Oklahoma,AP
+1978,4,Penn State,AP
+1978,5,Michigan,AP
+1978,6,Clemson,AP
+1978,7,Notre Dame,AP
+1978,8,Nebraska,AP
+1978,9,Texas,AP
+1978,10,Houston,AP
+1978,11,Arkansas,AP
+1978,12,Michigan St.,AP
+1978,13,Purdue,AP
+1978,14,UCLA,AP
+1978,15,Missouri,AP
+1978,16,Georgia,AP
+1978,17,Stanford,AP
+1978,18,NC State,AP
+1978,19,Texas A&M,AP
+1978,20,Maryland,AP
+1978,1,USC,CP
+1978,2,Alabama,CP
+1978,3,Oklahoma,CP
+1978,4,Penn State,CP
+1978,5,Michigan,CP
+1978,6,Notre Dame,CP
+1978,7,Clemson,CP
+1978,8,Nebraska,CP
+1978,9,Texas,CP
+1978,10,Arkansas,CP
+1978,11,Houston,CP
+1978,12,UCLA,CP
+1978,13,Purdue,CP
+1978,14,Missouri,CP
+1978,15,Georgia,CP
+1978,16,Stanford,CP
+1978,17,Navy,CP
+1978,18,Texas A&M,CP
+1978,19,Arizona St.,CP
+1978,19,NC State,CP
+1979,1,Alabama,AP
+1979,2,USC,AP
+1979,3,Oklahoma,AP
+1979,4,Ohio State,AP
+1979,5,Houston,AP
+1979,6,Florida St.,AP
+1979,7,Pittsburgh,AP
+1979,8,Arkansas,AP
+1979,9,Nebraska,AP
+1979,10,Purdue,AP
+1979,11,Washington,AP
+1979,12,Texas,AP
+1979,13,BYU,AP
+1979,14,Baylor,AP
+1979,15,North Carolina,AP
+1979,16,Auburn,AP
+1979,17,Temple,AP
+1979,18,Michigan,AP
+1979,19,Indiana,AP
+1979,20,Penn State,AP
+1979,1,Alabama,CP
+1979,2,USC,CP
+1979,3,Oklahoma,CP
+1979,4,Ohio State,CP
+1979,5,Houston,CP
+1979,6,Pittsburgh,CP
+1979,7,Nebraska,CP
+1979,8,Florida St.,CP
+1979,9,Arkansas,CP
+1979,10,Purdue,CP
+1979,11,Washington,CP
+1979,12,BYU,CP
+1979,13,Texas,CP
+1979,14,North Carolina,CP
+1979,15,Baylor,CP
+1979,16,Indiana,CP
+1979,17,Temple,CP
+1979,18,Penn State,CP
+1979,19,Michigan,CP
+1979,20,Missouri,CP
+1980,1,Georgia,AP
+1980,2,Pittsburgh,AP
+1980,3,Oklahoma,AP
+1980,4,Michigan,AP
+1980,5,Florida St.,AP
+1980,6,Alabama,AP
+1980,7,Nebraska,AP
+1980,8,Penn State,AP
+1980,9,Notre Dame,AP
+1980,10,North Carolina,AP
+1980,11,USC,AP
+1980,12,BYU,AP
+1980,13,UCLA,AP
+1980,14,Baylor,AP
+1980,15,Ohio State,AP
+1980,16,Washington,AP
+1980,17,Purdue,AP
+1980,18,Miami,AP
+1980,19,Miss State,AP
+1980,20,SMU,AP
+1980,1,Georgia,CP
+1980,2,Pittsburgh,CP
+1980,3,Oklahoma,CP
+1980,4,Michigan,CP
+1980,5,Florida St.,CP
+1980,6,Alabama,CP
+1980,7,Nebraska,CP
+1980,8,Penn State,CP
+1980,9,North Carolina,CP
+1980,10,Notre Dame,CP
+1980,11,BYU,CP
+1980,12,USC,CP
+1980,13,Baylor,CP
+1980,14,UCLA,CP
+1980,15,Ohio State,CP
+1980,16,Purdue,CP
+1980,17,Washington,CP
+1980,18,Miami,CP
+1980,19,Florida,CP
+1980,20,SMU,CP
+1981,1,Clemson,AP
+1981,2,Texas,AP
+1981,3,Penn State,AP
+1981,4,Pittsburgh,AP
+1981,5,SMU,AP
+1981,6,Georgia,AP
+1981,7,Alabama,AP
+1981,8,Miami,AP
+1981,9,North Carolina,AP
+1981,10,Washington,AP
+1981,11,Nebraska,AP
+1981,12,Michigan,AP
+1981,13,BYU,AP
+1981,14,USC,AP
+1981,15,Ohio State,AP
+1981,16,Arizona St.,AP
+1981,17,West Virginia,AP
+1981,18,Iowa,AP
+1981,19,Missouri,AP
+1981,20,Oklahoma,AP
+1981,1,Clemson,CP
+1981,2,Pittsburgh,CP
+1981,3,Penn State,CP
+1981,4,Texas,CP
+1981,5,Georgia,CP
+1981,6,Alabama,CP
+1981,7,Washington,CP
+1981,8,North Carolina,CP
+1981,9,Nebraska,CP
+1981,10,Michigan,CP
+1981,11,BYU,CP
+1981,12,Ohio State,CP
+1981,13,USC,CP
+1981,14,Oklahoma,CP
+1981,15,Iowa,CP
+1981,16,Arkansas,CP
+1981,17,Miss State,CP
+1981,18,West Virginia,CP
+1981,19,Southern Miss,CP
+1981,20,Missouri,CP
+1982,1,Penn State,AP
+1982,2,SMU,AP
+1982,3,Nebraska,AP
+1982,4,Georgia,AP
+1982,5,UCLA,AP
+1982,6,Arizona St.,AP
+1982,7,Washington,AP
+1982,8,Clemson,AP
+1982,9,Arkansas,AP
+1982,10,Pittsburgh,AP
+1982,11,LSU,AP
+1982,12,Ohio State,AP
+1982,13,Florida St.,AP
+1982,14,Auburn,AP
+1982,15,USC,AP
+1982,16,Oklahoma,AP
+1982,17,Texas,AP
+1982,18,North Carolina,AP
+1982,19,West Virginia,AP
+1982,20,Maryland,AP
+1982,1,Penn State,CP
+1982,2,SMU,CP
+1982,3,Nebraska,CP
+1982,4,Georgia,CP
+1982,5,UCLA,CP
+1982,6,Arizona St.,CP
+1982,7,Washington,CP
+1982,8,Arkansas,CP
+1982,9,Pittsburgh,CP
+1982,10,Florida St.,CP
+1982,11,LSU,CP
+1982,12,Ohio State,CP
+1982,13,North Carolina,CP
+1982,14,Auburn,CP
+1982,15,Michigan,CP
+1982,16,Oklahoma,CP
+1982,17,Alabama,CP
+1982,18,Texas,CP
+1982,19,West Virginia,CP
+1982,20,Maryland,CP
+1983,1,Miami,AP
+1983,2,Nebraska,AP
+1983,3,Auburn,AP
+1983,4,Georgia,AP
+1983,5,Texas,AP
+1983,6,Florida,AP
+1983,7,BYU,AP
+1983,8,Michigan,AP
+1983,9,Ohio State,AP
+1983,10,Illinois,AP
+1983,11,Clemson,AP
+1983,12,SMU,AP
+1983,13,Air Force,AP
+1983,14,Iowa,AP
+1983,15,Alabama,AP
+1983,16,West Virginia,AP
+1983,17,UCLA,AP
+1983,18,Pittsburgh,AP
+1983,19,Boston College,AP
+1983,20,East Carolina,AP
+1983,1,Miami,CP
+1983,2,Nebraska,CP
+1983,3,Auburn,CP
+1983,4,Georgia,CP
+1983,5,Texas,CP
+1983,6,Florida,CP
+1983,7,BYU,CP
+1983,8,Ohio State,CP
+1983,9,Michigan,CP
+1983,10,Illinois,CP
+1983,11,SMU,CP
+1983,12,Alabama,CP
+1983,13,UCLA,CP
+1983,14,Iowa,CP
+1983,15,Air Force,CP
+1983,16,West Virginia,CP
+1983,17,Penn State,CP
+1983,18,Oklahoma St.,CP
+1983,19,Pittsburgh,CP
+1983,20,Boston College,CP
+1984,1,BYU,AP
+1984,2,Washington,AP
+1984,3,Florida,AP
+1984,4,Nebraska,AP
+1984,5,Boston College,AP
+1984,6,Oklahoma,AP
+1984,7,Oklahoma St.,AP
+1984,8,SMU,AP
+1984,9,UCLA,AP
+1984,10,USC,AP
+1984,11,South Carolina,AP
+1984,12,Maryland,AP
+1984,13,Ohio State,AP
+1984,14,Auburn,AP
+1984,15,LSU,AP
+1984,16,Iowa,AP
+1984,17,Florida St.,AP
+1984,18,Miami,AP
+1984,19,Kentucky,AP
+1984,20,Virginia,AP
+1984,1,BYU,CP
+1984,2,Washington,CP
+1984,3,Nebraska,CP
+1984,4,Boston College,CP
+1984,5,Oklahoma St.,CP
+1984,6,Oklahoma,CP
+1984,7,Florida,CP
+1984,8,SMU,CP
+1984,9,USC,CP
+1984,10,UCLA,CP
+1984,11,Maryland,CP
+1984,12,Ohio State,CP
+1984,13,South Carolina,CP
+1984,14,Auburn,CP
+1984,15,Iowa,CP
+1984,16,LSU,CP
+1984,17,Virginia,CP
+1984,18,West Virginia,CP
+1984,19,Florida St.,CP
+1984,19,Kentucky,CP
+1985,1,Oklahoma,AP
+1985,2,Michigan,AP
+1985,3,Penn State,AP
+1985,4,Tennessee,AP
+1985,5,Florida,AP
+1985,6,Texas A&M,AP
+1985,7,UCLA,AP
+1985,8,Air Force,AP
+1985,9,Miami,AP
+1985,10,Iowa,AP
+1985,11,Nebraska,AP
+1985,12,Arkansas,AP
+1985,13,Alabama,AP
+1985,14,Ohio State,AP
+1985,15,Florida St.,AP
+1985,16,BYU,AP
+1985,17,Baylor,AP
+1985,18,Maryland,AP
+1985,19,Georgia Tech,AP
+1985,20,LSU,AP
+1985,1,Oklahoma,CP
+1985,2,Michigan,CP
+1985,3,Penn State,CP
+1985,4,Tennessee,CP
+1985,5,Air Force,CP
+1985,6,UCLA,CP
+1985,7,Texas A&M,CP
+1985,8,Miami,CP
+1985,9,Iowa,CP
+1985,10,Nebraska,CP
+1985,11,Ohio State,CP
+1985,12,Arkansas,CP
+1985,13,Florida St.,CP
+1985,14,Alabama,CP
+1985,15,Baylor,CP
+1985,16,Fresno St.,CP
+1985,17,BYU,CP
+1985,18,Georgia Tech,CP
+1985,19,Maryland,CP
+1985,20,LSU,CP
+1986,1,Penn State,AP
+1986,2,Miami,AP
+1986,3,Oklahoma,AP
+1986,4,Arizona St.,AP
+1986,5,Nebraska,AP
+1986,6,Auburn,AP
+1986,7,Ohio State,AP
+1986,8,Michigan,AP
+1986,9,Alabama,AP
+1986,10,LSU,AP
+1986,11,Arizona,AP
+1986,12,Baylor,AP
+1986,13,Texas A&M,AP
+1986,14,UCLA,AP
+1986,15,Arkansas,AP
+1986,16,Iowa,AP
+1986,17,Clemson,AP
+1986,18,Washington,AP
+1986,19,Boston College,AP
+1986,20,Virginia Tech,AP
+1986,1,Penn State,CP
+1986,2,Miami,CP
+1986,3,Oklahoma,CP
+1986,4,Nebraska,CP
+1986,5,Arizona St.,CP
+1986,6,Ohio State,CP
+1986,7,Michigan,CP
+1986,8,Auburn,CP
+1986,9,Alabama,CP
+1986,10,Arizona,CP
+1986,11,LSU,CP
+1986,12,Texas A&M,CP
+1986,13,Baylor,CP
+1986,14,UCLA,CP
+1986,15,Iowa,CP
+1986,16,Arkansas,CP
+1986,17,Washington,CP
+1986,18,Boston College,CP
+1986,19,Clemson,CP
+1986,20,Florida St.,CP
+1987,1,Miami,AP
+1987,2,Florida St.,AP
+1987,3,Oklahoma,AP
+1987,4,Syracuse,AP
+1987,5,LSU,AP
+1987,6,Nebraska,AP
+1987,7,Auburn,AP
+1987,8,Michigan St.,AP
+1987,9,UCLA,AP
+1987,10,Texas A&M,AP
+1987,11,Oklahoma St.,AP
+1987,12,Clemson,AP
+1987,13,Georgia,AP
+1987,14,Tennessee,AP
+1987,15,South Carolina,AP
+1987,16,Iowa,AP
+1987,17,Notre Dame,AP
+1987,18,USC,AP
+1987,19,Michigan,AP
+1987,20,Arizona St.,AP
+1987,1,Miami,CP
+1987,2,Florida St.,CP
+1987,3,Oklahoma,CP
+1987,4,Syracuse,CP
+1987,5,LSU,CP
+1987,6,Nebraska,CP
+1987,7,Auburn,CP
+1987,8,Michigan St.,CP
+1987,9,Texas A&M,CP
+1987,10,Clemson,CP
+1987,11,UCLA,CP
+1987,12,Oklahoma St.,CP
+1987,13,Tennessee,CP
+1987,14,Georgia,CP
+1987,15,South Carolina,CP
+1987,16,Iowa,CP
+1987,17,USC,CP
+1987,18,Michigan,CP
+1987,19,Texas,CP
+1987,20,Indiana,CP
+1988,1,Notre Dame,AP
+1988,2,Miami,AP
+1988,3,Florida St.,AP
+1988,4,Michigan,AP
+1988,5,West Virginia,AP
+1988,6,UCLA,AP
+1988,7,USC,AP
+1988,8,Auburn,AP
+1988,9,Clemson,AP
+1988,10,Nebraska,AP
+1988,11,Oklahoma St.,AP
+1988,12,Arkansas,AP
+1988,13,Syracuse,AP
+1988,14,Oklahoma,AP
+1988,15,Georgia,AP
+1988,16,Washington St.,AP
+1988,17,Alabama,AP
+1988,18,Houston,AP
+1988,19,LSU,AP
+1988,20,Indiana,AP
+1988,1,Notre Dame,CP
+1988,2,Miami,CP
+1988,3,Florida St.,CP
+1988,4,Michigan,CP
+1988,5,West Virginia,CP
+1988,6,UCLA,CP
+1988,7,Auburn,CP
+1988,8,Clemson,CP
+1988,9,USC,CP
+1988,10,Nebraska,CP
+1988,11,Oklahoma St.,CP
+1988,12,Syracuse,CP
+1988,13,Arkansas,CP
+1988,14,Oklahoma,CP
+1988,15,Georgia,CP
+1988,16,Washington St.,CP
+1988,17,Alabama,CP
+1988,17,NC State,CP
+1988,19,Indiana,CP
+1988,20,Wyoming,CP
+1989,1,Miami,AP
+1989,2,Notre Dame,AP
+1989,3,Florida St.,AP
+1989,4,Colorado,AP
+1989,5,Tennessee,AP
+1989,6,Auburn,AP
+1989,7,Michigan,AP
+1989,8,USC,AP
+1989,9,Alabama,AP
+1989,10,Illinois,AP
+1989,11,Nebraska,AP
+1989,12,Clemson,AP
+1989,13,Arkansas,AP
+1989,14,Houston,AP
+1989,15,Penn State,AP
+1989,16,Michigan St.,AP
+1989,17,Pittsburgh,AP
+1989,18,Virginia,AP
+1989,19,Texas Tech,AP
+1989,20,Texas A&M,AP
+1989,21,West Virginia,AP
+1989,22,BYU,AP
+1989,23,Washington,AP
+1989,24,Ohio State,AP
+1989,25,Arizona,AP
+1989,1,Miami,CP
+1989,2,Florida St.,CP
+1989,3,Notre Dame,CP
+1989,4,Colorado,CP
+1989,5,Tennessee,CP
+1989,6,Auburn,CP
+1989,7,Alabama,CP
+1989,8,Michigan,CP
+1989,9,USC,CP
+1989,10,Illinois,CP
+1989,11,Clemson,CP
+1989,12,Nebraska,CP
+1989,13,Arkansas,CP
+1989,14,Penn State,CP
+1989,15,Virginia,CP
+1989,16,Texas Tech,CP
+1989,17,Michigan St.,CP
+1989,18,BYU,CP
+1989,19,Pittsburgh,CP
+1989,20,Washington,CP
+1990,1,Colorado,AP
+1990,2,Georgia Tech,AP
+1990,3,Miami,AP
+1990,4,Florida St.,AP
+1990,5,Washington,AP
+1990,6,Notre Dame,AP
+1990,7,Michigan,AP
+1990,8,Tennessee,AP
+1990,9,Clemson,AP
+1990,10,Houston,AP
+1990,11,Penn State,AP
+1990,12,Texas,AP
+1990,13,Florida,AP
+1990,14,Louisville,AP
+1990,15,Texas A&M,AP
+1990,16,Michigan St.,AP
+1990,17,Oklahoma,AP
+1990,18,Iowa,AP
+1990,19,Auburn,AP
+1990,20,USC,AP
+1990,21,Mississippi,AP
+1990,22,BYU,AP
+1990,23,Virginia,AP
+1990,24,Nebraska,AP
+1990,25,Illinois,AP
+1990,1,Georgia Tech,CP
+1990,2,Colorado,CP
+1990,3,Miami,CP
+1990,4,Florida St.,CP
+1990,5,Washington,CP
+1990,6,Notre Dame,CP
+1990,7,Tennessee,CP
+1990,8,Michigan,CP
+1990,9,Clemson,CP
+1990,10,Penn State,CP
+1990,11,Texas,CP
+1990,12,Louisville,CP
+1990,13,Texas A&M,CP
+1990,14,Michigan St.,CP
+1990,15,Virginia,CP
+1990,16,Iowa,CP
+1990,17,BYU,CP
+1990,18,Nebraska,CP
+1990,19,Auburn,CP
+1990,20,San Jose St.,CP
+1990,21,Syracuse,CP
+1990,22,USC,CP
+1990,23,Mississippi,CP
+1990,24,Illinois,CP
+1990,25,Virginia Tech,CP
+1991,1,Miami,AP
+1991,2,Washington,AP
+1991,3,Penn State,AP
+1991,4,Florida St.,AP
+1991,5,Alabama,AP
+1991,6,Michigan,AP
+1991,7,Florida,AP
+1991,8,California,AP
+1991,9,East Carolina,AP
+1991,10,Iowa,AP
+1991,11,Syracuse,AP
+1991,12,Texas A&M,AP
+1991,13,Notre Dame,AP
+1991,14,Tennessee,AP
+1991,15,Nebraska,AP
+1991,16,Oklahoma,AP
+1991,17,Georgia,AP
+1991,18,Clemson,AP
+1991,19,UCLA,AP
+1991,20,Colorado,AP
+1991,21,Tulsa,AP
+1991,22,Stanford,AP
+1991,23,BYU,AP
+1991,24,NC State,AP
+1991,25,Air Force,AP
+1991,1,Washington,CP
+1991,2,Miami,CP
+1991,3,Penn State,CP
+1991,4,Florida St.,CP
+1991,5,Alabama,CP
+1991,6,Michigan,CP
+1991,7,California,CP
+1991,8,Florida,CP
+1991,9,East Carolina,CP
+1991,10,Iowa,CP
+1991,11,Syracuse,CP
+1991,12,Notre Dame,CP
+1991,13,Texas A&M,CP
+1991,14,Oklahoma,CP
+1991,15,Tennessee,CP
+1991,16,Nebraska,CP
+1991,17,Clemson,CP
+1991,18,UCLA,CP
+1991,19,Georgia,CP
+1991,20,Colorado,CP
+1991,21,Tulsa,CP
+1991,22,Stanford,CP
+1991,23,BYU,CP
+1991,24,Air Force,CP
+1991,25,NC State,CP
+1992,1,Alabama,AP
+1992,2,Florida St.,AP
+1992,3,Miami,AP
+1992,4,Notre Dame,AP
+1992,5,Michigan,AP
+1992,6,Syracuse,AP
+1992,7,Texas A&M,AP
+1992,8,Georgia,AP
+1992,9,Stanford,AP
+1992,10,Florida,AP
+1992,11,Washington,AP
+1992,12,Tennessee,AP
+1992,13,Colorado,AP
+1992,14,Nebraska,AP
+1992,15,Washington St.,AP
+1992,16,Mississippi,AP
+1992,17,NC State,AP
+1992,18,Ohio State,AP
+1992,19,North Carolina,AP
+1992,20,Hawaii,AP
+1992,21,Boston College,AP
+1992,22,Kansas,AP
+1992,23,Miss State,AP
+1992,24,Fresno St.,AP
+1992,25,Wake Forest,AP
+1992,1,Alabama,CP
+1992,2,Florida St.,CP
+1992,3,Miami,CP
+1992,4,Notre Dame,CP
+1992,5,Michigan,CP
+1992,6,Texas A&M,CP
+1992,7,Syracuse,CP
+1992,8,Georgia,CP
+1992,9,Stanford,CP
+1992,10,Washington,CP
+1992,11,Florida,CP
+1992,12,Tennessee,CP
+1992,13,Colorado,CP
+1992,14,Nebraska,CP
+1992,15,NC State,CP
+1992,16,Mississippi,CP
+1992,17,Washington St.,CP
+1992,18,North Carolina,CP
+1992,19,Ohio State,CP
+1992,20,Hawaii,CP
+1992,21,Boston College,CP
+1992,22,Fresno St.,CP
+1992,23,Kansas,CP
+1992,24,Penn State,CP
+1992,25,Wake Forest,CP
+1993,1,Florida St.,AP
+1993,2,Notre Dame,AP
+1993,3,Nebraska,AP
+1993,4,Auburn,AP
+1993,5,Florida,AP
+1993,6,Wisconsin,AP
+1993,7,West Virginia,AP
+1993,8,Penn State,AP
+1993,9,Texas A&M,AP
+1993,10,Arizona,AP
+1993,11,Ohio State,AP
+1993,12,Tennessee,AP
+1993,13,Boston College,AP
+1993,14,Alabama,AP
+1993,15,Miami,AP
+1993,16,Colorado,AP
+1993,17,Oklahoma,AP
+1993,18,UCLA,AP
+1993,19,North Carolina,AP
+1993,20,Kansas St.,AP
+1993,21,Michigan,AP
+1993,22,Virginia Tech,AP
+1993,23,Clemson,AP
+1993,24,Louisville,AP
+1993,25,California,AP
+1993,1,Florida St.,CP
+1993,2,Notre Dame,CP
+1993,3,Nebraska,CP
+1993,4,Florida,CP
+1993,5,Wisconsin,CP
+1993,6,West Virginia,CP
+1993,7,Penn State,CP
+1993,8,Texas A&M,CP
+1993,9,Arizona,CP
+1993,10,Ohio State,CP
+1993,11,Tennessee,CP
+1993,12,Boston College,CP
+1993,13,Alabama,CP
+1993,14,Oklahoma,CP
+1993,15,Miami,CP
+1993,16,Colorado,CP
+1993,17,UCLA,CP
+1993,18,Kansas St.,CP
+1993,19,Michigan,CP
+1993,20,Virginia Tech,CP
+1993,21,North Carolina,CP
+1993,22,Clemson,CP
+1993,23,Louisville,CP
+1993,24,California,CP
+1993,25,USC,CP
+1994,1,Nebraska,AP
+1994,2,Penn State,AP
+1994,3,Colorado,AP
+1994,4,Florida St.,AP
+1994,5,Alabama,AP
+1994,6,Miami,AP
+1994,7,Florida,AP
+1994,8,Texas A&M,AP
+1994,9,Auburn,AP
+1994,10,Utah,AP
+1994,11,Oregon,AP
+1994,12,Michigan,AP
+1994,13,USC,AP
+1994,14,Ohio State,AP
+1994,15,Virginia,AP
+1994,16,Colorado St.,AP
+1994,17,NC State,AP
+1994,18,BYU,AP
+1994,19,Kansas St.,AP
+1994,20,Arizona,AP
+1994,21,Washington St.,AP
+1994,22,Tennessee,AP
+1994,23,Boston College,AP
+1994,24,Miss State,AP
+1994,25,Texas,AP
+1994,1,Nebraska,CP
+1994,2,Penn State,CP
+1994,3,Colorado,CP
+1994,4,Alabama,CP
+1994,5,Florida St.,CP
+1994,6,Miami,CP
+1994,7,Florida,CP
+1994,8,Utah,CP
+1994,9,Ohio State,CP
+1994,10,BYU,CP
+1994,11,Oregon,CP
+1994,12,Michigan,CP
+1994,13,Virginia,CP
+1994,14,Colorado St.,CP
+1994,15,USC,CP
+1994,16,Kansas St.,CP
+1994,17,NC State,CP
+1994,18,Tennessee,CP
+1994,19,Washington St.,CP
+1994,20,Arizona,CP
+1994,21,North Carolina,CP
+1994,22,Boston College,CP
+1994,23,Texas,CP
+1994,24,Virginia Tech,CP
+1994,25,Miss State,CP
+1995,1,Nebraska,AP
+1995,2,Florida,AP
+1995,3,Tennessee,AP
+1995,4,Florida St.,AP
+1995,5,Colorado,AP
+1995,6,Ohio State,AP
+1995,7,Kansas St.,AP
+1995,8,Northwestern,AP
+1995,9,Kansas,AP
+1995,10,Virginia Tech,AP
+1995,11,Notre Dame,AP
+1995,12,USC,AP
+1995,13,Penn State,AP
+1995,14,Texas,AP
+1995,15,Texas A&M,AP
+1995,16,Virginia,AP
+1995,17,Michigan,AP
+1995,18,Oregon,AP
+1995,19,Syracuse,AP
+1995,20,Miami,AP
+1995,21,Alabama,AP
+1995,22,Auburn,AP
+1995,23,Texas Tech,AP
+1995,24,Toledo,AP
+1995,25,Iowa,AP
+1995,1,Nebraska,CP
+1995,2,Tennessee,CP
+1995,3,Florida,CP
+1995,4,Colorado,CP
+1995,5,Florida St.,CP
+1995,6,Kansas St.,CP
+1995,7,Northwestern,CP
+1995,8,Ohio State,CP
+1995,9,Virginia Tech,CP
+1995,10,Kansas,CP
+1995,11,USC,CP
+1995,12,Penn State,CP
+1995,13,Notre Dame,CP
+1995,14,Texas,CP
+1995,15,Texas A&M,CP
+1995,16,Syracuse,CP
+1995,17,Virginia,CP
+1995,18,Oregon,CP
+1995,19,Michigan,CP
+1995,20,Texas Tech,CP
+1995,21,Auburn,CP
+1995,22,Iowa,CP
+1995,23,East Carolina,CP
+1995,24,Toledo,CP
+1995,25,LSU,CP
+1996,1,Florida,AP
+1996,2,Ohio State,AP
+1996,3,Florida St.,AP
+1996,4,Arizona St.,AP
+1996,5,BYU,AP
+1996,6,Nebraska,AP
+1996,7,Penn State,AP
+1996,8,Colorado,AP
+1996,9,Tennessee,AP
+1996,10,North Carolina,AP
+1996,11,Alabama,AP
+1996,12,LSU,AP
+1996,13,Virginia Tech,AP
+1996,14,Miami,AP
+1996,15,Northwestern,AP
+1996,16,Washington,AP
+1996,17,Kansas St.,AP
+1996,18,Iowa,AP
+1996,19,Notre Dame,AP
+1996,20,Michigan,AP
+1996,21,Syracuse,AP
+1996,22,Wyoming,AP
+1996,23,Texas,AP
+1996,24,Auburn,AP
+1996,25,Army,AP
+1996,1,Florida,CP
+1996,2,Ohio State,CP
+1996,3,Florida St.,CP
+1996,4,Arizona St.,CP
+1996,5,BYU,CP
+1996,6,Nebraska,CP
+1996,7,Penn State,CP
+1996,8,Colorado,CP
+1996,9,Tennessee,CP
+1996,10,North Carolina,CP
+1996,11,Alabama,CP
+1996,12,Virginia Tech,CP
+1996,13,LSU,CP
+1996,14,Miami,CP
+1996,15,Washington,CP
+1996,16,Northwestern,CP
+1996,17,Kansas St.,CP
+1996,18,Iowa,CP
+1996,19,Syracuse,CP
+1996,20,Michigan,CP
+1996,21,Notre Dame,CP
+1996,22,Wyoming,CP
+1996,23,Texas,CP
+1996,24,Army,CP
+1996,25,Auburn,CP
+1997,1,Michigan,AP
+1997,2,Nebraska,AP
+1997,3,Florida St.,AP
+1997,4,Florida,AP
+1997,5,UCLA,AP
+1997,6,North Carolina,AP
+1997,7,Tennessee,AP
+1997,8,Kansas St.,AP
+1997,9,Washington St.,AP
+1997,10,Georgia,AP
+1997,11,Auburn,AP
+1997,12,Ohio State,AP
+1997,13,LSU,AP
+1997,14,Arizona St.,AP
+1997,15,Purdue,AP
+1997,16,Penn State,AP
+1997,17,Colorado St.,AP
+1997,18,Washington,AP
+1997,19,Southern Miss,AP
+1997,20,Texas A&M,AP
+1997,21,Syracuse,AP
+1997,22,Mississippi,AP
+1997,23,Missouri,AP
+1997,24,Oklahoma St.,AP
+1997,25,Georgia Tech,AP
+1997,1,Nebraska,CP
+1997,2,Michigan,CP
+1997,3,Florida St.,CP
+1997,4,North Carolina,CP
+1997,5,UCLA,CP
+1997,6,Florida,CP
+1997,7,Kansas St.,CP
+1997,8,Tennessee,CP
+1997,9,Washington St.,CP
+1997,10,Georgia,CP
+1997,11,Auburn,CP
+1997,12,Ohio State,CP
+1997,13,LSU,CP
+1997,14,Arizona St.,CP
+1997,15,Purdue,CP
+1997,16,Colorado St.,CP
+1997,17,Penn State,CP
+1997,18,Washington,CP
+1997,19,Southern Miss,CP
+1997,20,Syracuse,CP
+1997,21,Texas A&M,CP
+1997,22,Mississippi,CP
+1997,23,Missouri,CP
+1997,24,Oklahoma St.,CP
+1997,25,Air Force,CP
+1998,1,Tennessee,AP
+1998,2,Ohio State,AP
+1998,3,Florida St.,AP
+1998,4,Arizona,AP
+1998,5,Florida,AP
+1998,6,Wisconsin,AP
+1998,7,Tulane,AP
+1998,8,UCLA,AP
+1998,9,Georgia Tech,AP
+1998,10,Kansas St.,AP
+1998,11,Texas A&M,AP
+1998,12,Michigan,AP
+1998,13,Air Force,AP
+1998,14,Georgia,AP
+1998,15,Texas,AP
+1998,16,Arkansas,AP
+1998,17,Penn State,AP
+1998,18,Virginia,AP
+1998,19,Nebraska,AP
+1998,20,Miami,AP
+1998,21,Missouri,AP
+1998,22,Notre Dame,AP
+1998,23,Virginia Tech,AP
+1998,24,Purdue,AP
+1998,25,Syracuse,AP
+1998,1,Tennessee,CP
+1998,2,Ohio State,CP
+1998,3,Florida St.,CP
+1998,4,Arizona,CP
+1998,5,Wisconsin,CP
+1998,6,Florida,CP
+1998,7,Tulane,CP
+1998,8,UCLA,CP
+1998,9,Kansas St.,CP
+1998,10,Air Force,CP
+1998,11,Georgia Tech,CP
+1998,12,Michigan,CP
+1998,13,Texas A&M,CP
+1998,14,Georgia,CP
+1998,15,Penn State,CP
+1998,16,Texas,CP
+1998,17,Arkansas,CP
+1998,18,Virginia,CP
+1998,19,Virginia Tech,CP
+1998,20,Nebraska,CP
+1998,21,Miami,CP
+1998,22,Notre Dame,CP
+1998,23,Purdue,CP
+1998,24,Syracuse,CP
+1998,25,Missouri,CP
+1999,1,Florida St.,AP
+1999,2,Virginia Tech,AP
+1999,3,Nebraska,AP
+1999,4,Wisconsin,AP
+1999,5,Michigan,AP
+1999,6,Kansas St.,AP
+1999,7,Michigan St.,AP
+1999,8,Alabama,AP
+1999,9,Tennessee,AP
+1999,10,Marshall,AP
+1999,11,Penn State,AP
+1999,12,Florida,AP
+1999,13,Miss State,AP
+1999,14,Southern Miss,AP
+1999,15,Miami,AP
+1999,16,Georgia,AP
+1999,17,Arkansas,AP
+1999,18,Minnesota,AP
+1999,19,Oregon,AP
+1999,20,Georgia Tech,AP
+1999,21,Texas,AP
+1999,22,Mississippi,AP
+1999,23,Texas A&M,AP
+1999,24,Illinois,AP
+1999,25,Purdue,AP
+1999,1,Florida St.,CP
+1999,2,Nebraska,CP
+1999,3,Virginia Tech,CP
+1999,4,Wisconsin,CP
+1999,5,Michigan,CP
+1999,6,Kansas St.,CP
+1999,7,Michigan St.,CP
+1999,8,Alabama,CP
+1999,9,Tennessee,CP
+1999,10,Marshall,CP
+1999,11,Penn State,CP
+1999,12,Miss State,CP
+1999,13,Southern Miss,CP
+1999,14,Florida,CP
+1999,15,Miami,CP
+1999,16,Georgia,CP
+1999,17,Minnesota,CP
+1999,18,Oregon,CP
+1999,19,Arkansas,CP
+1999,20,Texas A&M,CP
+1999,21,Georgia Tech,CP
+1999,22,Mississippi,CP
+1999,23,Texas,CP
+1999,24,Stanford,CP
+1999,25,Illinois,CP
+2000,1,Oklahoma,AP
+2000,2,Miami,AP
+2000,3,Washington,AP
+2000,4,Oregon St.,AP
+2000,5,Florida St.,AP
+2000,6,Virginia Tech,AP
+2000,7,Oregon,AP
+2000,8,Nebraska,AP
+2000,9,Kansas St.,AP
+2000,10,Florida,AP
+2000,11,Michigan,AP
+2000,12,Texas,AP
+2000,13,Purdue,AP
+2000,14,Colorado St.,AP
+2000,15,Notre Dame,AP
+2000,16,Clemson,AP
+2000,17,Georgia Tech,AP
+2000,18,Auburn,AP
+2000,19,South Carolina,AP
+2000,20,Georgia,AP
+2000,21,TCU,AP
+2000,22,LSU,AP
+2000,23,Wisconsin,AP
+2000,24,Miss State,AP
+2000,25,Iowa State,AP
+2000,1,Oklahoma,CP
+2000,2,Miami,CP
+2000,3,Washington,CP
+2000,4,Florida St.,CP
+2000,5,Oregon St.,CP
+2000,6,Virginia Tech,CP
+2000,7,Nebraska,CP
+2000,8,Kansas St.,CP
+2000,9,Oregon,CP
+2000,10,Michigan,CP
+2000,11,Florida,CP
+2000,12,Texas,CP
+2000,13,Purdue,CP
+2000,14,Clemson,CP
+2000,15,Colorado St.,CP
+2000,16,Notre Dame,CP
+2000,17,Georgia,CP
+2000,18,TCU,CP
+2000,19,Georgia Tech,CP
+2000,20,Auburn,CP
+2000,21,South Carolina,CP
+2000,22,Miss State,CP
+2000,23,Iowa State,CP
+2000,24,Wisconsin,CP
+2000,25,Tennessee,CP
+2001,1,Miami,AP
+2001,2,Oregon,AP
+2001,3,Florida,AP
+2001,4,Tennessee,AP
+2001,5,Texas,AP
+2001,6,Oklahoma,AP
+2001,7,LSU,AP
+2001,8,Nebraska,AP
+2001,9,Colorado,AP
+2001,10,Washington St.,AP
+2001,11,Maryland,AP
+2001,12,Illinois,AP
+2001,13,South Carolina,AP
+2001,14,Syracuse,AP
+2001,15,Florida St.,AP
+2001,16,Stanford,AP
+2001,17,Louisville,AP
+2001,18,Virginia Tech,AP
+2001,19,Washington,AP
+2001,20,Michigan,AP
+2001,21,Boston College,AP
+2001,22,Georgia,AP
+2001,23,Toledo,AP
+2001,24,Georgia Tech,AP
+2001,25,BYU,AP
+2001,1,Miami,CP
+2001,2,Oregon,CP
+2001,3,Florida,CP
+2001,4,Tennessee,CP
+2001,5,Texas,CP
+2001,6,Oklahoma,CP
+2001,7,Nebraska,CP
+2001,8,LSU,CP
+2001,9,Colorado,CP
+2001,10,Maryland,CP
+2001,11,Washington St.,CP
+2001,12,Illinois,CP
+2001,13,South Carolina,CP
+2001,14,Syracuse,CP
+2001,15,Florida St.,CP
+2001,16,Louisville,CP
+2001,17,Stanford,CP
+2001,18,Virginia Tech,CP
+2001,19,Washington,CP
+2001,20,Michigan,CP
+2001,21,Marshall,CP
+2001,22,Toledo,CP
+2001,23,Boston College,CP
+2001,24,BYU,CP
+2001,25,Georgia,CP
+2002,1,Ohio State,AP
+2002,2,Miami,AP
+2002,3,Georgia,AP
+2002,4,USC,AP
+2002,5,Oklahoma,AP
+2002,6,Texas,AP
+2002,7,Kansas St.,AP
+2002,8,Iowa,AP
+2002,9,Michigan,AP
+2002,10,Washington St.,AP
+2002,11,Alabama,AP
+2002,12,NC State,AP
+2002,13,Maryland,AP
+2002,14,Auburn,AP
+2002,15,Boise St.,AP
+2002,16,Penn State,AP
+2002,17,Notre Dame,AP
+2002,18,Virginia Tech,AP
+2002,19,Pittsburgh,AP
+2002,20,Colorado,AP
+2002,21,Florida St.,AP
+2002,22,Virginia,AP
+2002,23,TCU,AP
+2002,24,Marshall,AP
+2002,25,West Virginia,AP
+2002,1,Ohio State,CP
+2002,2,Miami,CP
+2002,3,Georgia,CP
+2002,4,USC,CP
+2002,5,Oklahoma,CP
+2002,6,Kansas St.,CP
+2002,7,Texas,CP
+2002,8,Iowa,CP
+2002,9,Michigan,CP
+2002,10,Washington St.,CP
+2002,11,NC State,CP
+2002,12,Boise St.,CP
+2002,13,Maryland,CP
+2002,14,Virginia Tech,CP
+2002,15,Penn State,CP
+2002,16,Auburn,CP
+2002,17,Notre Dame,CP
+2002,18,Pittsburgh,CP
+2002,19,Marshall,CP
+2002,20,West Virginia,CP
+2002,21,Colorado,CP
+2002,22,TCU,CP
+2002,23,Florida St.,CP
+2002,24,Florida,CP
+2002,25,Virginia,CP
+2003,1,USC,AP
+2003,2,LSU,AP
+2003,3,Oklahoma,AP
+2003,4,Ohio State,AP
+2003,5,Miami,AP
+2003,6,Michigan,AP
+2003,7,Georgia,AP
+2003,8,Iowa,AP
+2003,9,Washington St.,AP
+2003,10,Miami Ohio,AP
+2003,11,Florida St.,AP
+2003,12,Texas,AP
+2003,13,Mississippi,AP
+2003,14,Kansas St.,AP
+2003,15,Tennessee,AP
+2003,16,Boise St.,AP
+2003,17,Maryland,AP
+2003,18,Purdue,AP
+2003,19,Nebraska,AP
+2003,20,Minnesota,AP
+2003,21,Utah,AP
+2003,22,Clemson,AP
+2003,23,Bowling Green,AP
+2003,24,Florida,AP
+2003,25,TCU,AP
+2003,1,LSU,CP
+2003,2,USC,CP
+2003,3,Oklahoma,CP
+2003,4,Ohio State,CP
+2003,5,Miami,CP
+2003,6,Georgia,CP
+2003,7,Michigan,CP
+2003,8,Iowa,CP
+2003,9,Washington St.,CP
+2003,10,Florida St.,CP
+2003,11,Texas,CP
+2003,12,Miami Ohio,CP
+2003,13,Kansas St.,CP
+2003,14,Mississippi,CP
+2003,15,Boise St.,CP
+2003,16,Tennessee,CP
+2003,17,Minnesota,CP
+2003,18,Nebraska,CP
+2003,19,Purdue,CP
+2003,20,Maryland,CP
+2003,21,Utah,CP
+2003,22,Clemson,CP
+2003,23,Bowling Green,CP
+2003,24,TCU,CP
+2003,25,Florida,CP
+2004,1,USC,AP
+2004,2,Auburn,AP
+2004,3,Oklahoma,AP
+2004,4,Utah,AP
+2004,5,Texas,AP
+2004,6,Louisville,AP
+2004,7,Georgia,AP
+2004,8,Iowa,AP
+2004,9,California,AP
+2004,10,Virginia Tech,AP
+2004,11,Miami,AP
+2004,12,Boise St.,AP
+2004,13,Tennessee,AP
+2004,14,Michigan,AP
+2004,15,Florida St.,AP
+2004,16,LSU,AP
+2004,17,Wisconsin,AP
+2004,18,Texas Tech,AP
+2004,19,Arizona St.,AP
+2004,20,Ohio State,AP
+2004,21,Boston College,AP
+2004,22,Fresno St.,AP
+2004,23,Virginia,AP
+2004,24,Navy,AP
+2004,25,Pittsburgh,AP
+2004,1,USC,CP
+2004,2,Auburn,CP
+2004,3,Oklahoma,CP
+2004,4,Texas,CP
+2004,5,Utah,CP
+2004,6,Georgia,CP
+2004,7,Louisville,CP
+2004,8,Iowa,CP
+2004,9,California,CP
+2004,10,Virginia Tech,CP
+2004,11,Miami,CP
+2004,12,Michigan,CP
+2004,13,Boise St.,CP
+2004,14,Florida St.,CP
+2004,15,Tennessee,CP
+2004,16,LSU,CP
+2004,17,Texas Tech,CP
+2004,18,Wisconsin,CP
+2004,19,Ohio State,CP
+2004,20,Arizona St.,CP
+2004,21,Boston College,CP
+2004,22,Fresno St.,CP
+2004,23,Virginia,CP
+2004,24,Navy,CP
+2004,25,Florida,CP
+2005,1,Texas,AP
+2005,2,USC,AP
+2005,3,Penn State,AP
+2005,4,Ohio State,AP
+2005,5,West Virginia,AP
+2005,6,LSU,AP
+2005,7,Virginia Tech,AP
+2005,8,Alabama,AP
+2005,9,Notre Dame,AP
+2005,10,Georgia,AP
+2005,11,TCU,AP
+2005,12,Florida,AP
+2005,12,Oregon,AP
+2005,14,Auburn,AP
+2005,15,Wisconsin,AP
+2005,16,UCLA,AP
+2005,17,Miami,AP
+2005,18,Boston College,AP
+2005,19,Louisville,AP
+2005,20,Texas Tech,AP
+2005,21,Clemson,AP
+2005,22,Oklahoma,AP
+2005,23,Florida St.,AP
+2005,24,Nebraska,AP
+2005,25,California,AP
+2005,1,Texas,CP
+2005,2,USC,CP
+2005,3,Penn State,CP
+2005,4,Ohio State,CP
+2005,5,LSU,CP
+2005,6,West Virginia,CP
+2005,7,Virginia Tech,CP
+2005,8,Alabama,CP
+2005,9,TCU,CP
+2005,10,Georgia,CP
+2005,11,Notre Dame,CP
+2005,12,Oregon,CP
+2005,13,UCLA,CP
+2005,14,Auburn,CP
+2005,15,Wisconsin,CP
+2005,16,Florida,CP
+2005,17,Boston College,CP
+2005,18,Miami,CP
+2005,19,Texas Tech,CP
+2005,20,Louisville,CP
+2005,21,Clemson,CP
+2005,22,Oklahoma,CP
+2005,23,Florida St.,CP
+2005,24,Nebraska,CP
+2005,25,California,CP
+2006,1,Florida,AP
+2006,2,Ohio State,AP
+2006,3,LSU,AP
+2006,4,USC,AP
+2006,5,Boise St.,AP
+2006,6,Louisville,AP
+2006,7,Wisconsin,AP
+2006,8,Michigan,AP
+2006,9,Auburn,AP
+2006,10,West Virginia,AP
+2006,11,Oklahoma,AP
+2006,12,Rutgers,AP
+2006,13,Texas,AP
+2006,14,California,AP
+2006,15,Arkansas,AP
+2006,16,BYU,AP
+2006,17,Notre Dame,AP
+2006,18,Wake Forest,AP
+2006,19,Virginia Tech,AP
+2006,20,Boston College,AP
+2006,21,Oregon St.,AP
+2006,22,TCU,AP
+2006,23,Georgia,AP
+2006,24,Penn State,AP
+2006,25,Tennessee,AP
+2006,1,Florida,CP
+2006,2,Ohio State,CP
+2006,3,LSU,CP
+2006,4,USC,CP
+2006,5,Wisconsin,CP
+2006,6,Boise St.,CP
+2006,7,Louisville,CP
+2006,8,Auburn,CP
+2006,9,Michigan,CP
+2006,10,West Virginia,CP
+2006,11,Oklahoma,CP
+2006,12,Rutgers,CP
+2006,13,Texas,CP
+2006,14,California,CP
+2006,15,BYU,CP
+2006,16,Arkansas,CP
+2006,17,Wake Forest,CP
+2006,18,Virginia Tech,CP
+2006,19,Notre Dame,CP
+2006,20,Boston College,CP
+2006,21,TCU,CP
+2006,22,Oregon St.,CP
+2006,23,Tennessee,CP
+2006,24,Hawaii,CP
+2006,25,Penn State,CP
+2007,1,LSU,AP
+2007,2,Georgia,AP
+2007,3,USC,AP
+2007,4,Missouri,AP
+2007,5,Ohio State,AP
+2007,6,West Virginia,AP
+2007,7,Kansas,AP
+2007,8,Oklahoma,AP
+2007,9,Virginia Tech,AP
+2007,10,Boston College,AP
+2007,10,Texas,AP
+2007,12,Tennessee,AP
+2007,13,Florida,AP
+2007,14,BYU,AP
+2007,15,Auburn,AP
+2007,16,Arizona St.,AP
+2007,17,Cincinnati,AP
+2007,18,Michigan,AP
+2007,19,Hawaii,AP
+2007,20,Illinois,AP
+2007,21,Clemson,AP
+2007,22,Texas Tech,AP
+2007,23,Oregon,AP
+2007,24,Wisconsin,AP
+2007,25,Oregon St.,AP
+2007,1,LSU,CP
+2007,2,USC,CP
+2007,3,Georgia,CP
+2007,4,Ohio State,CP
+2007,5,Missouri,CP
+2007,6,West Virginia,CP
+2007,7,Kansas,CP
+2007,8,Oklahoma,CP
+2007,9,Virginia Tech,CP
+2007,10,Texas,CP
+2007,11,Boston College,CP
+2007,12,Tennessee,CP
+2007,13,Arizona St.,CP
+2007,14,Auburn,CP
+2007,14,BYU,CP
+2007,16,Florida,CP
+2007,17,Hawaii,CP
+2007,18,Illinois,CP
+2007,19,Michigan,CP
+2007,20,Cincinnati,CP
+2007,21,Wisconsin,CP
+2007,22,Clemson,CP
+2007,23,Texas Tech,CP
+2007,24,Oregon,CP
+2007,25,Penn State,CP
+2008,1,Florida,AP
+2008,2,Utah,AP
+2008,3,USC,AP
+2008,4,Texas,AP
+2008,5,Oklahoma,AP
+2008,6,Alabama,AP
+2008,7,TCU,AP
+2008,8,Penn State,AP
+2008,9,Ohio State,AP
+2008,10,Oregon,AP
+2008,11,Boise St.,AP
+2008,12,Texas Tech,AP
+2008,13,Georgia,AP
+2008,14,Mississippi,AP
+2008,15,Virginia Tech,AP
+2008,16,Oklahoma St.,AP
+2008,17,Cincinnati,AP
+2008,18,Oregon St.,AP
+2008,19,Missouri,AP
+2008,20,Iowa,AP
+2008,21,Florida St.,AP
+2008,22,Georgia Tech,AP
+2008,23,West Virginia,AP
+2008,24,Michigan St.,AP
+2008,25,BYU,AP
+2008,1,Florida,CP
+2008,2,USC,CP
+2008,3,Texas,CP
+2008,4,Utah,CP
+2008,5,Oklahoma,CP
+2008,6,Alabama,CP
+2008,7,TCU,CP
+2008,8,Penn State,CP
+2008,9,Oregon,CP
+2008,10,Georgia,CP
+2008,11,Ohio State,CP
+2008,12,Texas Tech,CP
+2008,13,Boise St.,CP
+2008,14,Virginia Tech,CP
+2008,15,Mississippi,CP
+2008,16,Missouri,CP
+2008,17,Cincinnati,CP
+2008,18,Oklahoma St.,CP
+2008,19,Oregon St.,CP
+2008,20,Iowa,CP
+2008,21,BYU,CP
+2008,22,Georgia Tech,CP
+2008,23,Florida St.,CP
+2008,24,Michigan St.,CP
+2008,25,California,CP
+2009,1,Alabama,AP
+2009,2,Texas,AP
+2009,3,Florida,AP
+2009,4,Boise St.,AP
+2009,5,Ohio State,AP
+2009,6,TCU,AP
+2009,7,Iowa,AP
+2009,8,Cincinnati,AP
+2009,9,Penn State,AP
+2009,10,Virginia Tech,AP
+2009,11,Oregon,AP
+2009,12,BYU,AP
+2009,13,Georgia Tech,AP
+2009,14,Nebraska,AP
+2009,15,Pittsburgh,AP
+2009,16,Wisconsin,AP
+2009,17,LSU,AP
+2009,18,Utah,AP
+2009,19,Miami,AP
+2009,20,Mississippi,AP
+2009,21,Texas Tech,AP
+2009,22,USC,AP
+2009,23,Central Mich.,AP
+2009,24,Clemson,AP
+2009,25,West Virginia,AP
+2009,1,Alabama,CP
+2009,2,Texas,CP
+2009,3,Florida,CP
+2009,4,Boise St.,CP
+2009,5,Ohio State,CP
+2009,6,TCU,CP
+2009,7,Iowa,CP
+2009,8,Penn State,CP
+2009,9,Cincinnati,CP
+2009,10,Virginia Tech,CP
+2009,11,Oregon,CP
+2009,12,BYU,CP
+2009,13,Georgia Tech,CP
+2009,14,Nebraska,CP
+2009,15,Pittsburgh,CP
+2009,16,Wisconsin,CP
+2009,17,LSU,CP
+2009,18,Utah,CP
+2009,19,Miami,CP
+2009,20,USC,CP
+2009,21,Mississippi,CP
+2009,22,West Virginia,CP
+2009,23,Texas Tech,CP
+2009,24,Central Mich.,CP
+2009,25,Oklahoma St.,CP
+2010,1,Auburn,AP
+2010,2,TCU,AP
+2010,3,Oregon,AP
+2010,4,Stanford,AP
+2010,5,Ohio State,AP
+2010,6,Oklahoma,AP
+2010,7,Wisconsin,AP
+2010,8,LSU,AP
+2010,9,Boise St.,AP
+2010,10,Alabama,AP
+2010,11,Nevada,AP
+2010,12,Arkansas,AP
+2010,13,Oklahoma St.,AP
+2010,14,Michigan St.,AP
+2010,15,Miss State,AP
+2010,16,Virginia Tech,AP
+2010,17,Florida St.,AP
+2010,18,Missouri,AP
+2010,19,Texas A&M,AP
+2010,20,Nebraska,AP
+2010,21,UCF,AP
+2010,22,South Carolina,AP
+2010,23,Maryland,AP
+2010,24,Tulsa,AP
+2010,25,NC State,AP
+2010,1,Auburn,CP
+2010,2,TCU,CP
+2010,3,Oregon,CP
+2010,4,Stanford,CP
+2010,5,Ohio State,CP
+2010,6,Oklahoma,CP
+2010,7,Boise St.,CP
+2010,8,LSU,CP
+2010,9,Wisconsin,CP
+2010,10,Oklahoma St.,CP
+2010,11,Alabama,CP
+2010,12,Arkansas,CP
+2010,13,Nevada,CP
+2010,14,Michigan St.,CP
+2010,15,Virginia Tech,CP
+2010,16,Florida St.,CP
+2010,17,Miss State,CP
+2010,18,Missouri,CP
+2010,19,Nebraska,CP
+2010,20,UCF,CP
+2010,21,Texas A&M,CP
+2010,22,South Carolina,CP
+2010,23,Utah,CP
+2010,24,Maryland,CP
+2010,25,NC State,CP
+2011,1,Alabama,AP
+2011,2,LSU,AP
+2011,3,Oklahoma St.,AP
+2011,4,Oregon,AP
+2011,5,Arkansas,AP
+2011,6,USC,AP
+2011,7,Stanford,AP
+2011,8,Boise St.,AP
+2011,9,South Carolina,AP
+2011,10,Wisconsin,AP
+2011,11,Michigan St.,AP
+2011,12,Michigan,AP
+2011,13,Baylor,AP
+2011,14,TCU,AP
+2011,15,Kansas St.,AP
+2011,16,Oklahoma,AP
+2011,17,West Virginia,AP
+2011,18,Houston,AP
+2011,19,Georgia,AP
+2011,20,Southern Miss,AP
+2011,21,Virginia Tech,AP
+2011,22,Clemson,AP
+2011,23,Florida St.,AP
+2011,24,Nebraska,AP
+2011,25,Cincinnati,AP
+2011,1,Alabama,CP
+2011,2,LSU,CP
+2011,3,Oklahoma St.,CP
+2011,4,Oregon,CP
+2011,5,Arkansas,CP
+2011,6,Boise St.,CP
+2011,7,Stanford,CP
+2011,8,South Carolina,CP
+2011,9,Michigan,CP
+2011,10,Michigan St.,CP
+2011,11,Wisconsin,CP
+2011,12,Baylor,CP
+2011,13,TCU,CP
+2011,14,Houston,CP
+2011,15,Oklahoma,CP
+2011,16,Kansas St.,CP
+2011,17,Virginia Tech,CP
+2011,18,West Virginia,CP
+2011,19,Southern Miss,CP
+2011,20,Georgia,CP
+2011,21,Cincinnati,CP
+2011,22,Clemson,CP
+2011,23,Florida St.,CP
+2011,24,Nebraska,CP
+2011,25,BYU,CP
+2012,1,Alabama,AP
+2012,2,Oregon,AP
+2012,3,Ohio State,AP
+2012,4,Notre Dame,AP
+2012,5,Georgia,AP
+2012,5,Texas A&M,AP
+2012,7,Stanford,AP
+2012,8,South Carolina,AP
+2012,9,Florida,AP
+2012,10,Florida St.,AP
+2012,11,Clemson,AP
+2012,12,Kansas St.,AP
+2012,13,Louisville,AP
+2012,14,LSU,AP
+2012,15,Oklahoma,AP
+2012,16,Utah State,AP
+2012,17,Northwestern,AP
+2012,18,Boise St.,AP
+2012,19,Texas,AP
+2012,20,Oregon St.,AP
+2012,21,San Jose St.,AP
+2012,22,Northern Ill.,AP
+2012,23,Vanderbilt,AP
+2012,24,Michigan,AP
+2012,25,Nebraska,AP
+2012,1,Alabama,CP
+2012,2,Oregon,CP
+2012,3,Notre Dame,CP
+2012,4,Georgia,CP
+2012,5,Texas A&M,CP
+2012,6,Stanford,CP
+2012,7,South Carolina,CP
+2012,8,Florida St.,CP
+2012,9,Clemson,CP
+2012,10,Florida,CP
+2012,11,Kansas St.,CP
+2012,12,LSU,CP
+2012,13,Louisville,CP
+2012,14,Boise St.,CP
+2012,15,Oklahoma,CP
+2012,16,Northwestern,CP
+2012,17,Utah State,CP
+2012,18,Texas,CP
+2012,19,Oregon St.,CP
+2012,20,Vanderbilt,CP
+2012,21,San Jose St.,CP
+2012,22,Cincinnati,CP
+2012,23,Nebraska,CP
+2012,24,Northern Ill.,CP
+2012,25,Tulsa,CP
+2013,1,Florida St.,AP
+2013,2,Auburn,AP
+2013,3,Michigan St.,AP
+2013,4,South Carolina,AP
+2013,5,Missouri,AP
+2013,6,Oklahoma,AP
+2013,7,Alabama,AP
+2013,8,Clemson,AP
+2013,9,Oregon,AP
+2013,10,UCF,AP
+2013,11,Stanford,AP
+2013,12,Ohio State,AP
+2013,13,Baylor,AP
+2013,14,LSU,AP
+2013,15,Louisville,AP
+2013,16,UCLA,AP
+2013,17,Oklahoma St.,AP
+2013,18,Texas A&M,AP
+2013,19,USC,AP
+2013,20,Arizona St.,AP
+2013,21,Notre Dame,AP
+2013,22,Wisconsin,AP
+2013,23,Duke,AP
+2013,24,Vanderbilt,AP
+2013,25,Washington,AP
+2013,1,Florida St.,CP
+2013,2,Auburn,CP
+2013,3,Michigan St.,CP
+2013,4,South Carolina,CP
+2013,5,Missouri,CP
+2013,6,Oklahoma,CP
+2013,7,Clemson,CP
+2013,8,Alabama,CP
+2013,9,Oregon,CP
+2013,10,Ohio State,CP
+2013,10,Stanford,CP
+2013,12,UCF,CP
+2013,13,Baylor,CP
+2013,14,LSU,CP
+2013,15,Louisville,CP
+2013,16,UCLA,CP
+2013,17,Oklahoma St.,CP
+2013,18,Texas A&M,CP
+2013,19,USC,CP
+2013,20,Arizona St.,CP
+2013,21,Wisconsin,CP
+2013,22,Duke,CP
+2013,23,Vanderbilt,CP
+2013,24,Notre Dame,CP
+2013,25,Nebraska,CP
+2014,1,Ohio State,AP
+2014,2,Oregon,AP
+2014,3,TCU,AP
+2014,4,Alabama,AP
+2014,5,Florida St.,AP
+2014,5,Michigan St.,AP
+2014,7,Baylor,AP
+2014,8,Georgia Tech,AP
+2014,9,Georgia,AP
+2014,10,UCLA,AP
+2014,11,Miss State,AP
+2014,12,Arizona St.,AP
+2014,13,Wisconsin,AP
+2014,14,Missouri,AP
+2014,15,Clemson,AP
+2014,16,Boise St.,AP
+2014,17,Mississippi,AP
+2014,18,Kansas St.,AP
+2014,19,Arizona,AP
+2014,20,USC,AP
+2014,21,Utah,AP
+2014,22,Auburn,AP
+2014,23,Marshall,AP
+2014,24,Louisville,AP
+2014,25,Memphis,AP
+2014,1,Ohio State,CP
+2014,2,Oregon,CP
+2014,3,TCU,CP
+2014,4,Alabama,CP
+2014,5,Michigan St.,CP
+2014,6,Florida St.,CP
+2014,7,Georgia Tech,CP
+2014,8,Baylor,CP
+2014,9,Georgia,CP
+2014,10,UCLA,CP
+2014,11,Missouri,CP
+2014,12,Miss State,CP
+2014,13,Wisconsin,CP
+2014,14,Arizona St.,CP
+2014,15,Clemson,CP
+2014,16,Boise St.,CP
+2014,17,Arizona,CP
+2014,18,Kansas St.,CP
+2014,19,Mississippi,CP
+2014,20,Utah,CP
+2014,21,USC,CP
+2014,22,Marshall,CP
+2014,23,Auburn,CP
+2014,24,Louisville,CP
+2014,25,Memphis,CP
+2015,1,Alabama,AP
+2015,2,Clemson,AP
+2015,3,Stanford,AP
+2015,4,Ohio State,AP
+2015,5,Oklahoma,AP
+2015,6,Michigan St.,AP
+2015,7,TCU,AP
+2015,8,Houston,AP
+2015,9,Iowa,AP
+2015,10,Mississippi,AP
+2015,11,Notre Dame,AP
+2015,12,Michigan,AP
+2015,13,Baylor,AP
+2015,14,Florida St.,AP
+2015,15,North Carolina,AP
+2015,16,LSU,AP
+2015,17,Utah,AP
+2015,18,Navy,AP
+2015,19,Oregon,AP
+2015,20,Oklahoma St.,AP
+2015,21,Wisconsin,AP
+2015,22,Tennessee,AP
+2015,23,Northwestern,AP
+2015,24,Western Ky.,AP
+2015,25,Florida,AP
+2015,1,Alabama,CP
+2015,2,Clemson,CP
+2015,3,Stanford,CP
+2015,4,Ohio State,CP
+2015,5,Oklahoma,CP
+2015,6,Michigan St.,CP
+2015,7,TCU,CP
+2015,8,Houston,CP
+2015,9,Mississippi,CP
+2015,10,Iowa,CP
+2015,11,Michigan,CP
+2015,12,Notre Dame,CP
+2015,13,Baylor,CP
+2015,14,Florida St.,CP
+2015,15,North Carolina,CP
+2015,16,Utah,CP
+2015,17,LSU,CP
+2015,18,Navy,CP
+2015,19,Oklahoma St.,CP
+2015,20,Oregon,CP
+2015,21,Wisconsin,CP
+2015,22,Northwestern,CP
+2015,23,Tennessee,CP
+2015,24,Georgia,CP
+2015,25,Florida,CP
+2016,1,Clemson,AP
+2016,2,Alabama,AP
+2016,3,USC,AP
+2016,4,Washington,AP
+2016,5,Oklahoma,AP
+2016,6,Ohio State,AP
+2016,7,Penn State,AP
+2016,8,Florida St.,AP
+2016,9,Wisconsin,AP
+2016,10,Michigan,AP
+2016,11,Oklahoma St.,AP
+2016,12,Stanford,AP
+2016,13,LSU,AP
+2016,14,Florida,AP
+2016,15,Western Mich.,AP
+2016,16,Virginia Tech,AP
+2016,17,Colorado,AP
+2016,18,West Virginia,AP
+2016,19,South Florida,AP
+2016,20,Miami,AP
+2016,21,Louisville,AP
+2016,22,Tennessee,AP
+2016,23,Utah,AP
+2016,24,Auburn,AP
+2016,25,San Diego St.,AP
+2016,1,Clemson,CP
+2016,2,Alabama,CP
+2016,3,Oklahoma,CP
+2016,4,Washington,CP
+2016,5,USC,CP
+2016,6,Ohio State,CP
+2016,7,Penn State,CP
+2016,8,Florida St.,CP
+2016,9,Wisconsin,CP
+2016,10,Michigan,CP
+2016,11,Oklahoma St.,CP
+2016,12,Stanford,CP
+2016,13,Florida,CP
+2016,14,LSU,CP
+2016,15,Colorado,CP
+2016,16,Virginia Tech,CP
+2016,17,West Virginia,CP
+2016,18,Western Mich.,CP
+2016,19,South Florida,CP
+2016,20,Louisville,CP
+2016,21,Utah,CP
+2016,22,Auburn,CP
+2016,23,Miami,CP
+2016,24,Tennessee,CP
+2016,25,San Diego St.,CP
+2017,1,Alabama,AP
+2017,2,Georgia,AP
+2017,3,Oklahoma,AP
+2017,4,Clemson,AP
+2017,5,Ohio State,AP
+2017,6,UCF,AP
+2017,7,Wisconsin,AP
+2017,8,Penn State,AP
+2017,9,TCU,AP
+2017,10,Auburn,AP
+2017,11,Notre Dame,AP
+2017,12,USC,AP
+2017,13,Miami,AP
+2017,14,Oklahoma St.,AP
+2017,15,Michigan St.,AP
+2017,16,Washington,AP
+2017,17,Northwestern,AP
+2017,18,LSU,AP
+2017,19,Miss State,AP
+2017,20,Stanford,AP
+2017,21,South Florida,AP
+2017,22,Boise St.,AP
+2017,23,NC State,AP
+2017,24,Virginia Tech,AP
+2017,25,Memphis,AP
+2017,1,Alabama,CP
+2017,2,Georgia,CP
+2017,3,Oklahoma,CP
+2017,4,Clemson,CP
+2017,5,Ohio State,CP
+2017,6,Wisconsin,CP
+2017,7,UCF,CP
+2017,8,Penn State,CP
+2017,9,TCU,CP
+2017,10,USC,CP
+2017,11,Notre Dame,CP
+2017,12,Auburn,CP
+2017,13,Miami,CP
+2017,14,Oklahoma St.,CP
+2017,15,Washington,CP
+2017,16,Michigan St.,CP
+2017,17,Northwestern,CP
+2017,18,LSU,CP
+2017,19,Stanford,CP
+2017,20,Miss State,CP
+2017,21,South Florida,CP
+2017,22,Boise St.,CP
+2017,23,NC State,CP
+2017,24,Memphis,CP
+2017,25,Virginia Tech,CP
+2018,1,Clemson,AP
+2018,2,Alabama,AP
+2018,3,Ohio State,AP
+2018,4,Oklahoma,AP
+2018,5,Notre Dame,AP
+2018,6,LSU,AP
+2018,7,Florida,AP
+2018,7,Georgia,AP
+2018,9,Texas,AP
+2018,10,Washington St.,AP
+2018,11,UCF,AP
+2018,12,Kentucky,AP
+2018,13,Washington,AP
+2018,14,Michigan,AP
+2018,15,Syracuse,AP
+2018,16,Texas A&M,AP
+2018,17,Penn State,AP
+2018,18,Fresno St.,AP
+2018,19,Army,AP
+2018,20,West Virginia,AP
+2018,21,Northwestern,AP
+2018,22,Utah State,AP
+2018,23,Boise St.,AP
+2018,24,Cincinnati,AP
+2018,25,Iowa,AP
+2018,1,Clemson,CP
+2018,2,Alabama,CP
+2018,3,Ohio State,CP
+2018,4,Oklahoma,CP
+2018,5,Notre Dame,CP
+2018,6,Florida,CP
+2018,7,LSU,CP
+2018,8,Georgia,CP
+2018,9,Texas,CP
+2018,10,Washington St.,CP
+2018,11,Kentucky,CP
+2018,12,UCF,CP
+2018,13,Washington,CP
+2018,14,Michigan,CP
+2018,15,Syracuse,CP
+2018,16,Texas A&M,CP
+2018,17,Penn State,CP
+2018,18,Fresno St.,CP
+2018,19,Northwestern,CP
+2018,20,Army,CP
+2018,21,Utah State,CP
+2018,22,West Virginia,CP
+2018,23,Cincinnati,CP
+2018,24,Boise St.,CP
+2018,25,Iowa,CP
+2019,1,LSU,AP
+2019,2,Clemson,AP
+2019,3,Ohio State,AP
+2019,4,Georgia,AP
+2019,5,Oregon,AP
+2019,6,Florida,AP
+2019,7,Oklahoma,AP
+2019,8,Alabama,AP
+2019,9,Penn State,AP
+2019,10,Minnesota,AP
+2019,11,Wisconsin,AP
+2019,12,Notre Dame,AP
+2019,13,Baylor,AP
+2019,14,Auburn,AP
+2019,15,Iowa,AP
+2019,16,Utah,AP
+2019,17,Memphis,AP
+2019,18,Michigan,AP
+2019,19,Appalachian St.,AP
+2019,20,Navy,AP
+2019,21,Cincinnati,AP
+2019,22,Air Force,AP
+2019,23,Boise St.,AP
+2019,24,UCF,AP
+2019,25,Texas,AP
+2019,1,LSU,CP
+2019,2,Clemson,CP
+2019,3,Ohio State,CP
+2019,4,Georgia,CP
+2019,5,Oregon,CP
+2019,6,Oklahoma,CP
+2019,7,Florida,CP
+2019,8,Alabama,CP
+2019,9,Penn State,CP
+2019,10,Minnesota,CP
+2019,11,Notre Dame,CP
+2019,12,Baylor,CP
+2019,13,Wisconsin,CP
+2019,14,Auburn,CP
+2019,15,Iowa,CP
+2019,16,Utah,CP
+2019,17,Memphis,CP
+2019,18,Appalachian St.,CP
+2019,19,Michigan,CP
+2019,20,Navy,CP
+2019,21,Cincinnati,CP
+2019,22,Boise St.,CP
+2019,23,Air Force,CP
+2019,24,UCF,CP
+2019,25,Virginia,CP
+2020,1,Alabama,AP
+2020,2,Ohio State,AP
+2020,3,Clemson,AP
+2020,4,Texas A&M,AP
+2020,5,Notre Dame,AP
+2020,6,Oklahoma,AP
+2020,7,Georgia,AP
+2020,8,Cincinnati,AP
+2020,9,Iowa State,AP
+2020,10,Northwestern,AP
+2020,11,BYU,AP
+2020,12,Indiana,AP
+2020,13,Florida,AP
+2020,14,Coastal Carolina,AP
+2020,15,Louisiana,AP
+2020,16,Iowa,AP
+2020,17,Liberty,AP
+2020,18,North Carolina,AP
+2020,19,Texas,AP
+2020,20,Oklahoma St.,AP
+2020,21,USC,AP
+2020,22,Miami,AP
+2020,23,Ball State,AP
+2020,24,San Jose St.,AP
+2020,25,Buffalo,AP
+2020,1,Alabama,CP
+2020,2,Ohio State,CP
+2020,3,Clemson,CP
+2020,4,Texas A&M,CP
+2020,5,Notre Dame,CP
+2020,6,Oklahoma,CP
+2020,7,Georgia,CP
+2020,8,Cincinnati,CP
+2020,9,Iowa State,CP
+2020,10,Northwestern,CP
+2020,11,BYU,CP
+2020,12,Florida,CP
+2020,13,Indiana,CP
+2020,14,Coastal Carolina,CP
+2020,15,Iowa,CP
+2020,16,Louisiana,CP
+2020,17,North Carolina,CP
+2020,18,Liberty,CP
+2020,19,Oklahoma St.,CP
+2020,20,Texas,CP
+2020,21,USC,CP
+2020,22,Miami,CP
+2020,23,Ball State,CP
+2020,24,San Jose St.,CP
+2020,25,Buffalo,CP
+2021,1,Georgia,AP
+2021,2,Alabama,AP
+2021,3,Michigan,AP
+2021,4,Cincinnati,AP
+2021,5,Baylor,AP
+2021,6,Ohio State,AP
+2021,7,Oklahoma St.,AP
+2021,8,Notre Dame,AP
+2021,9,Michigan St.,AP
+2021,10,Oklahoma,AP
+2021,11,Mississippi,AP
+2021,12,Utah,AP
+2021,13,Pittsburgh,AP
+2021,14,Clemson,AP
+2021,15,Wake Forest,AP
+2021,16,Louisiana,AP
+2021,17,Houston,AP
+2021,18,Kentucky,AP
+2021,19,BYU,AP
+2021,20,NC State,AP
+2021,21,Arkansas,AP
+2021,22,Oregon,AP
+2021,23,Iowa,AP
+2021,24,Utah State,AP
+2021,25,San Diego St.,AP
+2021,1,Georgia,CP
+2021,2,Alabama,CP
+2021,3,Michigan,CP
+2021,4,Cincinnati,CP
+2021,5,Ohio State,CP
+2021,6,Baylor,CP
+2021,7,Oklahoma St.,CP
+2021,8,Michigan St.,CP
+2021,9,Notre Dame,CP
+2021,10,Oklahoma,CP
+2021,11,Mississippi,CP
+2021,12,Utah,CP
+2021,13,Pittsburgh,CP
+2021,14,Wake Forest,CP
+2021,15,Kentucky,CP
+2021,16,Clemson,CP
+2021,17,Houston,CP
+2021,18,Louisiana,CP
+2021,19,NC State,CP
+2021,20,Arkansas,CP
+2021,21,Oregon,CP
+2021,22,BYU,CP
+2021,23,Iowa,CP
+2021,24,Utah State,CP
+2021,25,Texas A&M,CP
+2022,1,Georgia,AP
+2022,2,TCU,AP
+2022,3,Michigan,AP
+2022,4,Ohio State,AP
+2022,5,Alabama,AP
+2022,6,Tennessee,AP
+2022,7,Penn State,AP
+2022,8,Washington,AP
+2022,9,Tulane,AP
+2022,10,Utah,AP
+2022,11,Florida St.,AP
+2022,12,USC,AP
+2022,13,Clemson,AP
+2022,14,Kansas St.,AP
+2022,15,Oregon,AP
+2022,16,LSU,AP
+2022,17,Oregon St.,AP
+2022,18,Notre Dame,AP
+2022,19,Troy,AP
+2022,20,Miss State,AP
+2022,21,UCLA,AP
+2022,22,Pittsburgh,AP
+2022,23,South Carolina,AP
+2022,24,Fresno St.,AP
+2022,25,Texas,AP
+2022,1,Georgia,CP
+2022,2,TCU,CP
+2022,3,Michigan,CP
+2022,4,Ohio State,CP
+2022,5,Alabama,CP
+2022,6,Tennessee,CP
+2022,7,Penn State,CP
+2022,8,Washington,CP
+2022,9,Tulane,CP
+2022,10,Florida St.,CP
+2022,11,Utah,CP
+2022,12,Clemson,CP
+2022,13,USC,CP
+2022,14,Kansas St.,CP
+2022,15,LSU,CP
+2022,16,Oregon,CP
+2022,17,Oregon St.,CP
+2022,18,Notre Dame,CP
+2022,19,Miss State,CP
+2022,20,Troy,CP
+2022,21,UCLA,CP
+2022,22,Pittsburgh,CP
+2022,23,South Carolina,CP
+2022,24,Fresno St.,CP
+2022,25,Texas,CP
+2023,1,Michigan,AP
+2023,2,Washington,AP
+2023,3,Texas,AP
+2023,4,Georgia,AP
+2023,5,Alabama,AP
+2023,6,Oregon,AP
+2023,6,Florida St.,AP
+2023,8,Missouri,AP
+2023,9,Mississippi,AP
+2023,10,Ohio State,AP
+2023,11,Arizona,AP
+2023,12,LSU,AP
+2023,13,Penn State,AP
+2023,14,Notre Dame,AP
+2023,15,Oklahoma,AP
+2023,16,Oklahoma St.,AP
+2023,17,Tennessee,AP
+2023,18,Kansas St.,AP
+2023,19,Louisville,AP
+2023,20,Clemson,AP
+2023,21,NC State,AP
+2023,22,SMU,AP
+2023,23,Kansas,AP
+2023,24,Iowa,AP
+2023,25,Liberty,AP
+2023,1,Michigan,CP
+2023,2,Washington,CP
+2023,3,Georgia,CP
+2023,4,Texas,CP
+2023,5,Alabama,CP
+2023,6,Florida St.,CP
+2023,7,Oregon,CP
+2023,8,Missouri,CP
+2023,9,Mississippi,CP
+2023,10,Ohio State,CP
+2023,11,Arizona,CP
+2023,12,LSU,CP
+2023,13,Penn State,CP
+2023,14,Notre Dame,CP
+2023,15,Oklahoma,CP
+2023,16,Oklahoma St.,CP
+2023,17,Tennessee,CP
+2023,18,Louisville,CP
+2023,19,Kansas St.,CP
+2023,20,Clemson,CP
+2023,21,NC State,CP
+2023,22,Iowa,CP
+2023,23,Kansas,CP
+2023,24,SMU,CP
+2023,25,West Virginia,CP
+2024,1,Ohio State,AP
+2024,2,Notre Dame,AP
+2024,3,Oregon,AP
+2024,4,Texas,AP
+2024,5,Penn State,AP
+2024,6,Georgia,AP
+2024,7,Arizona St.,AP
+2024,8,Boise St.,AP
+2024,9,Tennessee,AP
+2024,10,Indiana,AP
+2024,11,Mississippi,AP
+2024,12,SMU,AP
+2024,13,BYU,AP
+2024,14,Clemson,AP
+2024,15,Iowa State,AP
+2024,16,Illinois,AP
+2024,17,Alabama,AP
+2024,18,Miami,AP
+2024,19,South Carolina,AP
+2024,20,Syracuse,AP
+2024,21,Army,AP
+2024,22,Missouri,AP
+2024,23,UNLV,AP
+2024,24,Memphis,AP
+2024,25,Colorado,AP
+2024,1,Ohio State,CP
+2024,2,Notre Dame,CP
+2024,3,Texas,CP
+2024,4,Oregon,CP
+2024,5,Penn State,CP
+2024,6,Georgia,CP
+2024,7,Arizona St.,CP
+2024,8,Tennessee,CP
+2024,9,Boise St.,CP
+2024,10,Indiana,CP
+2024,11,Clemson,CP
+2024,11,SMU,CP
+2024,13,Mississippi,CP
+2024,14,BYU,CP
+2024,15,Iowa State,CP
+2024,16,Illinois,CP
+2024,17,Alabama,CP
+2024,18,Miami,CP
+2024,19,South Carolina,CP
+2024,20,Missouri,CP
+2024,21,Army,CP
+2024,22,Syracuse,CP
+2024,23,Memphis,CP
+2024,24,UNLV,CP
+2024,25,Colorado,CP
+2025,1,Indiana,AP
+2025,2,Miami,AP
+2025,3,Mississippi,AP
+2025,4,Oregon,AP
+2025,5,Ohio State,AP
+2025,6,Georgia,AP
+2025,7,Texas Tech,AP
+2025,8,Texas A&M,AP
+2025,9,Alabama,AP
+2025,10,Notre Dame,AP
+2025,11,BYU,AP
+2025,12,Texas,AP
+2025,13,Oklahoma,AP
+2025,14,Utah,AP
+2025,15,Vanderbilt,AP
+2025,16,Virginia,AP
+2025,17,Iowa,AP
+2025,18,Tulane,AP
+2025,19,James Madison,AP
+2025,20,USC,AP
+2025,21,Michigan,AP
+2025,22,Houston,AP
+2025,23,Navy,AP
+2025,24,North Texas,AP
+2025,25,TCU,AP
+2025,1,Indiana,CP
+2025,2,Miami,CP
+2025,3,Mississippi,CP
+2025,4,Oregon,CP
+2025,5,Georgia,CP
+2025,6,Ohio State,CP
+2025,7,Texas Tech,CP
+2025,8,Texas A&M,CP
+2025,9,Alabama,CP
+2025,10,Oklahoma,CP
+2025,11,Notre Dame,CP
+2025,12,BYU,CP
+2025,13,Texas,CP
+2025,14,Utah,CP
+2025,15,Vanderbilt,CP
+2025,16,Virginia,CP
+2025,17,Iowa,CP
+2025,18,Tulane,CP
+2025,19,Houston,CP
+2025,20,James Madison,CP
+2025,21,USC,CP
+2025,22,Michigan,CP
+2025,23,Navy,CP
+2025,24,Georgia Tech,CP
+2025,25,Illinois,CP
