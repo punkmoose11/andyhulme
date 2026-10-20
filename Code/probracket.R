@@ -73,7 +73,7 @@ sink()
 
 mlb <- subset(pro, sport=="MLB")
 
-for (j in c(1969:1993,1995:2025)) {
+for (j in c(1969:1993,1995:2026)) {
 
 bracket <- subset(mlb, year==j)
 
