@@ -1,12 +1,23 @@
 
 games <- read_excel("C:/Users/andyh/OneDrive/Documents/SPORTSDATA/College Baseball Games.xlsx",sheet = "Games")
 games <- as.data.frame(games) 
-
 games <- games[c("Year","Date","Team1","Team2","Runs1","Runs2","Conf")]
+
+games90 <- read_excel("C:/Users/andyh/OneDrive/Documents/SPORTSDATA/College Baseball Games 90s.xlsx",sheet = "Games")
+games90 <- as.data.frame(games90)
+games90 <- games90[c("Year","Date","Team1","Team2","Runs1","Runs2","Conf")]
+
+games <- rbind(games,games90) 
 
 teams <- read_excel("C:/Users/andyh/OneDrive/Documents/SPORTSDATA/College Baseball Games.xlsx",sheet = "Teams")
 teams <- as.data.frame(teams) 
 teams <- teams[c("Year","School","Conference","Division")]
+
+teams90 <- read_excel("C:/Users/andyh/OneDrive/Documents/SPORTSDATA/College Baseball Games 90s.xlsx",sheet = "Teams")
+teams90 <- as.data.frame(teams90) 
+teams90 <- teams90[c("Year","School","Conference","Division")]
+
+teams <- rbind(teams,teams90)
 
 games.1 <- games 
 games.1$n <- 1

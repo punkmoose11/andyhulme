@@ -133,9 +133,9 @@ summ.tm$row <- paste("<tr class='d",summ.tm$class2,"'><td>",paste(
 				summ.tm$col1,
 				summ.tm$pct,
 				summ.tm$col2,
-				ifelse(summ.tm$Conference!="Indep"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,
+				ifelse(summ.tm$Conference!="Independent"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,
 		paste("<a href='",summ.tm$Year,".html#",teamlink(summ.tm$Conference),"'>",summ.tm$crank,"</a>",sep=""),""),
-				ifelse(summ.tm$Conference!="Indep"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,summ.tm$gb,""),
+				ifelse(summ.tm$Conference!="Independent"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,summ.tm$gb,""),
 				summ.tm$col3,
 				summ.tm$col4,
 			sep="</td><td>"),"</td></tr>",sep="")

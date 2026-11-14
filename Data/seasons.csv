@@ -27,6 +27,7 @@ MLB,ARZ,Arizona Diamondbacks,2022,74,88,,,4th,NL,National League,West,
 MLB,ARZ,Arizona Diamondbacks,2023,84,78,,,2nd,NL,National League,West,N6
 MLB,ARZ,Arizona Diamondbacks,2024,89,73,,,3rd,NL,National League,West,
 MLB,ARZ,Arizona Diamondbacks,2025,80,82,,,4th,NL,National League,West,
+MLB,ARZ,Arizona Diamondbacks,2026,86,76,,,3rd,NL,National League,West,
 MLB,ATH,Philadelphia Athletics,1901,74,62,,,4th,AL,American League,,
 MLB,ATH,Philadelphia Athletics,1902,83,53,,,1st,AL,American League,,
 MLB,ATH,Philadelphia Athletics,1903,75,60,,,2nd,AL,American League,,
@@ -152,6 +153,7 @@ MLB,ATH,Oakland Athletics,2022,60,102,,,5th,AL,American League,West,
 MLB,ATH,Oakland Athletics,2023,50,112,,,5th,AL,American League,West,
 MLB,ATH,Oakland Athletics,2024,69,93,,,4th,AL,American League,West,
 MLB,ATH,West Sacramento Athletics,2025,76,86,,,4th,AL,American League,West,
+MLB,ATH,West Sacramento Athletics,2026,64,98,,,4th,AL,American League,West,
 MLB,ATL,Boston Beaneaters,1901,69,69,,,5th,NL,National League,,
 MLB,ATL,Boston Beaneaters,1902,73,64,,,3rd,NL,National League,,
 MLB,ATL,Boston Beaneaters,1903,58,80,,,6th,NL,National League,,
@@ -277,6 +279,7 @@ MLB,ATL,Atlanta Braves,2022,101,61,,,1st,NL,National League,East,N2
 MLB,ATL,Atlanta Braves,2023,104,58,,,1st,NL,National League,East,N1
 MLB,ATL,Atlanta Braves,2024,89,73,,,2nd,NL,National League,East,N5
 MLB,ATL,Atlanta Braves,2025,76,86,,,4th,NL,National League,East,
+MLB,ATL,Atlanta Braves,2026,94,68,,,1st,NL,National League,East,N3
 MLB,BAL,Milwaukee Brewers,1901,48,89,,,8th,AL,American League,,
 MLB,BAL,St. Louis Browns,1902,78,58,,,2nd,AL,American League,,
 MLB,BAL,St. Louis Browns,1903,65,74,,,6th,AL,American League,,
@@ -402,6 +405,7 @@ MLB,BAL,Baltimore Orioles,2022,83,79,,,4th,AL,American League,East,
 MLB,BAL,Baltimore Orioles,2023,101,61,,,1st,AL,American League,East,A1
 MLB,BAL,Baltimore Orioles,2024,91,71,,,2nd,AL,American League,East,A4
 MLB,BAL,Baltimore Orioles,2025,75,87,,,5th,AL,American League,East,
+MLB,BAL,Baltimore Orioles,2026,79,82,,,4th,AL,American League,East,
 MLB,BOS,Boston Americans,1901,79,57,,,2nd,AL,American League,,
 MLB,BOS,Boston Americans,1902,77,60,,,3rd,AL,American League,,
 MLB,BOS,Boston Americans,1903,91,47,,,1st,AL,American League,,
@@ -527,6 +531,7 @@ MLB,BOS,Boston Red Sox,2022,78,84,,,5th,AL,American League,East,
 MLB,BOS,Boston Red Sox,2023,78,84,,,5th,AL,American League,East,
 MLB,BOS,Boston Red Sox,2024,81,81,,,3rd,AL,American League,East,
 MLB,BOS,Boston Red Sox,2025,89,73,,,3rd,AL,American League,East,A5
+MLB,BOS,Boston Red Sox,2026,87,75,,,3rd,AL,American League,East,A5
 MLB,CHC,Chicago Orphans,1901,53,86,,,6th,NL,National League,,
 MLB,CHC,Chicago Orphans,1902,68,69,,,5th,NL,National League,,
 MLB,CHC,Chicago Cubs,1903,82,56,,,3rd,NL,National League,,
@@ -652,6 +657,7 @@ MLB,CHC,Chicago Cubs,2022,74,88,,,3rd,NL,National League,Central,
 MLB,CHC,Chicago Cubs,2023,83,79,,,2nd,NL,National League,Central,
 MLB,CHC,Chicago Cubs,2024,83,79,,,3rd,NL,National League,Central,
 MLB,CHC,Chicago Cubs,2025,92,70,,,2nd,NL,National League,Central,N4
+MLB,CHC,Chicago Cubs,2026,89,73,,,2nd,NL,National League,Central,N5
 MLB,CHW,Chicago White Sox,1901,83,53,,,1st,AL,American League,,
 MLB,CHW,Chicago White Sox,1902,74,60,,,4th,AL,American League,,
 MLB,CHW,Chicago White Sox,1903,60,77,,,7th,AL,American League,,
@@ -777,6 +783,7 @@ MLB,CHW,Chicago White Sox,2022,81,81,,,2nd,AL,American League,Central,
 MLB,CHW,Chicago White Sox,2023,61,101,,,4th,AL,American League,Central,
 MLB,CHW,Chicago White Sox,2024,41,121,,,5th,AL,American League,Central,
 MLB,CHW,Chicago White Sox,2025,60,102,,,5th,AL,American League,Central,
+MLB,CHW,Chicago White Sox,2026,84,78,,,2nd,AL,American League,Central,A6
 MLB,CIN,Cincinnati Reds,1901,52,87,,,8th,NL,National League,,
 MLB,CIN,Cincinnati Reds,1902,70,70,,,4th,NL,National League,,
 MLB,CIN,Cincinnati Reds,1903,74,65,,,4th,NL,National League,,
@@ -902,6 +909,7 @@ MLB,CIN,Cincinnati Reds,2022,62,100,,,T4th,NL,National League,Central,
 MLB,CIN,Cincinnati Reds,2023,82,80,,,3rd,NL,National League,Central,
 MLB,CIN,Cincinnati Reds,2024,77,85,,,4th,NL,National League,Central,
 MLB,CIN,Cincinnati Reds,2025,83,79,,,3rd,NL,National League,Central,N6
+MLB,CIN,Cincinnati Reds,2026,75,87,,,5th,NL,National League,Central,
 MLB,CLE,Cleveland Blues,1901,54,82,,,7th,AL,American League,,
 MLB,CLE,Cleveland Bronchos,1902,69,67,,,5th,AL,American League,,
 MLB,CLE,Cleveland Naps,1903,77,63,,,3rd,AL,American League,,
@@ -1027,6 +1035,7 @@ MLB,CLE,Cleveland Guardians,2022,92,70,,,1st,AL,American League,Central,A3
 MLB,CLE,Cleveland Guardians,2023,76,86,,,3rd,AL,American League,Central,
 MLB,CLE,Cleveland Guardians,2024,92,69,,,1st,AL,American League,Central,A2
 MLB,CLE,Cleveland Guardians,2025,88,74,,,1st,AL,American League,Central,A3
+MLB,CLE,Cleveland Guardians,2026,85,77,,,1st,AL,American League,Central,A2
 MLB,COL,Colorado Rockies,1993,67,95,,,6th,NL,National League,West,
 MLB,COL,Colorado Rockies,1994,53,64,,,3rd,NL,National League,West,
 MLB,COL,Colorado Rockies,1995,77,67,,,2nd,NL,National League,West,NWC
@@ -1060,6 +1069,7 @@ MLB,COL,Colorado Rockies,2022,68,94,,,5th,NL,National League,West,
 MLB,COL,Colorado Rockies,2023,59,103,,,5th,NL,National League,West,
 MLB,COL,Colorado Rockies,2024,61,101,,,5th,NL,National League,West,
 MLB,COL,Colorado Rockies,2025,43,119,,,5th,NL,National League,West,
+MLB,COL,Colorado Rockies,2026,58,104,,,5th,NL,National League,West,
 MLB,DET,Detroit Tigers,1901,74,61,,,3rd,AL,American League,,
 MLB,DET,Detroit Tigers,1902,52,83,,,7th,AL,American League,,
 MLB,DET,Detroit Tigers,1903,65,71,,,5th,AL,American League,,
@@ -1185,6 +1195,7 @@ MLB,DET,Detroit Tigers,2022,66,96,,,4th,AL,American League,Central,
 MLB,DET,Detroit Tigers,2023,78,84,,,2nd,AL,American League,Central,
 MLB,DET,Detroit Tigers,2024,86,76,,,3rd,AL,American League,Central,A6
 MLB,DET,Detroit Tigers,2025,87,75,,,2nd,AL,American League,Central,A6
+MLB,DET,Detroit Tigers,2026,76,86,,,4th,AL,American League,Central,
 MLB,HOU,Houston Colts,1962,64,97,,,8th,NL,National League,,
 MLB,HOU,Houston Colts,1963,66,96,,,9th,NL,National League,,
 MLB,HOU,Houston Colts,1964,66,96,,,9th,NL,National League,,
@@ -1249,6 +1260,7 @@ MLB,HOU,Houston Astros,2022,106,56,,,1st,AL,American League,West,A1
 MLB,HOU,Houston Astros,2023,90,72,,,1st,AL,American League,West,A2
 MLB,HOU,Houston Astros,2024,88,73,,,1st,AL,American League,West,A3
 MLB,HOU,Houston Astros,2025,87,75,,,2nd,AL,American League,West,
+MLB,HOU,Houston Astros,2026,81,81,,,1st,AL,American League,West,A3
 MLB,KAN,Kansas City Royals,1969,69,93,,,4th,AL,American League,West,
 MLB,KAN,Kansas City Royals,1970,65,97,,,T4th,AL,American League,West,
 MLB,KAN,Kansas City Royals,1971,85,76,,,2nd,AL,American League,West,
@@ -1306,6 +1318,7 @@ MLB,KAN,Kansas City Royals,2022,65,97,,,5th,AL,American League,Central,
 MLB,KAN,Kansas City Royals,2023,56,106,,,5th,AL,American League,Central,
 MLB,KAN,Kansas City Royals,2024,86,76,,,2nd,AL,American League,Central,A5
 MLB,KAN,Kansas City Royals,2025,82,80,,,3rd,AL,American League,Central,
+MLB,KAN,Kansas City Royals,2026,69,93,,,5th,AL,American League,Central,
 MLB,LAA,Los Angeles Angels,1961,70,91,,,8th,AL,American League,,
 MLB,LAA,Los Angeles Angels,1962,86,76,,,3rd,AL,American League,,
 MLB,LAA,Los Angeles Angels,1963,70,91,,,9th,AL,American League,,
@@ -1371,6 +1384,7 @@ MLB,LAA,Los Angeles Angels,2022,73,89,,,3rd,AL,American League,West,
 MLB,LAA,Los Angeles Angels,2023,73,89,,,4th,AL,American League,West,
 MLB,LAA,Los Angeles Angels,2024,63,99,,,5th,AL,American League,West,
 MLB,LAA,Los Angeles Angels,2025,72,90,,,5th,AL,American League,West,
+MLB,LAA,Los Angeles Angels,2026,62,100,,,5th,AL,American League,West,
 MLB,LAD,Brooklyn Superbas,1901,79,57,,,3rd,NL,National League,,
 MLB,LAD,Brooklyn Superbas,1902,75,63,,,2nd,NL,National League,,
 MLB,LAD,Brooklyn Superbas,1903,70,66,,,5th,NL,National League,,
@@ -1496,6 +1510,7 @@ MLB,LAD,Los Angeles Dodgers,2022,111,51,,,1st,NL,National League,West,N1
 MLB,LAD,Los Angeles Dodgers,2023,100,62,,,1st,NL,National League,West,N2
 MLB,LAD,Los Angeles Dodgers,2024,98,64,,,1st,NL,National League,West,N1
 MLB,LAD,Los Angeles Dodgers,2025,93,69,,,1st,NL,National League,West,N3
+MLB,LAD,Los Angeles Dodgers,2026,100,62,,,1st,NL,National League,West,N2
 MLB,MIA,Florida Marlins,1993,64,98,,,6th,NL,National League,East,
 MLB,MIA,Florida Marlins,1994,51,64,,,5th,NL,National League,East,
 MLB,MIA,Florida Marlins,1995,67,76,,,4th,NL,National League,East,
@@ -1529,6 +1544,7 @@ MLB,MIA,Miami Marlins,2022,69,93,,,4th,NL,National League,East,
 MLB,MIA,Miami Marlins,2023,84,78,,,3rd,NL,National League,East,N5
 MLB,MIA,Miami Marlins,2024,62,100,,,5th,NL,National League,East,
 MLB,MIA,Miami Marlins,2025,79,83,,,3rd,NL,National League,East,
+MLB,MIA,Miami Marlins,2026,80,82,,,3rd,NL,National League,East,
 MLB,MIN,Washington Senators,1901,61,72,,,6th,AL,American League,,
 MLB,MIN,Washington Senators,1902,61,75,,,6th,AL,American League,,
 MLB,MIN,Washington Senators,1903,43,94,,,8th,AL,American League,,
@@ -1654,6 +1670,7 @@ MLB,MIN,Minnesota Twins,2022,78,84,,,3rd,AL,American League,Central,
 MLB,MIN,Minnesota Twins,2023,87,75,,,1st,AL,American League,Central,A3
 MLB,MIN,Minnesota Twins,2024,82,80,,,4th,AL,American League,Central,
 MLB,MIN,Minnesota Twins,2025,70,92,,,4th,AL,American League,Central,
+MLB,MIN,Minnesota Twins,2026,77,85,,,3rd,AL,American League,Central,
 MLB,MKE,Seattle Pilots,1969,64,98,,,6th,AL,American League,West,
 MLB,MKE,Milwaukee Brewers,1970,65,97,,,T4th,AL,American League,West,
 MLB,MKE,Milwaukee Brewers,1971,69,92,,,6th,AL,American League,West,
@@ -1711,6 +1728,7 @@ MLB,MKE,Milwaukee Brewers,2022,86,76,,,2nd,NL,National League,Central,
 MLB,MKE,Milwaukee Brewers,2023,92,70,,,1st,NL,National League,Central,N3
 MLB,MKE,Milwaukee Brewers,2024,93,69,,,1st,NL,National League,Central,N3
 MLB,MKE,Milwaukee Brewers,2025,97,65,,,1st,NL,National League,Central,N1
+MLB,MKE,Milwaukee Brewers,2026,103,59,,,1st,NL,National League,Central,N1
 MLB,NYM,New York Mets,1962,40,120,,,10th,NL,National League,,
 MLB,NYM,New York Mets,1963,51,111,,,10th,NL,National League,,
 MLB,NYM,New York Mets,1964,53,109,,,10th,NL,National League,,
@@ -1775,6 +1793,7 @@ MLB,NYM,New York Mets,2022,101,61,,,2nd,NL,National League,East,N4
 MLB,NYM,New York Mets,2023,75,87,,,4th,NL,National League,East,
 MLB,NYM,New York Mets,2024,89,73,,,3rd,NL,National League,East,N6
 MLB,NYM,New York Mets,2025,83,79,,,2nd,NL,National League,East,
+MLB,NYM,New York Mets,2026,74,88,,,5th,NL,National League,East,
 MLB,NYY,Baltimore Orioles,1901,68,65,,,5th,AL,American League,,
 MLB,NYY,Baltimore Orioles,1902,50,88,,,8th,AL,American League,,
 MLB,NYY,New York Highlanders,1903,72,62,,,4th,AL,American League,,
@@ -1900,6 +1919,7 @@ MLB,NYY,New York Yankees,2022,99,63,,,1st,AL,American League,East,A2
 MLB,NYY,New York Yankees,2023,82,80,,,4th,AL,American League,East,
 MLB,NYY,New York Yankees,2024,94,68,,,1st,AL,American League,East,A1
 MLB,NYY,New York Yankees,2025,94,68,,,2nd,AL,American League,East,A4
+MLB,NYY,New York Yankees,2026,93,68,,,2nd,AL,American League,East,A4
 MLB,PHI,Philadelphia Phillies,1901,83,57,,,2nd,NL,National League,,
 MLB,PHI,Philadelphia Phillies,1902,56,81,,,7th,NL,National League,,
 MLB,PHI,Philadelphia Phillies,1903,49,86,,,7th,NL,National League,,
@@ -2025,6 +2045,7 @@ MLB,PHI,Philadelphia Phillies,2022,87,75,,,3rd,NL,National League,East,N6
 MLB,PHI,Philadelphia Phillies,2023,90,72,,,2nd,NL,National League,East,N4
 MLB,PHI,Philadelphia Phillies,2024,95,67,,,1st,NL,National League,East,N2
 MLB,PHI,Philadelphia Phillies,2025,96,66,,,1st,NL,National League,East,N2
+MLB,PHI,Philadelphia Phillies,2026,88,74,,,2nd,NL,National League,East,N6
 MLB,PIT,Pittsburgh Pirates,1901,90,49,,,1st,NL,National League,,
 MLB,PIT,Pittsburgh Pirates,1902,103,36,,,1st,NL,National League,,
 MLB,PIT,Pittsburgh Pirates,1903,91,49,,,1st,NL,National League,,
@@ -2150,6 +2171,7 @@ MLB,PIT,Pittsburgh Pirates,2022,62,100,,,T4th,NL,National League,Central,
 MLB,PIT,Pittsburgh Pirates,2023,76,86,,,4th,NL,National League,Central,
 MLB,PIT,Pittsburgh Pirates,2024,76,86,,,5th,NL,National League,Central,
 MLB,PIT,Pittsburgh Pirates,2025,71,91,,,5th,NL,National League,Central,
+MLB,PIT,Pittsburgh Pirates,2026,82,80,,,3rd,NL,National League,Central,
 MLB,SDG,San Diego Padres,1969,52,110,,,6th,NL,National League,West,
 MLB,SDG,San Diego Padres,1970,63,99,,,6th,NL,National League,West,
 MLB,SDG,San Diego Padres,1971,61,100,,,6th,NL,National League,West,
@@ -2207,6 +2229,7 @@ MLB,SDG,San Diego Padres,2022,89,73,,,2nd,NL,National League,West,N5
 MLB,SDG,San Diego Padres,2023,82,80,,,3rd,NL,National League,West,
 MLB,SDG,San Diego Padres,2024,93,69,,,2nd,NL,National League,West,N4
 MLB,SDG,San Diego Padres,2025,90,72,,,2nd,NL,National League,West,N5
+MLB,SDG,San Diego Padres,2026,91,71,,,2nd,NL,National League,West,N4
 MLB,SEA,Seattle Mariners,1977,64,98,,,6th,AL,American League,West,
 MLB,SEA,Seattle Mariners,1978,56,104,,,7th,AL,American League,West,
 MLB,SEA,Seattle Mariners,1979,67,95,,,6th,AL,American League,West,
@@ -2256,6 +2279,7 @@ MLB,SEA,Seattle Mariners,2022,90,72,,,2nd,AL,American League,West,A5
 MLB,SEA,Seattle Mariners,2023,88,74,,,3rd,AL,American League,West,
 MLB,SEA,Seattle Mariners,2024,85,77,,,2nd,AL,American League,West,
 MLB,SEA,Seattle Mariners,2025,90,72,,,1st,AL,American League,West,A2
+MLB,SEA,Seattle Mariners,2026,76,86,,,3rd,AL,American League,West,
 MLB,SFO,New York Giants,1901,52,85,,,7th,NL,National League,,
 MLB,SFO,New York Giants,1902,48,88,,,8th,NL,National League,,
 MLB,SFO,New York Giants,1903,84,55,,,2nd,NL,National League,,
@@ -2381,6 +2405,7 @@ MLB,SFO,San Francisco Giants,2022,81,81,,,3rd,NL,National League,West,
 MLB,SFO,San Francisco Giants,2023,79,83,,,4th,NL,National League,West,
 MLB,SFO,San Francisco Giants,2024,80,82,,,4th,NL,National League,West,
 MLB,SFO,San Francisco Giants,2025,81,81,,,3rd,NL,National League,West,
+MLB,SFO,San Francisco Giants,2026,65,97,,,4th,NL,National League,West,
 MLB,STL,St. Louis Cardinals,1901,76,64,,,4th,NL,National League,,
 MLB,STL,St. Louis Cardinals,1902,56,78,,,6th,NL,National League,,
 MLB,STL,St. Louis Cardinals,1903,43,94,,,8th,NL,National League,,
@@ -2506,6 +2531,7 @@ MLB,STL,St. Louis Cardinals,2022,93,69,,,1st,NL,National League,Central,N3
 MLB,STL,St. Louis Cardinals,2023,71,91,,,5th,NL,National League,Central,
 MLB,STL,St. Louis Cardinals,2024,83,79,,,2nd,NL,National League,Central,
 MLB,STL,St. Louis Cardinals,2025,78,84,,,4th,NL,National League,Central,
+MLB,STL,St. Louis Cardinals,2026,77,85,,,4th,NL,National League,Central,
 MLB,TAM,Tampa Bay Devil Rays,1998,63,99,,,5th,AL,American League,East,
 MLB,TAM,Tampa Bay Devil Rays,1999,69,93,,,5th,AL,American League,East,
 MLB,TAM,Tampa Bay Devil Rays,2000,69,92,,,5th,AL,American League,East,
@@ -2534,6 +2560,7 @@ MLB,TAM,Tampa Bay Rays,2022,86,76,,,3rd,AL,American League,East,A6
 MLB,TAM,Tampa Bay Rays,2023,99,63,,,2nd,AL,American League,East,A4
 MLB,TAM,Tampa Bay Rays,2024,80,82,,,4th,AL,American League,East,
 MLB,TAM,Tampa Bay Rays,2025,77,85,,,4th,AL,American League,East,
+MLB,TAM,Tampa Bay Rays,2026,98,64,,,1st,AL,American League,East,
 MLB,TEX,Washington Senators,1961,61,100,,,T9th,AL,American League,,
 MLB,TEX,Washington Senators,1962,60,101,,,10th,AL,American League,,
 MLB,TEX,Washington Senators,1963,56,106,,,10th,AL,American League,,
@@ -2599,6 +2626,7 @@ MLB,TEX,Texas Rangers,2022,68,94,,,4th,AL,American League,West,
 MLB,TEX,Texas Rangers,2023,90,72,,,2nd,AL,American League,West,A5
 MLB,TEX,Texas Rangers,2024,78,84,,,3rd,AL,American League,West,
 MLB,TEX,Texas Rangers,2025,81,81,,,3rd,AL,American League,West,
+MLB,TEX,Texas Rangers,2026,80,82,,,2nd,AL,American League,West,
 MLB,TOR,Toronto Blue Jays,1977,54,107,,,7th,AL,American League,East,
 MLB,TOR,Toronto Blue Jays,1978,59,102,,,7th,AL,American League,East,
 MLB,TOR,Toronto Blue Jays,1979,53,109,,,7th,AL,American League,East,
@@ -2648,6 +2676,7 @@ MLB,TOR,Toronto Blue Jays,2022,92,70,,,2nd,AL,American League,East,A4
 MLB,TOR,Toronto Blue Jays,2023,89,73,,,3rd,AL,American League,East,A6
 MLB,TOR,Toronto Blue Jays,2024,74,88,,,5th,AL,American League,East,
 MLB,TOR,Toronto Blue Jays,2025,94,68,,,1st,AL,American League,East,A1
+MLB,TOR,Toronto Blue Jays,2026,79,83,,,5th,AL,American League,East,
 MLB,WAS,Montreal Expos,1969,52,110,,,6th,NL,National League,East,
 MLB,WAS,Montreal Expos,1970,73,89,,,6th,NL,National League,East,
 MLB,WAS,Montreal Expos,1971,71,90,,,5th,NL,National League,East,
@@ -2705,6 +2734,7 @@ MLB,WAS,Washington Nationals,2022,55,107,,,5th,NL,National League,East,
 MLB,WAS,Washington Nationals,2023,71,91,,,5th,NL,National League,East,
 MLB,WAS,Washington Nationals,2024,71,91,,,4th,NL,National League,East,
 MLB,WAS,Washington Nationals,2025,66,96,,,5th,NL,National League,East,
+MLB,WAS,Washington Nationals,2026,77,85,,,4th,NL,National League,East,
 MLS,ATL,Atlanta United,2017,15,9,10,,4th,East,Eastern Conference,,E4
 MLS,ATL,Atlanta United,2018,21,7,6,,2nd,East,Eastern Conference,,E2
 MLS,ATL,Atlanta United,2019,18,12,4,,2nd,East,Eastern Conference,,E2
@@ -2714,11 +2744,13 @@ MLS,ATL,Atlanta United,2022,10,14,10,,11th,East,Eastern Conference,,
 MLS,ATL,Atlanta United,2023,13,9,12,,6th,East,Eastern Conference,,E6
 MLS,ATL,Atlanta United,2024,10,14,10,,9th,East,Eastern Conference,,E9
 MLS,ATL,Atlanta United,2025,5,16,13,,14th,East,Eastern Conference,,
+MLS,ATL,Atlanta United,2026,9,19,6,,13th,East,Eastern Conference,,
 MLS,AUS,Austin FC,2021,9,21,4,,13th,West,Western Conference,,
 MLS,AUS,Austin FC,2022,16,10,8,,2nd,West,Western Conference,,W2
 MLS,AUS,Austin FC,2023,10,15,9,,12th,West,Western Conference,,
 MLS,AUS,Austin FC,2024,11,14,9,,10th,West,Western Conference,,
 MLS,AUS,Austin FC,2025,13,13,8,,6th,West,Western Conference,,
+MLS,AUS,Austin FC,2026,8,16,10,,14th,West,Western Conference,,
 MLS,CBS,Columbus Crew,1996,11,17,4,,4th,East,Eastern Conference,,E4
 MLS,CBS,Columbus Crew,1997,12,17,3,,3rd,East,Eastern Conference,,E3
 MLS,CBS,Columbus Crew,1998,15,17,0,,2nd,East,Eastern Conference,,E2
@@ -2749,10 +2781,12 @@ MLS,CBS,Columbus Crew,2022,10,8,16,,8th,East,Eastern Conference,,
 MLS,CBS,Columbus Crew,2023,16,9,9,,3rd,East,Eastern Conference,,E3
 MLS,CBS,Columbus Crew,2024,19,6,9,,2nd,East,Eastern Conference,,E2
 MLS,CBS,Columbus Crew,2025,14,8,12,,7th,East,Eastern Conference,,
+MLS,CBS,Columbus Crew,2026,14,15,5,,7th,East,Eastern Conference,,
 MLS,CHA,Charlotte FC,2022,13,8,3,,9th,East,Eastern Conference,,
 MLS,CHA,Charlotte FC,2023,10,11,13,,9th,East,Eastern Conference,,E9
 MLS,CHA,Charlotte FC,2024,14,11,9,,5th,East,Eastern Conference,,E5
 MLS,CHA,Charlotte FC,2025,19,13,2,,4th,East,Eastern Conference,,
+MLS,CHA,Charlotte FC,2026,15,10,9,,5th,East,Eastern Conference,,
 MLS,CHI,Chicago Fire,1998,18,12,2,,2nd,West,Western Conference,,W2
 MLS,CHI,Chicago Fire,1999,15,14,3,,3rd,West,Western Conference,,W3
 MLS,CHI,Chicago Fire,2000,17,9,6,,1st,Central,Central Conference,,MLS2
@@ -2781,6 +2815,7 @@ MLS,CHI,Chicago Fire,2022,10,15,9,,12th,East,Eastern Conference,,
 MLS,CHI,Chicago Fire,2023,10,14,10,,13th,East,Eastern Conference,,
 MLS,CHI,Chicago Fire,2024,7,18,9,,15th,East,Eastern Conference,,
 MLS,CHI,Chicago Fire,2025,15,11,8,,8th,East,Eastern Conference,,
+MLS,CHI,Chicago Fire,2026,16,11,7,,4th,East,Eastern Conference,,
 MLS,CHV,Chivas USA,2005,4,22,6,,6th,West,Western Conference,,
 MLS,CHV,Chivas USA,2006,10,9,13,,3rd,West,Western Conference,,W3
 MLS,CHV,Chivas USA,2007,15,7,8,,1st,West,Western Conference,,W1
@@ -2798,6 +2833,7 @@ MLS,CIN,FC Cincinnati,2022,12,9,13,,5th,East,Eastern Conference,,E5
 MLS,CIN,FC Cincinnati,2023,20,5,9,,1st,East,Eastern Conference,,E1
 MLS,CIN,FC Cincinnati,2024,18,11,5,,3rd,East,Eastern Conference,,E3
 MLS,CIN,FC Cincinnati,2025,20,9,5,,2nd,East,Eastern Conference,,
+MLS,CIN,FC Cincinnati,2026,12,12,10,,9th,East,Eastern Conference,,
 MLS,COL,Colorado Rapids,1996,9,21,2,,5th,West,Western Conference,,
 MLS,COL,Colorado Rapids,1997,12,18,2,,4th,West,Western Conference,,W4
 MLS,COL,Colorado Rapids,1998,14,16,2,,3rd,West,Western Conference,,W3
@@ -2828,6 +2864,7 @@ MLS,COL,Colorado Rapids,2022,11,13,10,,10th,West,Western Conference,,
 MLS,COL,Colorado Rapids,2023,5,17,12,,14th,West,Western Conference,,
 MLS,COL,Colorado Rapids,2024,15,14,5,,7th,West,Western Conference,,W7
 MLS,COL,Colorado Rapids,2025,11,15,8,,11th,West,Western Conference,,
+MLS,COL,Colorado Rapids,2026,12,15,7,,12th,West,Western Conference,,
 MLS,DAL,Dallas Burn,1996,12,15,5,,2nd,West,Western Conference,,W2
 MLS,DAL,Dallas Burn,1997,13,16,3,,3rd,West,Western Conference,,W3
 MLS,DAL,Dallas Burn,1998,11,17,4,,4th,West,Western Conference,,W4
@@ -2858,6 +2895,7 @@ MLS,DAL,FC Dallas,2022,14,9,11,,3rd,West,Western Conference,,W3
 MLS,DAL,FC Dallas,2023,11,10,13,,7th,West,Western Conference,,W7
 MLS,DAL,FC Dallas,2024,11,15,8,,11th,West,Western Conference,,
 MLS,DAL,FC Dallas,2025,11,12,11,,7th,West,Western Conference,,
+MLS,DAL,FC Dallas,2026,16,8,10,,2nd,West,Western Conference,,
 MLS,DCU,DC United,1996,15,16,1,,2nd,East,Eastern Conference,,E2
 MLS,DCU,DC United,1997,17,11,4,,1st,East,Eastern Conference,,E1
 MLS,DCU,DC United,1998,17,8,7,,1st,East,Eastern Conference,,E1
@@ -2888,6 +2926,7 @@ MLS,DCU,DC United,2022,7,21,6,,14th,East,Eastern Conference,,
 MLS,DCU,DC United,2023,10,14,10,,12th,East,Eastern Conference,,
 MLS,DCU,DC United,2024,10,14,10,,10th,East,Eastern Conference,,
 MLS,DCU,DC United,2025,5,18,11,,15th,East,Eastern Conference,,
+MLS,DCU,DC United,2026,7,15,12,,14th,East,Eastern Conference,,
 MLS,HOU,Houston Dynamo,2006,11,8,13,,2nd,West,Western Conference,,W2
 MLS,HOU,Houston Dynamo,2007,15,8,7,,2nd,West,Western Conference,,W2
 MLS,HOU,Houston Dynamo,2008,13,5,12,,1st,West,Western Conference,,W1
@@ -2908,6 +2947,7 @@ MLS,HOU,Houston Dynamo,2022,10,8,6,,13th,West,Western Conference,,
 MLS,HOU,Houston Dynamo,2023,14,11,9,,4th,West,Western Conference,,W4
 MLS,HOU,Houston Dynamo,2024,15,10,9,,5th,West,Western Conference,,W5
 MLS,HOU,Houston Dynamo,2025,9,15,10,,12th,West,Western Conference,,
+MLS,HOU,Houston Dynamo,2026,14,11,9,,5th,West,Western Conference,,
 MLS,KAN,Kansas City Wiz,1996,12,15,5,,3rd,West,Western Conference,,W3
 MLS,KAN,Kansas City Wizards,1997,14,11,7,,1st,West,Western Conference,,W1
 MLS,KAN,Kansas City Wizards,1998,10,20,2,,6th,West,Western Conference,,
@@ -2938,6 +2978,7 @@ MLS,KAN,Sporting Kansas City,2022,11,16,7,,12th,West,Western Conference,,
 MLS,KAN,Sporting Kansas City,2023,12,14,8,,8th,West,Western Conference,,W8
 MLS,KAN,Sporting Kansas City,2024,8,19,7,,14th,West,Western Conference,,
 MLS,KAN,Sporting Kansas City,2025,7,20,7,,15th,West,Western Conference,,
+MLS,KAN,Sporting Kansas City,2026,7,22,5,,15th,West,Western Conference,,
 MLS,LAF,Los Angeles FC,2018,16,9,9,,3rd,West,Western Conference,,W3
 MLS,LAF,Los Angeles FC,2019,21,4,9,,1st,West,Western Conference,,W1
 MLS,LAF,Los Angeles FC,2020,9,8,5,,7th,West,Western Conference,,W7
@@ -2946,6 +2987,7 @@ MLS,LAF,Los Angeles FC,2022,21,9,4,,1st,West,Western Conference,,W1
 MLS,LAF,Los Angeles FC,2023,14,10,10,,3rd,West,Western Conference,,W3
 MLS,LAF,Los Angeles FC,2024,19,8,7,,1st,West,Western Conference,,W1
 MLS,LAF,Los Angeles FC,2025,17,8,9,,3rd,West,Western Conference,,
+MLS,LAF,Los Angeles FC,2026,12,11,11,,6th,West,Western Conference,,
 MLS,LAG,Los Angeles Galaxy,1996,15,13,4,,1st,West,Western Conference,,W1
 MLS,LAG,Los Angeles Galaxy,1997,14,16,2,,2nd,West,Western Conference,,W2
 MLS,LAG,Los Angeles Galaxy,1998,22,8,2,,1st,West,Western Conference,,W1
@@ -2976,12 +3018,14 @@ MLS,LAG,Los Angeles Galaxy,2022,14,12,8,,4th,West,Western Conference,,W4
 MLS,LAG,Los Angeles Galaxy,2023,8,14,12,,13th,West,Western Conference,,
 MLS,LAG,Los Angeles Galaxy,2024,19,8,7,,2nd,West,Western Conference,,W2
 MLS,LAG,Los Angeles Galaxy,2025,7,18,9,,14th,West,Western Conference,,
+MLS,LAG,Los Angeles Galaxy,2026,11,12,11,,11th,West,Western Conference,,
 MLS,MIA,Inter Miami,2020,7,13,3,,10th,East,Eastern Conference,,E10
 MLS,MIA,Inter Miami,2021,12,17,5,,11th,East,Eastern Conference,,
 MLS,MIA,Inter Miami,2022,14,14,6,,6th,East,Eastern Conference,,E6
 MLS,MIA,Inter Miami,2023,9,18,7,,14th,East,Eastern Conference,,
 MLS,MIA,Inter Miami,2024,22,4,8,,1st,East,Eastern Conference,,E1
 MLS,MIA,Inter Miami,2025,19,7,8,,3rd,East,Eastern Conference,,
+MLS,MIA,Inter Miami,2026,16,6,12,,2nd,East,Eastern Conference,,
 MLS,MIF,Miami Fusion,1998,10,17,5,,4th,East,Eastern Conference,,E4
 MLS,MIF,Miami Fusion,1999,8,19,5,,4th,East,Eastern Conference,,E4
 MLS,MIF,Miami Fusion,2000,12,15,5,,3rd,East,Eastern Conference,,
@@ -2995,6 +3039,7 @@ MLS,MIN,Minnesota United,2022,14,14,6,,6th,West,Western Conference,,W6
 MLS,MIN,Minnesota United,2023,10,13,11,,11th,West,Western Conference,,
 MLS,MIN,Minnesota United,2024,15,12,7,,6th,West,Western Conference,,W6
 MLS,MIN,Minnesota United,2025,16,8,10,,4th,West,Western Conference,,
+MLS,MIN,Minnesota United,2026,11,12,11,,10th,West,Western Conference,,
 MLS,MON,Montreal Impact,2012,12,16,6,,7th,East,Eastern Conference,,
 MLS,MON,Montreal Impact,2013,14,13,7,,5th,East,Eastern Conference,,E5
 MLS,MON,Montreal Impact,2014,6,18,10,,10th,East,Eastern Conference,,
@@ -3009,12 +3054,14 @@ MLS,MON,CF Montreal,2022,20,9,5,,2nd,East,Eastern Conference,,E2
 MLS,MON,CF Montreal,2023,12,17,5,,10th,East,Eastern Conference,,
 MLS,MON,CF Montreal,2024,11,13,10,,8th,East,Eastern Conference,,E8
 MLS,MON,CF Montreal,2025,6,18,10,,13th,East,Eastern Conference,,
+MLS,MON,CF Montreal,2026,6,20,8,,15th,East,Eastern Conference,,
 MLS,NAS,Nashville SC,2020,8,7,8,,7th,East,Eastern Conference,,E7
 MLS,NAS,Nashville SC,2021,12,4,18,,3rd,East,Eastern Conference,,E3
 MLS,NAS,Nashville SC,2022,13,10,11,,5th,West,Western Conference,,W5
 MLS,NAS,Nashville SC,2023,13,11,10,,7th,East,Eastern Conference,,E7
 MLS,NAS,Nashville SC,2024,9,16,9,,13th,East,Eastern Conference,,
 MLS,NAS,Nashville SC,2025,16,12,6,,6th,East,Eastern Conference,,
+MLS,NAS,Nashville SC,2026,23,3,8,,1st,East,Eastern Conference,,
 MLS,NED,New England Revolution,1996,9,17,6,,5th,East,Eastern Conference,,
 MLS,NED,New England Revolution,1997,11,17,4,,4th,East,Eastern Conference,,E4
 MLS,NED,New England Revolution,1998,9,21,2,,6th,East,Eastern Conference,,
@@ -3045,6 +3092,7 @@ MLS,NED,New England Revolution,2022,10,12,12,,10th,East,Eastern Conference,,
 MLS,NED,New England Revolution,2023,15,9,10,,5th,East,Eastern Conference,,E5
 MLS,NED,New England Revolution,2024,9,21,4,,14th,East,Eastern Conference,,
 MLS,NED,New England Revolution,2025,9,16,9,,11th,East,Eastern Conference,,
+MLS,NED,New England Revolution,2026,18,12,4,,3rd,East,Eastern Conference,,
 MLS,NYB,NY/NJ MetroStars,1996,12,17,3,,3rd,East,Eastern Conference,,E3
 MLS,NYB,NY/NJ MetroStars,1997,11,19,2,,5th,East,Eastern Conference,,
 MLS,NYB,NY/NJ MetroStars,1998,12,17,3,,3rd,East,Eastern Conference,,E3
@@ -3075,6 +3123,7 @@ MLS,NYB,New York Red Bulls,2022,15,11,8,,4th,East,Eastern Conference,,E4
 MLS,NYB,New York Red Bulls,2023,11,13,10,,8th,East,Eastern Conference,,E8
 MLS,NYB,New York Red Bulls,2024,11,9,14,,7th,East,Eastern Conference,,E7
 MLS,NYB,New York Red Bulls,2025,12,15,7,,10th,East,Eastern Conference,,
+MLS,NYB,New York Red Bulls,2026,12,16,6,,10th,East,Eastern Conference,,
 MLS,NYC,New York City FC,2015,10,17,7,,8th,East,Eastern Conference,,
 MLS,NYC,New York City FC,2016,15,10,9,,2nd,East,Eastern Conference,,E2
 MLS,NYC,New York City FC,2017,16,9,9,,2nd,East,Eastern Conference,,E2
@@ -3086,6 +3135,7 @@ MLS,NYC,New York City FC,2022,16,11,7,,3rd,East,Eastern Conference,,E3
 MLS,NYC,New York City FC,2023,9,11,14,,11th,East,Eastern Conference,,
 MLS,NYC,New York City FC,2024,14,12,8,,6th,East,Eastern Conference,,E6
 MLS,NYC,New York City FC,2025,17,12,5,,5th,East,Eastern Conference,,
+MLS,NYC,New York City FC,2026,10,12,12,,11th,East,Eastern Conference,,
 MLS,ORL,Orlando City,2015,12,14,8,,7th,East,Eastern Conference,,
 MLS,ORL,Orlando City,2016,9,11,14,,8th,East,Eastern Conference,,
 MLS,ORL,Orlando City,2017,10,15,9,,10th,East,Eastern Conference,,
@@ -3097,6 +3147,7 @@ MLS,ORL,Orlando City,2022,14,14,6,,7th,East,Eastern Conference,,E7
 MLS,ORL,Orlando City,2023,18,7,9,,2nd,East,Eastern Conference,,E2
 MLS,ORL,Orlando City,2024,15,12,7,,4th,East,Eastern Conference,,E4
 MLS,ORL,Orlando City,2025,14,9,11,,9th,East,Eastern Conference,,
+MLS,ORL,Orlando City,2026,13,14,7,,8th,East,Eastern Conference,,
 MLS,PHI,Philadelphia Union,2010,8,15,7,,7th,East,Eastern Conference,,
 MLS,PHI,Philadelphia Union,2011,11,8,15,,3rd,East,Eastern Conference,,E3
 MLS,PHI,Philadelphia Union,2012,10,18,6,,8th,East,Eastern Conference,,
@@ -3113,6 +3164,7 @@ MLS,PHI,Philadelphia Union,2022,19,5,10,,1st,East,Eastern Conference,,E1
 MLS,PHI,Philadelphia Union,2023,15,9,10,,4th,East,Eastern Conference,,E4
 MLS,PHI,Philadelphia Union,2024,9,15,10,,12th,East,Eastern Conference,,
 MLS,PHI,Philadelphia Union,2025,20,8,6,,1st,East,Eastern Conference,,
+MLS,PHI,Philadelphia Union,2026,14,12,8,,6th,East,Eastern Conference,,
 MLS,POR,Portland Timbers,2011,11,14,9,,6th,West,Western Conference,,
 MLS,POR,Portland Timbers,2012,8,16,10,,8th,West,Western Conference,,
 MLS,POR,Portland Timbers,2013,14,5,15,,1st,West,Western Conference,,W1
@@ -3128,6 +3180,7 @@ MLS,POR,Portland Timbers,2022,11,10,13,,8th,West,Western Conference,,
 MLS,POR,Portland Timbers,2023,11,13,10,,10th,West,Western Conference,,
 MLS,POR,Portland Timbers,2024,12,11,11,,9th,West,Western Conference,,W9
 MLS,POR,Portland Timbers,2025,11,12,11,,8th,West,Western Conference,,
+MLS,POR,Portland Timbers,2026,13,14,7,,7th,West,Western Conference,,
 MLS,SAL,Real Salt Lake,2005,5,22,5,,5th,West,Western Conference,,
 MLS,SAL,Real Salt Lake,2006,10,13,9,,6th,West,Western Conference,,
 MLS,SAL,Real Salt Lake,2007,6,15,9,,6th,West,Western Conference,,
@@ -3149,7 +3202,9 @@ MLS,SAL,Real Salt Lake,2022,12,11,11,,7th,West,Western Conference,,W7
 MLS,SAL,Real Salt Lake,2023,14,12,8,,5th,West,Western Conference,,W5
 MLS,SAL,Real Salt Lake,2024,16,7,11,,3rd,West,Western Conference,,W3
 MLS,SAL,Real Salt Lake,2025,12,17,5,,9th,West,Western Conference,,
+MLS,SAL,Real Salt Lake,2026,13,15,6,,9th,West,Western Conference,,
 MLS,SDG,San Diego FC,2025,19,9,6,,1st,West,Western Conference,,
+MLS,SDG,San Diego FC,2026,9,14,11,,13th,West,Western Conference,,
 MLS,SEA,Seattle Sounders,2009,12,7,11,,3rd,West,Western Conference,,W3
 MLS,SEA,Seattle Sounders,2010,14,10,6,,4th,West,Western Conference,,W4
 MLS,SEA,Seattle Sounders,2011,18,7,9,,2nd,West,Western Conference,,W2
@@ -3167,6 +3222,7 @@ MLS,SEA,Seattle Sounders,2022,12,17,5,,11th,West,Western Conference,,
 MLS,SEA,Seattle Sounders,2023,14,9,11,,2nd,West,Western Conference,,W2
 MLS,SEA,Seattle Sounders,2024,16,9,9,,4th,West,Western Conference,,W4
 MLS,SEA,Seattle Sounders,2025,15,9,10,,5th,West,Western Conference,,
+MLS,SEA,Seattle Sounders,2026,12,12,10,,8th,West,Western Conference,,
 MLS,SJS,San Jose Clash,1996,12,17,3,,4th,West,Western Conference,,W4
 MLS,SJS,San Jose Clash,1997,9,20,3,,5th,West,Western Conference,,
 MLS,SJS,San Jose Clash,1998,10,19,3,,5th,West,Western Conference,,
@@ -3195,9 +3251,11 @@ MLS,SJS,San Jose Earthquakes,2022,8,15,11,,14th,West,Western Conference,,
 MLS,SJS,San Jose Earthquakes,2023,10,10,14,,9th,West,Western Conference,,W9
 MLS,SJS,San Jose Earthquakes,2024,6,25,3,,14th,West,Western Conference,,
 MLS,SJS,San Jose Earthquakes,2025,11,15,8,,10th,West,Western Conference,,
+MLS,SJS,San Jose Earthquakes,2026,14,10,10,,4th,West,Western Conference,,
 MLS,STL,St. Louis City,2023,17,12,5,,1st,West,Western Conference,,W1
 MLS,STL,St. Louis City,2024,8,13,13,,12th,West,Western Conference,,
 MLS,STL,St. Louis City,2025,8,18,8,,13th,West,Western Conference,,
+MLS,STL,St. Louis City,2026,15,10,9,,3rd,West,Western Conference,,
 MLS,TAM,Tampa Bay Mutiny,1996,19,12,1,,1st,East,Eastern Conference,,E1
 MLS,TAM,Tampa Bay Mutiny,1997,14,15,3,,2nd,East,Eastern Conference,,E2
 MLS,TAM,Tampa Bay Mutiny,1998,11,20,1,,5th,East,Eastern Conference,,
@@ -3223,6 +3281,7 @@ MLS,TOR,Toronto FC,2022,9,18,7,,13th,East,Eastern Conference,,
 MLS,TOR,Toronto FC,2023,4,20,10,,15th,East,Eastern Conference,,
 MLS,TOR,Toronto FC,2024,11,19,4,,11th,East,Eastern Conference,,
 MLS,TOR,Toronto FC,2025,6,14,14,,12th,East,Eastern Conference,,
+MLS,TOR,Toronto FC,2026,9,13,12,,6th,East,Eastern Conference,,
 MLS,VAN,Vancouver Whitecaps,2011,6,18,10,,9th,West,Western Conference,,
 MLS,VAN,Vancouver Whitecaps,2012,11,13,10,,5th,West,Western Conference,,W5
 MLS,VAN,Vancouver Whitecaps,2013,13,12,9,,7th,West,Western Conference,,
@@ -3238,6 +3297,7 @@ MLS,VAN,Vancouver Whitecaps,2022,12,15,7,,9th,West,Western Conference,,
 MLS,VAN,Vancouver Whitecaps,2023,12,10,12,,6th,West,Western Conference,,W6
 MLS,VAN,Vancouver Whitecaps,2024,13,13,8,,8th,West,Western Conference,,W8
 MLS,VAN,Vancouver Whitecaps,2025,18,7,9,,2nd,West,Western Conference,,
+MLS,VAN,Vancouver Whitecaps,2026,19,8,7,,1st,West,Western Conference,,
 NBA,ATL,Tri-Cities Blackhawks,1949-50,29,35,,,3rd,West,Western Division,,W3
 NBA,ATL,Tri-Cities Blackhawks,1950-51,25,46,,,5th,West,Western Division,,
 NBA,ATL,Milwaukee Hawks,1951-52,17,49,,,5th,West,Western Division,,
@@ -3314,6 +3374,7 @@ NBA,ATL,Atlanta Hawks,2021-22,43,39,,,2nd,East,Eastern Conference,Southeast,E8
 NBA,ATL,Atlanta Hawks,2022-23,41,41,,,2nd,East,Eastern Conference,Southeast,E7
 NBA,ATL,Atlanta Hawks,2023-24,36,46,,,3rd,East,Eastern Conference,Southeast,
 NBA,ATL,Atlanta Hawks,2024-25,40,42,,,3rd,East,Eastern Conference,Southeast,
+NBA,ATL,Atlanta Hawks,2025-26,46,36,,,1st,East,Eastern Conference,Southeast,E6
 NBA,BOS,Boston Celtics,1946-47,22,38,,,6th,East,Eastern Division,,
 NBA,BOS,Boston Celtics,1947-48,20,28,,,3rd,East,Eastern Division,,E3
 NBA,BOS,Boston Celtics,1948-49,25,35,,,5th,East,Eastern Division,,
@@ -3393,6 +3454,7 @@ NBA,BOS,Boston Celtics,2021-22,51,31,,,1st,East,Eastern Conference,Atlantic,E2
 NBA,BOS,Boston Celtics,2022-23,57,25,,,1st,East,Eastern Conference,Atlantic,E2
 NBA,BOS,Boston Celtics,2023-24,64,18,,,1st,East,Eastern Conference,Atlantic,E1
 NBA,BOS,Boston Celtics,2024-25,61,21,,,1st,East,Eastern Conference,Atlantic,E2
+NBA,BOS,Boston Celtics,2025-26,56,26,,,1st,East,Eastern Conference,Atlantic,E2
 NBA,BRK,New York Nets,1976-77,22,60,,,5th,East,Eastern Conference,Atlantic,
 NBA,BRK,New Jersey Nets,1977-78,24,58,,,5th,East,Eastern Conference,Atlantic,
 NBA,BRK,New Jersey Nets,1978-79,37,45,,,3rd,East,Eastern Conference,Atlantic,E6
@@ -3442,6 +3504,7 @@ NBA,BRK,Brooklyn Nets,2021-22,44,38,,,4th,East,Eastern Conference,Atlantic,E7
 NBA,BRK,Brooklyn Nets,2022-23,45,37,,,4th,East,Eastern Conference,Atlantic,E6
 NBA,BRK,Brooklyn Nets,2023-24,32,50,,,4th,East,Eastern Conference,Atlantic,
 NBA,BRK,Brooklyn Nets,2024-25,26,56,,,4th,East,Eastern Conference,Atlantic,
+NBA,BRK,Brooklyn Nets,2025-26,20,62,,,5th,East,Eastern Conference,Atlantic,
 NBA,CHA,Charlotte Hornets,1988-89,20,62,,,6th,East,Eastern Conference,Atlantic,
 NBA,CHA,Charlotte Hornets,1989-90,19,63,,,7th,West,Western Conference,Midwest,
 NBA,CHA,Charlotte Hornets,1990-91,26,56,,,7th,East,Eastern Conference,Central,
@@ -3477,6 +3540,7 @@ NBA,CHA,Charlotte Hornets,2021-22,43,39,,,3rd,East,Eastern Conference,Southeast,
 NBA,CHA,Charlotte Hornets,2022-23,27,55,,,5th,East,Eastern Conference,Southeast,
 NBA,CHA,Charlotte Hornets,2023-24,21,61,,,4th,East,Eastern Conference,Southeast,
 NBA,CHA,Charlotte Hornets,2024-25,19,63,,,4th,East,Eastern Conference,Southeast,
+NBA,CHA,Charlotte Hornets,2025-26,44,38,,,3rd,East,Eastern Conference,Southeast,
 NBA,CHI,Chicago Bulls,1966-67,33,48,,,4th,West,Western Division,,W4
 NBA,CHI,Chicago Bulls,1967-68,29,53,,,4th,West,Western Division,,W4
 NBA,CHI,Chicago Bulls,1968-69,33,49,,,5th,West,Western Division,,
@@ -3536,6 +3600,7 @@ NBA,CHI,Chicago Bulls,2021-22,46,36,,,2nd,East,Eastern Conference,Central,E6
 NBA,CHI,Chicago Bulls,2022-23,40,42,,,3rd,East,Eastern Conference,Central,
 NBA,CHI,Chicago Bulls,2023-24,39,43,,,4th,East,Eastern Conference,Central,
 NBA,CHI,Chicago Bulls,2024-25,39,43,,,5th,East,Eastern Conference,Central,
+NBA,CHI,Chicago Bulls,2025-26,31,51,,,4th,East,Eastern Conference,Central,
 NBA,CLE,Cleveland Cavaliers,1970-71,15,67,,,4th,East,Eastern Conference,Central,
 NBA,CLE,Cleveland Cavaliers,1971-72,23,59,,,4th,East,Eastern Conference,Central,
 NBA,CLE,Cleveland Cavaliers,1972-73,32,50,,,4th,East,Eastern Conference,Central,
@@ -3591,6 +3656,7 @@ NBA,CLE,Cleveland Cavaliers,2021-22,44,38,,,3rd,East,Eastern Conference,Central,
 NBA,CLE,Cleveland Cavaliers,2022-23,51,31,,,2nd,East,Eastern Conference,Central,E4
 NBA,CLE,Cleveland Cavaliers,2023-24,48,34,,,2nd,East,Eastern Conference,Central,E4
 NBA,CLE,Cleveland Cavaliers,2024-25,64,18,,,1st,East,Eastern Conference,Central,E1
+NBA,CLE,Cleveland Cavaliers,2025-26,52,30,,,2nd,East,Eastern Conference,Central,E4
 NBA,DAL,Dallas Mavericks,1980-81,15,67,,,6th,West,Western Conference,Midwest,
 NBA,DAL,Dallas Mavericks,1981-82,28,54,,,5th,West,Western Conference,Midwest,
 NBA,DAL,Dallas Mavericks,1982-83,38,44,,,4th,West,Western Conference,Midwest,
@@ -3636,6 +3702,7 @@ NBA,DAL,Dallas Mavericks,2021-22,52,30,,,2nd,West,Western Conference,Southwest,W
 NBA,DAL,Dallas Mavericks,2022-23,38,44,,,3rd,West,Western Conference,Southwest,
 NBA,DAL,Dallas Mavericks,2023-24,50,32,,,1st,West,Western Conference,Southwest,W5
 NBA,DAL,Dallas Mavericks,2024-25,39,43,,,3rd,West,Western Conference,Southwest,
+NBA,DAL,Dallas Mavericks,2025-26,26,56,,,4th,West,Western Conference,Southwest,
 NBA,DEN,Denver Nuggets,1976-77,50,32,,,1st,West,Western Conference,Midwest,W2
 NBA,DEN,Denver Nuggets,1977-78,48,34,,,1st,West,Western Conference,Midwest,W2
 NBA,DEN,Denver Nuggets,1978-79,47,35,,,2nd,West,Western Conference,Midwest,W4
@@ -3685,6 +3752,7 @@ NBA,DEN,Denver Nuggets,2021-22,48,34,,,2nd,West,Western Conference,Northwest,W6
 NBA,DEN,Denver Nuggets,2022-23,53,29,,,1st,West,Western Conference,Northwest,W1
 NBA,DEN,Denver Nuggets,2023-24,57,25,,,2nd,West,Western Conference,Northwest,W2
 NBA,DEN,Denver Nuggets,2024-25,50,32,,,2nd,West,Western Conference,Northwest,W4
+NBA,DEN,Denver Nuggets,2025-26,54,28,,,2nd,West,Western Conference,Northwest,W3
 NBA,DET,Fort Wayne Pistons,1948-49,22,38,,,5th,West,Western Division,,
 NBA,DET,Fort Wayne Pistons,1949-50,40,28,,,3rd,Central,Central Division,,C3
 NBA,DET,Fort Wayne Pistons,1950-51,32,36,,,3rd,West,Western Division,,W3
@@ -3762,6 +3830,7 @@ NBA,DET,Detroit Pistons,2021-22,23,59,,,5th,East,Eastern Conference,Central,
 NBA,DET,Detroit Pistons,2022-23,17,65,,,5th,East,Eastern Conference,Central,
 NBA,DET,Detroit Pistons,2023-24,14,68,,,5th,East,Eastern Conference,Central,
 NBA,DET,Detroit Pistons,2024-25,44,38,,,4th,East,Eastern Conference,Central,E6
+NBA,DET,Detroit Pistons,2025-26,60,22,,,1st,East,Eastern Conference,Central,E1
 NBA,GOL,Philadelphia Warriors,1946-47,35,25,,,2nd,East,Eastern Division,,E2
 NBA,GOL,Philadelphia Warriors,1947-48,27,21,,,1st,East,Eastern Division,,E1
 NBA,GOL,Philadelphia Warriors,1948-49,28,32,,,4th,East,Eastern Division,,E4
@@ -3841,6 +3910,7 @@ NBA,GOL,Golden State Warriors,2021-22,53,29,,,2nd,West,Western Conference,Pacifi
 NBA,GOL,Golden State Warriors,2022-23,44,38,,,4th,West,Western Conference,Pacific,W6
 NBA,GOL,Golden State Warriors,2023-24,46,36,,,5th,West,Western Conference,Pacific,
 NBA,GOL,Golden State Warriors,2024-25,48,34,,,3rd,West,Western Conference,Pacific,W7
+NBA,GOL,Golden State Warriors,2025-26,37,45,,,4th,West,Western Conference,Pacific,
 NBA,HOU,San Diego Rockets,1967-68,15,67,,,6th,West,Western Division,,
 NBA,HOU,San Diego Rockets,1968-69,37,45,,,4th,West,Western Division,,W4
 NBA,HOU,San Diego Rockets,1969-70,27,55,,,7th,West,Western Division,,
@@ -3899,6 +3969,7 @@ NBA,HOU,Houston Rockets,2021-22,20,62,,,5th,West,Western Conference,Southwest,
 NBA,HOU,Houston Rockets,2022-23,22,60,,,4th,West,Western Conference,Southwest,
 NBA,HOU,Houston Rockets,2023-24,41,41,,,3rd,West,Western Conference,Southwest,
 NBA,HOU,Houston Rockets,2024-25,52,30,,,1st,West,Western Conference,Southwest,W2
+NBA,HOU,Houston Rockets,2025-26,52,30,,,2nd,West,Western Conference,Southwest,W5
 NBA,IND,Indiana Pacers,1976-77,36,46,,,5th,West,Western Conference,Midwest,
 NBA,IND,Indiana Pacers,1977-78,31,51,,,5th,West,Western Conference,Midwest,
 NBA,IND,Indiana Pacers,1978-79,38,44,,,3rd,West,Western Conference,Midwest,
@@ -3948,6 +4019,7 @@ NBA,IND,Indiana Pacers,2021-22,25,57,,,4th,East,Eastern Conference,Central,
 NBA,IND,Indiana Pacers,2022-23,35,47,,,4th,East,Eastern Conference,Central,
 NBA,IND,Indiana Pacers,2023-24,47,35,,,3rd,East,Eastern Conference,Central,E6
 NBA,IND,Indiana Pacers,2024-25,50,32,,,2nd,East,Eastern Conference,Central,E4
+NBA,IND,Indiana Pacers,2025-26,19,63,,,5th,East,Eastern Conference,Central,
 NBA,LAC,Buffalo Braves,1970-71,22,60,,,4th,East,Eastern Conference,Atlantic,
 NBA,LAC,Buffalo Braves,1971-72,22,60,,,4th,East,Eastern Conference,Atlantic,
 NBA,LAC,Buffalo Braves,1972-73,21,61,,,3rd,East,Eastern Conference,Atlantic,
@@ -4003,6 +4075,7 @@ NBA,LAC,Los Angeles Clippers,2021-22,42,40,,,3rd,West,Western Conference,Pacific
 NBA,LAC,Los Angeles Clippers,2022-23,44,38,,,3rd,West,Western Conference,Pacific,W5
 NBA,LAC,Los Angeles Clippers,2023-24,51,31,,,1st,West,Western Conference,Pacific,W4
 NBA,LAC,Los Angeles Clippers,2024-25,50,32,,,2nd,West,Western Conference,Pacific,W5
+NBA,LAC,Los Angeles Clippers,2025-26,42,40,,,3rd,West,Western Conference,Pacific,
 NBA,LAL,Minneapolis Lakers,1948-49,44,16,,,2nd,West,Western Division,,W2
 NBA,LAL,Minneapolis Lakers,1949-50,51,17,,,1st,Central,Central Division,,C1
 NBA,LAL,Minneapolis Lakers,1950-51,44,24,,,1st,West,Western Division,,W1
@@ -4080,6 +4153,7 @@ NBA,LAL,Los Angeles Lakers,2021-22,33,49,,,4th,West,Western Conference,Pacific,
 NBA,LAL,Los Angeles Lakers,2022-23,43,39,,,5th,West,Western Conference,Pacific,W7
 NBA,LAL,Los Angeles Lakers,2023-24,47,35,,,3rd,West,Western Conference,Pacific,W7
 NBA,LAL,Los Angeles Lakers,2024-25,50,32,,,1st,West,Western Conference,Pacific,W3
+NBA,LAL,Los Angeles Lakers,2025-26,53,29,,,1st,West,Western Conference,Pacific,W4
 NBA,MEM,Vancouver Grizzlies,1995-96,15,67,,,7th,West,Western Conference,Midwest,
 NBA,MEM,Vancouver Grizzlies,1996-97,14,68,,,7th,West,Western Conference,Midwest,
 NBA,MEM,Vancouver Grizzlies,1997-98,19,63,,,6th,West,Western Conference,Midwest,
@@ -4110,6 +4184,7 @@ NBA,MEM,Memphis Grizzlies,2021-22,56,26,,,1st,West,Western Conference,Southwest,
 NBA,MEM,Memphis Grizzlies,2022-23,51,31,,,1st,West,Western Conference,Southwest,W2
 NBA,MEM,Memphis Grizzlies,2023-24,27,55,,,4th,West,Western Conference,Southwest,
 NBA,MEM,Memphis Grizzlies,2024-25,48,34,,,2nd,West,Western Conference,Southwest,W8
+NBA,MEM,Memphis Grizzlies,2025-26,25,57,,,5th,West,Western Conference,Southwest,
 NBA,MIA,Miami Heat,1988-89,15,67,,,6th,West,Western Conference,Midwest,
 NBA,MIA,Miami Heat,1989-90,18,64,,,5th,East,Eastern Conference,Atlantic,
 NBA,MIA,Miami Heat,1990-91,24,58,,,6th,East,Eastern Conference,Atlantic,
@@ -4147,6 +4222,7 @@ NBA,MIA,Miami Heat,2021-22,53,29,,,1st,East,Eastern Conference,Southeast,E1
 NBA,MIA,Miami Heat,2022-23,44,38,,,1st,East,Eastern Conference,Southeast,E8
 NBA,MIA,Miami Heat,2023-24,46,36,,,2nd,East,Eastern Conference,Southeast,E8
 NBA,MIA,Miami Heat,2024-25,37,45,,,2nd,East,Eastern Conference,Southeast,E8
+NBA,MIA,Miami Heat,2025-26,43,39,,,4th,East,Eastern Conference,Southeast,
 NBA,MIN,Minnesota Timberwolves,1989-90,22,60,,,6th,West,Western Conference,Midwest,
 NBA,MIN,Minnesota Timberwolves,1990-91,29,53,,,5th,West,Western Conference,Midwest,
 NBA,MIN,Minnesota Timberwolves,1991-92,15,67,,,6th,West,Western Conference,Midwest,
@@ -4183,6 +4259,7 @@ NBA,MIN,Minnesota Timberwolves,2021-22,46,36,,,3rd,West,Western Conference,North
 NBA,MIN,Minnesota Timberwolves,2022-23,42,40,,,2nd,West,Western Conference,Northwest,W8
 NBA,MIN,Minnesota Timberwolves,2023-24,56,26,,,3rd,West,Western Conference,Northwest,W3
 NBA,MIN,Minnesota Timberwolves,2024-25,49,33,,,3rd,West,Western Conference,Northwest,W6
+NBA,MIN,Minnesota Timberwolves,2025-26,49,33,,,3rd,West,Western Conference,Northwest,W6
 NBA,MKE,Milwaukee Bucks,1968-69,27,55,,,7th,East,Eastern Division,,
 NBA,MKE,Milwaukee Bucks,1969-70,56,26,,,2nd,East,Eastern Division,,E2
 NBA,MKE,Milwaukee Bucks,1970-71,66,16,,,1st,West,Western Conference,Midwest,M1
@@ -4240,6 +4317,7 @@ NBA,MKE,Milwaukee Bucks,2021-22,51,31,,,1st,East,Eastern Conference,Central,E3
 NBA,MKE,Milwaukee Bucks,2022-23,58,24,,,1st,East,Eastern Conference,Central,E1
 NBA,MKE,Milwaukee Bucks,2023-24,49,33,,,1st,East,Eastern Conference,Central,E3
 NBA,MKE,Milwaukee Bucks,2024-25,48,34,,,3rd,East,Eastern Conference,Central,E5
+NBA,MKE,Milwaukee Bucks,2025-26,32,50,,,3rd,East,Eastern Conference,Central,
 NBA,NOR,New Orleans Hornets,2002-03,47,35,,,3rd,East,Eastern Conference,Central,E5
 NBA,NOR,New Orleans Hornets,2003-04,41,41,,,3rd,East,Eastern Conference,Central,E5
 NBA,NOR,New Orleans Hornets,2004-05,18,64,,,5th,West,Western Conference,Southwest,
@@ -4263,6 +4341,7 @@ NBA,NOR,New Orleans Pelicans,2021-22,36,46,,,3rd,West,Western Conference,Southwe
 NBA,NOR,New Orleans Pelicans,2022-23,42,40,,,2nd,West,Western Conference,Southwest,
 NBA,NOR,New Orleans Pelicans,2023-24,49,33,,,2nd,West,Western Conference,Southwest,W8
 NBA,NOR,New Orleans Pelicans,2024-25,21,61,,,5th,West,Western Conference,Southwest,
+NBA,NOR,New Orleans Pelicans,2025-26,26,56,,,3rd,West,Western Conference,Southwest,
 NBA,NYK,New York Knicks,1946-47,33,27,,,3rd,East,Eastern Division,,E3
 NBA,NYK,New York Knicks,1947-48,26,22,,,2nd,East,Eastern Division,,E2
 NBA,NYK,New York Knicks,1948-49,32,28,,,2nd,East,Eastern Division,,E2
@@ -4342,6 +4421,7 @@ NBA,NYK,New York Knicks,2021-22,37,45,,,5th,East,Eastern Conference,Atlantic,
 NBA,NYK,New York Knicks,2022-23,47,35,,,3rd,East,Eastern Conference,Atlantic,E5
 NBA,NYK,New York Knicks,2023-24,50,32,,,2nd,East,Eastern Conference,Atlantic,E2
 NBA,NYK,New York Knicks,2024-25,51,31,,,2nd,East,Eastern Conference,Atlantic,E3
+NBA,NYK,New York Knicks,2025-26,53,29,,,2nd,East,Eastern Conference,Atlantic,E3
 NBA,OKC,Seattle Sonics,1967-68,23,59,,,5th,West,Western Division,,
 NBA,OKC,Seattle Sonics,1968-69,30,52,,,6th,West,Western Division,,
 NBA,OKC,Seattle Sonics,1969-70,36,46,,,5th,West,Western Division,,
@@ -4400,6 +4480,7 @@ NBA,OKC,Oklahoma City Thunder,2021-22,24,58,,,5th,West,Western Conference,Northw
 NBA,OKC,Oklahoma City Thunder,2022-23,40,42,,,3rd,West,Western Conference,Northwest,
 NBA,OKC,Oklahoma City Thunder,2023-24,57,25,,,1st,West,Western Conference,Northwest,W1
 NBA,OKC,Oklahoma City Thunder,2024-25,68,14,,,1st,West,Western Conference,Northwest,W1
+NBA,OKC,Oklahoma City Thunder,2025-26,64,18,,,1st,West,Western Conference,Northwest,W1
 NBA,ORL,Orlando Magic,1989-90,18,64,,,7th,West,Western Conference,Midwest,
 NBA,ORL,Orlando Magic,1990-91,31,51,,,4th,West,Western Conference,Midwest,
 NBA,ORL,Orlando Magic,1991-92,21,61,,,7th,East,Eastern Conference,Atlantic,
@@ -4436,6 +4517,7 @@ NBA,ORL,Orlando Magic,2021-22,22,60,,,5th,East,Eastern Conference,Southeast,
 NBA,ORL,Orlando Magic,2022-23,34,48,,,4th,East,Eastern Conference,Southeast,
 NBA,ORL,Orlando Magic,2023-24,47,35,,,1st,East,Eastern Conference,Southeast,E5
 NBA,ORL,Orlando Magic,2024-25,41,41,,,1st,East,Eastern Conference,Southeast,E7
+NBA,ORL,Orlando Magic,2025-26,45,37,,,2nd,East,Eastern Conference,Southeast,E8
 NBA,PHI,Syracuse Nationals,1949-50,51,13,,,1st,East,Eastern Division,,E1
 NBA,PHI,Syracuse Nationals,1950-51,32,34,,,4th,East,Eastern Division,,E4
 NBA,PHI,Syracuse Nationals,1951-52,40,26,,,1st,East,Eastern Division,,E1
@@ -4512,6 +4594,7 @@ NBA,PHI,Philadelphia 76ers,2021-22,51,31,,,2nd,East,Eastern Conference,Atlantic,
 NBA,PHI,Philadelphia 76ers,2022-23,54,28,,,2nd,East,Eastern Conference,Atlantic,E3
 NBA,PHI,Philadelphia 76ers,2023-24,47,35,,,3rd,East,Eastern Conference,Atlantic,E7
 NBA,PHI,Philadelphia 76ers,2024-25,24,58,,,5th,East,Eastern Conference,Atlantic,
+NBA,PHI,Philadelphia 76ers,2025-26,45,37,,,4th,East,Eastern Conference,Atlantic,E7
 NBA,PHX,Phoenix Suns,1968-69,16,66,,,7th,West,Western Division,,
 NBA,PHX,Phoenix Suns,1969-70,39,43,,,4th,West,Western Division,,W4
 NBA,PHX,Phoenix Suns,1970-71,48,34,,,3rd,West,Western Conference,Midwest,
@@ -4569,6 +4652,7 @@ NBA,PHX,Phoenix Suns,2021-22,64,18,,,1st,West,Western Conference,Pacific,W1
 NBA,PHX,Phoenix Suns,2022-23,45,37,,,2nd,West,Western Conference,Pacific,W4
 NBA,PHX,Phoenix Suns,2023-24,49,33,,,2nd,West,Western Conference,Pacific,W6
 NBA,PHX,Phoenix Suns,2024-25,36,46,,,5th,West,Western Conference,Pacific,
+NBA,PHX,Phoenix Suns,2025-26,45,37,,,2nd,West,Western Conference,Pacific,W8
 NBA,POR,Portland Blazers,1970-71,29,53,,,5th,West,Western Conference,Pacific,
 NBA,POR,Portland Blazers,1971-72,18,64,,,5th,West,Western Conference,Pacific,
 NBA,POR,Portland Blazers,1972-73,21,61,,,5th,West,Western Conference,Pacific,
@@ -4624,6 +4708,7 @@ NBA,POR,Portland Blazers,2021-22,27,55,,,4th,West,Western Conference,Northwest,
 NBA,POR,Portland Blazers,2022-23,33,49,,,5th,West,Western Conference,Northwest,
 NBA,POR,Portland Blazers,2023-24,21,61,,,5th,West,Western Conference,Northwest,
 NBA,POR,Portland Blazers,2024-25,36,46,,,4th,West,Western Conference,Northwest,
+NBA,POR,Portland Blazers,2025-26,42,40,,,4th,West,Western Conference,Northwest,W7
 NBA,SAC,Rochester Royals,1948-49,45,15,,,1st,West,Western Division,,W1
 NBA,SAC,Rochester Royals,1949-50,51,17,,,2nd,Central,Central Division,,C2
 NBA,SAC,Rochester Royals,1950-51,41,27,,,2nd,West,Western Division,,W2
@@ -4701,6 +4786,7 @@ NBA,SAC,Sacramento Kings,2021-22,30,52,,,5th,West,Western Conference,Pacific,
 NBA,SAC,Sacramento Kings,2022-23,48,34,,,1st,West,Western Conference,Pacific,W3
 NBA,SAC,Sacramento Kings,2023-24,46,36,,,4th,West,Western Conference,Pacific,
 NBA,SAC,Sacramento Kings,2024-25,40,42,,,4th,West,Western Conference,Pacific,
+NBA,SAC,Sacramento Kings,2025-26,22,60,,,5th,West,Western Conference,Pacific,
 NBA,SAT,San Antonio Spurs,1976-77,44,38,,,3rd,East,Eastern Conference,Central,E5
 NBA,SAT,San Antonio Spurs,1977-78,52,30,,,1st,East,Eastern Conference,Central,E2
 NBA,SAT,San Antonio Spurs,1978-79,48,34,,,1st,East,Eastern Conference,Central,E2
@@ -4750,6 +4836,7 @@ NBA,SAT,San Antonio Spurs,2021-22,34,48,,,4th,West,Western Conference,Southwest,
 NBA,SAT,San Antonio Spurs,2022-23,22,60,,,5th,West,Western Conference,Southwest,
 NBA,SAT,San Antonio Spurs,2023-24,22,60,,,5th,West,Western Conference,Southwest,
 NBA,SAT,San Antonio Spurs,2024-25,34,48,,,4th,West,Western Conference,Southwest,
+NBA,SAT,San Antonio Spurs,2025-26,62,20,,,1st,West,Western Conference,Southwest,W2
 NBA,TOR,Toronto Raptors,1995-96,21,61,,,8th,East,Eastern Conference,Central,
 NBA,TOR,Toronto Raptors,1996-97,30,52,,,8th,East,Eastern Conference,Central,
 NBA,TOR,Toronto Raptors,1997-98,16,66,,,8th,East,Eastern Conference,Central,
@@ -4780,6 +4867,7 @@ NBA,TOR,Toronto Raptors,2021-22,48,34,,,3rd,East,Eastern Conference,Atlantic,E5
 NBA,TOR,Toronto Raptors,2022-23,41,41,,,5th,East,Eastern Conference,Atlantic,
 NBA,TOR,Toronto Raptors,2023-24,25,57,,,5th,East,Eastern Conference,Atlantic,
 NBA,TOR,Toronto Raptors,2024-25,30,52,,,3rd,East,Eastern Conference,Atlantic,
+NBA,TOR,Toronto Raptors,2025-26,46,36,,,3rd,East,Eastern Conference,Atlantic,E5
 NBA,UTA,New Orleans Jazz,1974-75,23,59,,,5th,East,Eastern Conference,Central,
 NBA,UTA,New Orleans Jazz,1975-76,38,44,,,4th,East,Eastern Conference,Central,
 NBA,UTA,New Orleans Jazz,1976-77,35,47,,,5th,East,Eastern Conference,Central,
@@ -4831,6 +4919,7 @@ NBA,UTA,Utah Jazz,2021-22,49,33,,,1st,West,Western Conference,Northwest,W5
 NBA,UTA,Utah Jazz,2022-23,37,45,,,4th,West,Western Conference,Northwest,
 NBA,UTA,Utah Jazz,2023-24,31,51,,,4th,West,Western Conference,Northwest,
 NBA,UTA,Utah Jazz,2024-25,17,65,,,5th,West,Western Conference,Northwest,
+NBA,UTA,Utah Jazz,2025-26,22,60,,,5th,West,Western Conference,Northwest,
 NBA,WAS,Chicago Packers,1961-62,18,62,,,5th,West,Western Division,,
 NBA,WAS,Chicago Zephyrs,1962-63,25,55,,,5th,West,Western Division,,
 NBA,WAS,Baltimore Bullets,1963-64,31,49,,,4th,West,Western Division,,
@@ -4895,6 +4984,7 @@ NBA,WAS,Washington Wizards,2021-22,35,47,,,4th,East,Eastern Conference,Southeast
 NBA,WAS,Washington Wizards,2022-23,35,47,,,3rd,East,Eastern Conference,Southeast,
 NBA,WAS,Washington Wizards,2023-24,15,67,,,5th,East,Eastern Conference,Southeast,
 NBA,WAS,Washington Wizards,2024-25,18,64,,,5th,East,Eastern Conference,Southeast,
+NBA,WAS,Washington Wizards,2025-26,17,65,,,5th,East,Eastern Conference,Southeast,
 NBA,ZAN,Anderson Packers,1949-50,37,27,,,2nd,West,Western Division,,W2
 NBA,ZBA,Baltimore Bullets,1947-48,28,20,,,2nd,West,Western Division,,W2
 NBA,ZBA,Baltimore Bullets,1948-49,29,31,,,3rd,East,Eastern Division,,E3
@@ -7347,6 +7437,7 @@ NHL,ANA,Anaheim Ducks,2021-22,31,37,14,,7th,West,Western Conference,Pacific,
 NHL,ANA,Anaheim Ducks,2022-23,23,47,12,,8th,West,Western Conference,Pacific,
 NHL,ANA,Anaheim Ducks,2023-24,27,50,5,,7th,West,Western Conference,Pacific,
 NHL,ANA,Anaheim Ducks,2024-25,35,37,10,,6th,West,Western Conference,Pacific,
+NHL,ANA,Anaheim Ducks,2025-26,43,33,6,,3rd,West,Western Conference,Pacific,P3
 NHL,ARZ,Winnipeg Jets,1979-80,20,49,11,,5th,Campbell,Campbell Conference,Smythe,
 NHL,ARZ,Winnipeg Jets,1980-81,9,57,14,,6th,Campbell,Campbell Conference,Smythe,
 NHL,ARZ,Winnipeg Jets,1981-82,33,33,14,,2nd,Campbell,Campbell Conference,Norris,N2
@@ -7392,6 +7483,7 @@ NHL,ARZ,Arizona Coyotes,2021-22,25,50,7,,8th,West,Western Conference,Central,
 NHL,ARZ,Arizona Coyotes,2022-23,28,40,14,,7th,West,Western Conference,Central,
 NHL,ARZ,Arizona Coyotes,2023-24,36,41,5,,7th,West,Western Conference,Central,
 NHL,ARZ,Utah Hockey Club,2024-25,38,31,13,,6th,West,Western Conference,Central,
+NHL,ARZ,Utah Mammoth,2025-26,43,33,6,,4th,West,Western Conference,Central,W7
 NHL,BOS,Boston Bruins,1924-25,6,24,0,,6th,NHL,NHL,,
 NHL,BOS,Boston Bruins,1925-26,17,15,4,,4th,NHL,NHL,,
 NHL,BOS,Boston Bruins,1926-27,21,20,3,,2nd,American,American Division,,A2
@@ -7492,6 +7584,7 @@ NHL,BOS,Boston Bruins,2021-22,51,26,5,,4th,East,Eastern Conference,Atlantic,E7
 NHL,BOS,Boston Bruins,2022-23,65,12,5,,1st,East,Eastern Conference,Atlantic,A1
 NHL,BOS,Boston Bruins,2023-24,47,20,15,,2nd,East,Eastern Conference,Atlantic,A2
 NHL,BOS,Boston Bruins,2024-25,33,39,10,,8th,East,Eastern Conference,Atlantic,
+NHL,BOS,Boston Bruins,2025-26,45,27,10,,4th,East,Eastern Conference,Atlantic,E7
 NHL,BUF,Buffalo Sabres,1970-71,24,39,15,,5th,East,Eastern Conference,,
 NHL,BUF,Buffalo Sabres,1971-72,16,43,19,,6th,East,Eastern Conference,,
 NHL,BUF,Buffalo Sabres,1972-73,37,27,14,,4th,East,Eastern Conference,,E4
@@ -7546,6 +7639,7 @@ NHL,BUF,Buffalo Sabres,2021-22,32,39,11,,5th,East,Eastern Conference,Atlantic,
 NHL,BUF,Buffalo Sabres,2022-23,42,33,7,,5th,East,Eastern Conference,Atlantic,
 NHL,BUF,Buffalo Sabres,2023-24,39,37,6,,6th,East,Eastern Conference,Atlantic,
 NHL,BUF,Buffalo Sabres,2024-25,36,39,7,,7th,East,Eastern Conference,Atlantic,
+NHL,BUF,Buffalo Sabres,2025-26,50,23,9,,1st,East,Eastern Conference,Atlantic,A1
 NHL,CAR,Hartford Whalers,1979-80,27,34,19,,4th,Wales,Wales Conference,Norris,NHL14
 NHL,CAR,Hartford Whalers,1980-81,21,41,18,,4th,Wales,Wales Conference,Norris,
 NHL,CAR,Hartford Whalers,1981-82,21,41,18,,5th,Wales,Wales Conference,Adams,
@@ -7591,6 +7685,7 @@ NHL,CAR,Carolina Hurricanes,2021-22,54,20,8,,1st,East,Eastern Conference,Metropo
 NHL,CAR,Carolina Hurricanes,2022-23,52,21,9,,1st,East,Eastern Conference,Metropolitan,C1
 NHL,CAR,Carolina Hurricanes,2023-24,52,23,7,,2nd,East,Eastern Conference,Metropolitan,M2
 NHL,CAR,Carolina Hurricanes,2024-25,47,30,5,,2nd,East,Eastern Conference,Metropolitan,M2
+NHL,CAR,Carolina Hurricanes,2025-26,53,22,7,,1st,East,Eastern Conference,Metropolitan,M1
 NHL,CBS,Columbus Blue Jackets,2000-01,28,39,9,6,5th,West,Western Conference,Central,
 NHL,CBS,Columbus Blue Jackets,2001-02,22,47,8,5,5th,West,Western Conference,Central,
 NHL,CBS,Columbus Blue Jackets,2002-03,29,42,8,3,5th,West,Western Conference,Central,
@@ -7615,6 +7710,7 @@ NHL,CBS,Columbus Blue Jackets,2021-22,37,38,7,,6th,East,Eastern Conference,Metro
 NHL,CBS,Columbus Blue Jackets,2022-23,25,48,9,,8th,East,Eastern Conference,Metropolitan,
 NHL,CBS,Columbus Blue Jackets,2023-24,27,43,12,,8th,East,Eastern Conference,Metropolitan,
 NHL,CBS,Columbus Blue Jackets,2024-25,40,33,9,,4th,East,Eastern Conference,Metropolitan,
+NHL,CBS,Columbus Blue Jackets,2025-26,40,30,12,,5th,East,Eastern Conference,Metropolitan,
 NHL,CGY,Atlanta Flames,1972-73,25,38,15,,7th,West,Western Conference,,
 NHL,CGY,Atlanta Flames,1973-74,30,34,14,,4th,West,Western Conference,,W4
 NHL,CGY,Atlanta Flames,1974-75,34,31,15,,4th,Campbell,Campbell Conference,Patrick,
@@ -7667,6 +7763,7 @@ NHL,CGY,Calgary Flames,2021-22,50,21,11,,1st,West,Western Conference,Pacific,P1
 NHL,CGY,Calgary Flames,2022-23,38,27,17,,5th,West,Western Conference,Pacific,
 NHL,CGY,Calgary Flames,2023-24,38,39,5,,5th,West,Western Conference,Pacific,
 NHL,CGY,Calgary Flames,2024-25,41,27,14,,4th,West,Western Conference,Pacific,
+NHL,CGY,Calgary Flames,2025-26,34,39,9,,7th,West,Western Conference,Pacific,
 NHL,CHI,Chicago Blackhawks,1926-27,19,22,3,,3rd,American,American Division,,A3
 NHL,CHI,Chicago Blackhawks,1927-28,7,34,3,,5th,American,American Division,,
 NHL,CHI,Chicago Blackhawks,1928-29,7,29,8,,5th,American,American Division,,
@@ -7765,6 +7862,7 @@ NHL,CHI,Chicago Blackhawks,2021-22,28,42,12,,7th,West,Western Conference,Central
 NHL,CHI,Chicago Blackhawks,2022-23,26,49,7,,8th,West,Western Conference,Central,
 NHL,CHI,Chicago Blackhawks,2023-24,23,53,6,,8th,West,Western Conference,Central,
 NHL,CHI,Chicago Blackhawks,2024-25,25,46,11,,8th,West,Western Conference,Central,
+NHL,CHI,Chicago Blackhawks,2025-26,29,39,14,,8th,West,Western Conference,Central,
 NHL,COL,Quebec Nordiques,1979-80,25,44,11,,5th,Wales,Wales Conference,Adams,
 NHL,COL,Quebec Nordiques,1980-81,30,32,18,,4th,Wales,Wales Conference,Adams,NHL11
 NHL,COL,Quebec Nordiques,1981-82,33,31,16,,4th,Wales,Wales Conference,Adams,A4
@@ -7810,6 +7908,7 @@ NHL,COL,Colorado Avalanche,2021-22,56,19,7,,1st,West,Western Conference,Central,
 NHL,COL,Colorado Avalanche,2022-23,51,24,7,,1st,West,Western Conference,Central,C1
 NHL,COL,Colorado Avalanche,2023-24,50,25,7,,3rd,West,Western Conference,Central,C3
 NHL,COL,Colorado Avalanche,2024-25,49,29,4,,3rd,West,Western Conference,Central,C3
+NHL,COL,Colorado Avalanche,2025-26,55,16,11,,1st,West,Western Conference,Central,C1
 NHL,DAL,Minnesota North Stars,1967-68,27,32,15,,4th,West,Western Conference,,W4
 NHL,DAL,Minnesota North Stars,1968-69,18,43,15,,6th,West,Western Conference,,
 NHL,DAL,Minnesota North Stars,1969-70,19,35,22,,3rd,West,Western Conference,,W3
@@ -7867,6 +7966,7 @@ NHL,DAL,Dallas Stars,2021-22,46,30,6,,4th,West,Western Conference,Central,W7
 NHL,DAL,Dallas Stars,2022-23,47,21,14,,2nd,West,Western Conference,Central,C2
 NHL,DAL,Dallas Stars,2023-24,52,21,9,,1st,West,Western Conference,Central,C1
 NHL,DAL,Dallas Stars,2024-25,50,26,6,,2nd,West,Western Conference,Central,C2
+NHL,DAL,Dallas Stars,2025-26,50,20,12,,2nd,West,Western Conference,Central,C2
 NHL,DET,Detroit Cougars,1926-27,12,28,4,,5th,American,American Division,,
 NHL,DET,Detroit Cougars,1927-28,19,19,6,,4th,American,American Division,,
 NHL,DET,Detroit Cougars,1928-29,19,16,9,,3rd,American,American Division,,A3
@@ -7965,6 +8065,7 @@ NHL,DET,Detroit Red Wings,2021-22,32,40,10,,6th,East,Eastern Conference,Atlantic
 NHL,DET,Detroit Red Wings,2022-23,35,37,10,,7th,East,Eastern Conference,Atlantic,
 NHL,DET,Detroit Red Wings,2023-24,41,32,9,,5th,East,Eastern Conference,Atlantic,
 NHL,DET,Detroit Red Wings,2024-25,39,35,8,,6th,East,Eastern Conference,Atlantic,
+NHL,DET,Detroit Red Wings,2025-26,41,31,10,,6th,East,Eastern Conference,Atlantic,
 NHL,EDM,Edmonton Oilers,1979-80,28,39,13,,4th,Campbell,Campbell Conference,Smythe,NHL16
 NHL,EDM,Edmonton Oilers,1980-81,29,35,16,,4th,Campbell,Campbell Conference,Smythe,NHL14
 NHL,EDM,Edmonton Oilers,1981-82,48,17,15,,1st,Campbell,Campbell Conference,Smythe,S1
@@ -8010,6 +8111,7 @@ NHL,EDM,Edmonton Oilers,2021-22,49,27,6,,2nd,West,Western Conference,Pacific,P2
 NHL,EDM,Edmonton Oilers,2022-23,50,23,9,,2nd,West,Western Conference,Pacific,P2
 NHL,EDM,Edmonton Oilers,2023-24,49,27,6,,2nd,West,Western Conference,Pacific,P2
 NHL,EDM,Edmonton Oilers,2024-25,48,29,5,,3rd,West,Western Conference,Pacific,W3
+NHL,EDM,Edmonton Oilers,2025-26,41,30,11,,2nd,West,Western Conference,Pacific,P2
 NHL,FLA,Florida Panthers,1993-94,33,34,17,,5th,East,Eastern Conference,Atlantic,
 NHL,FLA,Florida Panthers,1994-95,20,22,6,,5th,East,Eastern Conference,Atlantic,
 NHL,FLA,Florida Panthers,1995-96,41,31,10,,3rd,East,Eastern Conference,Atlantic,E4
@@ -8041,6 +8143,7 @@ NHL,FLA,Florida Panthers,2021-22,58,18,6,,1st,East,Eastern Conference,Atlantic,A
 NHL,FLA,Florida Panthers,2022-23,42,32,8,,4th,East,Eastern Conference,Atlantic,E8
 NHL,FLA,Florida Panthers,2023-24,52,24,6,,1st,East,Eastern Conference,Atlantic,A1
 NHL,FLA,Florida Panthers,2024-25,47,31,4,,3rd,East,Eastern Conference,Atlantic,A3
+NHL,FLA,Florida Panthers,2025-26,40,38,4,,7th,East,Eastern Conference,Atlantic,
 NHL,LAK,Los Angeles Kings,1967-68,31,33,10,,2nd,West,Western Conference,,W2
 NHL,LAK,Los Angeles Kings,1968-69,24,42,10,,4th,West,Western Conference,,W4
 NHL,LAK,Los Angeles Kings,1969-70,14,52,10,,6th,West,Western Conference,,
@@ -8098,6 +8201,7 @@ NHL,LAK,Los Angeles Kings,2021-22,44,27,11,,3rd,West,Western Conference,Pacific,
 NHL,LAK,Los Angeles Kings,2022-23,47,25,10,,3rd,West,Western Conference,Pacific,P3
 NHL,LAK,Los Angeles Kings,2023-24,44,27,11,,3rd,West,Western Conference,Pacific,P3
 NHL,LAK,Los Angeles Kings,2024-25,48,25,9,,2nd,West,Western Conference,Pacific,W2
+NHL,LAK,Los Angeles Kings,2025-26,35,27,20,,4th,West,Western Conference,Pacific,W8
 NHL,MIN,Minnesota Wild,2000-01,25,39,13,5,5th,West,Western Conference,Northwest,
 NHL,MIN,Minnesota Wild,2001-02,26,35,12,9,5th,West,Western Conference,Northwest,
 NHL,MIN,Minnesota Wild,2002-03,40,27,9,6,3rd,West,Western Conference,Northwest,W6
@@ -8122,6 +8226,7 @@ NHL,MIN,Minnesota Wild,2021-22,53,22,7,,2nd,West,Western Conference,Central,C2
 NHL,MIN,Minnesota Wild,2022-23,46,25,11,,3rd,West,Western Conference,Central,C3
 NHL,MIN,Minnesota Wild,2023-24,39,33,10,,6th,West,Western Conference,Central,
 NHL,MIN,Minnesota Wild,2024-25,45,30,7,,4th,West,Western Conference,Central,W7
+NHL,MIN,Minnesota Wild,2025-26,46,24,12,,3rd,West,Western Conference,Central,C3
 NHL,MON,Montreal Canadiens,1917-18,13,9,0,,T1st,NHL,NHL,,
 NHL,MON,Montreal Canadiens,1918-19,10,8,0,,2nd,NHL,NHL,,
 NHL,MON,Montreal Canadiens,1919-20,13,11,0,,2nd,NHL,NHL,,
@@ -8229,6 +8334,7 @@ NHL,MON,Montreal Canadiens,2021-22,22,49,11,,8th,East,Eastern Conference,Atlanti
 NHL,MON,Montreal Canadiens,2022-23,31,45,6,,8th,East,Eastern Conference,Atlantic,
 NHL,MON,Montreal Canadiens,2023-24,30,36,16,,8th,East,Eastern Conference,Atlantic,
 NHL,MON,Montreal Canadiens,2024-25,40,31,11,,5th,East,Eastern Conference,Atlantic,E8
+NHL,MON,Montreal Canadiens,2025-26,48,24,10,,3rd,East,Eastern Conference,Atlantic,A3
 NHL,NAS,Nashville Predators,1998-99,28,47,7,,4th,West,Western Conference,Central,
 NHL,NAS,Nashville Predators,1999-00,28,40,7,7,4th,West,Western Conference,Central,
 NHL,NAS,Nashville Predators,2000-01,34,36,9,3,3rd,West,Western Conference,Central,
@@ -8255,6 +8361,7 @@ NHL,NAS,Nashville Predators,2021-22,45,30,7,,5th,West,Western Conference,Central
 NHL,NAS,Nashville Predators,2022-23,42,32,8,,5th,West,Western Conference,Central,
 NHL,NAS,Nashville Predators,2023-24,47,30,5,,4th,West,Western Conference,Central,W7
 NHL,NAS,Nashville Predators,2024-25,30,44,8,,7th,West,Western Conference,Central,
+NHL,NAS,Nashville Predators,2025-26,38,34,10,,6th,West,Western Conference,Central,
 NHL,NJY,Kansas City Scouts,1974-75,15,54,11,,5th,Campbell,Campbell Conference,Smythe,
 NHL,NJY,Kansas City Scouts,1975-76,12,56,12,,5th,Campbell,Campbell Conference,Smythe,
 NHL,NJY,Colorado Rockies,1976-77,20,46,14,,5th,Campbell,Campbell Conference,Smythe,
@@ -8305,6 +8412,7 @@ NHL,NJY,New Jersey Devils,2021-22,27,46,9,,7th,East,Eastern Conference,Metropoli
 NHL,NJY,New Jersey Devils,2022-23,52,22,8,,2nd,East,Eastern Conference,Metropolitan,C2
 NHL,NJY,New Jersey Devils,2023-24,38,39,5,,7th,East,Eastern Conference,Metropolitan,
 NHL,NJY,New Jersey Devils,2024-25,42,33,7,,3rd,East,Eastern Conference,Metropolitan,M3
+NHL,NJY,New Jersey Devils,2025-26,42,37,3,,7th,East,Eastern Conference,Metropolitan,
 NHL,NYI,New York Islanders,1972-73,12,60,6,,8th,East,Eastern Conference,,
 NHL,NYI,New York Islanders,1973-74,19,41,18,,8th,East,Eastern Conference,,
 NHL,NYI,New York Islanders,1974-75,33,25,22,,3rd,Campbell,Campbell Conference,Patrick,NHL8
@@ -8357,6 +8465,7 @@ NHL,NYI,New York Islanders,2021-22,37,35,10,,5th,East,Eastern Conference,Metropo
 NHL,NYI,New York Islanders,2022-23,42,31,9,,4th,East,Eastern Conference,Metropolitan,E7
 NHL,NYI,New York Islanders,2023-24,39,27,16,,3rd,East,Eastern Conference,Metropolitan,M3
 NHL,NYI,New York Islanders,2024-25,35,35,12,,6th,East,Eastern Conference,Metropolitan,
+NHL,NYI,New York Islanders,2025-26,43,34,5,,6th,East,Eastern Conference,Metropolitan,
 NHL,NYR,New York Rangers,1926-27,25,13,6,,1st,American,American Division,,A1
 NHL,NYR,New York Rangers,1927-28,19,16,9,,2nd,American,American Division,,A2
 NHL,NYR,New York Rangers,1928-29,21,13,10,,2nd,American,American Division,,A2
@@ -8455,6 +8564,7 @@ NHL,NYR,New York Rangers,2021-22,52,24,6,,2nd,East,Eastern Conference,Metropolit
 NHL,NYR,New York Rangers,2022-23,47,22,13,,3rd,East,Eastern Conference,Metropolitan,C3
 NHL,NYR,New York Rangers,2023-24,55,23,4,,1st,East,Eastern Conference,Metropolitan,M1
 NHL,NYR,New York Rangers,2024-25,39,36,7,,5th,East,Eastern Conference,Metropolitan,
+NHL,NYR,New York Rangers,2025-26,34,39,9,,8th,East,Eastern Conference,Metropolitan,
 NHL,OTT,Ottawa Senators,1992-93,10,70,4,,6th,Wales,Wales Conference,Adams,
 NHL,OTT,Ottawa Senators,1993-94,14,61,9,,7th,East,Eastern Conference,Northeast,
 NHL,OTT,Ottawa Senators,1994-95,9,34,5,,7th,East,Eastern Conference,Northeast,
@@ -8487,6 +8597,7 @@ NHL,OTT,Ottawa Senators,2021-22,33,42,7,,7th,East,Eastern Conference,Atlantic,
 NHL,OTT,Ottawa Senators,2022-23,39,35,8,,6th,East,Eastern Conference,Atlantic,
 NHL,OTT,Ottawa Senators,2023-24,37,41,4,,7th,East,Eastern Conference,Atlantic,
 NHL,OTT,Ottawa Senators,2024-25,45,30,7,,4th,East,Eastern Conference,Atlantic,E7
+NHL,OTT,Ottawa Senators,2025-26,44,27,11,,5th,East,Eastern Conference,Atlantic,E8
 NHL,PHI,Philadelphia Flyers,1967-68,31,32,11,,1st,West,Western Conference,,W1
 NHL,PHI,Philadelphia Flyers,1968-69,20,35,21,,3rd,West,Western Conference,,W3
 NHL,PHI,Philadelphia Flyers,1969-70,17,35,24,,5th,West,Western Conference,,
@@ -8544,6 +8655,7 @@ NHL,PHI,Philadelphia Flyers,2021-22,25,46,11,,8th,East,Eastern Conference,Metrop
 NHL,PHI,Philadelphia Flyers,2022-23,31,38,13,,7th,East,Eastern Conference,Metropolitan,
 NHL,PHI,Philadelphia Flyers,2023-24,38,33,11,,6th,East,Eastern Conference,Metropolitan,
 NHL,PHI,Philadelphia Flyers,2024-25,33,39,10,,8th,East,Eastern Conference,Metropolitan,
+NHL,PHI,Philadelphia Flyers,2025-26,43,27,12,,3rd,East,Eastern Conference,Metropolitan,M3
 NHL,PIT,Pittsburgh Penguins,1967-68,27,34,13,,5th,West,Western Conference,,
 NHL,PIT,Pittsburgh Penguins,1968-69,20,45,11,,5th,West,Western Conference,,
 NHL,PIT,Pittsburgh Penguins,1969-70,26,38,12,,2nd,West,Western Conference,,W2
@@ -8601,10 +8713,12 @@ NHL,PIT,Pittsburgh Penguins,2021-22,46,25,11,,3rd,East,Eastern Conference,Metrop
 NHL,PIT,Pittsburgh Penguins,2022-23,40,31,11,,5th,East,Eastern Conference,Metropolitan,
 NHL,PIT,Pittsburgh Penguins,2023-24,38,32,12,,5th,East,Eastern Conference,Metropolitan,
 NHL,PIT,Pittsburgh Penguins,2024-25,34,36,12,,7th,East,Eastern Conference,Metropolitan,
+NHL,PIT,Pittsburgh Penguins,2025-26,41,25,16,,2nd,East,Eastern Conference,Metropolitan,M2
 NHL,SEA,Seattle Kraken,2021-22,27,49,6,,8th,West,Western Conference,Pacific,
 NHL,SEA,Seattle Kraken,2022-23,46,28,8,,4th,West,Western Conference,Pacific,W7
 NHL,SEA,Seattle Kraken,2023-24,34,35,13,,6th,West,Western Conference,Pacific,
 NHL,SEA,Seattle Kraken,2024-25,35,41,6,,7th,West,Western Conference,Pacific,
+NHL,SEA,Seattle Kraken,2025-26,34,37,11,,6th,West,Western Conference,Pacific,
 NHL,SJS,San Jose Sharks,1991-92,17,58,5,,6th,Campbell,Campbell Conference,Smythe,
 NHL,SJS,San Jose Sharks,1992-93,11,71,2,,6th,Campbell,Campbell Conference,Smythe,
 NHL,SJS,San Jose Sharks,1993-94,33,35,16,,3rd,West,Western Conference,Pacific,W8
@@ -8638,6 +8752,7 @@ NHL,SJS,San Jose Sharks,2021-22,32,37,13,,6th,West,Western Conference,Pacific,
 NHL,SJS,San Jose Sharks,2022-23,22,44,16,,7th,West,Western Conference,Pacific,
 NHL,SJS,San Jose Sharks,2023-24,19,54,9,,8th,West,Western Conference,Pacific,
 NHL,SJS,San Jose Sharks,2024-25,20,50,12,,8th,West,Western Conference,Pacific,
+NHL,SJS,San Jose Sharks,2025-26,39,35,8,,5th,West,Western Conference,Pacific,
 NHL,STL,St. Louis Blues,1967-68,27,31,16,,3rd,West,Western Conference,,W3
 NHL,STL,St. Louis Blues,1968-69,37,25,14,,1st,West,Western Conference,,W1
 NHL,STL,St. Louis Blues,1969-70,37,27,12,,1st,West,Western Conference,,W1
@@ -8695,6 +8810,7 @@ NHL,STL,St. Louis Blues,2021-22,49,22,11,,3rd,West,Western Conference,Central,C3
 NHL,STL,St. Louis Blues,2022-23,37,38,7,,6th,West,Western Conference,Central,
 NHL,STL,St. Louis Blues,2023-24,43,33,6,,5th,West,Western Conference,Central,
 NHL,STL,St. Louis Blues,2024-25,44,30,8,,5th,West,Western Conference,Central,W8
+NHL,STL,St. Louis Blues,2025-26,37,33,12,,5th,West,Western Conference,Central,
 NHL,TAM,Tampa Bay Lightning,1992-93,23,54,7,,6th,Campbell,Campbell Conference,Norris,
 NHL,TAM,Tampa Bay Lightning,1993-94,30,43,11,,7th,East,Eastern Conference,Atlantic,
 NHL,TAM,Tampa Bay Lightning,1994-95,17,28,3,,6th,East,Eastern Conference,Atlantic,
@@ -8727,6 +8843,7 @@ NHL,TAM,Tampa Bay Lightning,2021-22,51,23,8,,3rd,East,Eastern Conference,Atlanti
 NHL,TAM,Tampa Bay Lightning,2022-23,46,30,6,,3rd,East,Eastern Conference,Atlantic,A3
 NHL,TAM,Tampa Bay Lightning,2023-24,45,29,8,,4th,East,Eastern Conference,Atlantic,E7
 NHL,TAM,Tampa Bay Lightning,2024-25,47,27,8,,2nd,East,Eastern Conference,Atlantic,A2
+NHL,TAM,Tampa Bay Lightning,2025-26,50,26,6,,2nd,East,Eastern Conference,Atlantic,A2
 NHL,TOR,Toronto Arenas,1917-18,13,9,0,,T1st,NHL,NHL,,
 NHL,TOR,Toronto Arenas,1918-19,5,13,0,,3rd,NHL,NHL,,
 NHL,TOR,Toronto St. Pats,1919-20,12,12,0,,3rd,NHL,NHL,,
@@ -8834,6 +8951,7 @@ NHL,TOR,Toronto Maple Leafs,2021-22,54,21,7,,2nd,East,Eastern Conference,Atlanti
 NHL,TOR,Toronto Maple Leafs,2022-23,50,21,11,,2nd,East,Eastern Conference,Atlantic,A2
 NHL,TOR,Toronto Maple Leafs,2023-24,46,26,10,,3rd,East,Eastern Conference,Atlantic,A3
 NHL,TOR,Toronto Maple Leafs,2024-25,52,26,4,,1st,East,Eastern Conference,Atlantic,A1
+NHL,TOR,Toronto Maple Leafs,2025-26,36,36,14,,8th,East,Eastern Conference,Atlantic,
 NHL,VAN,Vancouver Canucks,1970-71,24,46,8,,6th,East,Eastern Conference,,
 NHL,VAN,Vancouver Canucks,1971-72,20,50,8,,7th,East,Eastern Conference,,
 NHL,VAN,Vancouver Canucks,1972-73,22,47,9,,7th,East,Eastern Conference,,
@@ -8888,6 +9006,7 @@ NHL,VAN,Vancouver Canucks,2021-22,40,30,12,,5th,West,Western Conference,Pacific,
 NHL,VAN,Vancouver Canucks,2022-23,38,37,7,,6th,West,Western Conference,Pacific,
 NHL,VAN,Vancouver Canucks,2023-24,50,23,9,,1st,West,Western Conference,Pacific,P1
 NHL,VAN,Vancouver Canucks,2024-25,38,30,14,,5th,West,Western Conference,Pacific,
+NHL,VAN,Vancouver Canucks,2025-26,25,49,8,,8th,West,Western Conference,Pacific,
 NHL,VEG,Vegas Golden Knights,2017-18,51,24,7,,1st,West,Western Conference,Pacific,P1
 NHL,VEG,Vegas Golden Knights,2018-19,43,32,7,,3rd,West,Western Conference,Pacific,W3
 NHL,VEG,Vegas Golden Knights,2019-20,39,24,8,,3rd,West,Western Conference,Pacific,W1
@@ -8896,6 +9015,7 @@ NHL,VEG,Vegas Golden Knights,2021-22,43,31,8,,4th,West,Western Conference,Pacifi
 NHL,VEG,Vegas Golden Knights,2022-23,51,22,9,,1st,West,Western Conference,Pacific,P1
 NHL,VEG,Vegas Golden Knights,2023-24,45,29,8,,4th,West,Western Conference,Pacific,W8
 NHL,VEG,Vegas Golden Knights,2024-25,50,22,10,,1st,West,Western Conference,Pacific,W1
+NHL,VEG,Vegas Golden Knights,2025-26,39,26,17,,1st,West,Western Conference,Pacific,P1
 NHL,WAS,Washington Capitals,1974-75,8,67,5,,5th,Wales,Wales Conference,Norris,
 NHL,WAS,Washington Capitals,1975-76,11,59,10,,5th,Wales,Wales Conference,Norris,
 NHL,WAS,Washington Capitals,1976-77,24,42,14,,4th,Wales,Wales Conference,Norris,
@@ -8946,6 +9066,7 @@ NHL,WAS,Washington Capitals,2021-22,44,26,12,,4th,East,Eastern Conference,Metrop
 NHL,WAS,Washington Capitals,2022-23,35,37,10,,6th,East,Eastern Conference,Metropolitan,
 NHL,WAS,Washington Capitals,2023-24,40,31,11,,4th,East,Eastern Conference,Metropolitan,E8
 NHL,WAS,Washington Capitals,2024-25,51,22,9,,1st,East,Eastern Conference,Metropolitan,M1
+NHL,WAS,Washington Capitals,2025-26,43,30,9,,4th,East,Eastern Conference,Metropolitan,
 NHL,WPG,Atlanta Thrashers,1999-00,14,57,7,4,5th,East,Eastern Conference,Southeast,
 NHL,WPG,Atlanta Thrashers,2000-01,23,45,12,2,4th,East,Eastern Conference,Southeast,
 NHL,WPG,Atlanta Thrashers,2001-02,19,47,11,5,5th,East,Eastern Conference,Southeast,
@@ -8971,6 +9092,7 @@ NHL,WPG,Winnipeg Jets,2021-22,39,32,11,,6th,West,Western Conference,Central,
 NHL,WPG,Winnipeg Jets,2022-23,46,33,3,,4th,West,Western Conference,Central,W8
 NHL,WPG,Winnipeg Jets,2023-24,52,24,6,,2nd,West,Western Conference,Central,C2
 NHL,WPG,Winnipeg Jets,2024-25,56,22,4,,1st,West,Western Conference,Central,C1
+NHL,WPG,Winnipeg Jets,2025-26,35,35,12,,7th,West,Western Conference,Central,
 NHL,ZHA,Quebec Bulldogs,1919-20,4,20,0,,4th,NHL,NHL,,
 NHL,ZHA,Hamilton Tigers,1920-21,6,18,0,,4th,NHL,NHL,,
 NHL,ZHA,Hamilton Tigers,1921-22,7,17,0,,4th,NHL,NHL,,
@@ -9043,95 +9165,3 @@ NHL,ZPT,Pittsburgh Pirates,1926-27,15,26,3,,4th,American,American Division,,
 NHL,ZPT,Pittsburgh Pirates,1927-28,19,17,8,,3rd,American,American Division,,A3
 NHL,ZPT,Pittsburgh Pirates,1928-29,5,36,3,,4th,American,American Division,,
 NHL,ZPT,Pittsburgh Pirates,1929-30,5,36,3,,5th,American,American Division,,
-NBA,BOS,Boston Celtics,2025-26,56,26,,,1st,East,Eastern Conference,Atlantic,E2
-NBA,BRK,Brooklyn Nets,2025-26,20,62,,,5th,East,Eastern Conference,Atlantic,
-NBA,NYK,New York Knicks,2025-26,53,29,,,2nd,East,Eastern Conference,Atlantic,E3
-NBA,PHI,Philadelphia 76ers,2025-26,45,37,,,4th,East,Eastern Conference,Atlantic,E7
-NBA,TOR,Toronto Raptors,2025-26,46,36,,,3rd,East,Eastern Conference,Atlantic,E5
-NBA,CHI,Chicago Bulls,2025-26,31,51,,,4th,East,Eastern Conference,Central,
-NBA,CLE,Cleveland Cavaliers,2025-26,52,30,,,2nd,East,Eastern Conference,Central,E4
-NBA,DET,Detroit Pistons,2025-26,60,22,,,1st,East,Eastern Conference,Central,E1
-NBA,IND,Indiana Pacers,2025-26,19,63,,,5th,East,Eastern Conference,Central,
-NBA,MKE,Milwaukee Bucks,2025-26,32,50,,,3rd,East,Eastern Conference,Central,
-NBA,ATL,Atlanta Hawks,2025-26,46,36,,,1st,East,Eastern Conference,Southeast,E6
-NBA,CHA,Charlotte Hornets,2025-26,44,38,,,3rd,East,Eastern Conference,Southeast,
-NBA,MIA,Miami Heat,2025-26,43,39,,,4th,East,Eastern Conference,Southeast,
-NBA,ORL,Orlando Magic,2025-26,45,37,,,2nd,East,Eastern Conference,Southeast,E8
-NBA,WAS,Washington Wizards,2025-26,17,65,,,5th,East,Eastern Conference,Southeast,
-NBA,DEN,Denver Nuggets,2025-26,54,28,,,2nd,West,Western Conference,Northwest,W3
-NBA,MIN,Minnesota Timberwolves,2025-26,49,33,,,3rd,West,Western Conference,Northwest,W6
-NBA,OKC,Oklahoma City Thunder,2025-26,64,18,,,1st,West,Western Conference,Northwest,W1
-NBA,POR,Portland Blazers,2025-26,42,40,,,4th,West,Western Conference,Northwest,W7
-NBA,UTA,Utah Jazz,2025-26,22,60,,,5th,West,Western Conference,Northwest,
-NBA,GOL,Golden State Warriors,2025-26,37,45,,,4th,West,Western Conference,Pacific,
-NBA,LAC,Los Angeles Clippers,2025-26,42,40,,,3rd,West,Western Conference,Pacific,
-NBA,LAL,Los Angeles Lakers,2025-26,53,29,,,1st,West,Western Conference,Pacific,W4
-NBA,PHX,Phoenix Suns,2025-26,45,37,,,2nd,West,Western Conference,Pacific,W8
-NBA,SAC,Sacramento Kings,2025-26,22,60,,,5th,West,Western Conference,Pacific,
-NBA,DAL,Dallas Mavericks,2025-26,26,56,,,4th,West,Western Conference,Southwest,
-NBA,HOU,Houston Rockets,2025-26,52,30,,,2nd,West,Western Conference,Southwest,W5
-NBA,MEM,Memphis Grizzlies,2025-26,25,57,,,5th,West,Western Conference,Southwest,
-NBA,NOR,New Orleans Pelicans,2025-26,26,56,,,3rd,West,Western Conference,Southwest,
-NBA,SAT,San Antonio Spurs,2025-26,62,20,,,1st,West,Western Conference,Southwest,W2
-NHL,BOS,Boston Bruins,2025-26,45,27,10,,4th,East,Eastern Conference,Atlantic,E7
-NHL,BUF,Buffalo Sabres,2025-26,50,23,9,,1st,East,Eastern Conference,Atlantic,A1
-NHL,DET,Detroit Red Wings,2025-26,41,31,10,,6th,East,Eastern Conference,Atlantic,
-NHL,FLA,Florida Panthers,2025-26,40,38,4,,7th,East,Eastern Conference,Atlantic,
-NHL,MON,Montreal Canadiens,2025-26,48,24,10,,3rd,East,Eastern Conference,Atlantic,A3
-NHL,OTT,Ottawa Senators,2025-26,44,27,11,,5th,East,Eastern Conference,Atlantic,E8
-NHL,TAM,Tampa Bay Lightning,2025-26,50,26,6,,2nd,East,Eastern Conference,Atlantic,A2
-NHL,TOR,Toronto Maple Leafs,2025-26,36,36,14,,8th,East,Eastern Conference,Atlantic,
-NHL,CAR,Carolina Hurricanes,2025-26,53,22,7,,1st,East,Eastern Conference,Metropolitan,M1
-NHL,CBS,Columbus Blue Jackets,2025-26,40,30,12,,5th,East,Eastern Conference,Metropolitan,
-NHL,NJY,New Jersey Devils,2025-26,42,37,3,,7th,East,Eastern Conference,Metropolitan,
-NHL,NYI,New York Islanders,2025-26,43,34,5,,6th,East,Eastern Conference,Metropolitan,
-NHL,NYR,New York Rangers,2025-26,34,39,9,,8th,East,Eastern Conference,Metropolitan,
-NHL,PHI,Philadelphia Flyers,2025-26,43,27,12,,3rd,East,Eastern Conference,Metropolitan,M3
-NHL,PIT,Pittsburgh Penguins,2025-26,41,25,16,,2nd,East,Eastern Conference,Metropolitan,M2
-NHL,WAS,Washington Capitals,2025-26,43,30,9,,4th,East,Eastern Conference,Metropolitan,
-NHL,ARZ,Utah Mammoth,2025-26,43,33,6,,4th,West,Western Conference,Central,W7
-NHL,CHI,Chicago Blackhawks,2025-26,29,39,14,,8th,West,Western Conference,Central,
-NHL,COL,Colorado Avalanche,2025-26,55,16,11,,1st,West,Western Conference,Central,C1
-NHL,DAL,Dallas Stars,2025-26,50,20,12,,2nd,West,Western Conference,Central,C2
-NHL,MIN,Minnesota Wild,2025-26,46,24,12,,3rd,West,Western Conference,Central,C3
-NHL,NAS,Nashville Predators,2025-26,38,34,10,,6th,West,Western Conference,Central,
-NHL,STL,St. Louis Blues,2025-26,37,33,12,,5th,West,Western Conference,Central,
-NHL,WPG,Winnipeg Jets,2025-26,35,35,12,,7th,West,Western Conference,Central,
-NHL,ANA,Anaheim Ducks,2025-26,43,33,6,,3rd,West,Western Conference,Pacific,P3
-NHL,CGY,Calgary Flames,2025-26,34,39,9,,7th,West,Western Conference,Pacific,
-NHL,EDM,Edmonton Oilers,2025-26,41,30,11,,2nd,West,Western Conference,Pacific,P2
-NHL,LAK,Los Angeles Kings,2025-26,35,27,20,,4th,West,Western Conference,Pacific,W8
-NHL,SEA,Seattle Kraken,2025-26,34,37,11,,6th,West,Western Conference,Pacific,
-NHL,SJS,San Jose Sharks,2025-26,39,35,8,,5th,West,Western Conference,Pacific,
-NHL,VAN,Vancouver Canucks,2025-26,25,49,8,,8th,West,Western Conference,Pacific,
-NHL,VEG,Vegas Golden Knights,2025-26,39,26,17,,1st,West,Western Conference,Pacific,P1
-MLB,CHW,Chicago White Sox,2026,84,78,,,2nd,AL,American League,Central,A6
-MLB,CLE,Cleveland Guardians,2026,85,77,,,1st,AL,American League,Central,A2
-MLB,DET,Detroit Tigers,2026,76,86,,,4th,AL,American League,Central,
-MLB,KAN,Kansas City Royals,2026,69,93,,,5th,AL,American League,Central,
-MLB,MIN,Minnesota Twins,2026,77,85,,,3rd,AL,American League,Central,
-MLB,BAL,Baltimore Orioles,2026,79,82,,,4th,AL,American League,East,
-MLB,BOS,Boston Red Sox,2026,87,75,,,3rd,AL,American League,East,A5
-MLB,NYY,New York Yankees,2026,93,68,,,2nd,AL,American League,East,A4
-MLB,TAM,Tampa Bay Rays,2026,98,64,,,1st,AL,American League,East,
-MLB,TOR,Toronto Blue Jays,2026,79,83,,,5th,AL,American League,East,
-MLB,ATH,West Sacramento Athletics,2026,64,98,,,4th,AL,American League,West,
-MLB,HOU,Houston Astros,2026,81,81,,,1st,AL,American League,West,A3
-MLB,LAA,Los Angeles Angels,2026,62,100,,,5th,AL,American League,West,
-MLB,SEA,Seattle Mariners,2026,76,86,,,3rd,AL,American League,West,
-MLB,TEX,Texas Rangers,2026,80,82,,,2nd,AL,American League,West,
-MLB,CHC,Chicago Cubs,2026,89,73,,,2nd,NL,National League,Central,N5
-MLB,CIN,Cincinnati Reds,2026,75,87,,,5th,NL,National League,Central,
-MLB,MKE,Milwaukee Brewers,2026,103,59,,,1st,NL,National League,Central,N1
-MLB,PIT,Pittsburgh Pirates,2026,82,80,,,3rd,NL,National League,Central,
-MLB,STL,St. Louis Cardinals,2026,77,85,,,4th,NL,National League,Central,
-MLB,ATL,Atlanta Braves,2026,94,68,,,1st,NL,National League,East,N3
-MLB,MIA,Miami Marlins,2026,80,82,,,3rd,NL,National League,East,
-MLB,NYM,New York Mets,2026,74,88,,,5th,NL,National League,East,
-MLB,PHI,Philadelphia Phillies,2026,88,74,,,2nd,NL,National League,East,N6
-MLB,WAS,Washington Nationals,2026,77,85,,,4th,NL,National League,East,
-MLB,ARZ,Arizona Diamondbacks,2026,86,76,,,3rd,NL,National League,West,
-MLB,COL,Colorado Rockies,2026,58,104,,,5th,NL,National League,West,
-MLB,LAD,Los Angeles Dodgers,2026,100,62,,,1st,NL,National League,West,N2
-MLB,SDG,San Diego Padres,2026,91,71,,,2nd,NL,National League,West,N4
-MLB,SFO,San Francisco Giants,2026,65,97,,,4th,NL,National League,West,
