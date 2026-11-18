@@ -1,95 +1,95 @@
 Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
-1990,ACC,,Clemson,24,16,8,0,43,23,0,0,0,0,0
-1990,ACC,,Duke,21,4,17,0,28,25,0,0,0,0,0
-1990,ACC,,Georgia Tech,21,10,11,0,46,25,0,0,0,0,0
-1990,ACC,,Maryland,19,2,17,0,22,26,0,0,0,0,0
-1990,ACC,,NC State,26,17,9,0,48,20,0,0,0,0,0
-1990,ACC,,North Carolina,26,22,4,0,51,14,0,0,0,0,0
-1990,ACC,,Virginia,22,9,13,0,21,32,0,0,0,0,0
-1990,ACC,,Wake Forest,23,11,12,0,35,24,0,0,0,0,0
-1990,American South,,Arkansas St.,17,7,10,0,11,38,0,0,0,0,0
+1990,ACC,,Clemson,20,14,6,0,43,23,0,2,2,1,2
+1990,ACC,,Duke,19,4,15,0,28,25,0,0,2,0,0
+1990,ACC,,Georgia Tech,18,9,9,0,46,25,0,1,2,0,2
+1990,ACC,,Maryland,17,2,15,0,22,26,0,0,2,0,0
+1990,ACC,,NC State,21,14,7,0,48,20,0,3,2,1,0
+1990,ACC,,North Carolina,21,17,4,0,51,14,0,5,0,2,2
+1990,ACC,,Virginia,18,7,11,0,21,32,0,2,2,0,0
+1990,ACC,,Wake Forest,20,10,10,0,35,24,0,1,2,0,0
+1990,American South,,Arkansas St.,15,7,8,0,11,38,0,0,2,0,0
 1990,American South,,Lamar,15,3,12,0,16,37,0,0,0,0,0
-1990,American South,,Louisiana,18,14,4,0,47,18,0,0,0,0,0
-1990,American South,,Louisiana Tech,18,9,9,0,29,31,0,0,0,0,0
-1990,American South,,New Orleans,19,13,6,0,37,27,0,0,0,0,0
+1990,American South,,Louisiana,15,11,4,0,47,18,0,3,0,0,1
+1990,American South,,Louisiana Tech,15,8,7,0,29,31,0,1,2,0,0
+1990,American South,,New Orleans,15,11,4,0,37,27,0,2,2,0,0
 1990,American South,,UTRGV,15,5,10,0,30,24,0,0,0,0,0
-1990,Atlantic 10,East,Massachusetts,19,13,6,0,26,20,0,0,0,0,0
+1990,Atlantic 10,East,Massachusetts,16,12,4,0,26,20,0,1,2,0,0
 1990,Atlantic 10,East,Rhode Island,16,6,10,0,11,23,0,0,0,0,0
-1990,Atlantic 10,East,Rutgers,20,17,3,0,37,19,0,0,0,0,0
-1990,Atlantic 10,East,St. Joseph's,18,3,15,0,19,26,0,0,0,0,0
+1990,Atlantic 10,East,Rutgers,16,14,2,0,37,19,0,3,1,2,1
+1990,Atlantic 10,East,St. Joseph's,16,3,13,0,19,26,0,0,0,0,0
 1990,Atlantic 10,East,Temple,16,5,11,0,17,31,0,0,0,0,0
 1990,Atlantic 10,West,Duquesne,16,2,14,0,5,22,0,0,0,0,0
-1990,Atlantic 10,West,G. Washington,18,13,5,0,23,31,0,0,0,0,0
-1990,Atlantic 10,West,Penn State,18,8,10,0,22,23,0,0,0,0,0
+1990,Atlantic 10,West,G. Washington,16,13,3,0,23,31,0,0,2,0,0
+1990,Atlantic 10,West,Penn State,16,6,10,0,22,23,0,0,0,0,0
 1990,Atlantic 10,West,St. Bonaventure,16,7,9,0,22,19,0,0,0,0,0
-1990,Atlantic 10,West,West Virginia,21,15,6,0,33,20,0,0,0,0,0
+1990,Atlantic 10,West,West Virginia,16,12,4,0,33,20,0,3,2,0,0
 1990,Big East,,Boston College,21,8,13,0,20,22,1,0,0,0,0
-1990,Big East,,Connecticut,24,15,9,0,27,19,0,0,0,0,0
+1990,Big East,,Connecticut,21,12,9,0,27,19,0,3,0,0,2
 1990,Big East,,Georgetown,20,4,16,0,17,30,0,0,0,0,0
 1990,Big East,,Pittsburgh,21,4,17,0,8,23,0,0,0,0,0
 1990,Big East,,Providence,21,11,10,0,27,21,0,0,0,0,0
-1990,Big East,,Seton Hall,24,18,6,0,35,18,0,0,0,0,0
-1990,Big East,,St. John's,23,15,8,0,29,18,0,0,0,0,0
-1990,Big East,,Villanova,24,14,10,0,33,16,0,0,0,0,0
-1990,Big Eight,,Iowa State,28,13,15,0,33,27,0,0,0,0,0
+1990,Big East,,Seton Hall,20,16,4,0,35,18,0,2,2,0,0
+1990,Big East,,St. John's,21,15,6,0,29,18,0,0,2,0,0
+1990,Big East,,Villanova,21,13,8,0,33,16,0,1,2,0,0
+1990,Big Eight,,Iowa State,24,11,13,0,33,27,0,2,2,0,0
 1990,Big Eight,,Kansas,24,10,14,0,27,31,0,0,0,0,0
-1990,Big Eight,,Kansas St.,26,13,13,0,30,27,0,0,0,0,0
+1990,Big Eight,,Kansas St.,24,13,11,0,30,27,0,0,2,0,0
 1990,Big Eight,,Missouri,24,11,13,0,28,27,0,0,0,0,0
-1990,Big Eight,,Nebraska,27,13,14,0,42,26,0,0,0,0,0
+1990,Big Eight,,Nebraska,24,12,12,0,42,26,0,1,2,0,0
 1990,Big Eight,,Oklahoma,24,9,15,0,31,26,0,0,0,0,0
-1990,Big Eight,,Oklahoma St.,27,21,6,0,56,17,0,0,0,0,0
-1990,Big South,,Augusta,16,6,10,0,22,30,0,0,0,0,0
-1990,Big South,,Baptist,15,6,9,0,12,36,0,0,0,0,0
-1990,Big South,,Campbell,18,10,8,0,15,33,0,0,0,0,0
-1990,Big South,,Coastal Carolina,20,17,3,0,40,19,0,0,0,0,0
-1990,Big South,,NC Asheville,19,8,11,0,25,25,0,0,0,0,0
-1990,Big South,,Radford,18,9,9,0,24,27,0,0,0,0,0
-1990,Big South,,Winthrop,20,7,13,0,22,28,0,0,0,0,0
-1990,Big Ten,,Illinois,33,23,10,0,43,21,0,0,0,0,0
+1990,Big Eight,,Oklahoma St.,24,18,6,0,56,17,0,3,0,7,1
+1990,Big South,,Augusta,13,5,8,0,22,30,0,1,2,0,0
+1990,Big South,,Campbell,14,6,8,0,15,33,0,4,0,0,1
+1990,Big South,,Charleston So.,13,6,7,0,12,36,0,0,2,0,0
+1990,Big South,,Coastal Carolina,16,14,2,0,40,19,0,3,1,0,0
+1990,Big South,,NC Asheville,17,8,9,0,25,25,0,0,2,0,0
+1990,Big South,,Radford,15,8,7,0,24,27,0,1,2,0,0
+1990,Big South,,Winthrop,16,5,11,0,22,28,0,2,2,0,0
+1990,Big Ten,,Illinois,28,19,9,0,43,21,0,3,0,2,2
 1990,Big Ten,,Indiana,28,14,14,0,30,27,0,0,0,0,0
-1990,Big Ten,,Iowa,31,23,8,0,38,19,0,0,0,0,0
-1990,Big Ten,,Michigan,30,15,15,0,33,24,0,0,0,0,0
+1990,Big Ten,,Iowa,28,22,6,0,38,19,0,1,2,0,1
+1990,Big Ten,,Michigan,28,14,14,0,33,24,0,0,0,0,0
 1990,Big Ten,,Michigan St.,28,13,15,0,28,24,0,0,0,0,0
-1990,Big Ten,,Minnesota,30,19,11,0,36,24,0,0,0,0,0
-1990,Big Ten,,NorthWestern,,,,,,,,,,,
-1990,Big Ten,,Ohio State,32,18,14,0,32,29,0,0,0,0,0
+1990,Big Ten,,Minnesota,28,19,9,0,36,24,0,0,2,0,0
+1990,Big Ten,,Northwestern,27,6,21,0,24,32,0,0,0,0,0
+1990,Big Ten,,Ohio State,28,16,12,0,32,29,0,2,2,0,0
 1990,Big Ten,,Purdue,27,8,19,0,27,31,0,0,0,0,0
 1990,Big Ten,,Wisconsin,28,8,20,0,16,41,0,0,0,0,0
-1990,Big West,,CS Fullerton,18,13,5,0,36,23,0,0,0,0,0
-1990,Big West,,Fresno St.,21,13,8,0,38,24,0,0,0,0,0
+1990,Big West,,CS Fullerton,18,13,5,0,36,23,0,0,0,4,2
+1990,Big West,,Fresno St.,21,13,8,0,38,24,0,0,0,1,2
 1990,Big West,,Long Beach St.,21,12,9,0,36,22,0,0,0,0,0
 1990,Big West,,Pacific,18,1,17,0,14,40,0,0,0,0,0
 1990,Big West,,San Jose St.,21,9,12,0,43,17,0,0,0,0,0
 1990,Big West,,UC Irvine,21,10,11,0,34,25,0,0,0,0,0
-1990,Big West,,UCSB,21,13,8,0,40,22,0,0,0,0,0
+1990,Big West,,UCSB,21,13,8,0,40,22,0,0,0,0,2
 1990,Big West,,UNLV,21,10,11,0,30,26,0,0,0,0,0
-1990,Colonial,,East Carolina,17,15,2,0,47,9,0,0,0,0,0
-1990,Colonial,,George Mason,19,9,10,0,28,30,0,0,0,0,0
-1990,Colonial,,James Madison,10,3,7,0,27,19,0,0,0,0,0
-1990,Colonial,,NC Wilmington,14,6,8,0,23,25,0,0,0,0,0
-1990,Colonial,,Richmond,17,11,6,0,27,19,1,0,0,0,0
-1990,Colonial,,William & Mary,13,1,12,0,9,31,0,0,0,0,0
+1990,Colonial,,East Carolina,13,11,2,0,47,9,0,4,0,1,2
+1990,Colonial,,George Mason,14,6,8,0,28,30,0,3,2,0,0
+1990,Colonial,,James Madison,8,3,5,0,27,19,0,0,2,0,0
+1990,Colonial,,NC Wilmington,11,5,6,0,23,25,0,1,2,0,0
+1990,Colonial,,Richmond,13,9,4,0,27,19,1,2,2,0,0
+1990,Colonial,,William & Mary,11,1,10,0,9,31,0,0,2,0,0
 1990,East Coast,,Bucknell,14,6,8,0,13,20,0,0,0,0,0
-1990,East Coast,,Delaware,17,13,4,0,26,11,0,0,0,0,0
+1990,East Coast,,Delaware,14,12,2,0,26,11,0,1,2,0,0
 1990,East Coast,,Drexel,14,3,11,0,8,27,0,0,0,0,0
 1990,East Coast,,Hofstra,14,3,11,0,6,25,0,0,0,0,0
-1990,East Coast,,Lafayette,17,15,2,0,26,17,0,0,0,0,0
+1990,East Coast,,Lafayette,14,12,2,0,26,17,0,3,0,0,1
 1990,East Coast,,Lehigh,14,4,10,0,10,14,0,0,0,0,0
-1990,East Coast,,Rider,18,11,7,0,22,22,0,0,0,0,0
-1990,East Coast,,Towson,16,7,9,0,18,29,0,0,0,0,0
+1990,East Coast,,Rider,14,9,5,0,22,22,0,2,2,0,0
+1990,East Coast,,Towson,14,7,7,0,18,29,0,0,2,0,0
 1990,ECAC Diamond,,Brooklyn,11,3,8,0,9,24,1,0,0,0,0
-1990,ECAC Diamond,,LIU Post,13,8,5,0,20,23,0,0,0,0,0
-1990,ECAC Diamond,,NYIT,12,11,1,0,32,20,0,0,0,0,0
+1990,ECAC Diamond,,LIU Post,12,7,5,0,20,23,0,0,0,0,0
+1990,ECAC Diamond,,NYIT,11,11,0,0,32,20,0,0,0,0,0
 1990,ECAC Diamond,,Pace,11,4,7,0,15,25,1,0,0,0,0
 1990,ECAC Diamond,,West Chester,11,3,8,0,24,17,0,0,0,0,0
 1990,EIBL,,Army,18,11,7,0,23,17,0,0,0,0,0
 1990,EIBL,,Brown,18,11,7,0,16,20,0,0,0,0,0
-1990,EIBL,,Columbia,21,5,16,0,12,24,0,0,0,0,0
+1990,EIBL,,Columbia,18,4,14,0,12,24,0,0,0,0,0
 1990,EIBL,,Cornell,18,7,11,0,21,23,0,0,0,0,0
-1990,EIBL,,Dartmouth,21,12,9,0,21,17,0,0,0,0,0
+1990,EIBL,,Dartmouth,18,10,8,0,21,17,0,0,0,0,0
 1990,EIBL,,Harvard,18,9,9,0,15,20,1,0,0,0,0
 1990,EIBL,,Navy,18,6,12,0,16,20,0,0,0,0,0
-1990,EIBL,,Pennsylvania,18,13,5,0,23,17,0,0,0,0,0
+1990,EIBL,,Pennsylvania,18,13,5,0,23,17,0,0,0,1,2
 1990,EIBL,,Princeton,18,11,7,0,23,18,0,0,0,0,0
 1990,EIBL,,Yale,18,8,10,0,21,24,0,0,0,0,0
 1990,Independent,,Boston U.,0,0,0,0,7,33,0,0,0,0,0
@@ -108,160 +108,160 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1990,Independent,,US International,0,0,0,0,12,41,0,0,0,0,0
 1990,Independent,,Wright St.,0,0,0,0,35,20,0,0,0,0,0
 1990,Independent,,Youngstown St.,0,0,0,0,20,30,1,0,0,0,0
-1990,MAAC,North,Canisius,13,7,6,0,11,20,1,0,0,0,0
-1990,MAAC,North,Colgate,15,5,10,0,15,19,0,0,0,0,0
-1990,MAAC,North,Le Moyne,14,12,2,0,18,12,0,0,0,0,0
-1990,MAAC,North,Niagara,13,4,9,0,11,22,0,0,0,0,0
-1990,MAAC,North,Siena,12,6,6,0,6,24,0,0,0,0,0
+1990,MAAC,North,Canisius,12,6,6,0,11,20,1,0,0,0,0
+1990,MAAC,North,Colgate,12,4,8,0,15,19,0,0,0,0,0
+1990,MAAC,North,Le Moyne,11,10,1,0,18,12,0,0,0,0,0
+1990,MAAC,North,Niagara,12,4,8,0,11,22,0,0,0,0,0
+1990,MAAC,North,Siena,11,5,6,0,6,24,0,0,0,0,0
 1990,MAAC,South,Fairfield,18,9,9,0,13,22,0,0,0,0,0
-1990,MAAC,South,Fordham,20,17,3,0,36,14,0,0,0,0,0
-1990,MAAC,South,Holy Cross,20,11,9,0,17,13,0,0,0,0,0
+1990,MAAC,South,Fordham,18,16,2,0,36,14,0,0,0,1,2
+1990,MAAC,South,Holy Cross,17,10,7,0,17,13,0,0,0,0,0
 1990,MAAC,South,Iona,18,9,9,0,22,21,0,0,0,0,0
 1990,MAAC,South,La Salle,17,5,12,0,11,36,0,0,0,0,0
 1990,MAAC,South,Manhattan,18,7,11,0,11,21,0,0,0,0,0
 1990,MAAC,South,St. Peter's,18,6,12,0,19,18,0,0,0,0,0
 1990,MAC,,Ball State,27,8,19,0,21,33,0,0,0,0,0
 1990,MAC,,Bowling Green,27,10,17,0,29,25,0,0,0,0,0
-1990,MAC,,Central Mich.,28,19,9,0,38,19,0,0,0,0,0
+1990,MAC,,Central Mich.,28,19,9,0,38,19,0,0,0,0,2
 1990,MAC,,Eastern Mich.,32,20,12,0,32,25,0,0,0,0,0
 1990,MAC,,Kent State,27,17,10,0,35,18,0,0,0,0,0
 1990,MAC,,Miami Ohio,28,14,14,0,34,22,0,0,0,0,0
 1990,MAC,,Ohio,28,12,16,0,29,27,0,0,0,0,0
 1990,MAC,,Toledo,24,7,17,0,21,27,0,0,0,0,0
 1990,MAC,,Western Mich.,25,16,9,0,30,20,0,0,0,0,0
-1990,MEAC,,Bethune Cookman,6,0,6,0,0,18,0,0,0,0,0
-1990,MEAC,,Coppin St.,7,2,5,0,2,27,0,0,0,0,0
-1990,MEAC,,Delaware St.,8,6,2,0,14,18,0,0,0,0,0
-1990,MEAC,,Florida A&M,8,8,0,0,18,18,0,0,0,0,0
-1990,MEAC,,Howard,7,4,3,0,6,25,0,0,0,0,0
-1990,MEAC,,NC A&T,3,3,0,0,3,11,0,0,0,0,0
-1990,MEAC,,SC State,2,0,2,0,0,3,0,0,0,0,0
-1990,MEAC,,UMES,11,3,8,0,8,18,0,0,0,0,0
-1990,Metro,,Cincinnati,20,8,12,0,23,29,0,0,0,0,0
-1990,Metro,,Florida St.,27,22,5,0,57,15,0,0,0,0,0
-1990,Metro,,Louisville,16,4,12,0,15,29,0,0,0,0,0
-1990,Metro,,Memphis,22,8,14,0,31,25,0,0,0,0,0
-1990,Metro,,South Carolina,19,11,8,0,33,25,0,0,0,0,0
-1990,Metro,,Southern Miss,26,19,7,0,42,25,0,0,0,0,0
-1990,Metro,,Tulane,23,4,19,0,19,35,0,0,0,0,0
-1990,Metro,,Virginia Tech,23,12,11,0,36,22,0,0,0,0,0
-1990,Mid Continent,Blue,Akron,16,8,8,0,25,29,0,0,0,0,0
-1990,Mid Continent,Blue,Cleveland St.,10,3,7,0,13,27,0,0,0,0,0
-1990,Mid Continent,Blue,UIC,15,12,3,0,33,24,0,0,0,0,0
+1990,MEAC,,Bethune Cookman,0,0,0,0,0,18,0,0,2,0,0
+1990,MEAC,,Coppin St.,0,0,0,0,2,28,0,1,2,0,0
+1990,MEAC,,Delaware St.,0,0,0,0,14,18,0,1,2,0,0
+1990,MEAC,,Florida A&M,0,0,0,0,18,18,0,4,0,0,0
+1990,MEAC,,Howard,0,0,0,0,9,25,0,3,2,0,0
+1990,MEAC,,NC A&T,0,0,0,0,4,13,0,4,2,0,0
+1990,MEAC,,SC State,0,0,0,0,0,4,0,0,2,0,0
+1990,MEAC,,UMES,0,0,0,0,8,18,0,1,2,0,0
+1990,Metro,,Cincinnati,15,5,10,0,23,29,0,3,2,0,0
+1990,Metro,,Florida St.,21,17,4,0,57,15,0,5,1,4,2
+1990,Metro,,Louisville,14,4,10,0,15,29,0,0,2,0,0
+1990,Metro,,Memphis,19,7,12,0,31,25,0,1,2,0,0
+1990,Metro,,South Carolina,16,10,6,0,33,25,0,1,2,0,0
+1990,Metro,,Southern Miss,21,16,5,0,42,25,0,2,2,1,2
+1990,Metro,,Tulane,20,4,16,0,19,35,0,0,2,0,0
+1990,Metro,,Virginia Tech,18,9,9,0,36,22,0,3,2,0,0
+1990,Mid Continent,Blue,Akron,12,7,5,0,25,29,0,0,2,0,0
+1990,Mid Continent,Blue,Cleveland St.,9,3,6,0,13,27,0,0,0,0,0
+1990,Mid Continent,Blue,UIC,11,8,3,0,33,24,0,3,0,0,0
 1990,Mid Continent,Blue,Valparaiso,10,3,7,0,20,35,0,0,0,0,0
-1990,Mid Continent,Gray,Eastern Ill.,14,5,9,0,24,30,0,0,0,0,0
-1990,Mid Continent,Gray,Missouri St.,15,13,2,0,42,15,0,0,0,0,0
+1990,Mid Continent,Gray,Eastern Ill.,11,4,7,0,24,30,0,1,2,0,0
+1990,Mid Continent,Gray,Missouri St.,11,11,0,0,42,15,0,2,2,0,0
 1990,Mid Continent,Gray,Northern Iowa,12,4,8,0,20,39,0,0,0,0,0
 1990,Mid Continent,Gray,Western Ill.,12,4,8,0,19,20,0,0,0,0,0
-1990,Midwestern Collegiate,East,Dayton,29,9,20,0,15,46,0,0,0,0,0
-1990,Midwestern Collegiate,East,Detroit,25,12,13,0,24,25,0,0,0,0,0
-1990,Midwestern Collegiate,East,Notre Dame,32,27,5,0,46,12,0,0,0,0,0
-1990,Midwestern Collegiate,East,Xavier,27,10,17,0,18,36,0,0,0,0,0
-1990,Midwestern Collegiate,West,Butler,25,10,15,0,18,30,0,0,0,0,0
-1990,Midwestern Collegiate,West,Evansville,18,15,3,0,27,25,0,0,0,0,0
-1990,Midwestern Collegiate,West,St. Louis,12,1,11,0,8,38,0,0,0,0,0
-1990,Mo Valley,,Bradley,22,7,15,0,31,32,0,0,0,0,0
-1990,Mo Valley,,Creighton,25,16,9,0,48,22,0,0,0,0,0
-1990,Mo Valley,,Illinois St.,22,5,17,0,26,31,0,0,0,0,0
-1990,Mo Valley,,Indiana St.,24,10,14,0,43,21,0,0,0,0,0
-1990,Mo Valley,,Southern Ill.,25,18,7,0,49,14,0,0,0,0,0
-1990,Mo Valley,,Wichita St.,22,14,8,0,45,19,0,0,0,0,0
+1990,Midwestern Collegiate,East,Dayton,24,6,18,0,15,46,0,3,2,0,0
+1990,Midwestern Collegiate,East,Detroit,22,11,11,0,24,25,0,1,2,0,0
+1990,Midwestern Collegiate,East,Notre Dame,28,25,3,0,46,12,0,2,2,0,0
+1990,Midwestern Collegiate,East,Xavier,24,9,15,0,18,36,0,1,2,0,0
+1990,Midwestern Collegiate,West,Butler,22,9,13,0,18,30,0,1,2,0,0
+1990,Midwestern Collegiate,West,Evansville,14,11,3,0,27,25,0,4,0,0,0
+1990,Midwestern Collegiate,West,St. Louis,10,1,9,0,8,38,0,0,2,0,0
+1990,Mo Valley,,Bradley,19,6,13,0,31,32,0,1,2,0,0
+1990,Mo Valley,,Creighton,20,13,7,0,48,22,0,3,2,2,2
+1990,Mo Valley,,Illinois St.,19,4,15,0,26,31,0,1,2,0,0
+1990,Mo Valley,,Indiana St.,20,8,12,0,43,21,0,2,2,0,0
+1990,Mo Valley,,Southern Ill.,20,14,6,0,49,14,0,4,1,1,2
+1990,Mo Valley,,Wichita St.,20,14,6,0,45,19,0,0,2,0,0
 1990,NEC,,Fairleigh Dickinson,14,3,11,0,15,23,1,0,0,0,0
 1990,NEC,,Long Island,15,12,3,0,27,13,0,0,0,0,0
 1990,NEC,,Monmouth,15,7,8,0,16,19,1,0,0,0,0
 1990,NEC,,Mount St. Mary's,11,4,7,0,12,19,0,0,0,0,0
 1990,NEC,,St. Francis NY,15,9,6,0,15,17,0,0,0,0,0
 1990,NEC,,Wagner,12,6,6,0,17,15,2,0,0,0,0
-1990,North Atlantic,,Central Conn.,15,9,6,0,25,14,0,0,0,0,0
+1990,North Atlantic,,Central Conn.,14,9,5,0,25,14,0,0,0,0,0
 1990,North Atlantic,,Hartford,14,4,10,0,15,20,0,0,0,0,0
-1990,North Atlantic,,Maine,16,13,3,0,42,20,0,0,0,0,0
+1990,North Atlantic,,Maine,15,12,3,0,42,20,0,0,0,0,0
 1990,North Atlantic,,New Hampshire,14,4,10,0,18,19,0,0,0,0,0
-1990,North Atlantic,,NorthEastern,,,,,,,,,,,
+1990,North Atlantic,,Northeastern,15,9,6,0,26,20,0,0,0,0,0
 1990,North Atlantic,,Vermont,14,5,9,0,18,13,0,0,0,0,0
-1990,OVC,,Austin Peay,17,7,10,0,31,25,0,0,0,0,0
-1990,OVC,,Eastern Ky.,22,17,5,0,42,15,0,0,0,0,0
-1990,OVC,,Middle Tenn.,17,17,0,0,42,15,0,0,0,0,0
+1990,OVC,,Austin Peay,14,6,8,0,31,25,0,1,2,0,0
+1990,OVC,,Eastern Ky.,18,15,3,0,42,15,0,2,2,0,0
+1990,OVC,,Middle Tenn.,14,14,0,0,42,15,0,3,0,0,2
 1990,OVC,,Morehead St.,15,6,9,0,23,24,0,0,0,0,0
-1990,OVC,,Murray St.,14,3,11,0,16,25,0,0,0,0,0
+1990,OVC,,Murray St.,13,2,11,0,16,25,0,0,0,0,0
 1990,OVC,,Tennessee St.,14,2,12,0,12,29,0,0,0,0,0
-1990,OVC,,Tennessee Tech,19,7,12,0,26,25,0,0,0,0,0
-1990,Pac 10,North,Eastern Wash.,28,4,24,0,14,36,0,0,0,0,0
-1990,Pac 10,North,Gonzaga,29,16,13,0,37,21,0,0,0,0,0
-1990,Pac 10,North,Oregon St.,28,17,11,0,30,22,0,0,0,0,0
-1990,Pac 10,North,Portland,28,11,17,0,26,25,0,0,0,0,0
-1990,Pac 10,North,Portland St.,27,10,17,0,30,24,0,0,0,0,0
-1990,Pac 10,North,Washington,29,16,13,0,30,19,0,0,0,0,0
-1990,Pac 10,North,Washington St.,32,26,6,0,48,19,0,0,0,0,0
+1990,OVC,,Tennessee Tech,16,7,9,0,26,25,0,0,2,0,0
+1990,Pac 10,North,Eastern Wash.,24,4,20,0,14,36,0,0,0,0,0
+1990,Pac 10,North,Gonzaga,24,13,11,0,37,21,0,0,2,0,0
+1990,Pac 10,North,Oregon St.,24,15,9,0,30,22,0,1,2,0,0
+1990,Pac 10,North,Portland,24,10,14,0,26,25,0,0,0,0,0
+1990,Pac 10,North,Portland St.,24,9,15,0,30,24,0,0,0,0,0
+1990,Pac 10,North,Washington,24,14,10,0,30,19,0,2,2,0,0
+1990,Pac 10,North,Washington St.,24,19,5,0,48,19,0,3,0,2,2
 1990,Pac 10,South,Arizona,30,11,19,0,26,34,0,0,0,0,0
-1990,Pac 10,South,Arizona St.,31,21,10,0,52,16,0,0,0,0,0
+1990,Pac 10,South,Arizona St.,30,20,10,0,52,16,0,0,0,2,2
 1990,Pac 10,South,California,30,3,27,0,18,43,0,0,0,0,0
-1990,Pac 10,South,Stanford,30,24,6,0,59,12,0,0,0,0,0
-1990,Pac 10,South,UCLA,30,14,16,0,41,26,0,0,0,0,0
-1990,Pac 10,South,USC,30,18,12,0,40,22,0,0,0,0,0
-1990,SEC,,Alabama,25,12,13,0,34,21,0,0,0,0,0
-1990,SEC,,Auburn,30,13,17,0,34,24,0,0,0,0,0
-1990,SEC,,Florida,26,12,14,0,29,30,0,0,0,0,0
-1990,SEC,,Georgia,30,19,11,0,52,19,0,0,0,0,0
+1990,Pac 10,South,Stanford,30,24,6,0,59,12,0,0,0,7,2
+1990,Pac 10,South,UCLA,30,14,16,0,41,26,0,0,0,1,1
+1990,Pac 10,South,USC,30,18,12,0,40,22,0,0,0,3,2
+1990,SEC,,Alabama,23,10,13,0,34,21,0,0,0,0,0
+1990,SEC,,Auburn,26,13,13,0,34,24,0,0,2,0,0
+1990,SEC,,Florida,23,11,12,0,29,30,0,1,2,0,0
+1990,SEC,,Georgia,27,18,9,0,52,19,0,0,2,5,1
 1990,SEC,,Kentucky,26,8,18,0,27,29,0,0,0,0,0
-1990,SEC,,LSU,33,25,8,0,54,19,0,0,0,0,0
-1990,SEC,,Miss State,34,22,12,0,50,21,0,0,0,0,0
-1990,SEC,,Mississippi,28,10,18,0,23,29,0,0,0,0,0
+1990,SEC,,LSU,27,20,7,0,54,19,0,3,1,4,3
+1990,SEC,,Miss State,26,17,9,0,50,21,0,4,1,4,2
+1990,SEC,,Mississippi,26,10,16,0,23,29,0,0,0,0,0
 1990,SEC,,Tennessee,27,9,18,0,28,31,0,0,0,0,0
-1990,SEC,,Vanderbilt,29,14,15,0,28,30,0,0,0,0,0
-1990,Southern,,Appalachian St.,18,7,11,0,19,22,1,0,0,0,0
-1990,Southern,,Citadel,18,17,1,0,46,14,0,0,0,0,0
-1990,Southern,,ETSU,19,5,14,0,10,31,0,0,0,0,0
-1990,Southern,,Furman,20,7,13,0,20,24,0,0,0,0,0
-1990,Southern,,Marshall,21,12,9,0,20,19,0,0,0,0,0
-1990,Southern,,VMI,16,6,10,0,12,26,0,0,0,0,0
-1990,Southern,,Western Caro.,22,13,9,0,37,25,0,0,0,0,0
+1990,SEC,,Vanderbilt,25,12,13,0,28,30,0,2,2,0,0
+1990,Southern,,Appalachian St.,15,6,9,0,19,22,1,1,2,0,0
+1990,Southern,,Citadel,14,13,1,0,46,14,0,4,0,2,0
+1990,Southern,,ETSU,16,4,12,0,10,31,0,0,2,0,0
+1990,Southern,,Furman,17,6,11,0,20,24,0,1,1,0,0
+1990,Southern,,Marshall,17,10,7,0,20,19,0,2,2,0,0
+1990,Southern,,VMI,14,6,8,0,12,26,0,0,2,0,0
+1990,Southern,,Western Caro.,17,10,7,0,37,25,0,3,2,0,0
 1990,Southland,,McNeese,17,10,7,0,35,20,0,0,0,0,0
-1990,Southland,,NorthWestern St.,,,,,,,,,,,
+1990,Southland,,Northwestern St.,18,9,9,0,38,13,0,0,0,0,0
 1990,Southland,,Sam Houston,17,11,6,0,34,22,0,0,0,0,0
 1990,Southland,,Stephen F. Austin,18,3,15,0,11,46,0,0,0,0,0
 1990,Southland,,Texas St.,18,7,11,0,31,22,0,0,0,0,0
 1990,Southland,,UL Monroe,18,10,8,0,28,17,0,0,0,0,0
-1990,Southland,,UT Arlington,16,11,5,0,31,30,0,0,0,0,0
-1990,Sun Belt,East,Charlotte,19,8,11,0,33,29,0,0,0,0,0
-1990,Sun Belt,East,Jacksonville,26,18,8,0,42,20,0,0,0,0,0
-1990,Sun Belt,East,Old Dominion,22,14,8,0,40,19,0,0,0,0,0
+1990,Southland,,UT Arlington,16,11,5,0,31,30,0,0,0,0,2
+1990,Sun Belt,East,Charlotte,17,8,9,0,33,29,0,0,2,0,0
+1990,Sun Belt,East,Jacksonville,18,13,5,0,42,20,0,2,2,0,0
+1990,Sun Belt,East,Old Dominion,17,11,6,0,40,19,0,3,2,0,2
 1990,Sun Belt,East,VCU,16,2,14,0,18,29,0,0,0,0,0
-1990,Sun Belt,West,South Alabama,21,13,8,0,44,20,0,0,0,0,0
-1990,Sun Belt,West,South Florida,26,13,13,0,41,24,0,0,0,0,0
-1990,Sun Belt,West,UAB,20,8,12,0,27,26,0,0,0,0,0
+1990,Sun Belt,West,South Alabama,18,12,6,0,44,20,0,1,2,2,2
+1990,Sun Belt,West,South Florida,18,8,10,0,41,24,0,4,0,0,1
+1990,Sun Belt,West,UAB,18,8,10,0,27,26,0,0,2,0,0
 1990,Sun Belt,West,Western Ky.,18,8,10,0,32,28,0,0,0,0,0
 1990,SWAC,East,Alabama St.,21,4,17,0,16,26,0,0,0,0,0
-1990,SWAC,East,Alcorn,28,13,15,0,13,25,1,0,0,0,0
-1990,SWAC,East,Jackson St.,25,22,3,0,33,16,0,0,0,0,0
+1990,SWAC,East,Alcorn,22,12,10,0,13,25,1,0,2,0,0
+1990,SWAC,East,Jackson St.,18,17,1,0,33,16,0,4,1,0,0
 1990,SWAC,East,Miss Valley,21,8,13,0,11,28,0,0,0,0,0
-1990,SWAC,West,Grambling,28,16,12,0,20,25,0,0,0,0,0
+1990,SWAC,West,Grambling,22,13,9,0,20,25,0,2,2,0,0
 1990,SWAC,West,Prairie View,16,5,11,0,8,39,0,0,0,0,0
-1990,SWAC,West,Southern,21,14,7,0,17,16,0,0,0,0,0
+1990,SWAC,West,Southern,14,10,4,0,17,16,0,1,2,0,0
 1990,SWAC,West,Texas Southern,24,10,14,0,15,33,0,0,0,0,0
-1990,SWC,,Arkansas,24,17,7,0,47,15,0,0,0,0,0
+1990,SWC,,Arkansas,21,16,5,0,47,15,0,1,2,0,1
 1990,SWC,,Baylor,21,9,12,0,33,19,0,0,0,0,0
-1990,SWC,,Houston,25,14,11,0,44,23,0,0,0,0,0
-1990,SWC,,Rice,22,11,11,0,33,29,0,0,0,0,0
+1990,SWC,,Houston,21,12,9,0,44,23,0,2,2,2,2
+1990,SWC,,Rice,20,11,9,0,33,29,0,0,2,0,0
 1990,SWC,,TCU,21,4,17,0,27,32,0,0,0,0,0
-1990,SWC,,Texas,23,18,5,0,51,17,0,0,0,0,0
+1990,SWC,,Texas,20,15,5,0,51,17,0,3,0,3,2
 1990,SWC,,Texas A&M,21,11,10,0,43,17,0,0,0,0,0
 1990,SWC,,Texas Tech,21,5,16,0,31,29,0,0,0,0,0
-1990,Trans Am,East,Ga. Southern,23,20,3,0,50,19,0,0,0,0,0
+1990,Trans Am,East,Ga. Southern,18,17,1,0,50,19,0,3,2,3,3
 1990,Trans Am,East,Mercer,16,2,14,0,15,34,0,0,0,0,0
 1990,Trans Am,East,Samford,16,5,11,0,25,28,0,0,0,0,0
-1990,Trans Am,East,Stetson,23,14,9,0,33,31,0,0,0,0,0
-1990,Trans Am,West,Centenary,17,12,5,0,40,18,0,0,0,0,0
-1990,Trans Am,West,Hardin Simmons,17,3,14,0,16,41,0,0,0,0,0
-1990,Trans Am,West,Little Rock,18,9,9,0,33,20,0,0,0,0,0
+1990,Trans Am,East,Stetson,18,10,8,0,33,31,0,3,1,0,0
+1990,Trans Am,West,Centenary,15,12,3,0,40,18,0,0,2,0,0
+1990,Trans Am,West,Hardin Simmons,16,3,13,0,16,41,0,0,0,0,0
+1990,Trans Am,West,Little Rock,15,8,7,0,33,20,0,1,2,0,0
 1990,WAC,,Air Force,28,7,21,0,26,34,0,0,0,0,0
-1990,WAC,,BYU,31,22,9,0,43,25,0,0,0,0,0
+1990,WAC,,BYU,28,20,7,1,43,25,1,2,2,0,1
 1990,WAC,,Colorado St.,28,4,24,0,9,42,0,0,0,0,0
-1990,WAC,,Hawaii,29,17,12,0,37,24,0,0,0,0,0
+1990,WAC,,Hawaii,28,17,10,1,37,24,1,0,2,0,0
 1990,WAC,,New Mexico,26,10,16,0,25,31,0,0,0,0,0
-1990,WAC,,San Diego St.,31,24,7,0,49,22,0,0,0,0,0
+1990,WAC,,San Diego St.,28,21,7,0,49,22,0,3,0,3,2
 1990,WAC,,Utah,26,10,16,0,19,33,0,0,0,0,0
-1990,WAC,,Wyoming,31,21,10,0,37,18,0,0,0,0,0
-1990,WCC,,Loyola Marymount,34,25,9,0,45,17,0,0,0,0,0
+1990,WAC,,Wyoming,28,20,8,0,37,18,0,1,2,0,0
+1990,WCC,,Loyola Marymount,34,25,9,0,45,17,0,0,0,0,1
 1990,WCC,,Nevada,27,13,14,0,31,22,0,0,0,0,0
 1990,WCC,,Pepperdine,36,24,12,0,37,23,0,0,0,0,0
 1990,WCC,,San Diego,33,16,17,0,24,32,0,0,0,0,0
@@ -322,7 +322,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1991,Big Ten,,Michigan,28,15,13,0,34,23,0,0,0,0,0
 1991,Big Ten,,Michigan St.,28,12,16,0,28,25,0,0,0,0,0
 1991,Big Ten,,Minnesota,28,18,10,0,37,27,0,2,2,1,2
-1991,Big Ten,,NorthWestern,,,,,,,,,,,
+1991,Big Ten,,Northwestern,28,15,12,1,25,27,1,1,2,0,0
 1991,Big Ten,,Ohio State,28,20,8,0,52,13,0,3,0,1,0
 1991,Big Ten,,Purdue,28,14,14,0,35,21,0,0,0,0,0
 1991,Big Ten,,Wisconsin,28,6,22,0,16,36,0,0,0,0,0
@@ -438,12 +438,12 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1991,NEC,,Mount St. Mary's,15,8,7,0,15,19,0,0,0,0,0
 1991,NEC,,St. Francis NY,15,8,7,0,14,21,0,0,0,0,0
 1991,NEC,,Wagner,15,7,8,0,15,18,0,0,0,0,0
-1991,North ATLANTIC,,Boston U.,15,2,13,0,14,38,0,0,0,0,0
-1991,North ATLANTIC,,Hartford,15,5,10,0,13,22,0,0,0,0,0
-1991,North ATLANTIC,,Maine,15,14,1,0,48,18,0,0,0,0,1
-1991,North ATLANTIC,,New Hampshire,14,5,9,0,16,22,0,0,0,0,0
-1991,North ATLANTIC,,NorthEastern,,,,,,,,,,,
-1991,North ATLANTIC,,Vermont,14,6,8,0,18,14,0,0,0,0,0
+1991,North Atlantic,,Boston U.,15,2,13,0,14,38,0,0,0,0,0
+1991,North Atlantic,,Hartford,15,5,10,0,13,22,0,0,0,0,0
+1991,North Atlantic,,Maine,15,14,1,0,48,18,0,0,0,0,1
+1991,North Atlantic,,New Hampshire,14,5,9,0,16,22,0,0,0,0,0
+1991,North Atlantic,,Northeastern,15,12,3,0,35,15,0,0,0,0,0
+1991,North Atlantic,,Vermont,14,6,8,0,18,14,0,0,0,0,0
 1991,OVC,,Austin Peay,17,6,11,0,15,37,0,0,0,0,0
 1991,OVC,,Eastern Ky.,18,10,8,0,26,28,0,2,2,0,0
 1991,OVC,,Middle Tenn.,17,12,5,0,28,33,0,3,0,0,2
@@ -487,7 +487,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1991,Southern,,VMI,16,1,15,0,2,35,0,0,2,0,0
 1991,Southern,,Western Caro.,14,11,3,0,36,26,0,4,2,0,0
 1991,Southland,,McNeese,15,4,11,0,34,18,0,0,0,0,0
-1991,Southland,,NorthWestern St.,,,,,,,,,,,
+1991,Southland,,Northwestern St.,18,13,5,0,40,21,0,0,0,0,2
 1991,Southland,,Sam Houston,14,9,5,0,33,17,0,0,0,0,0
 1991,Southland,,Stephen F. Austin,15,8,7,0,20,35,0,0,0,0,0
 1991,Southland,,Texas St.,11,4,7,0,33,15,0,0,0,0,0
@@ -586,7 +586,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1992,Big Ten,,Michigan,28,11,17,0,21,32,0,0,0,0,0
 1992,Big Ten,,Michigan St.,28,17,11,0,36,19,0,2,2,0,0
 1992,Big Ten,,Minnesota,28,18,10,0,42,21,0,3,0,2,2
-1992,Big Ten,,NorthWestern,,,,,,,,,,,
+1992,Big Ten,,Northwestern,28,8,20,0,18,38,0,0,0,0,0
 1992,Big Ten,,Ohio State,28,20,8,0,40,21,0,0,2,2,2
 1992,Big Ten,,Penn State,28,11,17,0,24,24,0,0,0,0,0
 1992,Big Ten,,Purdue,28,13,15,0,30,25,0,0,0,0,0
@@ -702,14 +702,14 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1992,NEC,,Mount St. Mary's,17,4,13,0,9,28,0,0,0,0,0
 1992,NEC,,St. Francis NY,18,12,6,0,19,21,0,0,0,0,0
 1992,NEC,,Wagner,18,12,6,0,17,21,0,0,0,0,0
-1992,North ATLANTIC,,Boston U.,24,6,18,0,8,30,0,0,0,0,0
-1992,North ATLANTIC,,Delaware,28,20,8,0,39,14,0,0,0,0,1
-1992,North ATLANTIC,,Drexel,28,10,18,0,19,26,0,0,0,0,0
-1992,North ATLANTIC,,Hartford,28,18,10,0,27,21,0,0,0,0,0
-1992,North ATLANTIC,,Maine,22,11,11,0,19,24,1,0,0,0,0
-1992,North ATLANTIC,,New Hampshire,24,8,16,0,16,20,0,0,0,0,0
-1992,North ATLANTIC,,NorthEastern,,,,,,,,,,,
-1992,North ATLANTIC,,Vermont,22,13,9,0,28,13,0,0,0,0,0
+1992,North Atlantic,,Boston U.,24,6,18,0,8,30,0,0,0,0,0
+1992,North Atlantic,,Delaware,28,20,8,0,39,14,0,0,0,0,1
+1992,North Atlantic,,Drexel,28,10,18,0,19,26,0,0,0,0,0
+1992,North Atlantic,,Hartford,28,18,10,0,27,21,0,0,0,0,0
+1992,North Atlantic,,Maine,22,11,11,0,19,24,1,0,0,0,0
+1992,North Atlantic,,New Hampshire,24,8,16,0,16,20,0,0,0,0,0
+1992,North Atlantic,,Northeastern,28,16,12,0,22,18,0,0,0,0,0
+1992,North Atlantic,,Vermont,22,13,9,0,28,13,0,0,0,0,0
 1992,OVC,,Austin Peay,21,14,7,0,29,28,0,2,2,0,0
 1992,OVC,,Eastern Ky.,21,11,10,0,22,30,0,0,2,0,0
 1992,OVC,,Middle Tenn.,20,14,6,0,35,21,0,3,0,0,0
@@ -758,7 +758,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1992,Southern,,Western Caro.,21,17,4,0,44,21,0,4,1,3,2
 1992,Southland,,McNeese,21,9,12,0,30,22,0,0,0,0,0
 1992,Southland,,Nicholls,21,14,7,0,36,18,0,0,0,0,0
-1992,Southland,,NorthWestern St.,,,,,,,,,,,
+1992,Southland,,Northwestern St.,21,8,13,0,29,26,0,0,0,0,0
 1992,Southland,,Sam Houston,21,10,11,0,26,28,0,0,0,0,0
 1992,Southland,,Stephen F. Austin,20,7,13,0,12,36,0,0,0,0,0
 1992,Southland,,Texas St.,20,10,10,0,29,19,0,0,0,0,0
@@ -861,7 +861,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1993,Big Ten,,Michigan,27,13,14,0,25,30,0,0,0,0,0
 1993,Big Ten,,Michigan St.,28,12,16,0,31,23,0,0,0,0,0
 1993,Big Ten,,Minnesota,26,17,9,0,43,18,0,2,1,0,2
-1993,Big Ten,,NorthWestern,,,,,,,,,,,
+1993,Big Ten,,Northwestern,28,15,13,0,27,27,0,0,0,0,0
 1993,Big Ten,,Ohio State,28,19,9,0,44,19,0,3,1,3,2
 1993,Big Ten,,Penn State,28,5,23,0,15,28,0,0,0,0,0
 1993,Big Ten,,Purdue,28,16,12,0,36,22,0,0,2,0,0
@@ -970,14 +970,14 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1993,NEC,,Rider,21,12,9,0,21,19,0,0,0,0,0
 1993,NEC,,St. Francis NY,21,13,8,0,25,15,0,3,0,0,0
 1993,NEC,,Wagner,20,6,14,0,9,23,0,0,0,0,0
-1993,North ATLANTIC,,Boston U.,19,2,17,0,5,27,0,0,2,0,0
-1993,North ATLANTIC,,Delaware,26,14,12,0,28,21,0,3,2,0,0
-1993,North ATLANTIC,,Drexel,23,12,11,0,24,24,0,4,2,0,0
-1993,North ATLANTIC,,Hartford,24,9,15,0,20,27,0,0,2,0,0
-1993,North ATLANTIC,,Maine,26,22,4,0,33,27,0,5,1,0,1
-1993,North ATLANTIC,,New Hampshire,25,15,10,0,23,20,0,2,3,0,0
-1993,North ATLANTIC,,NorthEastern,,,,,,,,,,,
-1993,North ATLANTIC,,Vermont,28,15,13,0,25,18,0,1,2,0,0
+1993,North Atlantic,,Boston U.,19,2,17,0,5,27,0,0,2,0,0
+1993,North Atlantic,,Delaware,26,14,12,0,28,21,0,3,2,0,0
+1993,North Atlantic,,Drexel,23,12,11,0,24,24,0,4,2,0,0
+1993,North Atlantic,,Hartford,24,9,15,0,20,27,0,0,2,0,0
+1993,North Atlantic,,Maine,26,22,4,0,33,27,0,5,1,0,1
+1993,North Atlantic,,New Hampshire,25,15,10,0,23,20,0,2,3,0,0
+1993,North Atlantic,,Northeastern,21,7,14,0,17,19,0,1,2,0,0
+1993,North Atlantic,,Vermont,28,15,13,0,25,18,0,1,2,0,0
 1993,OVC,,Austin Peay,21,13,8,0,30,22,0,0,0,0,0
 1993,OVC,,Eastern Ky.,20,13,7,0,22,26,0,3,2,0,0
 1993,OVC,,Middle Tenn.,21,15,6,0,25,26,0,0,2,0,0
@@ -1030,7 +1030,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1993,Southern,,Western Caro.,21,15,6,0,34,28,0,5,1,1,2
 1993,Southland,,McNeese,24,14,10,0,38,23,0,3,0,0,2
 1993,Southland,,Nicholls,23,11,12,0,31,19,0,0,0,0,0
-1993,Southland,,NorthWestern St.,,,,,,,,,,,
+1993,Southland,,Northwestern St.,24,18,6,0,40,14,0,0,2,0,0
 1993,Southland,,Sam Houston,22,13,9,0,30,26,0,2,2,0,0
 1993,Southland,,Stephen F. Austin,24,10,14,0,21,32,0,0,0,0,0
 1993,Southland,,Texas St.,23,8,15,0,26,29,0,0,0,0,0
@@ -1087,6 +1087,279 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1993,WCC,,San Francisco,30,5,25,0,8,44,0,0,0,0,0
 1993,WCC,,Santa Clara,30,16,14,0,27,29,0,0,0,0,0
 1993,WCC,,St. Mary's,30,12,18,0,19,34,0,0,0,0,0
+1994,ACC,,Clemson,24,20,4,0,57,18,0,4,1,0,0
+1994,ACC,,Duke,24,16,8,0,33,20,0,0,2,0,0
+1994,ACC,,Florida St.,23,14,9,0,53,22,0,4,2,0,1
+1994,ACC,,Georgia Tech,24,16,8,0,50,17,0,2,2,1,0
+1994,ACC,,Maryland,24,6,18,0,24,30,1,1,2,0,0
+1994,ACC,,NC State,24,13,11,0,46,18,0,3,2,0,0
+1994,ACC,,North Carolina,23,10,13,0,34,21,0,1,2,0,0
+1994,ACC,,Virginia,24,2,22,0,20,34,0,0,1,0,0
+1994,ACC,,Wake Forest,24,10,14,0,37,20,0,1,2,0,0
+1994,Atlantic 10,,Duquesne,20,5,15,0,13,36,0,0,0,0,0
+1994,Atlantic 10,,G. Washington,23,12,11,0,21,27,0,0,0,0,0
+1994,Atlantic 10,,Massachusetts,23,19,4,0,31,17,0,1,2,0,0
+1994,Atlantic 10,,Rhode Island,23,1,22,0,2,39,1,0,0,0,0
+1994,Atlantic 10,,Rutgers,19,15,4,0,28,19,0,0,2,0,0
+1994,Atlantic 10,,St. Bonaventure,21,11,10,0,27,18,0,2,2,0,0
+1994,Atlantic 10,,St. Joseph's,23,8,15,0,19,35,0,0,0,0,0
+1994,Atlantic 10,,Temple,21,9,12,0,18,25,0,0,0,0,0
+1994,Atlantic 10,,West Virginia,21,17,4,0,40,21,0,4,1,0,0
+1994,Big East,,Boston College,19,5,14,0,14,23,0,0,0,0,0
+1994,Big East,,Connecticut,21,12,9,0,30,18,0,3,1,0,0
+1994,Big East,,Georgetown,18,6,12,0,17,31,0,0,0,0,0
+1994,Big East,,Pittsburgh,20,15,5,0,30,16,1,0,2,0,0
+1994,Big East,,Providence,21,13,8,0,32,21,0,1,2,0,0
+1994,Big East,,Seton Hall,20,12,8,0,32,21,0,3,2,0,0
+1994,Big East,,St. John's,17,10,7,0,20,16,0,0,0,0,0
+1994,Big East,,Villanova,18,4,14,0,18,23,0,0,0,0,0
+1994,Big Eight,,Iowa State,29,15,14,0,30,28,0,1,2,0,0
+1994,Big Eight,,Kansas,26,17,9,0,40,18,0,1,2,0,0
+1994,Big Eight,,Kansas St.,30,3,27,0,13,43,0,0,0,0,0
+1994,Big Eight,,Missouri,28,9,19,0,32,26,0,0,2,0,0
+1994,Big Eight,,Nebraska,30,14,16,0,32,28,0,2,2,0,0
+1994,Big Eight,,Oklahoma,30,21,9,0,50,17,0,3,2,0,0
+1994,Big Eight,,Oklahoma St.,27,21,6,0,49,17,0,4,1,0,0
+1994,Big South,,Campbell,27,11,16,0,16,39,0,0,0,0,0
+1994,Big South,,Charleston So.,27,14,13,0,19,34,0,0,0,0,0
+1994,Big South,,Coastal Carolina,27,18,9,0,30,26,0,0,0,0,0
+1994,Big South,,Liberty,27,9,18,0,21,30,0,0,0,0,0
+1994,Big South,,NC Asheville,27,8,19,0,15,30,0,0,0,0,0
+1994,Big South,,NC Greensboro,26,20,6,0,39,18,0,0,0,0,0
+1994,Big South,,Radford,27,17,10,0,26,26,0,0,0,0,0
+1994,Big South,,Towson,27,8,19,0,15,28,0,0,0,0,0
+1994,Big South,,UMBC,27,15,12,0,23,21,0,0,0,0,0
+1994,Big South,,Winthrop,26,14,12,0,32,20,0,0,0,0,0
+1994,Big Ten,,Illinois,28,12,16,0,26,26,0,0,0,0,0
+1994,Big Ten,,Indiana,28,12,16,0,33,23,0,0,0,0,0
+1994,Big Ten,,Iowa,28,13,15,0,22,32,0,0,0,0,0
+1994,Big Ten,,Michigan,28,13,15,0,29,29,0,3,2,0,0
+1994,Big Ten,,Michigan St.,28,13,15,0,26,29,0,0,2,0,0
+1994,Big Ten,,Minnesota,28,21,7,0,42,21,0,1,2,0,0
+1994,Big Ten,,Northwestern,28,10,18,0,34,22,0,0,0,0,0
+1994,Big Ten,,Ohio State,27,25,2,0,49,9,0,3,1,0,0
+1994,Big Ten,,Penn State,27,12,15,0,25,24,0,0,0,0,0
+1994,Big Ten,,Purdue,28,8,20,0,16,39,0,0,0,0,0
+1994,Big West,,CS Fullerton,20,15,5,0,47,16,0,0,0,0,0
+1994,Big West,,Long Beach St.,21,16,5,0,41,19,0,0,0,0,0
+1994,Big West,,Nevada,21,16,5,0,41,15,0,0,0,0,0
+1994,Big West,,New Mexico St.,21,4,17,0,21,31,0,0,0,0,0
+1994,Big West,,Pacific,20,8,12,0,36,18,0,0,0,0,0
+1994,Big West,,San Jose St.,21,9,12,0,29,26,0,0,0,0,0
+1994,Big West,,UCSB,21,7,14,0,21,33,0,0,0,0,0
+1994,Big West,,UNLV,21,8,13,0,27,28,0,0,0,0,0
+1994,Colonial,,East Carolina,17,8,9,0,36,18,0,2,2,0,0
+1994,Colonial,,George Mason,17,1,16,0,18,32,0,1,2,0,0
+1994,Colonial,,James Madison,18,11,7,0,40,19,1,4,2,0,0
+1994,Colonial,,NC Wilmington,18,10,8,0,30,28,0,0,2,0,0
+1994,Colonial,,Old Dominion,18,14,4,0,40,14,0,3,1,0,0
+1994,Colonial,,Richmond,18,11,7,0,36,19,0,3,2,0,0
+1994,Colonial,,William & Mary,18,7,11,0,24,23,1,0,2,0,0
+1994,ECAC Diamond,,Central Conn.,15,6,9,0,17,23,1,0,1,0,0
+1994,ECAC Diamond,,Hofstra,15,8,7,0,19,18,0,0,1,0,0
+1994,ECAC Diamond,,LIU Post,15,8,7,0,24,26,0,3,2,0,0
+1994,ECAC Diamond,,NYIT,15,10,5,0,24,23,0,3,0,0,0
+1994,ECAC Diamond,,Pace,15,10,5,0,20,23,0,0,2,0,0
+1994,ECAC Diamond,,West Chester,15,3,12,0,13,27,0,2,2,0,0
+1994,Great Midwest,,Cincinnati,22,3,19,0,14,41,0,2,2,0,0
+1994,Great Midwest,,Dayton,22,7,15,0,19,34,0,1,2,0,0
+1994,Great Midwest,,Memphis,23,22,1,0,52,11,0,3,2,0,0
+1994,Great Midwest,,St. Louis,23,8,15,0,20,33,0,0,2,0,0
+1994,Great Midwest,,UAB,22,16,6,0,32,23,0,3,1,0,0
+1994,Independent,,Chicago St.,0,0,0,0,9,40,0,0,0,0,0
+1994,Independent,,Grand Canyon,0,0,0,0,29,33,0,0,0,0,0
+1994,Independent,,Miami,0,0,0,0,49,14,0,0,0,0,0
+1994,Independent,,NE Illinois,0,0,0,0,20,32,0,0,0,0,0
+1994,Independent,,Southern Utah,0,0,0,0,7,43,0,0,0,0,0
+1994,Independent,,Troy,0,0,0,0,34,16,0,0,0,0,0
+1994,Ivy Group,Gehrig,Columbia,20,12,8,0,18,24,0,0,0,0,0
+1994,Ivy Group,Gehrig,Cornell,20,7,13,0,12,25,0,0,0,0,0
+1994,Ivy Group,Gehrig,Pennsylvania,20,14,6,0,25,12,0,1,2,0,0
+1994,Ivy Group,Gehrig,Princeton,20,10,10,0,21,19,0,0,0,0,0
+1994,Ivy Group,Rolfe,Brown,20,7,13,0,10,28,0,0,0,0,0
+1994,Ivy Group,Rolfe,Dartmouth,20,9,11,0,16,21,0,0,0,0,0
+1994,Ivy Group,Rolfe,Harvard,20,7,13,0,13,22,0,0,0,0,0
+1994,Ivy Group,Rolfe,Yale,20,14,6,0,24,19,0,2,1,0,0
+1994,MAAC,North,Canisius,18,17,1,0,28,14,0,0,2,0,0
+1994,MAAC,North,Le Moyne,18,9,9,0,18,15,0,2,2,0,0
+1994,MAAC,North,Niagara,18,2,16,0,9,29,0,0,0,0,0
+1994,MAAC,North,Siena,18,8,10,0,15,22,0,0,0,0,0
+1994,MAAC,South,Fairfield,18,10,8,0,15,22,0,0,0,0,0
+1994,MAAC,South,Iona,18,13,5,0,21,22,0,1,2,0,0
+1994,MAAC,South,Manhattan,18,2,16,0,2,31,0,0,0,0,0
+1994,MAAC,South,St. Peter's,18,11,7,0,18,22,0,3,0,0,0
+1994,MAC,,Akron,26,10,16,0,29,25,0,0,0,0,0
+1994,MAC,,Ball State,26,4,22,0,17,32,0,0,0,0,0
+1994,MAC,,Bowling Green,26,16,10,0,29,18,0,0,2,0,0
+1994,MAC,,Central Mich.,30,18,12,0,38,21,0,3,0,0,0
+1994,MAC,,Eastern Mich.,27,15,12,0,29,27,0,0,0,0,0
+1994,MAC,,Kent State,25,18,7,0,33,17,0,2,2,0,0
+1994,MAC,,Miami Ohio,30,9,21,0,18,36,0,0,0,0,0
+1994,MAC,,Ohio,28,18,10,0,34,19,0,1,2,0,0
+1994,MAC,,Toledo,28,12,16,0,23,31,0,0,0,0,0
+1994,MAC,,Western Mich.,30,18,12,0,30,20,0,0,0,0,0
+1994,MEAC,North,Coppin St.,15,6,9,0,7,34,0,0,2,0,0
+1994,MEAC,North,Delaware St.,18,13,5,0,20,18,0,1,2,0,0
+1994,MEAC,North,Howard,17,4,13,0,4,43,0,0,2,0,0
+1994,MEAC,North,UMES,16,10,6,0,23,27,0,2,2,0,0
+1994,MEAC,South,Bethune Cookman,12,8,4,0,25,22,0,4,2,0,0
+1994,MEAC,South,Florida A&M,11,8,3,0,20,34,0,4,0,0,0
+1994,MEAC,South,NC A&T,11,1,10,0,3,32,0,1,2,0,0
+1994,Metro,,Charlotte,17,12,5,0,31,25,0,1,2,0,0
+1994,Metro,,Louisville,18,1,17,0,16,42,0,0,2,0,0
+1994,Metro,,South Florida,18,11,7,0,39,19,0,0,2,0,0
+1994,Metro,,Southern Miss,18,11,7,0,37,24,0,3,2,0,0
+1994,Metro,,Tulane,18,10,8,0,41,24,0,4,2,0,0
+1994,Metro,,VCU,18,9,9,0,30,25,1,1,2,0,0
+1994,Metro,,Virginia Tech,17,8,9,0,32,26,0,4,1,0,0
+1994,Mid Continent,,Cleveland St.,24,9,15,0,15,38,0,0,0,0,0
+1994,Mid Continent,,Eastern Ill.,22,14,8,0,24,24,0,0,0,0,0
+1994,Mid Continent,,Milwaukee,21,9,12,0,20,30,0,0,0,0,0
+1994,Mid Continent,,Northern Ill.,24,10,14,0,23,30,0,0,0,0,0
+1994,Mid Continent,,UIC,24,13,11,0,22,31,0,0,0,0,0
+1994,Mid Continent,,Valparaiso,24,9,15,0,20,35,0,0,0,0,0
+1994,Mid Continent,,Western Ill.,22,10,12,0,21,21,0,0,0,0,0
+1994,Mid Continent,,Wright St.,24,16,8,0,39,21,0,0,0,0,0
+1994,Mid Continent,,Youngstown St.,21,13,8,0,26,23,0,0,0,0,0
+1994,Midwestern Collegiate,,Butler,19,11,8,0,27,29,0,1,2,0,0
+1994,Midwestern Collegiate,,Detroit,20,10,10,0,24,27,0,2,2,0,0
+1994,Midwestern Collegiate,,Evansville,18,10,8,0,31,28,0,3,2,0,0
+1994,Midwestern Collegiate,,La Salle,16,3,13,0,10,36,0,1,2,0,0
+1994,Midwestern Collegiate,,Notre Dame,18,14,4,0,46,16,0,4,1,0,0
+1994,Midwestern Collegiate,,Xavier,15,5,10,0,19,35,0,0,2,0,0
+1994,Mo Valley,,Bradley,21,10,11,0,35,26,0,3,2,0,0
+1994,Mo Valley,,Creighton,21,13,8,0,28,29,0,1,2,0,0
+1994,Mo Valley,,Illinois St.,20,8,12,0,30,29,0,4,1,0,0
+1994,Mo Valley,,Indiana St.,21,5,16,0,28,28,0,0,0,0,0
+1994,Mo Valley,,Missouri St.,20,13,7,0,31,23,0,0,2,0,0
+1994,Mo Valley,,Northern Iowa,21,5,16,0,24,32,0,0,0,0,0
+1994,Mo Valley,,Southern Ill.,19,9,10,0,27,26,0,1,2,0,0
+1994,Mo Valley,,Wichita St.,21,19,2,0,45,17,0,2,2,0,0
+1994,NEC,,Fairleigh Dickinson,21,15,6,0,26,16,0,1,2,0,0
+1994,NEC,,Long Island,21,14,7,0,25,19,0,2,2,0,0
+1994,NEC,,Marist,20,5,15,0,10,29,0,0,0,0,0
+1994,NEC,,Monmouth,20,7,13,0,13,23,0,0,0,0,0
+1994,NEC,,Mount St. Mary's,21,6,15,0,11,27,0,0,0,0,0
+1994,NEC,,Rider,21,15,6,0,33,18,0,3,0,0,0
+1994,NEC,,St. Francis NY,21,10,11,0,17,21,0,0,0,0,0
+1994,NEC,,Wagner,21,11,10,0,19,22,0,0,2,0,0
+1994,North Atlantic,,Boston U.,28,4,24,0,5,36,0,0,2,0,0
+1994,North Atlantic,,Delaware,24,20,4,0,41,13,0,3,2,0,0
+1994,North Atlantic,,Drexel,20,13,7,0,26,17,0,2,3,0,0
+1994,North Atlantic,,Hartford,21,10,11,0,22,27,0,4,2,0,0
+1994,North Atlantic,,Maine,25,13,12,0,20,33,0,0,2,0,0
+1994,North Atlantic,,New Hampshire,23,6,17,0,10,27,0,0,2,0,0
+1994,North Atlantic,,Northeastern,24,18,6,0,35,16,0,6,1,0,0
+1994,North Atlantic,,Vermont,23,10,13,0,16,22,0,1,2,0,0
+1994,OVC,,Austin Peay,18,12,6,0,27,31,0,2,2,0,0
+1994,OVC,,Eastern Ky.,20,10,10,0,25,26,0,0,0,0,0
+1994,OVC,,Middle Tenn.,19,11,8,0,32,23,0,3,0,0,0
+1994,OVC,,Morehead St.,21,13,8,0,29,25,0,1,2,0,0
+1994,OVC,,Murray St.,18,10,8,0,24,25,0,0,2,0,0
+1994,OVC,,SE Missouri,20,11,9,0,23,27,0,0,0,0,0
+1994,OVC,,Tennessee Tech,18,2,16,0,12,36,0,0,0,0,0
+1994,OVC,,UT Martin,20,8,12,0,17,26,0,0,0,0,0
+1994,Pac 10,North,Gonzaga,30,13,17,0,29,23,0,0,0,0,0
+1994,Pac 10,North,Oregon St.,30,22,8,0,35,16,0,0,0,0,0
+1994,Pac 10,North,Portland,30,10,20,0,22,33,0,0,0,0,0
+1994,Pac 10,North,Portland St.,30,14,16,0,30,24,0,0,0,0,0
+1994,Pac 10,North,Washington,30,20,10,0,46,18,0,0,0,0,0
+1994,Pac 10,North,Washington St.,30,11,19,0,34,26,0,0,0,0,0
+1994,Pac 10,South,Arizona,30,7,23,0,15,40,0,0,0,0,0
+1994,Pac 10,South,Arizona St.,30,20,10,0,45,18,0,0,0,0,0
+1994,Pac 10,South,California,30,12,18,0,25,35,0,0,0,0,0
+1994,Pac 10,South,Stanford,30,21,9,0,36,24,0,0,0,0,0
+1994,Pac 10,South,UCLA,30,11,19,0,22,36,0,0,0,0,0
+1994,Pac 10,South,USC,30,19,11,0,41,20,0,0,0,0,0
+1994,Patriot,North,Army,20,17,3,0,25,17,0,1,2,0,0
+1994,Patriot,North,Colgate,18,1,17,0,1,28,0,0,0,0,0
+1994,Patriot,North,Fordham,20,17,3,0,28,19,0,0,1,0,0
+1994,Patriot,North,Holy Cross,20,11,9,0,14,18,0,0,0,0,0
+1994,Patriot,South,Bucknell,18,5,13,0,10,25,0,0,0,0,0
+1994,Patriot,South,Lafayette,20,8,12,0,11,25,0,0,0,0,0
+1994,Patriot,South,Lehigh,20,8,12,0,11,17,0,0,0,0,0
+1994,Patriot,South,Navy,20,11,9,0,24,18,0,2,0,0,0
+1994,SEC,East,Florida,23,16,7,0,40,23,0,0,2,0,0
+1994,SEC,East,Georgia,24,7,17,0,22,35,0,2,2,0,0
+1994,SEC,East,Kentucky,22,10,12,0,32,25,0,1,2,0,0
+1994,SEC,East,South Carolina,24,11,13,0,35,23,0,0,2,0,0
+1994,SEC,East,Tennessee,24,20,4,0,52,14,0,4,1,0,0
+1994,SEC,East,Vanderbilt,24,6,18,0,28,30,0,4,2,0,0
+1994,SEC,West,Alabama,24,4,20,0,21,35,0,0,2,0,0
+1994,SEC,West,Arkansas,24,13,11,0,30,27,0,0,2,0,0
+1994,SEC,West,Auburn,24,13,11,0,44,21,0,3,2,0,0
+1994,SEC,West,LSU,23,17,6,0,46,20,0,4,0,0,0
+1994,SEC,West,Miss State,23,13,10,0,36,23,0,2,2,0,0
+1994,SEC,West,Mississippi,23,11,12,0,30,26,0,1,2,0,0
+1994,Southern,,Appalachian St.,23,10,13,0,22,26,0,0,2,0,0
+1994,Southern,,Citadel,24,11,13,0,32,34,0,4,0,0,0
+1994,Southern,,Davidson,24,10,14,0,20,31,0,2,2,0,0
+1994,Southern,,ETSU,23,12,11,0,19,21,0,0,2,0,0
+1994,Southern,,Furman,23,4,19,0,9,35,0,0,0,0,0
+1994,Southern,,Ga. Southern,22,15,7,0,31,25,0,1,2,0,0
+1994,Southern,,Marshall,21,12,9,0,23,20,0,1,2,0,0
+1994,Southern,,VMI,23,10,13,0,21,29,0,2,2,0,0
+1994,Southern,,Western Caro.,23,19,4,0,45,18,0,4,2,0,0
+1994,Southland,,McNeese,22,13,9,0,41,17,0,1,2,0,0
+1994,Southland,,Nicholls,24,11,13,0,27,27,0,0,0,0,0
+1994,Southland,,Northwestern St.,21,16,5,0,45,15,0,2,2,0,0
+1994,Southland,,Sam Houston,24,15,9,0,29,24,0,0,2,0,0
+1994,Southland,,Stephen F. Austin,24,7,17,0,13,43,0,0,0,0,0
+1994,Southland,,Texas St.,23,10,13,0,28,23,0,0,0,0,0
+1994,Southland,,UL Monroe,24,6,18,0,20,33,0,0,0,0,0
+1994,Southland,,UT Arlington,24,13,11,0,25,29,0,0,0,0,0
+1994,Southland,,UTSA,20,12,8,0,39,18,0,3,0,0,0
+1994,Sun Belt,East,Arkansas St.,24,14,10,0,39,25,0,4,1,0,0
+1994,Sun Belt,East,Jacksonville,24,16,8,0,40,24,0,2,2,0,0
+1994,Sun Belt,East,Little Rock,23,4,19,0,21,33,0,0,0,0,0
+1994,Sun Belt,East,South Alabama,22,16,6,0,32,25,0,1,2,0,0
+1994,Sun Belt,East,Western Ky.,21,7,14,0,22,27,0,0,0,0,0
+1994,Sun Belt,West,Lamar,24,16,8,0,36,23,0,4,2,0,0
+1994,Sun Belt,West,Louisiana,24,16,8,0,42,15,0,0,2,0,0
+1994,Sun Belt,West,Louisiana Tech,24,8,16,0,22,26,0,0,0,0,0
+1994,Sun Belt,West,New Orleans,24,16,8,0,35,23,0,0,2,0,0
+1994,Sun Belt,West,UTRGV,24,4,20,0,11,39,0,0,0,0,0
+1994,SWAC,East,Alabama St.,24,16,8,0,28,20,0,1,2,0,0
+1994,SWAC,East,Alcorn,24,12,12,0,14,23,0,0,0,0,0
+1994,SWAC,East,Jackson St.,23,16,7,0,30,26,0,3,1,0,0
+1994,SWAC,East,Miss Valley,23,3,20,0,5,29,0,0,0,0,0
+1994,SWAC,West,Grambling,24,17,7,0,26,16,0,0,2,0,0
+1994,SWAC,West,Prairie View,23,4,19,0,11,38,0,0,0,0,0
+1994,SWAC,West,Southern,24,18,6,0,30,14,0,3,2,0,0
+1994,SWAC,West,Texas Southern,23,8,15,0,17,31,0,0,0,0,0
+1994,SWC,,Baylor,18,6,12,0,24,28,0,0,0,0,0
+1994,SWC,,Houston,18,4,14,0,30,26,0,0,0,0,0
+1994,SWC,,Rice,18,12,6,0,34,21,0,1,2,0,0
+1994,SWC,,TCU,18,14,4,0,38,22,0,0,2,0,0
+1994,SWC,,Texas,18,9,9,0,43,21,0,3,0,0,0
+1994,SWC,,Texas A&M,18,6,12,0,31,22,0,0,0,0,0
+1994,SWC,,Texas Tech,18,12,6,0,40,17,0,2,2,0,0
+1994,Trans Am,East,Charleston,18,7,11,0,27,21,0,0,0,0,0
+1994,Trans Am,East,FIU,18,12,6,0,38,21,0,1,2,0,0
+1994,Trans Am,East,Fla. Atlantic,0,0,0,0,31,23,0,0,0,0,0
+1994,Trans Am,East,Stetson,18,9,9,0,37,21,0,0,2,0,0
+1994,Trans Am,East,UCF,18,8,10,0,29,26,0,0,0,0,0
+1994,Trans Am,West,Centenary,24,11,13,0,23,28,0,0,0,0,0
+1994,Trans Am,West,Georgia St.,24,6,18,0,12,42,0,0,0,0,0
+1994,Trans Am,West,Mercer,24,15,9,0,32,24,0,2,2,0,0
+1994,Trans Am,West,Samford,24,13,11,0,19,33,0,0,0,0,0
+1994,Trans Am,West,SE Louisiana,24,15,9,0,34,30,0,4,1,0,0
+1994,WAC,East,Air Force,22,7,15,0,26,24,0,0,0,0,0
+1994,WAC,East,BYU,23,16,7,0,37,20,0,2,0,0,0
+1994,WAC,East,New Mexico,24,14,10,0,32,24,0,0,0,0,0
+1994,WAC,East,Utah,24,9,15,0,22,32,0,0,0,0,0
+1994,WAC,East,Wyoming,23,12,11,0,32,23,0,0,0,0,0
+1994,WAC,West,CS Northridge,24,12,12,0,25,30,0,0,0,0,0
+1994,WAC,West,Fresno St.,24,15,9,0,36,27,0,0,2,0,0
+1994,WAC,West,Hawaii,24,8,16,0,28,28,0,0,0,0,0
+1994,WAC,West,Sacramento St.,24,10,14,0,27,29,0,0,0,0,0
+1994,WAC,West,San Diego St.,24,15,9,0,35,23,0,0,0,0,0
+1994,WCC,,Loyola Marymount,30,13,17,0,26,31,0,0,0,0,0
+1994,WCC,,Pepperdine,30,20,10,0,33,20,0,0,0,0,0
+1994,WCC,,San Diego,30,14,16,0,29,25,0,0,0,0,0
+1994,WCC,,San Francisco,30,9,21,0,22,33,0,0,0,0,0
+1994,WCC,,Santa Clara,30,21,9,0,40,20,0,0,0,0,0
+1994,WCC,,St. Mary's,30,13,17,0,24,27,0,0,0,0,0
 1995,ACC,,Clemson,24,20,4,0,54,14,0,4,2,4,2
 1995,ACC,,Duke,24,4,20,0,30,27,0,0,1,0,0
 1995,ACC,,Florida St.,23,16,7,0,53,16,0,5,1,5,2
@@ -1135,7 +1408,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1995,Big Ten,,Michigan,26,10,16,0,24,29,0,0,0,0,0
 1995,Big Ten,,Michigan St.,28,12,16,0,24,27,0,0,0,0,0
 1995,Big Ten,,Minnesota,28,16,12,0,31,28,0,2,2,0,0
-1995,Big Ten,,NorthWestern,,,,,,,,,,,
+1995,Big Ten,,Northwestern,28,15,13,0,36,19,0,0,2,0,0
 1995,Big Ten,,Ohio State,28,18,10,0,40,23,0,4,1,0,2
 1995,Big Ten,,Penn State,26,13,13,0,25,29,0,0,0,0,0
 1995,Big Ten,,Purdue,28,15,13,0,27,30,0,1,2,0,0
@@ -1243,15 +1516,15 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1995,NEC,,Rider,21,16,5,0,35,18,0,3,0,0,0
 1995,NEC,,St. Francis NY,21,13,8,0,26,17,0,1,2,0,0
 1995,NEC,,Wagner,21,9,12,0,15,30,0,0,0,0,0
-1995,North ATLANTIC,,Boston U.,24,1,23,0,2,37,0,0,0,0,0
-1995,North ATLANTIC,,Delaware,22,19,3,0,45,14,0,4,1,0,0
-1995,North ATLANTIC,,Drexel,23,11,12,0,32,27,0,3,2,0,0
-1995,North ATLANTIC,,Hartford,22,10,12,0,14,25,0,0,0,0,0
-1995,North ATLANTIC,,Hofstra,23,8,15,0,27,21,0,0,0,0,0
-1995,North ATLANTIC,,Maine,24,11,13,0,20,37,0,0,2,0,0
-1995,North ATLANTIC,,New Hampshire,24,14,10,0,26,21,0,1,2,0,0
-1995,North ATLANTIC,,NorthEastern,,,,,,,,,,,
-1995,North ATLANTIC,,Vermont,24,15,9,0,27,18,0,1,2,0,0
+1995,North Atlantic,,Boston U.,24,1,23,0,2,37,0,0,0,0,0
+1995,North Atlantic,,Delaware,22,19,3,0,45,14,0,4,1,0,0
+1995,North Atlantic,,Drexel,23,11,12,0,32,27,0,3,2,0,0
+1995,North Atlantic,,Hartford,22,10,12,0,14,25,0,0,0,0,0
+1995,North Atlantic,,Hofstra,23,8,15,0,27,21,0,0,0,0,0
+1995,North Atlantic,,Maine,24,11,13,0,20,37,0,0,2,0,0
+1995,North Atlantic,,New Hampshire,24,14,10,0,26,21,0,1,2,0,0
+1995,North Atlantic,,NorthEastern,,,,,,,,,,,
+1995,North Atlantic,,Vermont,24,15,9,0,27,18,0,1,2,0,0
 1995,OVC,,Austin Peay,21,9,12,0,24,32,0,0,0,0,0
 1995,OVC,,Eastern Ky.,20,12,8,0,28,25,0,0,2,0,0
 1995,OVC,,Middle Tenn.,20,16,4,0,36,27,0,4,1,1,2
@@ -1302,7 +1575,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1995,Southern,,Western Caro.,24,13,11,0,32,24,0,2,2,0,0
 1995,Southland,,McNeese,23,17,6,0,41,16,0,2,2,0,0
 1995,Southland,,Nicholls,24,8,16,0,23,28,0,0,0,0,0
-1995,Southland,,NorthWestern St.,,,,,,,,,,,
+1995,Southland,,Northwestern St.,24,19,5,0,37,15,0,0,2,0,0
 1995,Southland,,Sam Houston,24,10,14,0,22,32,0,0,0,0,0
 1995,Southland,,Stephen F. Austin,24,0,24,0,2,40,0,0,0,0,0
 1995,Southland,,Texas St.,24,10,14,0,23,31,0,0,0,0,0
@@ -1372,15 +1645,6 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1996,ACC,,North Carolina,24,11,13,0,33,25,0,0,2,0,0
 1996,ACC,,Virginia,24,11,13,0,44,21,0,5,1,3,2
 1996,ACC,,Wake Forest,23,7,16,0,26,32,0,1,2,0,0
-1996,America East,,Delaware,24,19,5,0,44,12,0,4,1,0,2
-1996,America East,,Drexel,20,12,8,0,28,20,0,4,2,0,0
-1996,America East,,Hartford,24,10,14,0,18,30,0,2,2,0,0
-1996,America East,,Hofstra,24,12,12,0,25,24,0,0,2,0,0
-1996,America East,,Maine,20,12,8,0,19,36,0,1,2,0,0
-1996,America East,,New Hampshire,24,8,16,0,19,28,0,0,0,0,0
-1996,America East,,NorthEastern,,,,,,,,,,,
-1996,America East,,Towson,22,8,14,0,17,29,0,0,0,0,0
-1996,America East,,Vermont,20,8,12,0,12,21,0,0,0,0,0
 1996,Atlantic 10,East,Fordham,20,8,11,1,18,27,1,0,0,0,0
 1996,Atlantic 10,East,Massachusetts,20,15,5,0,40,13,0,4,1,3,2
 1996,Atlantic 10,East,Rhode Island,20,6,14,0,15,24,0,0,0,0,0
@@ -1425,7 +1689,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1996,Big Ten,,Michigan,28,17,11,0,24,30,0,0,2,0,0
 1996,Big Ten,,Michigan St.,28,4,24,0,14,41,0,0,0,0,0
 1996,Big Ten,,Minnesota,27,15,12,0,30,26,0,0,0,0,0
-1996,Big Ten,,NorthWestern,,,,,,,,,,,
+1996,Big Ten,,Northwestern,28,10,18,0,26,29,0,0,0,0,0
 1996,Big Ten,,Ohio State,28,15,13,0,36,20,0,0,0,0,0
 1996,Big Ten,,Penn State,27,19,8,0,32,24,0,1,2,0,0
 1996,Big Ten,,Purdue,27,8,19,0,22,32,0,0,0,0,0
@@ -1528,6 +1792,15 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1996,NEC,,Rider,21,15,6,0,28,22,0,3,0,0,0
 1996,NEC,,St. Francis NY,20,12,8,0,21,20,0,1,2,0,0
 1996,NEC,,Wagner,20,8,12,0,14,24,0,0,0,0,0
+1996,North Atlantic,,Delaware,24,19,5,0,44,12,0,4,1,0,2
+1996,North Atlantic,,Drexel,20,12,8,0,28,20,0,4,2,0,0
+1996,North Atlantic,,Hartford,24,10,14,0,18,30,0,2,2,0,0
+1996,North Atlantic,,Hofstra,24,12,12,0,25,24,0,0,2,0,0
+1996,North Atlantic,,Maine,20,12,8,0,19,36,0,1,2,0,0
+1996,North Atlantic,,New Hampshire,24,8,16,0,19,28,0,0,0,0,0
+1996,North Atlantic,,Northeastern,22,11,11,0,18,26,0,0,2,0,0
+1996,North Atlantic,,Towson,22,8,14,0,17,29,0,0,0,0,0
+1996,North Atlantic,,Vermont,20,8,12,0,12,21,0,0,0,0,0
 1996,OVC,,Austin Peay,20,13,7,0,44,22,0,4,1,0,2
 1996,OVC,,Eastern Ky.,21,10,11,0,21,32,0,2,2,0,0
 1996,OVC,,Middle Tenn.,20,13,7,0,28,26,0,0,2,0,0
@@ -1575,7 +1848,7 @@ Year,Conference,Division,School,PC,WC,LC,TC,W,L,T,WT,LT,WN,LN
 1996,Southern,,Western Caro.,24,17,7,0,32,24,0,0,2,0,0
 1996,Southland,Louisiana,McNeese,30,10,20,0,23,31,0,0,0,0,0
 1996,Southland,Louisiana,Nicholls,30,11,19,0,17,36,0,0,0,0,0
-1996,Southland,Louisiana,NorthWestern St.,,,,,,,,,,,
+1996,Southland,Louisiana,Northwestern St.,30,14,16,0,34,27,0,3,2,0,0
 1996,Southland,Louisiana,UL Monroe,30,21,9,0,41,19,0,2,2,0,0
 1996,Southland,Texas,Sam Houston,27,15,12,0,31,29,0,4,0,1,2
 1996,Southland,Texas,Texas St.,30,19,11,0,27,32,0,1,2,0,0
