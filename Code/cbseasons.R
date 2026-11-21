@@ -49,8 +49,8 @@ summ$School <- substring(summ$key,6,100)
 
 summ <- merge(summ, teams, by=c("Year","School"), all.y=T)
 
-summ$W <- summ$WC + summ$WX + summ$WT + summ$WN
-summ$L <- summ$LC + summ$LX + summ$LT + summ$LN
+summ$W <- summ$WC + summ$WX + summ$WT + summ$WN + summ$WE + summ$WP
+summ$L <- summ$LC + summ$LX + summ$LT + summ$LN + summ$LE + summ$LP
 summ$T <- summ$TC + summ$TX
 
 summ$Pct <- round((summ$W  + summ$T /2) / (summ$W  + summ$L  + summ$T), 3) * 1000
@@ -59,8 +59,10 @@ summ$PC <- summ$WC + summ$LC + summ$TC
 
 summ$ConfT <- ifelse(summ$WT+summ$LT>0,paste(summ$WT,summ$LT,sep="&"),".")
 summ$NcaaT <- ifelse(summ$WN+summ$LN>0,paste(summ$WN,summ$LN,sep="&"),".")
+summ$EcacT <- ifelse(summ$WT+summ$LT>0,paste(summ$WE,summ$LE,sep="&"),".")
+summ$PlayIn<- ifelse(summ$WN+summ$LN>0,paste(summ$WP,summ$LP,sep="&"),".")
 
-summ <- summ[c("Year","Conference","Division","School","PC","WC","LC","TC","W","L","T","WT","LT","WN","LN")]
+summ <- summ[c("Year","Conference","Division","School","PC","WC","LC","TC","W","L","T","WT","LT","WN","LN","WE","LE","WP","LP")]
 summ <- summ[order(summ$Year, summ$Conference, summ$Division, summ$School), ]
 
 write.csv(summ,file="../Data/cbseasons.csv",quote = FALSE, row.names = FALSE, na="")

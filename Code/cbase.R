@@ -24,10 +24,13 @@ seasons$maxpt <- ave( seasons$pts, seasons$key3, FUN = function(x) max(x) )
 seasons$gb <- ifelse(seasons$maxpt>seasons$pts,sprintf("%.1f",(seasons$maxpt-seasons$pts)/2),"--")
 
 seasons$col1 <- paste(seasons$W,"-",seasons$L,ifelse(seasons$T>0,paste("-",seasons$T,sep=""),""),sep="")
-seasons$col2 <- ifelse(seasons$Conference!="Indep"&seasons$Conference!="Indepyyy", 
+seasons$col2 <- ifelse(seasons$Conference!="Independent"&seasons$Conference!="Indepyyy", 
 			paste(seasons$WC,"-",seasons$LC,ifelse(seasons$TC>0,paste("-",seasons$TC,sep=""),""),sep=""),"")
 seasons$col3 <- ifelse(seasons$WT+seasons$LT>0,paste(seasons$WT,"-",seasons$LT,sep=""),"")
 seasons$col4 <- ifelse(seasons$WN+seasons$LN>0,paste(seasons$WN,"-",seasons$LN,sep=""),"")
+
+seasons$col31 <- ifelse(seasons$WE+seasons$LE>0,paste(seasons$WE,"-",seasons$LE,"<sup>ECAC</sup>",sep=""),"")
+seasons$col41 <- ifelse(seasons$WP+seasons$LP>0,paste("{",seasons$WP,"-",seasons$LP,"}",sep=""),"")
 
 ##########################################
 ############# generate header / footer ###
@@ -66,7 +69,7 @@ SEAS2<- paste(YR2);
 headerx <- gsub("ABC123","BSB",header)
 summ.yr <- subset(seasons, Year == u.yr[i])
 
-summ.yr <- summ.yr[order(summ.yr$Conference, summ.yr$Division, -summ.yr$cpctn, -summ.yr$pts, summ.yr$School),]
+summ.yr <- summ.yr[order(summ.yr$Conference, summ.yr$Division, -summ.yr$cpctn, -summ.yr$pts, -summ.yr$pctn, summ.yr$School),]
 
 summ.yr$class1 <- 0
 
@@ -74,11 +77,11 @@ summ.yr$row <- paste("<tr class='d",summ.yr$class1,"'><td>",paste(
 				paste("<div style='text-align:left'><a href='",teamlink(summ.yr$School),".html'>",summ.yr$School,"</a>",
 					"</div>",sep=""),
 				summ.yr$col2,
-				ifelse(summ.yr$Conference!="Indep" & summ.yr$Conference!="Indepyyy",summ.yr$gb,""),
+				ifelse(summ.yr$Conference!="Independent" & summ.yr$Conference!="Indepyyy",summ.yr$gb,""),
 				summ.yr$col1,
 				summ.yr$pct,
-				summ.yr$col3,
-				summ.yr$col4,
+				paste(summ.yr$col3,summ.yr$col31),
+				paste(summ.yr$col41,summ.yr$col4),
 			sep="</td><td>"),"</td></tr>",sep="")
 
 sink(paste("../BSB/",u.yr[i],".html",sep=""))
@@ -136,8 +139,8 @@ summ.tm$row <- paste("<tr class='d",summ.tm$class2,"'><td>",paste(
 				ifelse(summ.tm$Conference!="Independent"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,
 		paste("<a href='",summ.tm$Year,".html#",teamlink(summ.tm$Conference),"'>",summ.tm$crank,"</a>",sep=""),""),
 				ifelse(summ.tm$Conference!="Independent"&summ.tm$Conference!="Indepyyy"&summ.tm$Year!=2020,summ.tm$gb,""),
-				summ.tm$col3,
-				summ.tm$col4,
+				paste(summ.tm$col3,summ.tm$col31),
+				paste(summ.tm$col41,summ.tm$col4),
 			sep="</td><td>"),"</td></tr>",sep="")
 
 sink(paste("../BSB/",teamlink(u.tm[i]),".html",sep=""))
